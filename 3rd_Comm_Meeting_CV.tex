@@ -1,0 +1,217 @@
+\documentclass[letterpaper,11pt]{article}
+\newlength{\outerbordwidth}
+\pagestyle{empty}
+\raggedbottom
+\raggedright
+\usepackage[svgnames]{xcolor}
+\usepackage{framed}
+\usepackage{tocloft}
+\usepackage{xcolor}
+
+
+%-----------------------------------------------------------
+%Edit these values as you see fit
+
+\setlength{\outerbordwidth}{3pt}  % Width of border outside of title bars
+\definecolor{shadecolor}{gray}{0.75}  % Outer background color of title bars (0 = black, 1 = white)
+\definecolor{shadecolorB}{gray}{0.93}  % Inner background color of title bars
+
+
+%-----------------------------------------------------------
+%Margin setup
+
+\setlength{\evensidemargin}{-0.25in}
+\setlength{\headheight}{0in}
+\setlength{\headsep}{0in}
+\setlength{\oddsidemargin}{-0.25in}
+\setlength{\paperheight}{11in}
+\setlength{\paperwidth}{8.5in}
+\setlength{\tabcolsep}{0in}
+\setlength{\textheight}{9.5in}
+\setlength{\textwidth}{7in}
+\setlength{\topmargin}{-0.3in}
+\setlength{\topskip}{0in}
+\setlength{\voffset}{0.1in}
+
+
+%-----------------------------------------------------------
+%Custom commands
+\newcommand{\resitem}[1]{\item #1 \vspace{-2pt}}
+\newcommand{\resheading}[1]{\vspace{8pt}
+  \parbox{\textwidth}{\setlength{\FrameSep}{\outerbordwidth}
+    \begin{shaded}
+\setlength{\fboxsep}{0pt}\framebox[\textwidth][l]{\setlength{\fboxsep}{4pt}\fcolorbox{shadecolorB}{shadecolorB}{\textbf{\sffamily{\mbox{~}\makebox[6.762in][l]{\large #1} \vphantom{p\^{E}}}}}}
+    \end{shaded}
+  }\vspace{-5pt}
+}
+\newcommand{\ressubheading}[4]{
+\begin{tabular*}{6.5in}{l@{\cftdotfill{\cftsecdotsep}\extracolsep{\fill}}r}
+		\textbf{#1} & #2 \\
+		\textit{#3} & \textit{#4} \\
+\end{tabular*}\vspace{-6pt}}
+%-----------------------------------------------------------
+
+
+\begin{document}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\resheading{\LARGE Since Last Meeting}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\resheading{Poster}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\begin{center}\begin{tabular*}{6.9in}{l@{\extracolsep{\fill}}r}
+
+
+	
+\multicolumn{2}{c}{{\bf Fournier, A.M.V.} Krementz, D.G., Mengel, D.C., Raedeke, A.H., {\it Sora Migration and Wetland } \hfill \cftdotfill{\cftdotsep}}\\
+\multicolumn{2}{c}{{\it Management} {The Wildlife Society National Conference - PA}
+\cftdotfill{\cftdotsep}2014}\\
+
+\vphantom{E}
+\end{tabular*}
+\end{center}\vspace*{-16pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\resheading{Grants}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\begin{center}\begin{tabular*}{6.9in}{l@{\extracolsep{\fill}}r}
+
+
+
+\multicolumn{2}{c}{{\bf Arkansas Audubon Society Trust} \$1200 {\it } \cftdotfill{\cftdotsep}2014}\\	
+\multicolumn{2}{c}{ {\it Migratory Stopover Timing, Survival and Habitat Use of Fall Migrating Sora in Managed Wetlands} \hfill
+\cftdotfill{\cftdotsep}}\\
+
+\multicolumn{2}{c}{{\bf NSF Doctoral Dissertation Improvement Grant} \$13000 {\it } \cftdotfill{\cftdotsep}PENDING}\\	
+\multicolumn{2}{c}{ {\it Stopover duration of fall migrating rails and the response of rails to nocturnal ATV surveys in wetlands} \hfill
+\cftdotfill{\cftdotsep}}\\
+
+\multicolumn{2}{c}{{\bf Ducks Unlimited Canada Graduate Fellowship} \$7000 {\it } \cftdotfill{\cftdotsep}PENDING}\\	
+\multicolumn{2}{c}{ {\it Evaluation of Trade offs Between Flooding Wetlands
+Early on Waterfowl and Rail Use} \hfill
+\cftdotfill{\cftdotsep}}\\
+
+
+\vphantom{E}
+\end{tabular*}
+\end{center}\vspace*{-16pt}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\resheading{Presentations}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+	\begin{center}\begin{tabular*}{6.9in}{l@{\extracolsep{\fill}}r}
+
+\multicolumn{2}{c}{{\bf Fournier, A.M.V.} {\it Wetland Management and Rails} {Arkansas Tech University} \hfill \cftdotfill{\cftdotsep}2014}\\
+
+\multicolumn{2}{c}{{\bf Fournier, A.M.V.} Krementz, D.G., Mengel, D.C., Readeke, A.H. {\it Crossover Experiment to Examine \hfill} \cftdotfill{\cftdotsep}}\\
+\multicolumn{2}{c}{ {\it  Rail Habitat Selection During Fall Migration} {Midwest Bird Conservation \& Monitoring Con}
+\cftdotfill{\cftdotsep}2014}\\
+
+\multicolumn{2}{c}{{\bf Fournier, A.M.V.} Krementz, D.G.{\it The Response of Fall Migrating Sora to Wetland Management \hfill} \cftdotfill{\cftdotsep}}\\
+\multicolumn{2}{c}{ {Arkansas State Chapter of the Wildlife Society Spring Meeting}
+\cftdotfill{\cftdotsep}2014}\\
+
+\multicolumn{2}{c}{{\bf Fournier, A.M.V.} Krementz, D.G. {\it The Use of U.A.V.s to Assess Wetland Vegetation Interspersion} \hfill \cftdotfill{\cftdotsep}} \\
+\multicolumn{2}{c}{{Arkansas State Chapter of The Wildlife Society Spring Meeting}
+\cftdotfill{\cftdotsep}2014}\\
+
+\vphantom{E}
+\end{tabular*}
+\end{center}\vspace*{-16pt}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\resheading{Professional Development and Service}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+	\begin{center}\begin{tabular*}{6.9in}{l@{\extracolsep{\fill}}r}
+
+
+
+\multicolumn{2}{c}{{\bf Data Management Workshop} The Wildlife Society National Conference / Pittsburgh, PA \cftdotfill{\cftdotsep}2014}\\
+
+\multicolumn{2}{c}{{\bf The Wildlife Society National Conference} Pittsburgh, PA \cftdotfill{\cftdotsep}2014}\\
+
+\multicolumn{2}{c}{{\bf Volunteer} The Wildlife Society National Conference, Pittsburgh, PA \cftdotfill{\cftdotsep} 2014}\\
+
+\multicolumn{2}{c}{{\bf Midwest Bird Conservation and Monitoring Conference} Port Washington, WI \cftdotfill{\cftdotsep}2014}\\
+
+\multicolumn{2}{c}{{\bf Applied Hierarchical Modeling Workshop} Patuxent Wildlife Research Center/Royle \& Kery \cftdotfill{\cftdotsep}2014}\\
+	
+\multicolumn{2}{c}{{\bf Peer Reviewer} Waterbirds \cftdotfill{\cftdotsep} 2014}\\
+
+\vphantom{E}
+\end{tabular*}
+\end{center}\vspace*{-16pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\resheading{Leadership}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{itemize}
+\item
+	{\bf Student Development Working Group  \hfill \normalfont The Wildlife Society}\\
+	{\normalfont Treasurer \hfill \normalfont 2014 - 2015}
+
+    \end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\resheading{Classes}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+	\begin{center}\begin{tabular*}{6.6in}{l@{\extracolsep{\fill}}r}
+
+\multicolumn{2}{c}{\bf University of Arkansas Spring 2015 (Proposed) \cftdotfill{\cftdotsep}}\\
+\multicolumn{2}{c}{Population Ecology (with lab) \cftdotfill{\cftdotsep}With Dr. Willson}\\
+\multicolumn{2}{c}{Evolution \cftdotfill{\cftdotsep} Online Though Duke University (no formal credit at UA)}\\
+\multicolumn{2}{c}{Quantitative Techniques  \cftdotfill{\cftdotsep}(Directed Study With Dr. Cothren)}\\
+\multicolumn{2}{c}{Statistical Learning \cftdotfill{\cftdotsep} Online Through Stanford (no formal credit at UA)}\\
+\multicolumn{2}{c}{Scientific Writing \cftdotfill{\cftdotsep} Online Through Stanford (directed study with Dr. Krementz)}\\
+
+\multicolumn{2}{c}{\bf University of Arkansas  \cftdotfill{\cftdotsep}}\\
+\multicolumn{2}{c}{Biometry (with lab) \cftdotfill{\cftdotsep} B}\\
+\multicolumn{2}{c}{Grant Writing Seminar \cftdotfill{\cftdotsep} A}\\
+\multicolumn{2}{c}{Environmental Economics Seminar \cftdotfill{\cftdotsep} A}\\
+
+\multicolumn{2}{c}{Wetland Ecology and Management (with lab) \cftdotfill{\cftdotsep} A}\\
+\multicolumn{2}{c}{Quantitative Methods in Geoscience (Spatial Stats) \cftdotfill{\cftdotsep} A}\\
+\multicolumn{2}{c}{Environmental Stable Isotope Geochemistry \cftdotfill{\cftdotsep} B}\\
+\multicolumn{2}{c}{Principles of Modeling with Spreadsheets \cftdotfill{\cftdotsep} A}\\
+\multicolumn{2}{c}{\bf Michigan Technological University\cftdotfill{\cftdotsep}}\\
+\multicolumn{2}{c}{* Applied Terrestrial Laser Scanning (LiDAR) (with lab) \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{* Digital Image Processing (with lab) \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{{* Stable Isotope Ecology} \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Remote Sensing of the Environment (with lab) \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Integrated Resource Assessment (Senior Thesis) \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Remote Sensing of the Environment (with lab) \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{GIS for Natural Resource Management (with lab) \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Map Design (with lab) \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Population Ecology \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Inventory, Monitoring and Data Analysis (with lab) \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Statistical Methods \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Calculus for Life Sciences \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Multiple Resource Assessment \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Ornithology (with lab) \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Mammalogy (with lab) \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Herpetology \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Wildlife Ecology \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Wildlife Habitat \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Forest Landscape Ecology (with lab) \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Forest Health (with lab) \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Insect Ecology (with lab) \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Geomorphology, Landscapes and Ecosystems (with lab) \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Silviculture (with lab) \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Vegetation of North America (with lab) \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Field Techniques (with lab) \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Natural Resource Policy \cftdotfill{\cftdotsep}.}\\
+\multicolumn{2}{c}{Conservation Biology \cftdotfill{\cftdotsep}.}\\
+\\
+
+
+\vphantom{E}
+\end{tabular*}
+\end{center}\vspace*{-16pt}
+
+\end{document}
