@@ -105,3 +105,31 @@ Led a crew of three to gather blood, feather and toenail samples of Blue-winged 
 Warblers across five study sites in Minnesota and Wisconsin; Developed the time line, budget and
 travel plans as to cover the largest area and gather the most samples; Established contact and
 coordinated site access on local, state, federal and military properties
+
+### Posters
+
+### Presentations
+
+### Grants
+
+### Profesional Licences and Certifications
+
+### Teaching Experience
+
+### Honors
+
+### Profesional Development
+
+### Service and Outreach
+
+### Leadership
+
+### Computer and Field Skills
+
+### Memberships
+
+- **The Wildlife Society** - National, State, Student Chapter, Student Development Working Group, Wetlands Working Group, Spatial Ecology and Telemetry Working Group (2008 - Present)
+- ** American Ornithologist Union** (2012 - Present)
+- ** Association of Field Ornithologists** (2012 - Present)
+- ** The Waterbirds Society ** (2012 - Present)
+- ** Black Swamp Bird Observatory ** (2003 - Present) 
