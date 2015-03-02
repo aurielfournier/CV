@@ -50,3 +50,58 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio
 
 ### Publications  
 
+- **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. (2013) *Developing a morphometric model to predict the sex of Virginia Rails (*Rallus limicola*). **The Wildlife Society Bulletin** 27: 881-886
+
+- **Fournier, Auriel M.V.**, Shieldcastle, M.C., Kashmer, Tom, Mylecraine, Kristin A. (in review) *Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA.* Waterbirds
+
+### Work Experience
+- **Science Writing Tutor**  
+Quality Writing Center - University of Arkansas  
+January 2013 - Present  
+
+Tutoring undergraduate and graduate students on proper scientific writing. Editing thesis,
+dissertations, lab reports and other writing.
+
+- **Environmental Education Internship**  
+Kellogg Bird Sanctuary, Michigan State University
+May - July 2012  
+
+Planned and led outdoor education programs for all ages. Developed a social media plan.
+
+- **Bird Bander**  
+The Big Island, Hawaii  
+February - May 2012   
+
+Banded endemic and endangered birds in isolated forest patches on the Big Island of Hawaii.
+Operated double high mist-nets to capture birds and take blood and feather samples.
+
+- **Volunteer Field Technician**  
+Isle Royale National Park - Dr. Joseph Bump  
+May 2011  
+ 
+Worked full-time constructing aquatic moose and beaver exclosures in small inland lakes at Isle
+Royale National Park to study the affect of herbivory on plant communities.
+
+- **Remote Sensing/GIS Technician**  
+Michigan Technological University - Dr. Mike Falkowski  
+February 2010 - December 2011  
+
+Delineated cover type from color and B/W photos from past seventy years; Identified beaver dams
+and identified water bodies were created by the dams; Processed raw LiDAR data into maps for
+later interpretation
+
+- **Field Technician**   
+Michigan Technological University  
+July 2010  
+
+Trapped small mammals; Performed nocturnal audio boat surveys for frogs; Frequently talked to
+public about project
+
+- **Field Crew Leader**  
+Michigan Technological University - Dr. Amber Roth  
+March - June 2010  
+
+Led a crew of three to gather blood, feather and toenail samples of Blue-winged and Golden-winged
+Warblers across five study sites in Minnesota and Wisconsin; Developed the time line, budget and
+travel plans as to cover the largest area and gather the most samples; Established contact and
+coordinated site access on local, state, federal and military properties
