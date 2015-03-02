@@ -116,20 +116,118 @@ coordinated site access on local, state, federal and military properties
 
 ### Teaching Experience
 
+- **Teaching Assistant** University of Arkansas    
+Wetlands Ecology and Management  
+Spring Semester 2015  
+Teaching weekly labs on taxonomy and wetland field methods. Giving lectures, grading materials.   
+
+- **Scientific Writing Tutor** Quality Writing Center University of Arkansas  
+January 2014 - Present  
+
+- **Teaching Assistant** Michigan Technological University   
+Field Techniques   
+Fall Semester 2010 and 2011  
+Taught weekly field labs on forestry and wildlife ecology skills. Graded 100+ lab reports weekly. 
+
+- **Teaching Assistant** Michigan Technological University   
+Creating Your Success  
+Fall Semester 2010 and 2011  
+Oriented new students to campus resources, taught study skills. 
+
+- **Teaching Assistant** Michigan Technological University  
+Ornithology  
+Spring Semester 2011  
+Lead field trips, gave guest lecture, gave field quizzes. 
+
 ### Honors
+
+- **Distinguished Doctoral Fellowship** University of Arkansas (2012 - Present)
+- **Outstanding Senior in Wildlife Ecology and Management* Michigan Technological University (2011)
+- **Member of the Year** The Wildlife Society Michigan Tech Student Chapter (2010)
+- **Woman of Promise** School of Forest Resources and Environmental Science Michigan Technological University (2009)
 
 ### Profesional Development
 
+- **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA (2014)
+- **The Wildlife Society National Conference** Pittsburgh, PA (2014)
+- **Midwest Bird Conservation and Monitoring Conference** Port Washington, WI (2014)
+- **Applied Hierarchical Modeling Workshop** Patuxent Wildlife Research Center/Royle & Kery (2014)
+- **’Adehabitat’ R Package Workshop** The Wildlife Society National Con/James Sheppard (2013)
+- **Occupancy Modeling Short Course** Humboldt State U./Darryl MacKenzie (2013)
+- **The Wildlife Society National Conference** Milwaukee, WI (2013)
+- **The Wildlife Society National Conference** Waikialoa, HI (2011)
+- **Midwest Bird Conservation and Monitoring Conference** Rockford, IL (2011)
+- **Guest Lecture** Ornithology - Michigan Tech. Univ. - ’Migration and Navigation’ (2011)
+- **Midwest Fish and Wildlife Conference** Minneapolis, MN (2010)
+- **The Wildlife Society National Conference** Snowbird, UT (2010)
+- **Wildlife Diversity Conference** Ohio Department of Natural Resources - Columbus, OH (2010)
+- **International Association of Great Lakes Researchers Conference** Toledo, OH (2009)
+- **Wildlife Diversity Conference** Ohio Department of Natural Resources - Columbus, OH (2009)
+
 ### Service and Outreach
+
+- **Presentation** Springdale Alternative High School, Springdale, AR (2015)
+- **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar (2014)
+- **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA (2014)
+- **Peer Reviewer** Waterbirds (2014 - Present)
+- **Peer Reviewer** The Wildlife Society Bulletin (2013 - Present)
+- **Outdoor Education Volunteer** Hobbs State Park, Arkansas (2013 - Present)
+- **Volunteer** The Wildlife Society National Conference, Milwaukee, WI (2013)
+- **Science Fair Judge** Regional/Local Science Fairs NW Arkansas (2013)
+- **Presentation** Springdale Alternative High School, Springdale, AR (2013)
+- **Volunteer** The Wildlife Society National Conference, Big Island, HI (2011)
+- **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition (2011)
+- **Outdoor Educator** Western U.P. Center for Science, Math and Environmental Education (2011)
+- **Owl Survey Volunteer** Michigan Bird Conservation Initiative (March 2011)
+- **Presentation** Copper Country Audubon Society (2010)
+- **Career Panel Member** Ohio Young Birder’s Club Conference (2010)
+- **Presentation** Kirtland Bird Club - Cleveland, OH (2009)
+- **Presentation** Copper Country Audubon Society (2009)
+- **Bird Bander** Black Swamp Bird Observatory (Springs 2003 - 2009)
+- **Presentation** Ohio Young Birder’s Club Conference (2008)
+- **Presentation** Black Swamp Bird Observatory Lunch Lecture (2008)
+- **Presentation** Ohio Young Birder’s Club Conference (2007)
 
 ### Leadership
 
-### Computer and Field Skills
+- **Student Development Working Group** The Wildlife Society  
+Treasurer 2014 - Present
+
+- **The Wildlife Society** Student Chapter University of Arkansas  
+Secretary 2014 - Present
+Treasurer 2013 - 2014
+
+- **Biology Graduate Student Association** University of Arkansas  
+Treasurer 2014 - Present
+Vice President 2013 - 2014  
+
+- **The Wildlife Society** Student Chapter Michigan Technological University
+Activites Chair 2008 - 2011  
+
+- **The Honors Institute** Michigan Technological University   
+Treasurer, Secretary, Committee Chair 2008 - 2011  
+
+- **The Birdbums** Michigan Technological University  
+Founding Member & President 2008 - 2011
+
+- **Xi Sigma Pi Honors Fraternity** Michigan Technological University  
+Symposium Chair 2010 - 2011
+
+### Computer Skills
+
+- R
+- ArcGIS (9 and 10)
+- Latex
+- Markdown
+- Program Mark
+- Systat
+- Presence
+- Program Distance
 
 ### Memberships
 
 - **The Wildlife Society** - National, State, Student Chapter, Student Development Working Group, Wetlands Working Group, Spatial Ecology and Telemetry Working Group (2008 - Present)
-- ** American Ornithologist Union** (2012 - Present)
-- ** Association of Field Ornithologists** (2012 - Present)
-- ** The Waterbirds Society ** (2012 - Present)
-- ** Black Swamp Bird Observatory ** (2003 - Present) 
+- **American Ornithologist Union** (2012 - Present)
+- **Association of Field Ornithologists** (2012 - Present)
+- **The Waterbirds Society ** (2012 - Present)
+- **Black Swamp Bird Observatory ** (2003 - Present) 
