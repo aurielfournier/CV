@@ -112,7 +112,20 @@ coordinated site access on local, state, federal and military properties
 
 ### Grants
 
+- **Arkansas Audubon Society Trust** $1200 (2014) Migratory Stopover Timing, Survival and Habitat Use of Fall Migrating Sora in Managed Wetlands   
+- **Summer Undergraduate Research Fellowship** $3000 (2011) Developing A Morphometric Model to Predict the Sex of Virginia Rails 
+- **Ecosystem Science Center Undergraduate Research Grant** $750 (2011) What are the breeding and wintering areas of Virginia Rails which migrate through NW Ohio
+- **Ecosystem Science Center Undergraduate Research Grant** $750 (2010) Assessing the relationship between eye spotting and breeding location in Golden-winged Warblers
+- **Summer Undergraduate Research Fellowship** $3000 (2009) Habitat classification and Biological Inventory of Pioneer Scout Reservation
+
 ### Profesional Licences and Certifications
+
+- **Sub-permit bird banding license holder** (12 years experience, handled ~7k birds)
+- **NSC Defensive Driving II** National Safety Council (1/2013)
+- **Defensive Driving** AAA Driver Improvement Program (7/2012)
+- **CPR/First Aid** American Red Cross (7/2012)
+- **ATV Rider Certification** ATV Safety Institute (6/2012)
+
 
 ### Teaching Experience
 
