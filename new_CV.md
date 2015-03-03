@@ -112,7 +112,7 @@ coordinated site access on local, state, federal and military properties
 - **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H. (2014) Sora Migration and Wetland Management The Wildlife Society National Conference - PA [pdf](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
 - **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H. (2013) Ecology of Fall Migrating Sora in Missouri The Wildlife Society National Conference - WI [pdf](http://figshare.com/articles/The_Ecology_of_Fall_Migrating_Sora_in_Missouri/840571)
 - **Fournier, A.M.V.**, Sheildcastle, M.C., Fries, A.C., Bump, J.K. (2011) Developing a morphometric model to predict the sex of Virginia Rails The Wildlife Society National Conference - HI [pdf](http://figshare.com/articles/Developing_a_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails/1320946)
-- **Fournier, A.M.V.**, Roth, A.M., Flaspohler, D.J. (2011) Assessing mechanisms for variation in the eyes of Golden-winged Warblers Ecosystem Science Center Poster Session - MI [pdf] (http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
+- **Fournier, A.M.V.**, Roth, A.M., Flaspohler, D.J. (2011) Assessing mechanisms for variation in the eyes of Golden-winged Warblers Ecosystem Science Center Poster Session - MI [pdf](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
 - **Fournier, A.M.V.** Flaspohler, D.J. (2010) Habitat Classification and Biological Inventory of Pioneer
 Scout Reservation Undergraduate Research Expo - MI
 
