@@ -1,24 +1,24 @@
 # Auriel M.V. Fournier
-PhD Candidate - University of Arkansas
-Arkansas Cooperative Fish and Wildlife Research Unit
-amvander@uark.edu - @RallidaeRule - 419.307.6261
+PhD Candidate - University of Arkansas  
+Arkansas Cooperative Fish and Wildlife Research Unit  
+amvander@uark.edu - @RallidaeRule - 419.307.6261  
 [aurielmvfournier.com](http://aurielmvfournier.com/) [github](https://github.com/aurielfournier)
 
 ### Education
 
 - **University of Arkansas** Fayetteville, AR   
-PhD in **Biologicval Sciences - Ecology and Evolutionary Biology**   
+PhD in **Biological Sciences - Ecology and Evolutionary Biology**   
 2012 - 2016 (expected)   
 Distinguished Doctoral Fellowship Recipient
 
-- **Michigan Technological University** Houghton, MI
+- **Michigan Technological University** Houghton, MI  
 Bachelor of Science in **Wildlife Ecology and Management**  
 2008 - 2011  
-Minor **Remote Sensing*  
+Minor *Remote Sensing*  
 Magna Cum Laude
 
 ### Research Experience
-- **Graduate Research Assitant** Dr. David Krementz  
+- **Graduate Research Assistant** Dr. David Krementz  
 Arkansas Cooperative Fish and Wildlife Research Unit - University of Arkansas  
 August 2012 - Present
 
@@ -29,7 +29,7 @@ state of Missouri. Managing a four person field crew, working closely with state
 Michigan Technological University  
 May 2011 - Present  
 
-Assessing the breeding location of Virginai Rails migrating through NW Ohio using stable isotopes. Manuscript in progress. 
+Assessing the breeding location of Virginia Rails migrating through NW Ohio using stable isotopes. Manuscript in progress. 
 
 - **Summer Undergraduate Research Fellowship**  
 Dr. Joseph Bump  
@@ -51,9 +51,9 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio
 
 ### Publications  
 
-- **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. (2013) *Developing a morphometric model to predict the sex of Virginia Rails (*Rallus limicola*). **The Wildlife Society Bulletin** 27: 881-886
+- **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. (2013) *Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)*. **The Wildlife Society Bulletin** 27: 881-886
 
-- **Fournier, Auriel M.V.**, Shieldcastle, M.C., Kashmer, Tom, Mylecraine, Kristin A. (in review) *Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA.* Waterbirds
+- **Fournier, Auriel M.V.**, Shieldcastle, M.C., Kashmer, Tom, Mylecraine, Kristin A. (in review) *Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA.* **Waterbirds**
 
 ### Work Experience
 - **Science Writing Tutor**  
@@ -111,8 +111,8 @@ coordinated site access on local, state, federal and military properties
 
 - **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H. (2014) Sora Migration and Wetland Management The Wildlife Society National Conference - PA [pdf](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
 - **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H. (2013) Ecology of Fall Migrating Sora in Missouri The Wildlife Society National Conference - WI [pdf](http://figshare.com/articles/The_Ecology_of_Fall_Migrating_Sora_in_Missouri/840571)
-- **Fournier, A.M.V.**, Sheildcastle, M.C., Fries, A.C., Bump, J.K. (2011) Developing a morphometric model to predict the sex of Virginia Rails The Wildlife Society National Conference - HI
-- **Fournier, A.M.V.**, Roth, A.M., Flaspohler, D.J. (2011) Assessing mechanisms for variation in the eyes of Golden-winged Warblers Ecosystem Science Center Poster Session - MI
+- **Fournier, A.M.V.**, Sheildcastle, M.C., Fries, A.C., Bump, J.K. (2011) Developing a morphometric model to predict the sex of Virginia Rails The Wildlife Society National Conference - HI [pdf](http://figshare.com/articles/Developing_a_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails/1320946)
+- **Fournier, A.M.V.**, Roth, A.M., Flaspohler, D.J. (2011) Assessing mechanisms for variation in the eyes of Golden-winged Warblers Ecosystem Science Center Poster Session - MI [pdf] (http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
 - **Fournier, A.M.V.** Flaspohler, D.J. (2010) Habitat Classification and Biological Inventory of Pioneer
 Scout Reservation Undergraduate Research Expo - MI
 
@@ -132,7 +132,7 @@ Occurrence of Fall Migrating Yellow Rails in Missouri Yellow Rail Virtual Sympos
 - **Ecosystem Science Center Undergraduate Research Grant** $750 (2010) Assessing the relationship between eye spotting and breeding location in Golden-winged Warblers
 - **Summer Undergraduate Research Fellowship** $3000 (2009) Habitat classification and Biological Inventory of Pioneer Scout Reservation
 
-### Profesional Licences and Certifications
+### Professional Licenses and Certifications
 
 - **Sub-permit bird banding license holder** (12 years experience, handled ~7k birds)
 - **NSC Defensive Driving II** National Safety Council (1/2013)
@@ -169,7 +169,7 @@ Lead field trips, gave guest lecture, gave field quizzes.
 ### Honors
 
 - **Distinguished Doctoral Fellowship** University of Arkansas (2012 - Present)
-- **Outstanding Senior in Wildlife Ecology and Management* Michigan Technological University (2011)
+- **Outstanding Senior in Wildlife Ecology and Management** Michigan Technological University (2011)
 - **Member of the Year** The Wildlife Society Michigan Tech Student Chapter (2010)
 - **Woman of Promise** School of Forest Resources and Environmental Science Michigan Technological University (2009)
 
@@ -229,7 +229,7 @@ Treasurer 2014 - Present
 Vice President 2013 - 2014  
 
 - **The Wildlife Society** Student Chapter Michigan Technological University
-Activites Chair 2008 - 2011  
+Activaties Chair 2008 - 2011  
 
 - **The Honors Institute** Michigan Technological University   
 Treasurer, Secretary, Committee Chair 2008 - 2011  
