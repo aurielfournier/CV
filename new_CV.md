@@ -244,7 +244,7 @@ Symposium Chair 2010 - 2011
 
 - R
 - ArcGIS (9 and 10)
-- Latex
+-  $\LaTeX$
 - Markdown
 - Program Mark
 - Systat
