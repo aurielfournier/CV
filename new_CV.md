@@ -108,7 +108,20 @@ coordinated site access on local, state, federal and military properties
 
 ### Posters
 
+- **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H. (2014) Sora Migration and Wetland Management The Wildlife Society National Conference - PA [pdf](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
+- **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H. (2013) Ecology of Fall Migrating Sora in Missouri The Wildlife Society National Conference - WI [pdf](http://figshare.com/articles/The_Ecology_of_Fall_Migrating_Sora_in_Missouri/840571)
+- **Fournier, A.M.V.**, Sheildcastle, M.C., Fries, A.C., Bump, J.K. (2011) Developing a morphometric model to predict the sex of Virginia Rails The Wildlife Society National Conference - HI
+- **Fournier, A.M.V.**, Roth, A.M., Flaspohler, D.J. (2011) Assessing mechanisms for variation in the eyes of Golden-winged Warblers Ecosystem Science Center Poster Session - MI
+- **Fournier, A.M.V.** Flaspohler, D.J. (2010) Habitat Classification and Biological Inventory of Pioneer
+Scout Reservation Undergraduate Research Expo - MI
+
 ### Presentations
+
+- **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Readeke, A.H. (2014) A Crossover Experiment to Examine Rail Habitat Selection During Fall Migration Midwest Bird Conservation and Monitoring Workshop
+- **Fournier, A.M.V.**, Krementz, D.G. (2014) The Response of Fall Migrating Sora to Wetland Management Arkansas State Chapter of the Wildlife Society Spring Meeting 
+- **Fournier, A.M.V.** Krementz, D.G.(2014) The Use of U.A.V.s to Assess Wetland Vegetation Interspersion Arkansas State Chapter of The Wildlife Society Spring Meeting
+- **Fournier, A.M.V.** Krementz, D.G., Mengel, D.C., Raedeke, A.H., (2013) Phenology, Habitat Use and Co
+Occurrence of Fall Migrating Yellow Rails in Missouri Yellow Rail Virtual Symposium, USFWS 
 
 ### Grants
 
