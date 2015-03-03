@@ -1,4 +1,4 @@
 C.V
 ===
 
-This is my current C.V., which was my first attempt at latex, so it's got some issues, but hopefully I can work them out over time. 
+I originally wrote this in latex, and it never quite worked right and was a pain to update, so I switched it over to markdown. So far I've only got the html version working, pdf to come soon I hope. 
