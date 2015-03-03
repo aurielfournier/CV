@@ -1,3 +1,6 @@
+---
+output: pdf_document
+---
 # Auriel M.V. Fournier
 PhD Candidate - University of Arkansas  
 Arkansas Cooperative Fish and Wildlife Research Unit  
@@ -5,7 +8,7 @@ amvander@uark.edu - @RallidaeRule - 419.307.6261
 [aurielmvfournier.com](http://aurielmvfournier.com/)  
 [github](https://github.com/aurielfournier)
 
-### Education
+## Education
 
 PhD in **Biological Sciences - Ecology and Evolutionary Biology**   
 2016 (expected) **University of Arkansas** Fayetteville, AR   
@@ -16,7 +19,7 @@ Bachelor of Science in **Wildlife Ecology and Management**
 Minor *Remote Sensing*  
 Magna Cum Laude
 
-### Research Experience
+## Research Experience
 **Graduate Research Assistant** Dr. David Krementz  
 Arkansas Cooperative Fish and Wildlife Research Unit - University of Arkansas  
 August 2012 - Present
@@ -48,13 +51,13 @@ May - August 2009
 
 - Developed a land management plan for Pioneer Scout Reservation, Ohio  
 
-### Publications  
+## Publications  
 
 In Review **Fournier, Auriel M.V.**, Shieldcastle, M.C., Kashmer, Tom, Mylecraine, Kristin A. (in review) *Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA.* **Waterbirds**
 
 2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. (2013) *Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)*. **The Wildlife Society Bulletin** 27: 881-886
 
-### Work Experience
+## Work Experience
 **Science Writing Tutor**  
 Quality Writing Center - University of Arkansas  
 January 2013 - Present  
@@ -105,7 +108,7 @@ Warblers across five study sites in Minnesota and Wisconsin; Developed the time 
 travel plans as to cover the largest area and gather the most samples; Established contact and
 coordinated site access on local, state, federal and military properties
 
-### Posters
+## Posters
 
 2014 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H. Sora Migration and Wetland Management The Wildlife Society National Conference - PA [pdf](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
 
@@ -117,7 +120,7 @@ coordinated site access on local, state, federal and military properties
 
 2010 **Fournier, A.M.V.,** Flaspohler, D.J., Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
-### Presentations
+## Presentations
 
 2014 **Fournier, A.M.V.,** Krementz, D.G. The Response of Fall Migrating Sora to Wetland Management *Arkansas State Chapter of the Wildlife Society Spring Meeting*
 
@@ -129,7 +132,7 @@ coordinated site access on local, state, federal and military properties
 
 2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Phenology, Habitat Use and CoOccurrence of Fall Migrating Yellow Rails in Missouri *Yellow Rail Virtual Symposium,* USFWS 2013
 
-### Grants
+## Grants
 
 2014 **Arkansas Audubon Society Trust** $1200 Migratory Stopover Timing, Survival and Habitat Use of Fall Migrating Sora in Managed Wetlands     
 2011 **Summer Undergraduate Research Fellowship** $3000 Developing A Morphometric Model to Predict the Sex of Virginia Rails  
@@ -137,7 +140,7 @@ coordinated site access on local, state, federal and military properties
 2010  **Ecosystem Science Center Undergraduate Research Grant** $750 Assessing the relationship between eye spotting and breeding location in Golden-winged Warblers  
 2009 **Summer Undergraduate Research Fellowship** $3000 Habitat classification and Biological Inventory of Pioneer Scout Reservation
 
-### Professional Licenses and Certifications
+## Professional Licenses and Certifications
 
 **Sub-permit bird banding license holder** (12 years experience, handled ~7k birds)  
 **NSC Defensive Driving II** National Safety Council (1/2013)  
@@ -145,7 +148,7 @@ coordinated site access on local, state, federal and military properties
 **CPR/First Aid** American Red Cross (7/2012)  
 **ATV Rider Certification** ATV Safety Institute (6/2012)
 
-### Teaching Experience
+## Teaching Experience
 **Teaching Assistant** University of Arkansas    
 Wetlands Ecology and Management  
 Spring Semester 2015  
@@ -169,14 +172,15 @@ Ornithology
 Spring Semester 2011  
 Lead field trips, gave guest lecture, gave field quizzes. 
 
-### Honors 
+## Honors 
 
 2012 **Distinguished Doctoral Fellowship** - University of Arkansas  
 2011 **Outstanding Senior in Wildlife Ecology and Management** - Michigan Tech   
 2010 **Member of the Year** - The Wildlife Society Michigan Tech Student Chapter  
 2009 **Woman of Promise** - School of Forest Resources and Envi. Sci. - Michigan Tech
 
-### Service & Outreach  
+## Service & Outreach  
+
 2015 **Presentation** Springdale Alternative High School, Springdale, AR    
 2014 *Invited Seminar* Arkansas Tech University Fish and Wildlife Seminar  
 2014 *Volunteer* The Wildlife Society National Conference, Pittsburgh, PA  
@@ -201,7 +205,7 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2008 **Presentation** Black Swamp Bird Observatory Lunch Lecture  
 2007 **Presentation** Ohio Young Birder's Club Conference 
 
-### Professional Development
+## Professional Development
 
 2014 **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA  
 2014 **The Wildlife Society National Conference** Pittsburgh, PA  
@@ -220,7 +224,7 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2009 **International Association of Great Lakes Researchers Conference** Toledo, OH   
 2009 **Wildlife Diversity Conference** Ohio Department of Natural Resources - Columbus, OH  
 
-### Leadership
+## Leadership
 
 **Student Development Working Group** The Wildlife Society  
 Treasurer 2014 - Present
@@ -242,21 +246,22 @@ Treasurer, Secretary, Committee Chair 2008 - 2011
 **The Birdbums** Michigan Technological University  
 Founding Member & President 2008 - 2011
 
-- **Xi Sigma Pi Honors Fraternity** Michigan Technological University  
+**Xi Sigma Pi Honors Fraternity** Michigan Technological University  
 Symposium Chair 2010 - 2011
 
-### Computer Skills
+## Computer Skills
 
 - R
 - ArcGIS (9 and 10)
 - LaTeX
 - Markdown
 - Program Mark
+- Git/Github
 - Systat
 - Presence
 - Program Distance
 
-### Memberships (since)
+## Memberships (since)
 
 2008 **The Wildlife Society** - National, State, Student Chapter, Student Development Working Group, Wetlands Working Group, Spatial Ecology and Telemetry Working Group   
 2012 **American Ornithologist Union**  
