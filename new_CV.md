@@ -256,5 +256,5 @@ Symposium Chair 2010 - 2011
 - **The Wildlife Society** - National, State, Student Chapter, Student Development Working Group, Wetlands Working Group, Spatial Ecology and Telemetry Working Group (2008 - Present)
 - **American Ornithologist Union** (2012 - Present)
 - **Association of Field Ornithologists** (2012 - Present)
-- **The Waterbirds Society ** (2012 - Present)
-- **Black Swamp Bird Observatory ** (2003 - Present) 
+- **The Waterbirds Society** (2012 - Present)
+- **Black Swamp Bird Observatory** (2003 - Present) 
