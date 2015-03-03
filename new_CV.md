@@ -2,7 +2,8 @@
 PhD Candidate - University of Arkansas  
 Arkansas Cooperative Fish and Wildlife Research Unit  
 amvander@uark.edu - @RallidaeRule - 419.307.6261  
-[aurielmvfournier.com](http://aurielmvfournier.com/) [github](https://github.com/aurielfournier)
+[aurielmvfournier.com](http://aurielmvfournier.com/)  
+[github](https://github.com/aurielfournier)
 
 ### Education
 
