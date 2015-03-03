@@ -1,7 +1,8 @@
 # Auriel M.V. Fournier
-PhD Candidate - University of Arkansas - Fayetteville
-Arkansas Cooperativeh Fish and Wildlife Research Unit
+PhD Candidate - University of Arkansas
+Arkansas Cooperative Fish and Wildlife Research Unit
 amvander@uark.edu - @RallidaeRule - 419.307.6261
+[aurielmvfournier.com](http://aurielmvfournier.com/) [github](https://github.com/aurielfournier)
 
 ### Education
 
