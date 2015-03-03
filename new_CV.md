@@ -173,7 +173,7 @@ Lead field trips, gave guest lecture, gave field quizzes.
 - **Member of the Year** The Wildlife Society Michigan Tech Student Chapter (2010)
 - **Woman of Promise** School of Forest Resources and Environmental Science Michigan Technological University (2009)
 
-### Profesional Development
+### Professional Development
 
 - **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA (2014)
 - **The Wildlife Society National Conference** Pittsburgh, PA (2014)
