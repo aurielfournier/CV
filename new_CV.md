@@ -7,14 +7,12 @@ amvander@uark.edu - @RallidaeRule - 419.307.6261
 
 ### Education
 
-- **University of Arkansas** Fayetteville, AR   
 PhD in **Biological Sciences - Ecology and Evolutionary Biology**   
-2012 - 2016 (expected)   
+2016 (expected) **University of Arkansas** Fayetteville, AR   
 Distinguished Doctoral Fellowship Recipient
 
-- **Michigan Technological University** Houghton, MI  
 Bachelor of Science in **Wildlife Ecology and Management**  
-2008 - 2011  
+2011 **Michigan Technological University** Houghton, MI  
 Minor *Remote Sensing*  
 Magna Cum Laude
 
@@ -52,9 +50,9 @@ May - August 2009
 
 ### Publications  
 
-- **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. (2013) *Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)*. **The Wildlife Society Bulletin** 27: 881-886
+In Review **Fournier, Auriel M.V.**, Shieldcastle, M.C., Kashmer, Tom, Mylecraine, Kristin A. (in review) *Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA.* **Waterbirds**
 
-- **Fournier, Auriel M.V.**, Shieldcastle, M.C., Kashmer, Tom, Mylecraine, Kristin A. (in review) *Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA.* **Waterbirds**
+2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. (2013) *Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)*. **The Wildlife Society Bulletin** 27: 881-886
 
 ### Work Experience
 **Science Writing Tutor**  
@@ -109,130 +107,139 @@ coordinated site access on local, state, federal and military properties
 
 ### Posters
 
-- **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H. (2014) Sora Migration and Wetland Management The Wildlife Society National Conference - PA [pdf](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
-- **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H. (2013) Ecology of Fall Migrating Sora in Missouri The Wildlife Society National Conference - WI [pdf](http://figshare.com/articles/The_Ecology_of_Fall_Migrating_Sora_in_Missouri/840571)
-- **Fournier, A.M.V.**, Sheildcastle, M.C., Fries, A.C., Bump, J.K. (2011) Developing a morphometric model to predict the sex of Virginia Rails The Wildlife Society National Conference - HI [pdf](http://figshare.com/articles/Developing_a_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails/1320946)
-- **Fournier, A.M.V.**, Roth, A.M., Flaspohler, D.J. (2011) Assessing mechanisms for variation in the eyes of Golden-winged Warblers Ecosystem Science Center Poster Session - MI [pdf](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
-- **Fournier, A.M.V.** Flaspohler, D.J. (2010) Habitat Classification and Biological Inventory of Pioneer
-Scout Reservation Undergraduate Research Expo - MI
+2014 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H. Sora Migration and Wetland Management The Wildlife Society National Conference - PA [pdf](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
+
+2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Ecology of Fall Migrating Sora in Missouri. *The Wildlife Society National Conference* - WI [pdf](http://figshare.com/articles/The_Ecology_of_Fall_Migrating_Sora_in_Missouri/840571)
+
+2011 **Fournier, A.M.V.,** Sheildcastle, M.C., Fries, A.C., Bump, J.K., Developing a morphometric model to predict the sex of Virginia Rails. *The Wildlife Society National Conference* - HI [pdf](http://figshare.com/articles/Developing_a_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails/1320946)
+
+2011 **Fournier, A.M.V.,** Roth, A.M., Flaspohler, D.J., Assessing mechanisms for variation in the eyes of Golden-winged Warblers *Ecosystem Science Center Poster Session* - MI  [pdf](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
+
+2010 **Fournier, A.M.V.,** Flaspohler, D.J., Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
 ### Presentations
 
-- **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Readeke, A.H. (2014) A Crossover Experiment to Examine Rail Habitat Selection During Fall Migration Midwest Bird Conservation and Monitoring Workshop
-- **Fournier, A.M.V.**, Krementz, D.G. (2014) The Response of Fall Migrating Sora to Wetland Management Arkansas State Chapter of the Wildlife Society Spring Meeting 
-- **Fournier, A.M.V.** Krementz, D.G.(2014) The Use of U.A.V.s to Assess Wetland Vegetation Interspersion Arkansas State Chapter of The Wildlife Society Spring Meeting
-- **Fournier, A.M.V.** Krementz, D.G., Mengel, D.C., Raedeke, A.H., (2013) Phenology, Habitat Use and Co
-Occurrence of Fall Migrating Yellow Rails in Missouri Yellow Rail Virtual Symposium, USFWS 
+2014 **Fournier, A.M.V.,** Krementz, D.G. The Response of Fall Migrating Sora to Wetland Management *Arkansas State Chapter of the Wildlife Society Spring Meeting*
+
+2014 **Fournier, A.M.V.,** Krementz, D.G. The Use of U.A.V.s to Assess Wetland Vegetation Interspersion *Arkansas State Chapter of The Wildlife Society Spring Meeting*
+
+2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Phenology, Habitat Use of Fall Migrating Rails in Missouri. *Missouri Department of Conservation Annual Meeting*  
+
+2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Phenology, Habitat Use of Fall Migrating Rails in Missouri *Arkansas Coop Fish & Wildlife Research Unit Annual Meeting*
+
+2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Phenology, Habitat Use and CoOccurrence of Fall Migrating Yellow Rails in Missouri *Yellow Rail Virtual Symposium,* USFWS 2013
 
 ### Grants
 
-- **Arkansas Audubon Society Trust** $1200 (2014) Migratory Stopover Timing, Survival and Habitat Use of Fall Migrating Sora in Managed Wetlands   
-- **Summer Undergraduate Research Fellowship** $3000 (2011) Developing A Morphometric Model to Predict the Sex of Virginia Rails 
-- **Ecosystem Science Center Undergraduate Research Grant** $750 (2011) What are the breeding and wintering areas of Virginia Rails which migrate through NW Ohio
-- **Ecosystem Science Center Undergraduate Research Grant** $750 (2010) Assessing the relationship between eye spotting and breeding location in Golden-winged Warblers
-- **Summer Undergraduate Research Fellowship** $3000 (2009) Habitat classification and Biological Inventory of Pioneer Scout Reservation
+2014 **Arkansas Audubon Society Trust** $1200 Migratory Stopover Timing, Survival and Habitat Use of Fall Migrating Sora in Managed Wetlands     
+2011 **Summer Undergraduate Research Fellowship** $3000 Developing A Morphometric Model to Predict the Sex of Virginia Rails  
+2011  **Ecosystem Science Center Undergraduate Research Grant** $750 What are the breeding and wintering areas of Virginia Rails which migrate through NW Ohio  
+2010  **Ecosystem Science Center Undergraduate Research Grant** $750 Assessing the relationship between eye spotting and breeding location in Golden-winged Warblers  
+2009 **Summer Undergraduate Research Fellowship** $3000 Habitat classification and Biological Inventory of Pioneer Scout Reservation
 
 ### Professional Licenses and Certifications
 
-- **Sub-permit bird banding license holder** (12 years experience, handled ~7k birds)
-- **NSC Defensive Driving II** National Safety Council (1/2013)
-- **Defensive Driving** AAA Driver Improvement Program (7/2012)
-- **CPR/First Aid** American Red Cross (7/2012)
-- **ATV Rider Certification** ATV Safety Institute (6/2012)
+**Sub-permit bird banding license holder** (12 years experience, handled ~7k birds)  
+**NSC Defensive Driving II** National Safety Council (1/2013)  
+**Defensive Driving** AAA Driver Improvement Program (7/2012)  
+**CPR/First Aid** American Red Cross (7/2012)  
+**ATV Rider Certification** ATV Safety Institute (6/2012)
 
 ### Teaching Experience
-- **Teaching Assistant** University of Arkansas    
+**Teaching Assistant** University of Arkansas    
 Wetlands Ecology and Management  
 Spring Semester 2015  
 Teaching weekly labs on taxonomy and wetland field methods. Giving lectures, grading materials.   
 
-- **Scientific Writing Tutor** Quality Writing Center University of Arkansas  
+**Scientific Writing Tutor** Quality Writing Center University of Arkansas  
 January 2014 - Present  
 
-- **Teaching Assistant** Michigan Technological University   
+**Teaching Assistant** Michigan Technological University   
 Field Techniques   
 Fall Semester 2010 and 2011  
 Taught weekly field labs on forestry and wildlife ecology skills. Graded 100+ lab reports weekly. 
 
-- **Teaching Assistant** Michigan Technological University   
+**Teaching Assistant** Michigan Technological University   
 Creating Your Success  
 Fall Semester 2010 and 2011  
 Oriented new students to campus resources, taught study skills. 
 
-- **Teaching Assistant** Michigan Technological University  
+**Teaching Assistant** Michigan Technological University  
 Ornithology  
 Spring Semester 2011  
 Lead field trips, gave guest lecture, gave field quizzes. 
 
-### Honors
+### Honors 
 
-- **Distinguished Doctoral Fellowship** University of Arkansas (2012 - Present)
-- **Outstanding Senior in Wildlife Ecology and Management** Michigan Technological University (2011)
-- **Member of the Year** The Wildlife Society Michigan Tech Student Chapter (2010)
-- **Woman of Promise** School of Forest Resources and Environmental Science Michigan Technological University (2009)
+2012 **Distinguished Doctoral Fellowship** - University of Arkansas  
+2011 **Outstanding Senior in Wildlife Ecology and Management** - Michigan Tech   
+2010 **Member of the Year** - The Wildlife Society Michigan Tech Student Chapter  
+2009 **Woman of Promise** - School of Forest Resources and Envi. Sci. - Michigan Tech
+
+### Service & Outreach  
+2015 **Presentation** Springdale Alternative High School, Springdale, AR    
+2014 *Invited Seminar* Arkansas Tech University Fish and Wildlife Seminar  
+2014 *Volunteer* The Wildlife Society National Conference, Pittsburgh, PA  
+2014 **Peer Reviewer** Waterbirds   
+2014 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas  
+2013 **Peer Reviewer** The Wildlife Society Bulletin   
+2013 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
+2010 **Research Blog** [Boots and Binoculars](aurielfournier.blogspot.com)  
+2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
+2011 **North American Breeding Bird Survey Volunteer** U.S. Geological Survey  
+2013 **Presentation** Springdale Alternative High School, Springdale, AR  
+2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI   
+2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
+2011 **Outdoor Educator** W. U.P. Center for Science, Math and Envi. Education  
+2011 **Owl Survey Volunteer** Michigan Bird Conservation Initiative  
+2010 **Presentation** Copper Country Audubon Society  
+2010 **Career Panel Member** Ohio Young Birder's Club Conference  
+2009 **Presentation** Kirtland Bird Club - Cleveland, OH  
+2009 **Presentation** Copper Country Audubon Society  
+2009 **Bird Bander** (Six years) Black Swamp Bird Observatory  
+2008 **Presentation** Ohio Young Birder's Club Conference   
+2008 **Presentation** Black Swamp Bird Observatory Lunch Lecture  
+2007 **Presentation** Ohio Young Birder's Club Conference 
 
 ### Professional Development
 
-- **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA (2014)
-- **The Wildlife Society National Conference** Pittsburgh, PA (2014)
-- **Midwest Bird Conservation and Monitoring Conference** Port Washington, WI (2014)
-- **Applied Hierarchical Modeling Workshop** Patuxent Wildlife Research Center/Royle & Kery (2014)
-- **’Adehabitat’ R Package Workshop** The Wildlife Society National Con/James Sheppard (2013)
-- **Occupancy Modeling Short Course** Humboldt State U./Darryl MacKenzie (2013)
-- **The Wildlife Society National Conference** Milwaukee, WI (2013)
-- **The Wildlife Society National Conference** Waikialoa, HI (2011)
-- **Midwest Bird Conservation and Monitoring Conference** Rockford, IL (2011)
-- **Guest Lecture** Ornithology - Michigan Tech. Univ. - ’Migration and Navigation’ (2011)
-- **Midwest Fish and Wildlife Conference** Minneapolis, MN (2010)
-- **The Wildlife Society National Conference** Snowbird, UT (2010)
-- **Wildlife Diversity Conference** Ohio Department of Natural Resources - Columbus, OH (2010)
-- **International Association of Great Lakes Researchers Conference** Toledo, OH (2009)
-- **Wildlife Diversity Conference** Ohio Department of Natural Resources - Columbus, OH (2009)
-
-### Service and Outreach
-
-- **Presentation** Springdale Alternative High School, Springdale, AR (2015)
-- **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar (2014)
-- **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA (2014)
-- **Peer Reviewer** Waterbirds (2014 - Present)
-- **Peer Reviewer** The Wildlife Society Bulletin (2013 - Present)
-- **Outdoor Education Volunteer** Hobbs State Park, Arkansas (2013 - Present)
-- **Volunteer** The Wildlife Society National Conference, Milwaukee, WI (2013)
-- **Science Fair Judge** Regional/Local Science Fairs NW Arkansas (2013)
-- **Presentation** Springdale Alternative High School, Springdale, AR (2013)
-- **Volunteer** The Wildlife Society National Conference, Big Island, HI (2011)
-- **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition (2011)
-- **Outdoor Educator** Western U.P. Center for Science, Math and Environmental Education (2011)
-- **Owl Survey Volunteer** Michigan Bird Conservation Initiative (March 2011)
-- **Presentation** Copper Country Audubon Society (2010)
-- **Career Panel Member** Ohio Young Birder’s Club Conference (2010)
-- **Presentation** Kirtland Bird Club - Cleveland, OH (2009)
-- **Presentation** Copper Country Audubon Society (2009)
-- **Bird Bander** Black Swamp Bird Observatory (Springs 2003 - 2009)
-- **Presentation** Ohio Young Birder’s Club Conference (2008)
-- **Presentation** Black Swamp Bird Observatory Lunch Lecture (2008)
-- **Presentation** Ohio Young Birder’s Club Conference (2007)
+2014 **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA  
+2014 **The Wildlife Society National Conference** Pittsburgh, PA  
+2014 **Midwest Bird Conservation and Monitoring Conference** Port Washington, WI   
+2014 **Applied Hierarchical Modeling Workshop** Patuxent Wildlife Research Center/Royle & Kery   
+2013 **'Adehabitat' R Package Workshop** The Wildlife Society National Con/James Sheppard  
+2013 **Symposium Planning Committee** The Wildlife Society National Con, Milwaukee, WI  
+2013 **Occupancy Modeling Short Course** Humboldt State U./Darryl MacKenzie  
+2013 **The Wildlife Society National Conference** Milwaukee, WI  
+2011 **The Wildlife Society National Conference** Waikialoa, HI   
+2011 **Midwest Bird Conservation and Monitoring Conference** Rockford, IL  
+2011 **Guest Lecture** Ornithology - Michigan Tech. Univ. - 'Migration and Navigation'  
+2010 **Midwest Fish and Wildlife Conference** Minneapolis, MN  
+2010 **The Wildlife Society National Conference** Snowbird, UT  
+2010 **Wildlife Diversity Conference** Ohio Department of Natural Resources - Columbus, OH  
+2009 **International Association of Great Lakes Researchers Conference** Toledo, OH   
+2009 **Wildlife Diversity Conference** Ohio Department of Natural Resources - Columbus, OH  
 
 ### Leadership
 
-- **Student Development Working Group** The Wildlife Society  
+**Student Development Working Group** The Wildlife Society  
 Treasurer 2014 - Present
 
-- **The Wildlife Society** Student Chapter University of Arkansas  
+**The Wildlife Society** Student Chapter University of Arkansas  
 Secretary 2014 - Present
 Treasurer 2013 - 2014
 
-- **Biology Graduate Student Association** University of Arkansas  
+**Biology Graduate Student Association** University of Arkansas  
 Treasurer 2014 - Present
 Vice President 2013 - 2014  
 
-- **The Wildlife Society** Student Chapter Michigan Technological University
+**The Wildlife Society** Student Chapter Michigan Technological University
 Activaties Chair 2008 - 2011  
 
-- **The Honors Institute** Michigan Technological University   
+**The Honors Institute** Michigan Technological University   
 Treasurer, Secretary, Committee Chair 2008 - 2011  
 
-- **The Birdbums** Michigan Technological University  
+**The Birdbums** Michigan Technological University  
 Founding Member & President 2008 - 2011
 
 - **Xi Sigma Pi Honors Fraternity** Michigan Technological University  
@@ -249,10 +256,10 @@ Symposium Chair 2010 - 2011
 - Presence
 - Program Distance
 
-### Memberships
+### Memberships (since)
 
-- **The Wildlife Society** - National, State, Student Chapter, Student Development Working Group, Wetlands Working Group, Spatial Ecology and Telemetry Working Group (2008 - Present)
-- **American Ornithologist Union** (2012 - Present)
-- **Association of Field Ornithologists** (2012 - Present)
-- **The Waterbirds Society** (2012 - Present)
-- **Black Swamp Bird Observatory** (2003 - Present) 
+2008 **The Wildlife Society** - National, State, Student Chapter, Student Development Working Group, Wetlands Working Group, Spatial Ecology and Telemetry Working Group   
+2012 **American Ornithologist Union**  
+2012 **Association of Field Ornithologists**    
+2012 **The Waterbirds Society**  
+2003 **Black Swamp Bird Observatory** 
