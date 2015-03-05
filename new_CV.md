@@ -182,8 +182,8 @@ Lead field trips, gave guest lecture, gave field quizzes.
 ## Service & Outreach  
 
 2015 **Presentation** Springdale Alternative High School, Springdale, AR    
-2014 *Invited Seminar* Arkansas Tech University Fish and Wildlife Seminar  
-2014 *Volunteer* The Wildlife Society National Conference, Pittsburgh, PA  
+2014 **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar  
+2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA  
 2014 **Peer Reviewer** Waterbirds   
 2014 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas  
 2013 **Peer Reviewer** The Wildlife Society Bulletin   
