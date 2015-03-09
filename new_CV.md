@@ -11,7 +11,7 @@ amvander@uark.edu - @RallidaeRule - 419.307.6261
 ## Education
 
 PhD in **Biological Sciences - Ecology and Evolutionary Biology**   
-2016 (expected) **University of Arkansas** Fayetteville, AR   
+2017 (expected) **University of Arkansas** Fayetteville, AR   
 Distinguished Doctoral Fellowship Recipient
 
 Bachelor of Science in **Wildlife Ecology and Management**  
