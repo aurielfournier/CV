@@ -134,10 +134,15 @@ coordinated site access on local, state, federal and military properties
 
 ## Grants
 
+2015 **The Frances M. Peacock Scholarship for Native Bird Habitat** $4000 The Use of Stable Isotopes, eBird and Species Distribution Models to Assess Migratory Connectivity of Fall Migrationg Rails
+
 2014 **Arkansas Audubon Society Trust** $1200 Migratory Stopover Timing, Survival and Habitat Use of Fall Migrating Sora in Managed Wetlands     
+
 2011 **Summer Undergraduate Research Fellowship** $3000 Developing A Morphometric Model to Predict the Sex of Virginia Rails  
 2011  **Ecosystem Science Center Undergraduate Research Grant** $750 What are the breeding and wintering areas of Virginia Rails which migrate through NW Ohio  
+
 2010  **Ecosystem Science Center Undergraduate Research Grant** $750 Assessing the relationship between eye spotting and breeding location in Golden-winged Warblers  
+
 2009 **Summer Undergraduate Research Fellowship** $3000 Habitat classification and Biological Inventory of Pioneer Scout Reservation
 
 ## Professional Licenses and Certifications
@@ -181,6 +186,8 @@ Lead field trips, gave guest lecture, gave field quizzes.
 
 ## Service & Outreach  
 
+2015 **Presentation* Boys and Girls Club of Bentonville, Arkansas STEAM Program
+2015 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas
 2015 **Presentation** Springdale Alternative High School, Springdale, AR    
 2014 **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA  
