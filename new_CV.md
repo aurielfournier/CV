@@ -186,15 +186,15 @@ Lead field trips, gave guest lecture, gave field quizzes.
 
 ## Service & Outreach  
 
-2015 **Presentation* Boys and Girls Club of Bentonville, Arkansas STEAM Program
-2015 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas
+2013-5 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
+Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
+2013-5 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas  
+2015 **Presentation** Boys and Girls Club of Bentonville, Arkansas STEAM Program   
 2015 **Presentation** Springdale Alternative High School, Springdale, AR    
 2014 **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA  
-2014 **Peer Reviewer** Waterbirds   
-2014 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas  
+2014 **Peer Reviewer** Waterbirds    
 2013 **Peer Reviewer** The Wildlife Society Bulletin   
-2013 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 2010 **Research Blog** [Boots and Binoculars](aurielfournier.blogspot.com)  
 2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
 2011 **North American Breeding Bird Survey Volunteer** U.S. Geological Survey  
@@ -270,7 +270,8 @@ Symposium Chair 2010 - 2011
 
 ## Memberships (since)
 
-2008 **The Wildlife Society** - National, State, Student Chapter, Student Development Working Group, Wetlands Working Group, Spatial Ecology and Telemetry Working Group   
+2008 **The Wildlife Society**   
+National, State, Student Chapter, Student Development Working Group, Wetlands Working Group, Spatial Ecology and Telemetry Working Group   
 2012 **American Ornithologist Union**  
 2012 **Association of Field Ornithologists**    
 2012 **The Waterbirds Society**  
