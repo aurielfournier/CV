@@ -214,6 +214,7 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 
 ## Professional Development
 
+2015 *Organized/Attended* **Software Carpentry Workshop** University of Arkansas, AR
 2014 **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA  
 2014 **The Wildlife Society National Conference** Pittsburgh, PA  
 2014 **Midwest Bird Conservation and Monitoring Conference** Port Washington, WI   
