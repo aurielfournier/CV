@@ -53,9 +53,9 @@ May - August 2009
 
 ## Publications  
 
-In Review **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. (in review) *Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA.* **Waterbirds**
+In Review **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. *Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA.* **Waterbirds**
 
-2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. (2013) *Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)*. **The Wildlife Society Bulletin** 27: 881-886
+2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. *Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)*. **The Wildlife Society Bulletin** 27: 881-886
 
 ## Work Experience
 **Science Writing Tutor**  
@@ -130,7 +130,7 @@ coordinated site access on local, state, federal and military properties
 
 2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Phenology, Habitat Use of Fall Migrating Rails in Missouri *Arkansas Coop Fish & Wildlife Research Unit Annual Meeting*
 
-2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Phenology, Habitat Use and CoOccurrence of Fall Migrating Yellow Rails in Missouri *Yellow Rail Virtual Symposium,* USFWS 2013
+2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Phenology, Habitat Use and CoOccurrence of Fall Migrating Yellow Rails in Missouri *Yellow Rail Virtual Symposium,* USFWS
 
 ## Grants
 
@@ -188,6 +188,7 @@ Lead field trips, gave guest lecture, gave field quizzes.
 
 ## Service & Outreach  
 
+2013-5 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin   
 2013-5 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
 2013-5 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas  
@@ -195,8 +196,6 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2015 **Presentation** Springdale Alternative High School, Springdale, AR    
 2014 **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA  
-2014 **Peer Reviewer** Waterbirds    
-2013 **Peer Reviewer** The Wildlife Society Bulletin   
 2010 **Research Blog** [Boots and Binoculars](aurielfournier.blogspot.com)  
 2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
 2011 **North American Breeding Bird Survey Volunteer** U.S. Geological Survey  
