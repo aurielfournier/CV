@@ -84,13 +84,7 @@ May 2011
 - Worked full-time constructing aquatic moose and beaver exclosures in small inland lakes at Isle
 Royale National Park to study the affect of herbivory on plant communities.
 
-**Remote Sensing/GIS Technician**  
-Michigan Technological University - Dr. Mike Falkowski  
-February 2010 - December 2011  
 
-- Delineated cover type from color and B/W photos from past seventy years; Identified beaver dams
-and identified water bodies were created by the dams; Processed raw LiDAR data into maps for
-later interpretation
 
 **Field Technician**   
 Michigan Technological University  
