@@ -7,7 +7,7 @@ PhD in **Biological Sciences** 2017 (expected) **University of Arkansas** Fayett
 BS in **Wildlife Ecology and Management**  2011 **Michigan Technological University**
 
 #### Research Experience
-2012 - Present **Graduate Research Assistant**  Arkansas Cooperative Fish and Wildlife Research Unit 
+2012 - Present **Graduate Research Assistant**  Arkansas Cooperative Fish and Wildlife Research Unit   
 2011 **Undergraduate Research Grant** Michigan Technological University  
 2011 **Summer Undergraduate Research Fellowship**  Michigan Technological University     
 2011 **Undergraduate Research Grant**    Michigan Technological University  
