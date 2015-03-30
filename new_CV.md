@@ -53,7 +53,7 @@ May - August 2009
 
 ## Publications  
 
-In Review **Fournier, Auriel M.V.**, Shieldcastle, M.C., Kashmer, Tom, Mylecraine, Kristin A. (in review) *Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA.* **Waterbirds**
+In Review **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. (in review) *Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA.* **Waterbirds**
 
 2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. (2013) *Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)*. **The Wildlife Society Bulletin** 27: 881-886
 
