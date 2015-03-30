@@ -140,7 +140,8 @@ coordinated site access on local, state, federal and military properties
 
 2014 **Arkansas Audubon Society Trust** $1200 Migratory Stopover Timing, Survival and Habitat Use of Fall Migrating Sora in Managed Wetlands     
 
-2011 **Summer Undergraduate Research Fellowship** $3000 Developing A Morphometric Model to Predict the Sex of Virginia Rails  
+2011 **Summer Undergraduate Research Fellowship** $3000 Developing A Morphometric Model to Predict the Sex of Virginia Rails 
+
 2011  **Ecosystem Science Center Undergraduate Research Grant** $750 What are the breeding and wintering areas of Virginia Rails which migrate through NW Ohio  
 
 2010  **Ecosystem Science Center Undergraduate Research Grant** $750 Assessing the relationship between eye spotting and breeding location in Golden-winged Warblers  
