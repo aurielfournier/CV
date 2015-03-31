@@ -1,0 +1,47 @@
+---
+title: Auriel M.V. Fournier
+output: 
+  pdf_document:
+    fig_width: 3
+---
+PhD Candidate - University of Arkansas - Arkansas Cooperative Fish and Wildlife Research Unit  
+amvander@uark.edu - @RallidaeRule - 419.307.6261  
+
+### Education    
+
+PhD in **Biological Sciences** 2017 (expected) **University of Arkansas** Fayetteville, AR   
+BS in **Wildlife Ecology and Management**  2011 **Michigan Technological University**
+
+### Research Experience  
+
+2012-5 **Graduate Research Assistant**  Arkansas Cooperative Fish and Wildlife Research Unit   
+2011 **Undergraduate Research Grant** Michigan Technological University  
+2011 **Summer Undergraduate Research Fellowship**  Michigan Technological University     
+2011 **Undergraduate Research Grant**    Michigan Technological University  
+
+### Publications   
+
+In Review **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. *Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA.* **Waterbirds**  
+2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. *Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)*. **The Wildlife Society Bulletin** 27: 881-886
+
+### Presentations  
+
+2014 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H. Sora Migration and Wetland Management *The Wildlife Society National Conference*   
+2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Ecology of Fall Migrating Sora in Missouri. *The Wildlife Society National Conference*      
+2011 **Fournier, A.M.V.,** Sheildcastle, M.C., Fries, A.C., Bump, J.K., Developing a morphometric model to predict the sex of Virginia Rails. *The Wildlife Society National Conference*
+
+### Grants  
+
+2015 **The Frances M. Peacock Scholarship for Native Bird Habitat** $4000   
+2014 **Arkansas Audubon Society Trust** $1200
+
+### Honors   
+
+2012-5 **Distinguished Doctoral Fellowship** - University of Arkansas  
+2011 **Outstanding Senior in Wildlife Ecology and Management** - Michigan Tech   
+
+### Service & Outreach    
+
+2013-5 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
+2013-5 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin   
+2014 **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar  
