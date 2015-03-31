@@ -1,6 +1,3 @@
----
-output: pdf_document
----
 # Auriel M.V. Fournier
 PhD Candidate - University of Arkansas  
 Arkansas Cooperative Fish and Wildlife Research Unit  
