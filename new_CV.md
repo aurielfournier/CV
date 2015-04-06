@@ -53,9 +53,10 @@ May - August 2009
 
 ## Publications  
 
-In Review **Fournier, A.M.V %**, Sullivan, Alexis %, Bump, Joseph, Perkins, Marie, Shieldcastle, Mark, King, Sammy. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)* **Journal of Applied Ecology**    
+In Review **Fournier, A.M.V %**, Sullivan, A. %, Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)* **Journal of Applied Ecology**    
 **% The first two authors contributed equally to this manuscript**
 
+In Review **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin**  
 
 In Review **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. *Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA.* **Waterbirds**
 
