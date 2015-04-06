@@ -1,9 +1,11 @@
+---
+output: pdf_document
+---
 # Auriel M.V. Fournier
 PhD Candidate - University of Arkansas  
 Arkansas Cooperative Fish and Wildlife Research Unit  
-amvander@uark.edu - @RallidaeRule - 419.307.6261  
-[aurielmvfournier.com](http://aurielmvfournier.com/)  
-[github](https://github.com/aurielfournier)
+amvander@uark.edu - [\@RallidaeRule](https://twitter.com/RallidaeRule) - 419.307.6261  
+[aurielmvfournier.com](http://aurielmvfournier.com/) - [github](https://github.com/aurielfournier) - [Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ)
 
 ## Education
 
@@ -130,9 +132,11 @@ coordinated site access on local, state, federal and military properties
 
 2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Phenology, Habitat Use and CoOccurrence of Fall Migrating Yellow Rails in Missouri *Yellow Rail Virtual Symposium,* USFWS
 
+\newpage
+
 ## Grants
 
-2015 **Travel Grant** $800 Association of Field Ornithologists/Wilson Ornithological Society/Society of Canadian Ornithologsits Conference
+2015 **Travel Grant** $500 Association of Field Ornithologists/Wilson Ornithological Society/Society of Canadian Ornithologsits Conference
 
 2015 **The Frances M. Peacock Scholarship for Native Bird Habitat** $4000 The Use of Stable Isotopes, eBird and Species Distribution Models to Assess Migratory Connectivity of Fall Migrationg Rails
 
@@ -148,7 +152,7 @@ coordinated site access on local, state, federal and military properties
 
 ## Professional Licenses and Certifications
 
-**Associate Wildlife Biologist** The Wildlife Society - (3/2015)  
+**Associate Wildlife Biologist &copy; ** The Wildlife Society - (3/2015)  
 **Sub-permit bird banding license holder** (12 years experience, handled ~7k birds)  
 **NSC Defensive Driving II** National Safety Council (1/2013)  
 **Defensive Driving** AAA Driver Improvement Program (7/2012)  
