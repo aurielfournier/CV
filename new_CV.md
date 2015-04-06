@@ -1,6 +1,3 @@
----
-output: pdf_document
----
 # Auriel M.V. Fournier
 PhD Candidate - University of Arkansas  
 Arkansas Cooperative Fish and Wildlife Research Unit  
@@ -27,11 +24,12 @@ August 2012 - Present
 - Effects of wetland management strategies on habitat use of fall migrating rails on intensively managed wetland complexes in Missouri. Performing distance based nocturnal ATV surveys for rails in wetland impoundments across the
 state of Missouri. Managing a four person field crew, working closely with state and federal land managers. Capturing rails, taking blood and feather samples.
 
-**Undergraduate Research Grant** Dr. Joseph Bump  
+**Undergraduate Research Grant**  
+Dr. Joseph Bump  
 Michigan Technological University  
 May 2011 - Present  
 
-- Assessing the breeding location of Virginia Rails migrating through NW Ohio using stable isotopes. Manuscript in progress. 
+- Assessing the breeding location of Virginia Rails migrating through NW Ohio using stable isotopes. Manuscript Submitted.
 
 **Summer Undergraduate Research Fellowship**  
 Dr. Joseph Bump  
@@ -60,9 +58,9 @@ In Review **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A
 ## Work Experience
 **Science Writing Tutor**  
 Quality Writing Center - University of Arkansas  
-January 2013 - Present  
+January 2014 - Present  
 
-- Tutoring undergraduate and graduate students on proper scientific writing. Editing thesis,
+- Tutoring undergraduate and graduate students on proper scientific writing 8-15 hours a week. Editing thesis,
 dissertations, lab reports and other writing.
 
 **Environmental Education Internship**  
@@ -150,6 +148,7 @@ coordinated site access on local, state, federal and military properties
 
 ## Professional Licenses and Certifications
 
+**Associate Wildlife Biologist** The Wildlife Society - (3/2015)  
 **Sub-permit bird banding license holder** (12 years experience, handled ~7k birds)  
 **NSC Defensive Driving II** National Safety Council (1/2013)  
 **Defensive Driving** AAA Driver Improvement Program (7/2012)  
