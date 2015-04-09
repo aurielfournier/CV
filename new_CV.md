@@ -31,7 +31,7 @@ Dr. Joseph Bump
 Michigan Technological University  
 May 2011 - Present  
 
-- Assessing the breeding location of Virginia Rails migrating through NW Ohio using stable isotopes. Manuscript Submitted.
+- Assessing the breeding location of Virginia Rails migrating through NW Ohio using stable isotopes. Manuscript In Review. 
 
 **Summer Undergraduate Research Fellowship**  
 Dr. Joseph Bump  
@@ -43,13 +43,13 @@ August 2010 - December 2011
 Dr. David Flaspohler  
 May 2010 - March 2011  
 
-- Examined variation in eye color across the range of Golden-winged Warblers. Presented a poster in 2011. 
+- Examined variation in eye color across the range of Golden-winged Warblers. Presented poster. 
 
 **Summer Undergraduate Research Fellowship**  
 Dr. David Flaspohler  
 May - August 2009  
 
-- Developed a land management plan for Pioneer Scout Reservation, Ohio  
+- Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented poster. 
 
 ## Publications  
 
