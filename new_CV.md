@@ -87,6 +87,8 @@ Isle Royale National Park - Dr. Joseph Bump  May 2011
 - Worked full-time constructing aquatic moose and beaver exclosures in small inland lakes at Isle
 Royale National Park to study the affect of herbivory on plant communities.
 
+\newpage
+
 **Remote Sensing/GIS Technician**  
 Michigan Technological University - Dr. Mike Falkowski  February 2010 - December 2011  
 
@@ -219,8 +221,8 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 
 ## Professional Development
 
-2015 *Organized/Attended* **Software Carpentry Workshop** University of Arkansas, AR    
-2015 *Co-Lead* **Social Media for Outreach and Professional Development Workshop** University of Arkansas, AR  
+2015 *Organized/Attended* **Software Carpentry Workshop** University of Arkansas    
+2015 *Co-Lead* **Social Media for Outreach and Prof Development Workshop** University of Arkansas 
 2014 **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA  
 2014 **The Wildlife Society National Conference** Pittsburgh, PA  
 2014 **Midwest Bird Conservation and Monitoring Conference** Port Washington, WI   
