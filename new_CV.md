@@ -87,8 +87,6 @@ Isle Royale National Park - Dr. Joseph Bump  May 2011
 - Worked full-time constructing aquatic moose and beaver exclosures in small inland lakes at Isle
 Royale National Park to study the affect of herbivory on plant communities.
 
-\newpage
-
 **Remote Sensing/GIS Technician**  
 Michigan Technological University - Dr. Mike Falkowski  February 2010 - December 2011  
 
@@ -133,8 +131,6 @@ coordinated site access on local, state, federal and military properties
 2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Phenology, Habitat Use of Fall Migrating Rails in Missouri *Arkansas Coop Fish & Wildlife Research Unit Annual Meeting*
 
 2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Phenology, Habitat Use and CoOccurrence of Fall Migrating Yellow Rails in Missouri *Yellow Rail Virtual Symposium,* USFWS
-
-\newpage
 
 ## Grants
 
