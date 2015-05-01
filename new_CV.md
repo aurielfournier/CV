@@ -3,7 +3,8 @@ output: pdf_document
 ---
 # Auriel M.V. Fournier
 PhD Candidate - University of Arkansas  
-Arkansas Cooperative Fish and Wildlife Research Unit  
+Arkansas Cooperative Fish and Wildlife Research Unit   
+Associate Wildlife Biologist ©  
 amvander@uark.edu - [\@RallidaeRule](https://twitter.com/RallidaeRule) - 419.307.6261  
 [aurielmvfournier.com](http://aurielmvfournier.com/) - [github](https://github.com/aurielfournier) - [Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ)
 
@@ -120,6 +121,12 @@ coordinated site access on local, state, federal and military properties
 
 ## Presentations
 
+<!---
+2015 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. Timing of Autumn Migration in the Mississippi Flyway by Rails *Association of Field Ornithologists Meeting*
+
+2015 **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (Rallus limicola). *American Ornithologists Union/Cooper Ornithologial Society Meeting*
+
+-->
 2014 **Fournier, A.M.V.,** Krementz, D.G. The Response of Fall Migrating Sora to Wetland Management *Arkansas State Chapter of the Wildlife Society Spring Meeting*
 
 2014 **Fournier, A.M.V.,** Krementz, D.G. The Use of U.A.V.s to Assess Wetland Vegetation Interspersion *Arkansas State Chapter of The Wildlife Society Spring Meeting*
@@ -192,6 +199,9 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2013-5 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
 2013-5 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas  
+<!---
+2015 **Field Trip Leader** The Biggest Week In American Birding Festival
+-->
 2015 **Presentation** Boys and Girls Club of Bentonville, Arkansas STEAM Program   
 2015 **Presentation** Springdale Alternative High School, Springdale, AR    
 2014 **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar  
@@ -214,7 +224,10 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2007 **Presentation** Ohio Young Birder's Club Conference 
 
 ## Professional Development
-
+<!---
+2015 *Co-Instructor* **'Taking R to the Next Level' Workshop** American Ornithologists Union Meeting
+2015 *Instructor* **Graphing with ggplot workshop** University of Arkansas
+-->
 2015 *Organized/Attended* **Software Carpentry Workshop** University of Arkansas    
 2015 *Co-Lead* **Social Media for Outreach and Prof Development Workshop** University of Arkansas 
 2014 **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA  
@@ -240,7 +253,7 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 Treasurer 2014 - Present
 
 **The Wildlife Society** Student Chapter University of Arkansas  
-Secretary 2014 - Present
+Secretary 2014 - 2015
 Treasurer 2013 - 2014
 
 **Biology Graduate Student Association** University of Arkansas  
