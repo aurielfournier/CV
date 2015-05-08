@@ -155,7 +155,8 @@ coordinated site access on local, state, federal and military properties
 
 ## Professional Licenses and Certifications
 
-**Associate Wildlife Biologist &copy;** The Wildlife Society - (3/2015)  
+**Software Carpentry Instructor** [Software Carpentry](https://software-carpentry.org/index.html) - (5/2015)
+[**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society - (3/2015)  
 **Sub-permit bird banding license holder** (12 years experience, handled ~7k birds)  
 **NSC Defensive Driving II** National Safety Council (1/2013)  
 **Defensive Driving** AAA Driver Improvement Program (7/2012)  
