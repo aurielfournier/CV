@@ -1,11 +1,8 @@
----
-output: pdf_document
----
 # Auriel M.V. Fournier
 PhD Candidate - University of Arkansas  
 Arkansas Cooperative Fish and Wildlife Research Unit   
 Associate Wildlife Biologist ©  
-amvander@uark.edu - [\@RallidaeRule](https://twitter.com/RallidaeRule) - 419.307.6261  
+amvander@uark.edu - [@RallidaeRule](https://twitter.com/RallidaeRule) - 419.307.6261  
 [aurielmvfournier.com](http://aurielmvfournier.com/) - [github](https://github.com/aurielfournier) - [Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ)
 
 ## Education
@@ -13,6 +10,9 @@ amvander@uark.edu - [\@RallidaeRule](https://twitter.com/RallidaeRule) - 419.307
 PhD in **Biological Sciences - Ecology and Evolutionary Biology**   
 2017 (expected) **University of Arkansas** Fayetteville, AR   
 Distinguished Doctoral Fellowship Recipient
+
+Master of Science in **Statistics and Analytics - Bioanalytics**  
+2017 (expected) **University of Arkansas** Fayetteville, AR
 
 Bachelor of Science in **Wildlife Ecology and Management**  
 2011 **Michigan Technological University** Houghton, MI  
