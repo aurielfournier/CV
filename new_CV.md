@@ -1,8 +1,11 @@
+---
+output: pdf_document
+---
 # Auriel M.V. Fournier
 PhD Candidate - University of Arkansas  
 Arkansas Cooperative Fish and Wildlife Research Unit   
 Associate Wildlife Biologist ©  
-amvander@uark.edu - [@RallidaeRule](https://twitter.com/RallidaeRule) - 419.307.6261  
+amvander@uark.edu - [/@RallidaeRule](https://twitter.com/RallidaeRule) - 419.307.6261  
 [aurielmvfournier.com](http://aurielmvfournier.com/) - [github](https://github.com/aurielfournier) - [Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ)
 
 ## Education
@@ -39,6 +42,8 @@ Dr. Joseph Bump
 August 2010 - December 2011  
 
 - Developed a morphometric model to predict the sex of Virginia Rails. Published in [The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29).
+
+\newpage
 
 **Undergraduate Research Grant**   
 Dr. David Flaspohler  
