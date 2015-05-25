@@ -144,6 +144,8 @@ coordinated site access on local, state, federal and military properties
 
 ## Grants
 
+2015 *Co-Pi* **Missouri Department of Conservation Research Grant** $55,000 Effects of Wetland Management Strategies on Habitat Use of Autumn Migrating Rails on Intensively Managed Wetland Complexes in Missouri
+
 2015 **Travel Grant** $320 American Ornithologists Union/Cooper Ornithological Society Conference  
 
 2015 **Travel Grant** $500 Association of Field Ornithologists/Wilson Ornithological Society/Society of Canadian Ornithologists Conference
