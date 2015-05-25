@@ -40,8 +40,6 @@ August 2010 - December 2011
 
 - Developed a morphometric model to predict the sex of Virginia Rails. Published in [The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29).
 
-\newpage
-
 **Undergraduate Research Grant**   
 Dr. David Flaspohler  
 May 2010 - March 2011  
