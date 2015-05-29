@@ -237,8 +237,8 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 ## Professional Development
 <!---
 2015 *Co-Instructor* **'Taking R to the Next Level' Workshop** American Ornithologists Union Meeting
-2015 *Instructor* **Graphing with ggplot workshop** University of Arkansas
 -->
+2015 *Instructor* **Graphing with ggplot workshop** University of Arkansas  
 2015 *Organized/Attended* **Software Carpentry Workshop** University of Arkansas    
 2015 *Co-Lead* **Social Media for Outreach and Prof Development Workshop** University of Arkansas   
 2014 **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA  
