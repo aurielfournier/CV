@@ -70,13 +70,6 @@ May - August 2009
 2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. *Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)*. **[The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29)** 27: 881-886
 
 ## Work Experience
-**Science Writing Tutor**  
-Quality Writing Center - University of Arkansas  
-January 2014 - Present  
-
-- Tutoring undergraduate and graduate students on proper scientific writing 8-15 hours a week. Editing thesis,
-dissertations, lab reports and other writing.
-
 **Environmental Education Internship**  
 Kellogg Bird Sanctuary, Michigan State University
 May - July 2012  
@@ -114,6 +107,14 @@ Michigan Technological University - Dr. Amber Roth  March - June 2010
 Warblers across five study sites in Minnesota and Wisconsin; Developed the time line, budget and
 travel plans as to cover the largest area and gather the most samples; Established contact and
 coordinated site access on local, state, federal and military properties
+
+**Bird Bander**  
+Black Swamp Bird Observatory - Mark & Julie Shieldcastle - Spring and Fall 2004-2008
+- Volunteered atleast weekly during both spring and fall migration working at Black Swamp Bird Observatory's banding station. Extracted thousands of birds over the five years, was trusted to help train volunteers and extract birds solo even on very busy days or under harsh conditions. Banded hundreds of passerines. 
+
+**Bird Bander**  
+Green Creek Wildlife Society - Tom Kashmer - 2002-2008  
+- Volunteered weekly throughout the year on various field projects. Primarily the rail migration project, checking traps, banding birds and taking vegetation data. Also helped with a wide variety of mist netting projects, including public education programs. Also checked fish and turtle traps, banded hundreds of fledgling Eastern Bluebirds and monitored a bluebird trail for many years. 
 
 ## Posters
 
@@ -181,8 +182,11 @@ Wetlands Ecology and Management
 Spring Semester 2015  
 Teaching weekly labs on taxonomy and wetland field methods. Giving lectures, grading materials.   
 
-**Scientific Writing Tutor** Quality Writing Center University of Arkansas  
+**Science Writing Tutor**  
+Quality Writing Center - University of Arkansas  
 January 2014 - Present  
+- Tutoring undergraduate and graduate students on proper scientific writing 8-15 hours a week. Editing thesis,
+dissertations, lab reports and other writing.
 
 **Teaching Assistant** Michigan Technological University   
 Field Techniques   
@@ -289,7 +293,7 @@ Symposium Chair 2010 - 2011
 - ArcGIS (9 and 10)
 - LaTeX
 - Markdown
-- Program Mark
+- Program Mark/RMark
 - Git/Github
 - Systat
 - Presence
