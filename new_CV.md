@@ -166,6 +166,12 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 2009 **Summer Undergraduate Research Fellowship** $3000 Habitat classification and Biological Inventory of Pioneer Scout Reservation
 
+<!---
+## International Experience
+
+2015 Summer field work capturing rails to take feather samples for stable isotope project with Bird Studies Canada in Saskatchewan. 
+-->
+
 ## Professional Licenses and Certifications
 
 **Software Carpentry Instructor** [Software Carpentry](https://software-carpentry.org/index.html) - (5/2015)  
