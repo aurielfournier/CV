@@ -176,8 +176,8 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 **Software Carpentry Instructor** [Software Carpentry](https://software-carpentry.org/index.html) - (5/2015)  
 [**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society - (3/2015)  
-**Sub-permit bird banding license holder** (12 years experience, handled ~7k birds)  
-**CPR/First Aid** American Red Cross (4/2014)
+**Sub-permit bird banding license holder** (12 years experience, handled ~7k birds)    
+**CPR/First Aid** American Red Cross (4/2014)  
 **NSC Defensive Driving II** National Safety Council (1/2013)  
 **Defensive Driving** AAA Driver Improvement Program (7/2012)  
 **ATV Rider Certification** ATV Safety Institute (6/2012)
