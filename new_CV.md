@@ -221,7 +221,8 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2013-5 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology   
 2013-5 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
-2013-5 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas    
+2013-5 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas   
+2015 **Presentation** Camp War Eagle Summer Camp, Arkansas  
 2015 **Field Trip Leader** The Biggest Week In American Birding Festival  
 2015 **Presentation** Boys and Girls Club of Bentonville, Arkansas STEAM Program   
 2015 **Presentation** Springdale Alternative High School, Springdale, AR    
