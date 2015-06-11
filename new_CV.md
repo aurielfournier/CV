@@ -60,7 +60,7 @@ May - August 2009
 *In Review* Krementz, D.G., **Fournier, A.M.V.** Stopover Duration and Survival of Sora (Porzana carolina) during Autumn Migration in Missouri. **Journal of Field Ornitholog**
 
 -->
-*In Review* **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA. 
+*Accepted* **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA. **Waterbirds**
 
 *In Review* **Fournier, A.M.V %**, Sullivan, A. %, Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)*   
 - **% The first two authors contributed equally to this manuscript**
