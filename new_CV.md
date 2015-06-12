@@ -280,8 +280,8 @@ Treasurer 2014 - Present
 Secretary 2014 - 2015
 Treasurer 2013 - 2014
 
-**Biology Graduate Student Association** University of Arkansas  
-Treasurer 2014 - Present
+**Biology Graduate Student Association** University of Arkansas    
+Treasurer 2014 - Present  
 Vice President 2013 - 2014  
 
 **The Wildlife Society** Student Chapter Michigan Technological University
@@ -298,10 +298,11 @@ Symposium Chair 2010 - 2011
 
 ## Computer Skills
 
-- R
+- R/RStudio
+- Python
 - ArcGIS (9 and 10)
 - LaTeX
-- Markdown
+- Markdown/RMarkdown
 - Program Mark/RMark
 - Git/Github
 - Systat
