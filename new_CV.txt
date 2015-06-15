@@ -1,6 +1,3 @@
----
-output: pdf_document
----
 # Auriel M.V. Fournier
 PhD Candidate - University of Arkansas  
 Arkansas Cooperative Fish and Wildlife Research Unit   
@@ -71,8 +68,6 @@ May - August 2009
 *In Review* **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin**  
 
 2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. *Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)*. **[The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29)** 27: 881-886
-
-\newpage
 
 ## Work Experience
 **Environmental Education Internship**  
@@ -177,8 +172,6 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 2015 Summer field work capturing rails to take feather samples for stable isotope project with Bird Studies Canada in Saskatchewan. 
 -->
 
-\newpage
-
 ## Professional Licenses and Certifications
 
 **Software Carpentry Instructor** [Software Carpentry](https://software-carpentry.org/index.html) - (5/2015)  
@@ -215,8 +208,6 @@ Oriented new students to campus resources, taught study skills.
 Ornithology  
 Spring Semester 2011  
 Lead field trips, gave guest lecture, gave field quizzes. 
-
-\newpage
 
 ## Honors 
 
