@@ -3,8 +3,8 @@ output: pdf_document
 ---
 # Auriel M.V. Fournier
 PhD Candidate - University of Arkansas  
-Arkansas Cooperative Fish and Wildlife Research Unit   
-Associate Wildlife Biologist ©  
+[Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/)
+[Associate Wildlife Biologist ©](http://wildlife.org/learn/professional-development-certification/certification-programs/)  
 amvander@uark.edu - [/@RallidaeRule](https://twitter.com/RallidaeRule) - 419.307.6261  
 [aurielmvfournier.com](http://aurielmvfournier.com/) - [github](https://github.com/aurielfournier) - [Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ)
 
@@ -63,12 +63,13 @@ May - August 2009
 *In Review* Krementz, D.G., **Fournier, A.M.V.** Stopover Duration and Survival of Sora (Porzana carolina) during Autumn Migration in Missouri. **Journal of Field Ornitholog**
 
 -->
-*In Review* **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA. **Waterbirds**
 
-*In Review* **Fournier, A.M.V %**, Sullivan, A. %, Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)* **Journal of Applied Ecology**    
+*In Review* **Fournier, A.M.V %**, Sullivan, A. %, Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)*   
 - **% The first two authors contributed equally to this manuscript**
 
-*In Review* **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin**  
+*In Review* **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* 
+
+2015 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA. **Waterbirds** 38(3) **In Press**
 
 2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. *Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)*. **[The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29)** 27: 881-886
 
@@ -183,10 +184,10 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 **Software Carpentry Instructor** [Software Carpentry](https://software-carpentry.org/index.html) - (5/2015)  
 [**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society - (3/2015)  
-**Sub-permit bird banding license holder** (12 years experience, handled ~7k birds)  
+**Sub-permit bird banding license holder** (12 years experience, handled ~7k birds)    
+**CPR/First Aid** American Red Cross (4/2014)  
 **NSC Defensive Driving II** National Safety Council (1/2013)  
 **Defensive Driving** AAA Driver Improvement Program (7/2012)  
-**CPR/First Aid** American Red Cross (7/2012)  
 **ATV Rider Certification** ATV Safety Institute (6/2012)
 
 ## Teaching Experience
@@ -227,16 +228,18 @@ Lead field trips, gave guest lecture, gave field quizzes.
 
 ## Service & Outreach  
 
-2013-5 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology   
+2013-5 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management   
 2013-5 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
 2013-5 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas    
+2015 **Presentation** Local Library Science Program, AR  
+2015 **Presentation** Camp War Eagle Summer Camp, Arkansas  
 2015 **Field Trip Leader** The Biggest Week In American Birding Festival  
 2015 **Presentation** Boys and Girls Club of Bentonville, Arkansas STEAM Program   
 2015 **Presentation** Springdale Alternative High School, Springdale, AR    
 2014 **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar  
-2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA  
-2010 **Research Blog** [Boots and Binoculars](aurielfournier.blogspot.com)  
+2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
+2014 **Presentation** Local Library Science Program, AR  
 2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
 2011 **North American Breeding Bird Survey Volunteer** U.S. Geological Survey  
 2013 **Presentation** Springdale Alternative High School, Springdale, AR  
@@ -257,7 +260,7 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 <!---
 2015 *Co-Instructor* **'Taking R to the Next Level' Workshop** American Ornithologists Union Meeting
 -->
-2015 *Instructor* **Graphing with ggplot workshop** University of Arkansas  
+2015 *Instructor* **Graphing with ggplot2 workshop** University of Arkansas  
 2015 *Organized/Attended* **Software Carpentry Workshop** University of Arkansas    
 2015 *Co-Lead* **Social Media for Outreach and Prof Development Workshop** University of Arkansas   
 2014 **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA  
@@ -286,8 +289,8 @@ Treasurer 2014 - Present
 Secretary 2014 - 2015
 Treasurer 2013 - 2014
 
-**Biology Graduate Student Association** University of Arkansas  
-Treasurer 2014 - Present
+**Biology Graduate Student Association** University of Arkansas    
+Treasurer 2014 - Present  
 Vice President 2013 - 2014  
 
 **The Wildlife Society** Student Chapter Michigan Technological University
@@ -304,15 +307,15 @@ Symposium Chair 2010 - 2011
 
 ## Computer Skills
 
-- R
+- R/RStudio
+- Python
 - ArcGIS (9 and 10)
 - LaTeX
-- Markdown
+- Markdown/RMarkdown
 - Program Mark/RMark
 - Git/Github
 - Systat
 - Presence
-- Program Distance
 
 ## Memberships (since)
 
