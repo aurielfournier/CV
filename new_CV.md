@@ -1,5 +1,5 @@
 ---
-output: pdf_document
+output: html_document
 ---
 # Auriel M.V. Fournier
 PhD Candidate - University of Arkansas  
@@ -49,7 +49,7 @@ August 2010 - December 2011
 Dr. David Flaspohler  
 May 2010 - March 2011  
 
-- Examined variation in eye color across the range of Golden-winged Warblers. Presented poster. 
+- Examined variation in eye color across the range of Golden-winged Warblers. [Presented poster.](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
 
 **Summer Undergraduate Research Fellowship**  
 Dr. David Flaspohler  
@@ -62,8 +62,7 @@ May - August 2009
 <!---
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration Timing of Virginia Rail and Sora. **Condor**
 
-*In Review* Krementz, D.G., **Fournier, A.M.V.** Stopover Duration and Survival of Sora (Porzana carolina) during Autumn Migration in Missouri. **Journal of Field Ornitholog**
-
+*In Review* Krementz, D.G., **Fournier, A.M.V.** Stopover Duration and Survival of Sora (Porzana carolina) during Autumn Migration in Missouri. **Journal of Field Ornithology**
 -->
 
 *In Review* **Fournier, A.M.V %**, Sullivan, A. %, Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)*   
@@ -71,9 +70,9 @@ May - August 2009
 
 *In Review* **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* 
 
-2015 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA. **Waterbirds** 38(3) **In Press**
+2015 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38(3) **In Press**
 
-2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. *Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)*. **[The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29)** 27: 881-886
+2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **[The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29)** 27: 881-886
 
 \newpage
 
@@ -118,10 +117,12 @@ coordinated site access on local, state, federal and military properties
 
 **Bird Bander**  
 Black Swamp Bird Observatory - Mark & Julie Shieldcastle - Spring and Fall 2004-2008
+
 - Volunteered atleast weekly during both spring and fall migration working at Black Swamp Bird Observatory's banding station. Extracted thousands of birds over the five years, was trusted to help train volunteers and extract birds solo even on very busy days or under harsh conditions. Banded hundreds of passerines. 
 
 **Bird Bander**  
 Green Creek Wildlife Society - Tom Kashmer - 2002-2008  
+
 - Volunteered weekly throughout the year on various field projects. Primarily the rail migration project, checking traps, banding birds and taking vegetation data. Also helped with a wide variety of mist netting projects, including public education programs. Also checked fish and turtle traps, banded hundreds of fledgling Eastern Bluebirds and monitored a bluebird trail for many years. 
 
 ## Posters
@@ -138,12 +139,11 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 ## Presentations
 
-<!---
-2015 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. Timing of Autumn Migration in the Mississippi Flyway by Rails *Association of Field Ornithologists Meeting*
+2015 **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* [pdf](http://doi.org/5m5)
 
-2015 **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (Rallus limicola). *American Ornithologists Union/Cooper Ornithologial Society Meeting*
+2015 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. Timing of Autumn Migration in the Mississippi Flyway by Rails *Association of Field Ornithologists Meeting* [pdf](http://doi.org/5ks
+)
 
--->
 2014 **Fournier, A.M.V.,** Krementz, D.G. The Response of Fall Migrating Sora to Wetland Management *Arkansas State Chapter of the Wildlife Society Spring Meeting*
 
 2014 **Fournier, A.M.V.,** Krementz, D.G. The Use of U.A.V.s to Assess Wetland Vegetation Interspersion *Arkansas State Chapter of The Wildlife Society Spring Meeting*
@@ -174,13 +174,9 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 2009 **Summer Undergraduate Research Fellowship** $3000 Habitat classification and Biological Inventory of Pioneer Scout Reservation
 
-<!---
 ## International Experience
 
-2015 Summer field work capturing rails to take feather samples for stable isotope project with Bird Studies Canada in Saskatchewan. 
--->
-
-\newpage
+2015 **Wetland Field Work Capturing Rails** Bird Studies Canada, Foam Lake, Saskatchewan. 
 
 ## Professional Licenses and Certifications
 
@@ -201,7 +197,7 @@ Teaching weekly labs on taxonomy and wetland field methods. Giving lectures, gra
 **Science Writing Tutor**  
 Quality Writing Center - University of Arkansas  
 January 2014 - Present  
-- Tutoring undergraduate and graduate students on proper scientific writing 8-15 hours a week. Editing thesis,
+Tutoring undergraduate and graduate students on proper scientific writing 8-15 hours a week. Editing thesis,
 dissertations, lab reports and other writing.
 
 **Teaching Assistant** Michigan Technological University   
@@ -223,7 +219,7 @@ Lead field trips, gave guest lecture, gave field quizzes.
 
 ## Honors 
 
-2012 **Distinguished Doctoral Fellowship** - University of Arkansas  
+2012 - Present **Distinguished Doctoral Fellowship** - University of Arkansas  
 2011 **Outstanding Senior in Wildlife Ecology and Management** - Michigan Tech   
 2010 **Member of the Year** - The Wildlife Society Michigan Tech Student Chapter  
 2009 **Woman of Promise** - School of Forest Resources and Envi. Sci. - Michigan Tech
@@ -234,6 +230,7 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2013-5 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
 2013-5 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas    
+2015 **Editor** Science and Math Section of Science Borealis  
 2015 **Presentation** Local Library Science Program, AR  
 2015 **Presentation** Camp War Eagle Summer Camp, Arkansas  
 2015 **Field Trip Leader** The Biggest Week In American Birding Festival  
@@ -247,7 +244,7 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2013 **Presentation** Springdale Alternative High School, Springdale, AR  
 2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI   
 2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
-2011 **Outdoor Educator** W. U.P. Center for Science, Math and Envi. Education  
+2011 **Outdoor Educator** W. U.P. Center for Science, Math and Envi. Education   
 2011 **Owl Survey Volunteer** Michigan Bird Conservation Initiative  
 2010 **Presentation** Copper Country Audubon Society  
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
@@ -259,28 +256,16 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2007 **Presentation** Ohio Young Birder's Club Conference 
 
 ## Professional Development
-<!---
-2015 *Co-Instructor* **'Taking R to the Next Level' Workshop** American Ornithologists Union Meeting
--->
+2015 *Instructor* **'Taking R to the Next Level' Workshop** American Ornithologists Union Meeting  
 2015 *Instructor* **Graphing with ggplot2 workshop** University of Arkansas  
 2015 *Organized/Attended* **Software Carpentry Workshop** University of Arkansas    
-2015 *Co-Lead* **Social Media for Outreach and Prof Development Workshop** University of Arkansas   
+2015 *Instructor* **Social Media for Outreach and Prof Development Workshop** University of Arkansas   
 2014 **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA  
-2014 **The Wildlife Society National Conference** Pittsburgh, PA  
-2014 **Midwest Bird Conservation and Monitoring Conference** Port Washington, WI   
 2014 **Applied Hierarchical Modeling Workshop** Patuxent Wildlife Research Center/Royle & Kery   
 2013 **'Adehabitat' R Package Workshop** The Wildlife Society National Con/James Sheppard  
 2013 **Symposium Planning Committee** The Wildlife Society National Con, Milwaukee, WI  
 2013 **Occupancy Modeling Short Course** Humboldt State U./Darryl MacKenzie  
-2013 **The Wildlife Society National Conference** Milwaukee, WI  
-2011 **The Wildlife Society National Conference** Waikialoa, HI   
-2011 **Midwest Bird Conservation and Monitoring Conference** Rockford, IL  
 2011 **Guest Lecture** Ornithology - Michigan Tech. Univ. - 'Migration and Navigation'  
-2010 **Midwest Fish and Wildlife Conference** Minneapolis, MN  
-2010 **The Wildlife Society National Conference** Snowbird, UT  
-2010 **Wildlife Diversity Conference** Ohio Department of Natural Resources - Columbus, OH  
-2009 **International Association of Great Lakes Researchers Conference** Toledo, OH   
-2009 **Wildlife Diversity Conference** Ohio Department of Natural Resources - Columbus, OH  
 
 ## Leadership
 
@@ -316,6 +301,7 @@ Symposium Chair 2010 - 2011
 - Markdown/RMarkdown
 - Program Mark/RMark
 - Git/Github
+- Unix Shell
 - Systat
 
 ## Memberships (since)
