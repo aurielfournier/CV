@@ -1,17 +1,18 @@
 ---
-output: html_document
+output: pdf_document
 ---
 # Auriel M.V. Fournier
 PhD Candidate - University of Arkansas  
 [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/)  
 [Associate Wildlife Biologist ©](http://wildlife.org/learn/professional-development-certification/certification-programs/)  
-amvander@uark.edu - [/@RallidaeRule](https://twitter.com/RallidaeRule) - 419.307.6261  
-[aurielmvfournier.com](http://aurielmvfournier.com/) - [github](https://github.com/aurielfournier) - [Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ)
+amvander@uark.edu - [@ RallidaeRule](https://twitter.com/RallidaeRule) - 419.307.6261  
+[aurielfournier.github.io](http://aurielfournier.github.io/) - [Github](https://github.com/aurielfournier) - [Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ)
 
 ## Education
 
 PhD in **Biological Sciences - Ecology and Evolutionary Biology**   
-2017 (expected) **University of Arkansas** Fayetteville, AR   
+2017 (expected) Arkansas Cooperative Fish and Wildlife Research Unit  
+**University of Arkansas** Fayetteville, AR  
 Distinguished Doctoral Fellowship Recipient
 
 Master of Science in **Statistics and Analytics - Bioanalytics**  
@@ -19,8 +20,7 @@ Master of Science in **Statistics and Analytics - Bioanalytics**
 
 Bachelor of Science in **Wildlife Ecology and Management**  
 2011 **Michigan Technological University** Houghton, MI  
-Minor *Remote Sensing*  
-Magna Cum Laude
+Minor *Remote Sensing* - Magna Cum Laude
 
 ## Research Experience
 **Graduate Research Assistant** Dr. David Krementz  
@@ -60,9 +60,15 @@ May - August 2009
 ## Publications  
 
 <!---
-*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration Timing of Virginia Rail and Sora. **Condor**
+*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration Timing of Sora in Missouri, USA.
 
-*In Review* Krementz, D.G., **Fournier, A.M.V.** Stopover Duration and Survival of Sora (Porzana carolina) during Autumn Migration in Missouri. **Journal of Field Ornithology**
+*In Review* Krementz, D.G., Collier, B., **Fournier, A.M.V.** Stopover Duration and Survival of Sora (Porzana carolina) during Autumn Migration in Missouri. 
+
+*In Review* **Fournier, A.M.V.**, Krementz D.G., Naylor, L. Collier, B. _Population size and survival of temperate nesting Canada Geese in Arkansas_
+
+*In Review* Welsh, K.J., Polito, M., Emslie, S., **Fournier, A.M.V.** Diet and mercury availability in Clapper Rails (Rallus longirostris) from museum specimens in North Carolina
+
+*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration timing of Virginia Rail in Missouri, USA. 
 -->
 
 *In Review* **Fournier, A.M.V %**, Sullivan, A. %, Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)*   
@@ -73,8 +79,6 @@ May - August 2009
 2015 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38(3) **In Press**
 
 2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **[The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29)** 27: 881-886
-
-\newpage
 
 ## Work Experience
 **Environmental Education Internship**  
@@ -137,6 +141,8 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 2010 **Fournier, A.M.V.,** Flaspohler, D.J., Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
+\newpage
+
 ## Presentations
 
 2015 **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* [pdf](http://doi.org/5m5)
@@ -182,7 +188,7 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 **Software Carpentry Instructor** [Software Carpentry](https://software-carpentry.org/index.html) - (5/2015)  
 [**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society - (3/2015)  
-**Sub-permit bird banding license holder** (12 years experience, handled ~7k birds)    
+**Sub-permit bird banding license holder** (13 years experience, handled ~7k birds, passerines, rails, owls, have taken blood from 200+ and feathers from 700+ individuals, subpermittee in both the U.S and Canada)    
 **CPR/First Aid** American Red Cross (4/2014)  
 **NSC Defensive Driving II** National Safety Council (1/2013)  
 **Defensive Driving** AAA Driver Improvement Program (7/2012)  
@@ -197,8 +203,7 @@ Teaching weekly labs on taxonomy and wetland field methods. Giving lectures, gra
 **Science Writing Tutor**  
 Quality Writing Center - University of Arkansas  
 January 2014 - Present  
-Tutoring undergraduate and graduate students on proper scientific writing 8-15 hours a week. Editing thesis,
-dissertations, lab reports and other writing.
+Tutoring undergraduate and graduate students on proper scientific writing 8-15 hours a week. Editing thesis, dissertations, lab reports and other writing.
 
 **Teaching Assistant** Michigan Technological University   
 Field Techniques   
@@ -215,57 +220,69 @@ Ornithology
 Spring Semester 2011  
 Lead field trips, gave guest lecture, gave field quizzes. 
 
-\newpage
-
 ## Honors 
 
-2012 - Present **Distinguished Doctoral Fellowship** - University of Arkansas  
-2011 **Outstanding Senior in Wildlife Ecology and Management** - Michigan Tech   
-2010 **Member of the Year** - The Wildlife Society Michigan Tech Student Chapter  
-2009 **Woman of Promise** - School of Forest Resources and Envi. Sci. - Michigan Tech
+2012-16 **Distinguished Doctoral Fellowship** - University of Arkansas  
+2011 **Outstanding Senior in Wildlife Ecology and Management** - Michigan Technological University   
+2010 **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
+2009 **Woman of Promise** - School of Forest Resources and Environmental Science - Michigan Technological University
 
-## Service & Outreach  
+\newpage
+
+## Professional Development
+<!---
+2015 **Editoring in Ornithology Workshop** American Ornithologist Union/Cooper Ornithological Society Meeting
+-->
+2014 **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA  
+2014 **Applied Hierarchical Modeling Workshop** Patuxent Wildlife Research Center/Royle & Kery   
+2013 **'Adehabitat' R Package Workshop** The Wildlife Society National Con/James Sheppard  
+2013 **Symposium Planning Committee** The Wildlife Society National Con, Milwaukee, WI  
+2013 **Occupancy Modeling Short Course** Humboldt State U./Darryl MacKenzie  
+2011 **Guest Lecture** Ornithology - Michigan Technological University
+
+
+## Service 
 
 2013-5 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management   
+2015 **Instructor** _'Taking R to the Next Level' Workshop_ American Ornithologists Union Meeting   
+2015 **Volunteer** American Ornithologists Union Meeting  
+2015 **Presentation Judge** Association of Field Ornithology, Wilson Ornithological Society, Society of Canadian Ornithologists Meeting  
+2015 **Instructor** _Graphing with ggplot2 workshop_ University of Arkansas  
+2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas    
+2015 **Instructor** _Social Media for Outreach and Prof Development Workshop_ University of Arkansas  
+2014 **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar  
+2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
+2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
+2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI   
+2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
+2010 **Career Panel Member** Ohio Young Birder's Club Conference  
+
+## Outreach  
+<!---
+2015 **@RealScientist Curator** Curating a week of tweets about my research for @RealScientists
+2015 **@Biotweeps Curator** Curating a week of tweets about my research for @Biotweeps
+-->
 2013-5 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
 2013-5 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas    
-2015 **Editor** Science and Math Section of Science Borealis  
+2015 **Editor** Science and Math Section Editor of [Science Borealis](scienceborealis.ca)  
 2015 **Presentation** Local Library Science Program, AR  
 2015 **Presentation** Camp War Eagle Summer Camp, Arkansas  
 2015 **Field Trip Leader** The Biggest Week In American Birding Festival  
 2015 **Presentation** Boys and Girls Club of Bentonville, Arkansas STEAM Program   
 2015 **Presentation** Springdale Alternative High School, Springdale, AR    
-2014 **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar  
-2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
 2014 **Presentation** Local Library Science Program, AR  
-2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
 2011 **North American Breeding Bird Survey Volunteer** U.S. Geological Survey  
 2013 **Presentation** Springdale Alternative High School, Springdale, AR  
-2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI   
-2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
 2011 **Outdoor Educator** W. U.P. Center for Science, Math and Envi. Education   
 2011 **Owl Survey Volunteer** Michigan Bird Conservation Initiative  
 2010 **Presentation** Copper Country Audubon Society  
-2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 2009 **Presentation** Kirtland Bird Club - Cleveland, OH  
 2009 **Presentation** Copper Country Audubon Society  
 2009 **Bird Bander** (Six years) Black Swamp Bird Observatory  
 2008 **Presentation** Ohio Young Birder's Club Conference   
 2008 **Presentation** Black Swamp Bird Observatory Lunch Lecture  
 2007 **Presentation** Ohio Young Birder's Club Conference 
-
-## Professional Development
-2015 *Instructor* **'Taking R to the Next Level' Workshop** American Ornithologists Union Meeting  
-2015 *Instructor* **Graphing with ggplot2 workshop** University of Arkansas  
-2015 *Organized/Attended* **Software Carpentry Workshop** University of Arkansas    
-2015 *Instructor* **Social Media for Outreach and Prof Development Workshop** University of Arkansas   
-2014 **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA  
-2014 **Applied Hierarchical Modeling Workshop** Patuxent Wildlife Research Center/Royle & Kery   
-2013 **'Adehabitat' R Package Workshop** The Wildlife Society National Con/James Sheppard  
-2013 **Symposium Planning Committee** The Wildlife Society National Con, Milwaukee, WI  
-2013 **Occupancy Modeling Short Course** Humboldt State U./Darryl MacKenzie  
-2011 **Guest Lecture** Ornithology - Michigan Tech. Univ. - 'Migration and Navigation'  
 
 ## Leadership
 
@@ -280,8 +297,8 @@ Treasurer 2013 - 2014
 Treasurer 2014 - Present  
 Vice President 2013 - 2014  
 
-**The Wildlife Society** Student Chapter Michigan Technological University
-Activaties Chair 2008 - 2011  
+**The Wildlife Society** Student Chapter Michigan Technological University  
+Activities Chair 2008 - 2011  
 
 **The Honors Institute** Michigan Technological University   
 Treasurer, Secretary, Committee Chair 2008 - 2011  
@@ -302,7 +319,6 @@ Symposium Chair 2010 - 2011
 - Program Mark/RMark
 - Git/Github
 - Unix Shell
-- Systat
 
 ## Memberships (since)
 
