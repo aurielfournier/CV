@@ -15,9 +15,6 @@ PhD in **Biological Sciences - Ecology and Evolutionary Biology**
 **University of Arkansas** Fayetteville, AR  
 Distinguished Doctoral Fellowship Recipient
 
-Master of Science in **Statistics and Analytics - Bioanalytics**  
-2017 (expected) **University of Arkansas** Fayetteville, AR
-
 Bachelor of Science in **Wildlife Ecology and Management**  
 2011 **Michigan Technological University** Houghton, MI  
 Minor *Remote Sensing* - Magna Cum Laude
