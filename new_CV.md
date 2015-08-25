@@ -54,11 +54,13 @@ May - August 2009
 <!---
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration Timing of Sora in Missouri, USA.
 
-*In Review* Krementz, D.G., Collier, B., **Fournier, A.M.V.** Stopover Duration and Survival of Sora (Porzana carolina) during Autumn Migration in Missouri. 
+*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in Missouri, USA.
+
+*In Review* Krementz, D.G., Collier, B., **Fournier, A.M.V.** Stopover Duration of Sora during Autumn Migration in Missouri. 
 
 *In Review* **Fournier, A.M.V.**, Krementz D.G., Naylor, L. Collier, B. _Population size and survival of temperate nesting Canada Geese in Arkansas_
 
-*In Review* Welsh, K.J., Polito, M., Emslie, S., **Fournier, A.M.V.** Diet and mercury availability in Clapper Rails (Rallus longirostris) from museum specimens in North Carolina
+*In Review* **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S.  Diet and mercury availability in Clapper Rails (Rallus longirostris) from museum specimens in North Carolina
 
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration timing of Virginia Rail in Missouri, USA. 
 -->
@@ -68,7 +70,7 @@ May - August 2009
 2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **[The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29)** 27: 881-886
 
 *In Review* **Fournier, A.M.V %**, Sullivan, A. %, Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)*   
-- **% The first two authors contributed equally to this manuscript**
+**% The first two authors contributed equally to this manuscript**
 
 *In Review* **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* 
 
@@ -138,8 +140,7 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 2015 **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* [pdf](http://doi.org/5m5)
 
-2015 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. Timing of Autumn Migration in the Mississippi Flyway by Rails *Association of Field Ornithologists Meeting* [pdf](http://doi.org/5ks
-)
+2015 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. Timing of Autumn Migration in the Mississippi Flyway by Rails *Association of Field Ornithologists Meeting* [pdf](http://doi.org/5ks)
 
 2014 **Fournier, A.M.V.,** Krementz, D.G. The Response of Fall Migrating Sora to Wetland Management *Arkansas State Chapter of the Wildlife Society Spring Meeting*
 
