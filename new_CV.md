@@ -220,7 +220,7 @@ Lead field trips, gave guest lecture, gave field quizzes.
 
 ## Professional Development
 
-2015 **Editoring in Ornithology Workshop** American Ornithologist Union/Cooper Ornithological Society Meeting
+2015 **Editoring in Ornithology Workshop** American Ornithologist Union/Cooper Ornithological Society Meeting  
 2014 **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA  
 2014 **Applied Hierarchical Modeling Workshop** Patuxent Wildlife Research Center/Royle & Kery   
 2013 **'Adehabitat' R Package Workshop** The Wildlife Society National Con/James Sheppard  
@@ -230,7 +230,7 @@ Lead field trips, gave guest lecture, gave field quizzes.
 
 ## Service 
 
-2013-5 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin
+2013-5 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin  
 2015 **Instructor** _'Taking R to the Next Level' Workshop_ American Ornithologists Union Meeting   
 2015 **Volunteer** American Ornithologists Union Meeting  
 2015 **Presentation Judge** Association of Field Ornithology, Wilson Ornithological Society, Society of Canadian Ornithologists Meeting  
