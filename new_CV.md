@@ -1,6 +1,3 @@
----
-output: pdf_document
----
 # Auriel M.V. Fournier
 PhD Candidate - University of Arkansas  
 [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/)  
@@ -40,8 +37,6 @@ August 2010 - December 2011
 
 - Developed a morphometric model to predict the sex of Virginia Rails. Published in [The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29).
 
-\newpage
-
 **Undergraduate Research Grant**   
 Dr. David Flaspohler  
 May 2010 - March 2011  
@@ -68,14 +63,15 @@ May - August 2009
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration timing of Virginia Rail in Missouri, USA. 
 -->
 
+2015 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38(3) **In Press**
+
+2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **[The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29)** 27: 881-886
+
 *In Review* **Fournier, A.M.V %**, Sullivan, A. %, Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)*   
 - **% The first two authors contributed equally to this manuscript**
 
 *In Review* **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* 
 
-2015 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38(3) **In Press**
-
-2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **[The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29)** 27: 881-886
 
 ## Work Experience
 **Environmental Education Internship**  
@@ -137,8 +133,6 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 2011 **Fournier, A.M.V.,** Roth, A.M., Flaspohler, D.J., Assessing mechanisms for variation in the eyes of Golden-winged Warblers *Ecosystem Science Center Poster Session* - MI  [pdf](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
 
 2010 **Fournier, A.M.V.,** Flaspohler, D.J., Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
-
-\newpage
 
 ## Presentations
 
@@ -224,8 +218,6 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2010 **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
 2009 **Woman of Promise** - School of Forest Resources and Environmental Science - Michigan Technological University
 
-\newpage
-
 ## Professional Development
 
 2015 **Editoring in Ornithology Workshop** American Ornithologist Union/Cooper Ornithological Society Meeting
@@ -235,7 +227,6 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2013 **Symposium Planning Committee** The Wildlife Society National Con, Milwaukee, WI  
 2013 **Occupancy Modeling Short Course** Humboldt State U./Darryl MacKenzie  
 2011 **Guest Lecture** Ornithology - Michigan Technological University
-
 
 ## Service 
 
