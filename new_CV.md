@@ -315,4 +315,5 @@ National, State, Student Chapter, Student Development Working Group, Wetlands Wo
 2012 **American Ornithologist Union**  
 2012 **Association of Field Ornithologists**    
 2012 **The Waterbirds Society**  
+2015 **Wilson Ornithological Society**
 2003 **Black Swamp Bird Observatory** 
