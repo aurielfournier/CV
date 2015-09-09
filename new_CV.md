@@ -77,7 +77,8 @@ May - August 2009
 
 2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **[The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29)** 27: 881-886
 
-*In Review* **Fournier, A.M.V %**, Sullivan, A. %, Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)* % The first two authors contributed equally to this manuscript
+*In Review* **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)*   
+The first two authors contributed equally to this manuscript
 
 *In Review* **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* 
 
@@ -124,7 +125,7 @@ coordinated site access on local, state, federal and military properties
 **Bird Bander**  
 Black Swamp Bird Observatory - Mark & Julie Shieldcastle - Spring and Fall 2004-2008
 
-- Volunteered atleast weekly during both spring and fall migration working at Black Swamp Bird Observatory's banding station. Extracted thousands of birds over the five years, was trusted to help train volunteers and extract birds solo even on very busy days or under harsh conditions. Banded hundreds of passerines. 
+- Volunteered at least weekly during both spring and fall migration working at Black Swamp Bird Observatory's banding station. Extracted thousands of birds over the five years, was trusted to help train volunteers and extract birds solo even on very busy days or under harsh conditions. Banded hundreds of passerines. 
 
 **Bird Bander**  
 Green Creek Wildlife Society - Tom Kashmer - 2002-2008  
@@ -149,21 +150,21 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 2015 **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* [pdf](http://doi.org/5m5)
 
-2015 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. Timing of Autumn Migration in the Mississippi Flyway by Rails *Association of Field Ornithologists Meeting* [pdf](http://doi.org/5ks)
+2015 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. Timing of Autumn Migration in the Mississippi Flyway by Rails. *Association of Field Ornithologists Meeting* [pdf](http://doi.org/5ks)
 
-2014 **Fournier, A.M.V.,** Krementz, D.G. The Response of Fall Migrating Sora to Wetland Management *Arkansas State Chapter of the Wildlife Society Spring Meeting*
+2014 **Fournier, A.M.V.,** Krementz, D.G. The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*
 
-2014 **Fournier, A.M.V.,** Krementz, D.G. The Use of U.A.V.s to Assess Wetland Vegetation Interspersion *Arkansas State Chapter of The Wildlife Society Spring Meeting*
+2014 **Fournier, A.M.V.,** Krementz, D.G. The Use of U.A.V.s to Assess Wetland Vegetation Interspersion. *Arkansas State Chapter of The Wildlife Society Spring Meeting*
 
-2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Phenology, Habitat Use of Fall Migrating Rails in Missouri. *Missouri Department of Conservation Annual Meeting*  
+2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use of Fall Migrating Rails in Missouri. *Missouri Department of Conservation Annual Meeting*  
 
-2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Phenology, Habitat Use of Fall Migrating Rails in Missouri *Arkansas Coop Fish & Wildlife Research Unit Annual Meeting*
+2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use of Fall Migrating Rails in Missouri. *Arkansas Coop Fish & Wildlife Research Unit Annual Meeting*
 
-2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Phenology, Habitat Use and CoOccurrence of Fall Migrating Yellow Rails in Missouri *Yellow Rail Virtual Symposium,* USFWS
+2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium,* USFWS
 
 ## Grants
 
-2015 *Co-Pi* **Missouri Department of Conservation Research Grant** $62,000 Effects of Wetland Management Strategies on Habitat Use of Autumn Migrating Rails on Intensively Managed Wetland Complexes in Missouri
+2015 *Co-PI* **Missouri Department of Conservation Research Grant** $62,000 Effects of Wetland Management Strategies on Habitat Use of Autumn Migrating Rails on Intensively Managed Wetland Complexes in Missouri
 
 2015 **Travel Grant** $320 American Ornithologists Union/Cooper Ornithological Society Conference  
 
@@ -175,11 +176,11 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 2011 **Summer Undergraduate Research Fellowship** $3000 Developing A Morphometric Model to Predict the Sex of Virginia Rails 
 
-2011  **Ecosystem Science Center Undergraduate Research Grant** $750 What are the breeding and wintering areas of Virginia Rails which migrate through NW Ohio  
+2011  **Ecosystem Science Center Undergraduate Research Grant** $750 What are the Breeding and Wintering Areas of Virginia Rails Which Migrate Through NW Ohio?
 
-2010  **Ecosystem Science Center Undergraduate Research Grant** $750 Assessing the relationship between eye spotting and breeding location in Golden-winged Warblers  
+2010  **Ecosystem Science Center Undergraduate Research Grant** $750 Assessing the Relationship Between Eye-Spotting and Breeding Location in Golden-winged Warblers  
 
-2009 **Summer Undergraduate Research Fellowship** $3000 Habitat classification and Biological Inventory of Pioneer Scout Reservation
+2009 **Summer Undergraduate Research Fellowship** $3000 Habitat Classification and Biological Inventory of Pioneer Scout Reservation
 
 ## International Experience
 
@@ -286,14 +287,14 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 ## Leadership
 
 **Student Development Working Group** The Wildlife Society  
-Treasurer 2014 - Present
+Treasurer 2014 - 2015
 
-**The Wildlife Society** Student Chapter University of Arkansas  
-Secretary 2014 - 2015
+**The Wildlife Society** Student Chapter University of Arkansas    
+Secretary 2014 - 2015  
 Treasurer 2013 - 2014
 
-**Biology Graduate Student Association** University of Arkansas    
-Treasurer 2014 - Present  
+**Biology Graduate Student Association** University of Arkansas      
+Treasurer 2014 - Present    
 Vice President 2013 - 2014  
 
 **The Wildlife Society** Student Chapter Michigan Technological University  
