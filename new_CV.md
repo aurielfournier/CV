@@ -1,9 +1,14 @@
-# Auriel M.V. Fournier
+---
+output: pdf_document
+---
+Auriel M.V. Fournier
+=============================
 PhD Candidate - University of Arkansas  
 [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/)  
-[Associate Wildlife Biologist Â©](http://wildlife.org/learn/professional-development-certification/certification-programs/)  
-amvander@uark.edu - [@ RallidaeRule](https://twitter.com/RallidaeRule) - 419.307.6261  
-[aurielfournier.github.io](http://aurielfournier.github.io/) - [Github](https://github.com/aurielfournier) - [Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ)
+[Associate Wildlife Biologist ©](http://wildlife.org/learn/professional-development-certification/certification-programs/)  
+amvander@uark.edu - 419.307.6261  
+[aurielfournier.github.io](http://aurielfournier.github.io/) - [Github](https://github.com/aurielfournier)  
+[Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) - [(@)RallidaeRule](https://twitter.com/RallidaeRule)
 
 ## Education
 
@@ -17,7 +22,8 @@ Bachelor of Science in **Wildlife Ecology and Management**
 Minor *Remote Sensing* - Magna Cum Laude
 
 ## Research Experience
-**Graduate Research Assistant** Dr. David Krementz  
+**Graduate Research Assistant**  
+Dr. David Krementz  
 Arkansas Cooperative Fish and Wildlife Research Unit - University of Arkansas  
 August 2012 - Present
 
@@ -36,6 +42,8 @@ Dr. Joseph Bump
 August 2010 - December 2011  
 
 - Developed a morphometric model to predict the sex of Virginia Rails. Published in [The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29).
+
+\newpage
 
 **Undergraduate Research Grant**   
 Dr. David Flaspohler  
@@ -69,8 +77,7 @@ May - August 2009
 
 2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **[The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29)** 27: 881-886
 
-*In Review* **Fournier, A.M.V %**, Sullivan, A. %, Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)*   
-**% The first two authors contributed equally to this manuscript**
+*In Review* **Fournier, A.M.V %**, Sullivan, A. %, Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)* % The first two authors contributed equally to this manuscript
 
 *In Review* **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* 
 
@@ -136,6 +143,8 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 2010 **Fournier, A.M.V.,** Flaspohler, D.J., Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
+\newpage
+
 ## Presentations
 
 2015 **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* [pdf](http://doi.org/5m5)
@@ -154,7 +163,7 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 ## Grants
 
-2015 *Co-Pi* **Missouri Department of Conservation Research Grant** $55,000 Effects of Wetland Management Strategies on Habitat Use of Autumn Migrating Rails on Intensively Managed Wetland Complexes in Missouri
+2015 *Co-Pi* **Missouri Department of Conservation Research Grant** $62,000 Effects of Wetland Management Strategies on Habitat Use of Autumn Migrating Rails on Intensively Managed Wetland Complexes in Missouri
 
 2015 **Travel Grant** $320 American Ornithologists Union/Cooper Ornithological Society Conference  
 
@@ -219,9 +228,11 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2010 **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
 2009 **Woman of Promise** - School of Forest Resources and Environmental Science - Michigan Technological University
 
+\newpage
+
 ## Professional Development
 
-2015 **Editoring in Ornithology Workshop** American Ornithologist Union/Cooper Ornithological Society Meeting  
+2015 **Editoring in Ornithology Workshop** American Ornithologist Union Meeting  
 2014 **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA  
 2014 **Applied Hierarchical Modeling Workshop** Patuxent Wildlife Research Center/Royle & Kery   
 2013 **'Adehabitat' R Package Workshop** The Wildlife Society National Con/James Sheppard  
@@ -315,5 +326,5 @@ National, State, Student Chapter, Student Development Working Group, Wetlands Wo
 2012 **American Ornithologist Union**  
 2012 **Association of Field Ornithologists**    
 2012 **The Waterbirds Society**  
-2015 **Wilson Ornithological Society**
+2015 **Wilson Ornithological Society**  
 2003 **Black Swamp Bird Observatory** 
