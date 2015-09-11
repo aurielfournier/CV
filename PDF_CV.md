@@ -19,14 +19,16 @@ PhD Candidate - University of Arkansas - Fayetteville & amvander@uark.edu \\
 
 ## Education
 
-PhD in **Biological Sciences - Ecology and Evolutionary Biology**   
-2017 (expected) Arkansas Cooperative Fish and Wildlife Research Unit  
-**University of Arkansas** Fayetteville, AR  
+\begin{tabular*}{7in}{l@{\extracolsep{\fill}}r}
+PhD in \textbf{Biological Sciences - Ecology and Evolutionary Biology} & 2017 (expected) \\
+Arkansas Cooperative Fish and Wildlife Research Unit \textbf{University of Arkansas} & Fayetteville, AR \\  
 Distinguished Doctoral Fellowship Recipient
+\end{tabular*}
 
-Bachelor of Science in **Wildlife Ecology and Management**  
-2011 **Michigan Technological University** Houghton, MI  
-Minor *Remote Sensing* - Magna Cum Laude
+\begin{tabular*}{7in}{l@{\extracolsep{\fill}}r}
+Bachelor of Science in \textbf{Wildlife Ecology and Management} & 2011 \\ \textbf{Michigan Technological University} & Houghton, MI \\  
+Minor \textbf{Remote Sensing} & Magna Cum Laude \\
+\end{tabular*}
 
 ## Research Experience
 **Graduate Research Assistant**  
@@ -34,35 +36,32 @@ Dr. David Krementz
 Arkansas Cooperative Fish and Wildlife Research Unit - University of Arkansas  
 August 2012 - Present
 
-- Effects of wetland management strategies on habitat use of fall migrating rails on intensively managed wetland complexes in Missouri. Performing distance based nocturnal ATV surveys for rails in wetland impoundments across the
-state of Missouri. Managing a four person field crew, working closely with state and federal land managers. Capturing rails, taking blood and feather samples.
+Effects of wetland management strategies on habitat use of fall migrating rails on intensively managed wetland complexes in Missouri. Performing distance based nocturnal ATV surveys for rails in wetland impoundments across the state of Missouri. Managing a four person field crew, working closely with state and federal land managers. Capturing rails, taking blood and feather samples.
 
 **Undergraduate Research Grant**  
 Dr. Joseph Bump  
 Michigan Technological University  
 May 2011 - Present  
 
-- Assessing the breeding location of Virginia Rails migrating through NW Ohio using stable isotopes. Manuscript In Review. 
+Assessing the breeding location of Virginia Rails migrating through NW Ohio using stable isotopes. Manuscript In Review. 
 
 **Summer Undergraduate Research Fellowship**  
 Dr. Joseph Bump  
 August 2010 - December 2011  
 
-- Developed a morphometric model to predict the sex of Virginia Rails. Published in [The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29).
-
-\newpage
+Developed a morphometric model to predict the sex of Virginia Rails. Published in [The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29).
 
 **Undergraduate Research Grant**   
 Dr. David Flaspohler  
 May 2010 - March 2011  
 
-- Examined variation in eye color across the range of Golden-winged Warblers. [Presented poster.](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
+Examined variation in eye color across the range of Golden-winged Warblers. [Presented poster.](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
 
 **Summer Undergraduate Research Fellowship**  
 Dr. David Flaspohler  
 May - August 2009  
 
-- Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented poster. 
+Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented poster. 
 
 ## Publications  
 
@@ -95,36 +94,36 @@ The first two authors contributed equally to this manuscript
 Kellogg Bird Sanctuary, Michigan State University
 May - July 2012  
 
-- Planned and led outdoor education programs for all ages. Developed a social media plan.
+Planned and led outdoor education programs for all ages. Developed a social media plan.
 
 **Bird Bander**  
 The Big Island, Hawaii  February - May 2012   
 
-- Banded endemic and endangered birds in isolated forest patches on the Big Island of Hawaii. Operated double high mist-nets to capture birds and take blood and feather samples.
+Banded endemic and endangered birds in isolated forest patches on the Big Island of Hawaii. Operated double high mist-nets to capture birds and take blood and feather samples.
 
 **Field Technician**  
 Isle Royale National Park - Dr. Joseph Bump  May 2011  
  
-- Worked full-time constructing aquatic moose and beaver exclosures in small inland lakes at Isle
+Worked full-time constructing aquatic moose and beaver exclosures in small inland lakes at Isle
 Royale National Park to study the affect of herbivory on plant communities.
 
 **Remote Sensing/GIS Technician**  
 Michigan Technological University - Dr. Mike Falkowski  February 2010 - December 2011  
 
-- Delineated cover type from color and B/W photos from past seventy years; Identified beaver dams
+Delineated cover type from color and B/W photos from past seventy years; Identified beaver dams
 and identified water bodies were created by the dams; Processed raw LiDAR data into maps for
 later interpretation
 
 **Field Technician**   
 Michigan Technological University  July 2010  
 
-- Trapped small mammals; Performed nocturnal audio boat surveys for frogs; Frequently talked to
+Trapped small mammals; Performed nocturnal audio boat surveys for frogs; Frequently talked to
 public about project
 
 **Field Crew Leader**  
 Michigan Technological University - Dr. Amber Roth  March - June 2010  
 
-- Led a crew of three to gather blood, feather and toenail samples of Blue-winged and Golden-winged
+Led a crew of three to gather blood, feather and toenail samples of Blue-winged and Golden-winged
 Warblers across five study sites in Minnesota and Wisconsin; Developed the time line, budget and
 travel plans as to cover the largest area and gather the most samples; Established contact and
 coordinated site access on local, state, federal and military properties
@@ -132,12 +131,12 @@ coordinated site access on local, state, federal and military properties
 **Bird Bander**  
 Black Swamp Bird Observatory - Mark & Julie Shieldcastle - Spring and Fall 2004-2008
 
-- Volunteered at least weekly during both spring and fall migration working at Black Swamp Bird Observatory's banding station. Extracted thousands of birds over the five years, was trusted to help train volunteers and extract birds solo even on very busy days or under harsh conditions. Banded hundreds of passerines. 
+Volunteered at least weekly during both spring and fall migration working at Black Swamp Bird Observatory's banding station. Extracted thousands of birds over the five years, was trusted to help train volunteers and extract birds solo even on very busy days or under harsh conditions. Banded hundreds of passerines. 
 
 **Bird Bander**  
 Green Creek Wildlife Society - Tom Kashmer - 2002-2008  
 
-- Volunteered weekly throughout the year on various field projects. Primarily the rail migration project, checking traps, banding birds and taking vegetation data. Also helped with a wide variety of mist netting projects, including public education programs. Also checked fish and turtle traps, banded hundreds of fledgling Eastern Bluebirds and monitored a bluebird trail for many years. 
+Volunteered weekly throughout the year on various field projects. Primarily the rail migration project, checking traps, banding birds and taking vegetation data. Also helped with a wide variety of mist netting projects, including public education programs. Also checked fish and turtle traps, banded hundreds of fledgling Eastern Bluebirds and monitored a bluebird trail for many years. 
 
 ## Posters
 
@@ -150,8 +149,6 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 2011 **Fournier, A.M.V.,** Roth, A.M., Flaspohler, D.J., Assessing mechanisms for variation in the eyes of Golden-winged Warblers *Ecosystem Science Center Poster Session* - MI  [pdf](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
 
 2010 **Fournier, A.M.V.,** Flaspohler, D.J., Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
-
-\newpage
 
 ## Presentations
 
@@ -168,6 +165,10 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use of Fall Migrating Rails in Missouri. *Arkansas Coop Fish & Wildlife Research Unit Annual Meeting*
 
 2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium,* USFWS
+
+## International Experience
+
+2015 **Wetland Field Work Capturing Rails** Bird Studies Canada, Foam Lake, Saskatchewan. 
 
 ## Grants
 
@@ -189,9 +190,6 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 2009 **Summer Undergraduate Research Fellowship** $3000 Habitat Classification and Biological Inventory of Pioneer Scout Reservation
 
-## International Experience
-
-2015 **Wetland Field Work Capturing Rails** Bird Studies Canada, Foam Lake, Saskatchewan. 
 
 ## Professional Licenses and Certifications
 
@@ -236,8 +234,6 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2010 **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
 2009 **Woman of Promise** - School of Forest Resources and Environmental Science - Michigan Technological University
 
-\newpage
-
 ## Professional Development
 
 2015 **Editoring in Ornithology Workshop** American Ornithologist Union Meeting  
@@ -263,6 +259,8 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI   
 2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
+
+\newpage
 
 ## Outreach  
 <!---
@@ -316,23 +314,9 @@ Founding Member & President 2008 - 2011
 **Xi Sigma Pi Honors Fraternity** Michigan Technological University  
 Symposium Chair 2010 - 2011
 
-## Computer Skills
-
-- R/RStudio
-- Python
-- ArcGIS (9 and 10)
-- LaTeX
-- Markdown/RMarkdown
-- Program Mark/RMark
-- Git/Github
-- Unix Shell
-
 ## Memberships (since)
 
-2008 **The Wildlife Society**   
-National, State, Student Chapter, Student Development Working Group, Wetlands Working Group, Spatial Ecology and Telemetry Working Group   
-2012 **American Ornithologist Union**  
-2012 **Association of Field Ornithologists**    
+2008 **The Wildlife Society**  
+2012 **American Ornithologist Union** & **Association of Field Ornithologists**    
 2012 **The Waterbirds Society**  
 2015 **Wilson Ornithological Society**  
-2003 **Black Swamp Bird Observatory** 
