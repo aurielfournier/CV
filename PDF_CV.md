@@ -320,3 +320,14 @@ Symposium Chair 2010 - 2011
 2012 **American Ornithologist Union** & **Association of Field Ornithologists**    
 2012 **The Waterbirds Society**  
 2015 **Wilson Ornithological Society**  
+
+## Computer Skills
+
+- R/RStudio
+- Python
+- ArcGIS (9 and 10)
+- LaTeX
+- Markdown/RMarkdown
+- Program Mark/RMark
+- Git/Github
+- Unix Shell
