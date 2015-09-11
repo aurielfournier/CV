@@ -1,3 +1,5 @@
+[PDF of CV](https://github.com/aurielfournier/CV/blob/master/PDF_CV.pdf)
+
 Auriel M.V. Fournier
 =============================
 PhD Candidate - University of Arkansas  
@@ -39,8 +41,6 @@ Dr. Joseph Bump
 August 2010 - December 2011  
 
 - Developed a morphometric model to predict the sex of Virginia Rails. Published in [The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29).
-
-\newpage
 
 **Undergraduate Research Grant**   
 Dr. David Flaspohler  
@@ -141,8 +141,6 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 2010 **Fournier, A.M.V.,** Flaspohler, D.J., Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
-\newpage
-
 ## Presentations
 
 2015 **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* [pdf](http://doi.org/5m5)
@@ -225,8 +223,6 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2011 **Outstanding Senior in Wildlife Ecology and Management** - Michigan Technological University   
 2010 **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
 2009 **Woman of Promise** - School of Forest Resources and Environmental Science - Michigan Technological University
-
-\newpage
 
 ## Professional Development
 
