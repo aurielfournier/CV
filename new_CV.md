@@ -1,11 +1,8 @@
----
-output: pdf_document
----
 Auriel M.V. Fournier
 =============================
 PhD Candidate - University of Arkansas  
 [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/)  
-[Associate Wildlife Biologist ©](http://wildlife.org/learn/professional-development-certification/certification-programs/)  
+[Associate Wildlife Biologist Â©](http://wildlife.org/learn/professional-development-certification/certification-programs/)  
 amvander@uark.edu - 419.307.6261  
 [aurielfournier.github.io](http://aurielfournier.github.io/) - [Github](https://github.com/aurielfournier)  
 [Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) - [(@)RallidaeRule](https://twitter.com/RallidaeRule)
