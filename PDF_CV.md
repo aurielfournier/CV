@@ -10,7 +10,7 @@ output: pdf_document
 \Huge\textbf{Auriel M.V. Fournier}  \\
 PhD Candidate - University of Arkansas - Fayetteville & amvander@uark.edu \\
 \href{http://www.coopunits.org/Arkansas/}{Arkansas Cooperative Fish and Wildlife Research Unit} & 419.307.6261 \\
-\href{http://wildlife.org/learn/professional-development-certification/certification-programs/}{Associate Wildlife Biologist ©} & \href{https://twitter.com/RallidaeRule}{@RallidaeRule} \\
+\href{http://wildlife.org/learn/professional-development-certification/certification-programs/}{Associate Wildlife Biologist Â©} & \href{https://twitter.com/RallidaeRule}{@RallidaeRule} \\
 \href{http://aurielfournier.github.io/}{aurielfournier.github.io} &    \href{https://scholar.google.com/citations?user=H0AXRhQAAAAJ}{Google Scholar} \href{https://github.com/aurielfournier}{Github}  
 
 \end{tabular*}
@@ -83,10 +83,11 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **[The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29)** 27: 881-886
 
+*Accepted In Press* **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin**
+
 *In Review* **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)*   
 The first two authors contributed equally to this manuscript
 
-*In Review* **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* 
 
 
 ## Work Experience
