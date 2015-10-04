@@ -4,7 +4,7 @@ Auriel M.V. Fournier
 =============================
 PhD Candidate - University of Arkansas  
 [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/)  
-[Associate Wildlife Biologist Â©](http://wildlife.org/learn/professional-development-certification/certification-programs/)  
+[Associate Wildlife Biologist ©](http://wildlife.org/learn/professional-development-certification/certification-programs/)  
 amvander@uark.edu - 419.307.6261  
 [aurielfournier.github.io](http://aurielfournier.github.io/) - [Github](https://github.com/aurielfournier)  
 [Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) - [(@)RallidaeRule](https://twitter.com/RallidaeRule)
@@ -250,10 +250,8 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
 ## Outreach  
-<!---
-2015 **@RealScientist Curator** Curating a week of tweets about my research for @RealScientists
-2015 **@Biotweeps Curator** Curating a week of tweets about my research for @Biotweeps
--->
+2015 **RealScientist Curator** Curating a week of tweets to 30k+ people about my research for the Twitter Account [RealScientists](https://twitter.com/realscientists)    
+2015 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for the Twitter Account [Biotweeps](https://twitter.com/biotweeps)  
 2013-5 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
 2013-5 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas    

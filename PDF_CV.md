@@ -10,7 +10,7 @@ output: pdf_document
 \Huge\textbf{Auriel M.V. Fournier}  \\
 PhD Candidate - University of Arkansas - Fayetteville & amvander@uark.edu \\
 \href{http://www.coopunits.org/Arkansas/}{Arkansas Cooperative Fish and Wildlife Research Unit} & 419.307.6261 \\
-\href{http://wildlife.org/learn/professional-development-certification/certification-programs/}{Associate Wildlife Biologist Â©} & \href{https://twitter.com/RallidaeRule}{@RallidaeRule} \\
+\href{http://wildlife.org/learn/professional-development-certification/certification-programs/}{Associate Wildlife Biologist ©} & \href{https://twitter.com/RallidaeRule}{@RallidaeRule} \\
 \href{http://aurielfournier.github.io/}{aurielfournier.github.io} &    \href{https://scholar.google.com/citations?user=H0AXRhQAAAAJ}{Google Scholar} \href{https://github.com/aurielfournier}{Github}  
 
 \end{tabular*}
@@ -201,6 +201,21 @@ Volunteered weekly throughout the year on various field projects. Primarily the 
 **ATV Rider Certification** ATV Safety Institute (6/2012)
 
 ## Teaching Experience
+
+**Instructor** American Ornithologists Union Conference  
+_'Taking R to the Next Level' Workshop_   
+Taught a day long workshop on programming, graphing and data management in R  
+
+**Instructor** University of Arkansas  
+_Graphing with ggplot2 workshop_   
+Taught an hour long workshop on graphing in R  
+
+**Instructor** University of Arkansas  
+_Social Media for Outreach and Professional Development Workshop_  
+Taught an hour long workshop on using Twitter and other social media for outreach and professional development  
+
+\newpage
+
 **Teaching Assistant** University of Arkansas    
 Wetlands Ecology and Management  
 Spring Semester 2015  
@@ -246,12 +261,9 @@ Lead field trips, gave guest lecture, gave field quizzes.
 ## Service 
 
 2013-5 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin  
-2015 **Instructor** _'Taking R to the Next Level' Workshop_ American Ornithologists Union Meeting   
 2015 **Volunteer** American Ornithologists Union Meeting  
 2015 **Presentation Judge** Association of Field Ornithology, Wilson Ornithological Society, Society of Canadian Ornithologists Meeting  
-2015 **Instructor** _Graphing with ggplot2 workshop_ University of Arkansas  
 2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas    
-2015 **Instructor** _Social Media for Outreach and Prof Development Workshop_ University of Arkansas  
 2014 **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
 2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
@@ -262,10 +274,8 @@ Lead field trips, gave guest lecture, gave field quizzes.
 \newpage
 
 ## Outreach  
-<!---
-2015 **@RealScientist Curator** Curating a week of tweets about my research for @RealScientists
-2015 **@Biotweeps Curator** Curating a week of tweets about my research for @Biotweeps
--->
+2015 **RealScientist Curator** Curating a week of tweets to 30k+ people about my research for the Twitter Account RealScientists  
+2015 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for the Twitter Account Biotweeps  
 2013-5 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
 2013-5 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas    
