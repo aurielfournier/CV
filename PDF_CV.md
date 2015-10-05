@@ -63,7 +63,7 @@ May - August 2009
 
 Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented poster. 
 
-## Publications  
+## Peer-Reviewed Publications  
 
 <!---
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration Timing of Sora in Missouri, USA.
@@ -87,6 +87,10 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 *In Review* **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)*   
 The first two authors contributed equally to this manuscript
+
+## Technical Publications
+
+**Fournier, A.M.V.,** K. Willard, D. G. Krementz. 2015. King rail nesting and brood rearing ecology in managed wetlands: Final report USFWS Division of Migratory Birds Webless Program
 
 ## Work Experience
 **Environmental Education Internship**  
