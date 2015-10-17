@@ -4,7 +4,7 @@ Auriel M.V. Fournier
 =============================
 PhD Candidate - University of Arkansas  
 [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/)  
-[Associate Wildlife Biologist ©](http://wildlife.org/learn/professional-development-certification/certification-programs/)  
+[Associate Wildlife Biologist Â©](http://wildlife.org/learn/professional-development-certification/certification-programs/)  
 amvander@uark.edu - 419.307.6261  
 [aurielfournier.github.io](http://aurielfournier.github.io/) - [Github](https://github.com/aurielfournier)  
 [Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) - [(@)RallidaeRule](https://twitter.com/RallidaeRule)
@@ -61,9 +61,9 @@ May - August 2009
 
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in Missouri, USA.
 
-*In Review* Krementz, D.G., Collier, B., **Fournier, A.M.V.** Stopover Duration of Sora during Autumn Migration in Missouri. 
+*In Review* Krementz, D.G.,  **Fournier, A.M.V.** Stopover Duration of Sora during Autumn Migration in Missouri. 
 
-*In Review* **Fournier, A.M.V.**, Krementz D.G., Naylor, L. Collier, B. _Population size and survival of temperate nesting Canada Geese in Arkansas_
+*In Review* **Fournier, A.M.V.**, Krementz D.G., Naylor, L. _Population size and survival of temperate nesting Canada Geese in Arkansas_
 
 *In Review* **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S.  Diet and mercury availability in Clapper Rails (Rallus longirostris) from museum specimens in North Carolina
 
@@ -84,6 +84,7 @@ The first two authors contributed equally to this manuscript
 **Fournier, A.M.V.,** K. Willard, D. G. Krementz. 2015. King rail nesting and brood rearing ecology in managed wetlands: Final report USFWS Division of Migratory Birds Webless Program
 
 ## Work Experience
+
 **Environmental Education Internship**  
 Kellogg Bird Sanctuary, Michigan State University
 May - July 2012  
