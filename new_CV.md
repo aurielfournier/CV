@@ -196,6 +196,27 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 **ATV Rider Certification** ATV Safety Institute (6/2012)
 
 ## Teaching Experience
+
+**Instructor** American Ornithologists Union Conference  
+_'Taking R to the Next Level' Workshop_   
+Taught a day long workshop on programming, graphing and data management in R  
+
+**Instructor** University of Arkansas  
+_Graphing with ggplot2 workshop_   
+Taught an hour long workshop on graphing in R  
+
+**Instructor** University of Arkansas  
+_Social Media for Outreach and Professional Development Workshop_  
+Taught an hour long workshop on using Twitter and other social media for outreach and professional development  
+
+
+<!---
+**Teaching Assistant** University of Arkansas  
+Biometry  
+Spring Semester 2016  
+Teaching weekly labs on statistics, experimental design and programming in R. Giving lectures, grading materials. 
+--->
+
 **Teaching Assistant** University of Arkansas    
 Wetlands Ecology and Management  
 Spring Semester 2015  
@@ -241,12 +262,9 @@ Lead field trips, gave guest lecture, gave field quizzes.
 ## Service 
 
 2013-5 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin  
-2015 **Instructor** _'Taking R to the Next Level' Workshop_ American Ornithologists Union Meeting   
 2015 **Volunteer** American Ornithologists Union Meeting  
 2015 **Presentation Judge** Association of Field Ornithology, Wilson Ornithological Society, Society of Canadian Ornithologists Meeting  
-2015 **Instructor** _Graphing with ggplot2 workshop_ University of Arkansas  
-2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas    
-2015 **Instructor** _Social Media for Outreach and Prof Development Workshop_ University of Arkansas  
+ 2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas    
 2014 **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
 2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
