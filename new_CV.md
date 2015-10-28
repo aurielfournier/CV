@@ -133,18 +133,6 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 - Volunteered weekly throughout the year on various field projects. Primarily the rail migration project, checking traps, banding birds and taking vegetation data. Also helped with a wide variety of mist netting projects, including public education programs. Also checked fish and turtle traps, banded hundreds of fledgling Eastern Bluebirds and monitored a bluebird trail for many years. 
 
-## Posters
-
-2014 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H. Sora Migration and Wetland Management The Wildlife Society National Conference - PA [pdf](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
-
-2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Ecology of Fall Migrating Sora in Missouri. *The Wildlife Society National Conference* - WI [pdf](http://figshare.com/articles/The_Ecology_of_Fall_Migrating_Sora_in_Missouri/840571)
-
-2011 **Fournier, A.M.V.,** Sheildcastle, M.C., Fries, A.C., Bump, J.K., Developing a morphometric model to predict the sex of Virginia Rails. *The Wildlife Society National Conference* - HI [pdf](http://figshare.com/articles/Developing_a_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails/1320946)
-
-2011 **Fournier, A.M.V.,** Roth, A.M., Flaspohler, D.J., Assessing mechanisms for variation in the eyes of Golden-winged Warblers *Ecosystem Science Center Poster Session* - MI  [pdf](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
-
-2010 **Fournier, A.M.V.,** Flaspohler, D.J., Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
-
 ## Presentations
 
 2015 **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* [pdf](http://doi.org/5m5)
@@ -160,6 +148,18 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use of Fall Migrating Rails in Missouri. *Arkansas Coop Fish & Wildlife Research Unit Annual Meeting*
 
 2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium,* USFWS
+
+## Posters
+
+2014 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H. Sora Migration and Wetland Management The Wildlife Society National Conference - PA [pdf](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
+
+2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Ecology of Fall Migrating Sora in Missouri. *The Wildlife Society National Conference* - WI [pdf](http://figshare.com/articles/The_Ecology_of_Fall_Migrating_Sora_in_Missouri/840571)
+
+2011 **Fournier, A.M.V.,** Sheildcastle, M.C., Fries, A.C., Bump, J.K., Developing a morphometric model to predict the sex of Virginia Rails. *The Wildlife Society National Conference* - HI [pdf](http://figshare.com/articles/Developing_a_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails/1320946)
+
+2011 **Fournier, A.M.V.,** Roth, A.M., Flaspohler, D.J., Assessing mechanisms for variation in the eyes of Golden-winged Warblers *Ecosystem Science Center Poster Session* - MI  [pdf](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
+
+2010 **Fournier, A.M.V.,** Flaspohler, D.J., Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
 ## Grants
 
@@ -273,7 +273,7 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
 ## Outreach  
-2015 **RealScientist Curator** Curating a week of tweets to 30k+ people about my research for the Twitter Account [RealScientists](https://twitter.com/realscientists)    
+2015 **RealScientist Curator** Curating a week of tweets to 20k+ people about my research for the Twitter Account [RealScientists](https://twitter.com/realscientists)    
 2015 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for the Twitter Account [Biotweeps](https://twitter.com/biotweeps)  
 2013-5 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
