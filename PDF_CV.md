@@ -275,8 +275,6 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
-\newpage
-
 ## Outreach  
 2015 **RealScientist Curator** Curating a week of tweets to 30k+ people about my research for the Twitter Account RealScientists  
 2015 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for the Twitter Account Biotweeps  
@@ -303,6 +301,9 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2007 **Presentation** Ohio Young Birder's Club Conference 
 
 ## Leadership
+
+**Wetlands Working Group** The Wildlife Society  
+Secretary/Treasurer 2015-Present
 
 **Student Development Working Group** The Wildlife Society  
 Treasurer 2014 - 2015
