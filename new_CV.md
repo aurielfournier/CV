@@ -299,6 +299,9 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 
 ## Leadership
 
+**Wetlands Working Group** The Wildlife Society  
+Secretary/Treasurer 2015-Present
+
 **Student Development Working Group** The Wildlife Society  
 Treasurer 2014 - 2015
 
