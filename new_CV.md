@@ -57,7 +57,6 @@ May - August 2009
 ## Peer-Reviewed Publications  
 
 <!---
-*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration Timing of Sora in Missouri, USA.
 
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in Missouri, USA.
 
@@ -78,6 +77,8 @@ May - August 2009
 
 *In Review* **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)*   
 The first two authors contributed equally to this manuscript
+
+*Submitted* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration Timing of Sora in Missouri, USA.
 
 ## Technical Publications
 
