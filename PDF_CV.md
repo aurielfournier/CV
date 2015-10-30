@@ -66,7 +66,6 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 ## Peer-Reviewed Publications  
 
 <!---
-*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration Timing of Sora in Missouri, USA.
 
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in Missouri, USA.
 
@@ -87,6 +86,9 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 *In Review* **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)*   
 The first two authors contributed equally to this manuscript
+
+*Submitted* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration Timing of Sora in Missouri, USA.
+
 
 ## Technical Publications
 
@@ -120,8 +122,9 @@ later interpretation
 **Field Technician**   
 Michigan Technological University  July 2010  
 
-Trapped small mammals; Performed nocturnal audio boat surveys for frogs; Frequently talked to
-public about project
+Trapped small mammals; Performed nocturnal audio boat surveys for frogs
+
+\newpage
 
 **Field Crew Leader**  
 Michigan Technological University - Dr. Amber Roth  March - June 2010  
@@ -217,8 +220,6 @@ Taught an hour long workshop on graphing in R
 **Instructor** University of Arkansas  
 _Social Media for Outreach and Professional Development Workshop_  
 Taught an hour long workshop on using Twitter and other social media for outreach and professional development  
-
-\newpage
 
 **Teaching Assistant** University of Arkansas    
 Wetlands Ecology and Management  
