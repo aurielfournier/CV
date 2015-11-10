@@ -158,6 +158,8 @@ Volunteered weekly throughout the year on various field projects. Primarily the 
 
 ## Presentations
 
+2015 **Fournier, A.M.V.,** Drake, K. Active capture of rails during the breeding season and fall migration. *Inland Bird Banders Association Meeting* [pdf](http://figshare.com/articles/Active_Capture_Methods_for_Rails_During_the_Breeding_Season_and_Fall_MIgration/1598135)
+
 2015 **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* [pdf](http://doi.org/5m5)
 
 2015 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. Timing of Autumn Migration in the Mississippi Flyway by Rails. *Association of Field Ornithologists Meeting* [pdf](http://doi.org/5ks)
