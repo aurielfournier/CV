@@ -210,6 +210,10 @@ Volunteered weekly throughout the year on various field projects. Primarily the 
 
 ## Teaching Experience
 
+**Instructor** Iowa State University - Department of Mechanical Engineering  
+_Software Carpentry Python/Unix Workshop_  
+Taught a two-day workshop on reprodicible research and programming in python and unix 
+
 **Instructor** American Ornithologists Union Conference  
 _'Taking R to the Next Level' Workshop_   
 Taught a day long workshop on programming, graphing and data management in R  
