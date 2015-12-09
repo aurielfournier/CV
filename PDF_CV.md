@@ -70,7 +70,9 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 *In Review* **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S.  Diet and mercury availability in Clapper Rails (Rallus longirostris) from museum specimens in North Carolina
 
-*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration timing of Virginia Rail in Missouri, USA. 
+*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C.  Autumn Migration timing of Virginia Rail in Missouri, USA. 
+
+*In Review* Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
 -->
 
 1. *2015* **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** doi:10.1002/wsb.603 [pdf](https://www.researchgate.net/publication/283791283_Volunteer_Field_Technicians_Are_Bad_for_Wildlife_Ecology)
@@ -89,7 +91,11 @@ The first two authors contributed equally to this manuscript
 
 ## Technical Publications
 
-**Fournier, A.M.V.,** K. Willard, D. G. Krementz. 2015. King rail nesting and brood rearing ecology in managed wetlands: Final report USFWS Division of Migratory Birds Webless Program [pdf](http://s3.amazonaws.com/file-storage.INDIVIDUAL-ACTIVITIES-CooperativeResearchUnits.digitalmeasures.usgs.edu/krementz/tech_publications/rwo_40_final_report DGK-1.docx)
+1. **Fournier, A.M.V.,** K. Willard, D. G. Krementz. 2015. King rail nesting and brood rearing ecology in managed wetlands: Final report USFWS Division of Migratory Birds Webless Program [pdf](http://s3.amazonaws.com/file-storage.INDIVIDUAL-ACTIVITIES-CooperativeResearchUnits.digitalmeasures.usgs.edu/krementz/tech_publications/rwo_40_final_report DGK-1.docx)
+
+2. Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, Nelson's Sparrows and Sedge Wrens. U.S. Fish and Wildlife Service (Region 3) and Prairie Pothole Joint Venture. 
+
+3. Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens. U.S. Forest Service
 
 ## Work Experience
 **Environmental Education Internship**  
