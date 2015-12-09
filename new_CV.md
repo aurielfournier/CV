@@ -57,8 +57,6 @@ May - August 2009
 ## Peer-Reviewed Publications  
 
 <!---
-*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in Missouri, USA.
-
 *In Review* **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S.  Diet and mercury availability in Clapper Rails (Rallus longirostris) from museum specimens in North Carolina
 
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration timing of Virginia Rail in Missouri, USA. 
@@ -136,8 +134,6 @@ Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Inves
 
 2010 **Fournier, A.M.V.,** Flaspohler, D.J., Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
-
-
 ## Work Experience
 
 **Environmental Education Internship**  
@@ -188,8 +184,6 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 - Volunteered weekly throughout the year on various field projects. Primarily the rail migration project, checking traps, banding birds and taking vegetation data. Also helped with a wide variety of mist netting projects, including public education programs. Also checked fish and turtle traps, banded hundreds of fledgling Eastern Bluebirds and monitored a bluebird trail for many years. 
 
-
-
 ## International Experience
 
 2015 **Wetland Field Work Capturing Rails** Bird Studies Canada, Foam Lake, Saskatchewan. 
@@ -221,7 +215,6 @@ Taught an hour long workshop on graphing in R
 **Instructor** University of Arkansas  
 _Social Media for Outreach and Professional Development Workshop_  
 Taught an hour long workshop on using Twitter and other social media for outreach and professional development  
-
 
 <!---
 **Teaching Assistant** University of Arkansas  
