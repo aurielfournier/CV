@@ -59,7 +59,9 @@ May - August 2009
 <!---
 *In Review* **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S.  Diet and mercury availability in Clapper Rails (Rallus longirostris) from museum specimens in North Carolina
 
-*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration timing of Virginia Rail in Missouri, USA. 
+*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration timing of Virginia Rail in Missouri, USA.
+
+*In Review* Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
 -->
 
 1. *2015* **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** doi:10.1002/wsb.603 [pdf](https://www.researchgate.net/publication/283791283_Volunteer_Field_Technicians_Are_Bad_for_Wildlife_Ecology)
