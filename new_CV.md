@@ -64,6 +64,9 @@ May - August 2009
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration timing of Virginia Rail in Missouri, USA.
 
 *In Review* Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
+
+2. *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration Timing of Sora in Missouri, USA.
+
 -->
 
 1. *2015* **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** doi:10.1002/wsb.603 [pdf](https://www.researchgate.net/publication/283791283_Volunteer_Field_Technicians_Are_Bad_for_Wildlife_Ecology)
@@ -78,7 +81,6 @@ May - August 2009
 1. *In Review* **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)*   
 The first two authors contributed equally to this manuscript
 
-2. *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration Timing of Sora in Missouri, USA.
 
 ## Technical Publications
 
