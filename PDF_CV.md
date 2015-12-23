@@ -10,7 +10,7 @@ output: pdf_document
 \Huge\textbf{Auriel M.V. Fournier}  \\
 PhD Candidate - University of Arkansas - Fayetteville & amvander@uark.edu \\
 \href{http://www.coopunits.org/Arkansas/}{Arkansas Cooperative Fish and Wildlife Research Unit} & 419.307.6261 \\
-\href{http://wildlife.org/learn/professional-development-certification/certification-programs/}{Associate Wildlife Biologist ©} & \href{https://twitter.com/RallidaeRule}{@RallidaeRule} \\
+\href{http://wildlife.org/learn/professional-development-certification/certification-programs/}{Associate Wildlife Biologist Â©} & \href{https://twitter.com/RallidaeRule}{@RallidaeRule} \\
 \href{http://aurielfournier.github.io/}{aurielfournier.github.io} &    \href{https://scholar.google.com/citations?user=H0AXRhQAAAAJ}{Google Scholar} \href{https://github.com/aurielfournier}{Github}  
 
 \end{tabular*}
@@ -75,9 +75,9 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 *In Review* Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
 -->
 
-1. *2015* **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** doi:10.1002/wsb.603 [pdf](https://www.researchgate.net/publication/283791283_Volunteer_Field_Technicians_Are_Bad_for_Wildlife_Ecology)
+1. *2015* **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** 39: 819-821 [pdf](https://www.researchgate.net/publication/283791283_Volunteer_Field_Technicians_Are_Bad_for_Wildlife_Ecology) doi:10.1002/wsb.603
 
-2. 2015 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38(3) 312-314 [pdf](https://www.researchgate.net/publication/282289695_Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes_Ohio_USA) doi:10.1675/063.038.0313
+2. 2015 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 [pdf](https://www.researchgate.net/publication/282289695_Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes_Ohio_USA) doi:10.1675/063.038.0313
 
 3. 2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **The Wildlife Society Bulletin** 27: 881-886 [pdf](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29) doi:10.1002/wsb.323 
 
