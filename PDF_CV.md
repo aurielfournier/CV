@@ -10,7 +10,7 @@ output: pdf_document
 \Huge\textbf{Auriel M.V. Fournier}  \\
 PhD Candidate - University of Arkansas - Fayetteville & amvander@uark.edu \\
 \href{http://www.coopunits.org/Arkansas/}{Arkansas Cooperative Fish and Wildlife Research Unit} & 419.307.6261 \\
-\href{http://wildlife.org/learn/professional-development-certification/certification-programs/}{Associate Wildlife Biologist ©} & \href{https://twitter.com/RallidaeRule}{@RallidaeRule} \\
+\href{http://wildlife.org/learn/professional-development-certification/certification-programs/}{Associate Wildlife Biologist Â©} & \href{https://twitter.com/RallidaeRule}{@RallidaeRule} \\
 \href{http://aurielfournier.github.io/}{aurielfournier.github.io} &    \href{https://scholar.google.com/citations?user=H0AXRhQAAAAJ}{Google Scholar} \href{https://github.com/aurielfournier}{Github}  
 
 \end{tabular*}
@@ -70,12 +70,16 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 *In Review* **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S.  Diet and mercury availability in Clapper Rails (Rallus longirostris) from museum specimens in North Carolina
 
-*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration timing of Virginia Rail in Missouri, USA. 
+*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C.  Autumn Migration timing of Virginia Rail in Missouri, USA. 
+
+*In Review* Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
+
+2. *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration Timing of Sora in Missouri, USA.
 -->
 
-1. *2015* **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** doi:10.1002/wsb.603 [pdf](https://www.researchgate.net/publication/283791283_Volunteer_Field_Technicians_Are_Bad_for_Wildlife_Ecology)
+1. 2015 **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** 39: 819-821 [pdf](https://www.researchgate.net/publication/283791283_Volunteer_Field_Technicians_Are_Bad_for_Wildlife_Ecology) doi:10.1002/wsb.603
 
-2. 2015 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38(3) 312-314 [pdf](https://www.researchgate.net/publication/282289695_Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes_Ohio_USA) doi:10.1675/063.038.0313
+2. 2015 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 [pdf](https://www.researchgate.net/publication/282289695_Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes_Ohio_USA) doi:10.1675/063.038.0313
 
 3. 2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **The Wildlife Society Bulletin** 27: 881-886 [pdf](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29) doi:10.1002/wsb.323 
 
@@ -85,11 +89,14 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 1. *In Review* **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)*   
 The first two authors contributed equally to this manuscript
 
-2. *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration Timing of Sora in Missouri, USA.
 
 ## Technical Publications
 
-**Fournier, A.M.V.,** K. Willard, D. G. Krementz. 2015. King rail nesting and brood rearing ecology in managed wetlands: Final report USFWS Division of Migratory Birds Webless Program [pdf](http://s3.amazonaws.com/file-storage.INDIVIDUAL-ACTIVITIES-CooperativeResearchUnits.digitalmeasures.usgs.edu/krementz/tech_publications/rwo_40_final_report DGK-1.docx)
+1. **Fournier, A.M.V.,** K. Willard, D. G. Krementz. 2015. King rail nesting and brood rearing ecology in managed wetlands: Final report USFWS Division of Migratory Birds Webless Program [pdf](http://s3.amazonaws.com/file-storage.INDIVIDUAL-ACTIVITIES-CooperativeResearchUnits.digitalmeasures.usgs.edu/krementz/tech_publications/rwo_40_final_report DGK-1.docx)
+
+2. Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, Nelson's Sparrows and Sedge Wrens. U.S. Fish and Wildlife Service (Region 3) and Prairie Pothole Joint Venture. 
+
+3. Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens. U.S. Forest Service
 
 ## Work Experience
 **Environmental Education Internship**  
@@ -121,8 +128,6 @@ Michigan Technological University  July 2010
 
 Trapped small mammals; Performed nocturnal audio boat surveys for frogs
 
-\newpage
-
 **Field Crew Leader**  
 Michigan Technological University - Dr. Amber Roth  March - June 2010  
 
@@ -141,17 +146,7 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 Volunteered weekly throughout the year on various field projects. Primarily the rail migration project, checking traps, banding birds and taking vegetation data. Also helped with a wide variety of mist netting projects, including public education programs. Also checked fish and turtle traps, banded hundreds of fledgling Eastern Bluebirds and monitored a bluebird trail for many years. 
 
-## Posters
 
-2014 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H. Sora Migration and Wetland Management The Wildlife Society National Conference - PA [pdf](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
-
-2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Ecology of Fall Migrating Sora in Missouri. *The Wildlife Society National Conference* - WI [pdf](http://figshare.com/articles/The_Ecology_of_Fall_Migrating_Sora_in_Missouri/840571)
-
-2011 **Fournier, A.M.V.,** Sheildcastle, M.C., Fries, A.C., Bump, J.K., Developing a morphometric model to predict the sex of Virginia Rails. *The Wildlife Society National Conference* - HI [pdf](http://figshare.com/articles/Developing_a_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails/1320946)
-
-2011 **Fournier, A.M.V.,** Roth, A.M., Flaspohler, D.J., Assessing mechanisms for variation in the eyes of Golden-winged Warblers *Ecosystem Science Center Poster Session* - MI  [pdf](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
-
-2010 **Fournier, A.M.V.,** Flaspohler, D.J., Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
 ## Presentations
 
@@ -173,9 +168,19 @@ Volunteered weekly throughout the year on various field projects. Primarily the 
 
 2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium,* USFWS
 
-## International Experience
+\newpage 
 
-2015 **Wetland Field Work Capturing Rails** Bird Studies Canada, Foam Lake, Saskatchewan. 
+## Posters
+
+2014 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H. Sora Migration and Wetland Management The Wildlife Society National Conference - PA [pdf](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
+
+2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Ecology of Fall Migrating Sora in Missouri. *The Wildlife Society National Conference* - WI [pdf](http://figshare.com/articles/The_Ecology_of_Fall_Migrating_Sora_in_Missouri/840571)
+
+2011 **Fournier, A.M.V.,** Sheildcastle, M.C., Fries, A.C., Bump, J.K., Developing a morphometric model to predict the sex of Virginia Rails. *The Wildlife Society National Conference* - HI [pdf](http://figshare.com/articles/Developing_a_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails/1320946)
+
+2011 **Fournier, A.M.V.,** Roth, A.M., Flaspohler, D.J., Assessing mechanisms for variation in the eyes of Golden-winged Warblers *Ecosystem Science Center Poster Session* - MI  [pdf](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
+
+2010 **Fournier, A.M.V.,** Flaspohler, D.J., Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
 ## Grants
 
@@ -207,6 +212,12 @@ Volunteered weekly throughout the year on various field projects. Primarily the 
 **NSC Defensive Driving II** National Safety Council (1/2013)  
 **Defensive Driving** AAA Driver Improvement Program (7/2012)  
 **ATV Rider Certification** ATV Safety Institute (6/2012)
+
+
+## International Experience
+
+2015 **Wetland Field Work Capturing Rails** Bird Studies Canada, Foam Lake, Saskatchewan. 
+
 
 ## Teaching Experience
 
@@ -257,6 +268,8 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2011 **Outstanding Senior in Wildlife Ecology and Management** - Michigan Technological University   
 2010 **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
 2009 **Woman of Promise** - School of Forest Resources and Environmental Science - Michigan Technological University
+
+\newpage
 
 ## Professional Development
 
