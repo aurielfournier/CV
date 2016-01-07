@@ -224,7 +224,7 @@ Taught an hour long workshop on using Twitter and other social media for outreac
 Biometry  
 Spring Semester 2016  
 Teaching weekly labs on statistics, experimental design and programming in R. Giving lectures, grading materials. 
---->
+-->
 
 **Teaching Assistant** University of Arkansas    
 Wetlands Ecology and Management  
