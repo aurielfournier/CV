@@ -206,28 +206,26 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 ## Teaching Experience
 
+**Teaching Assistant** University of Arkansas  
+Biometry  
+Spring Semester 2016    
+Teaching weekly labs on statistics, experimental design and programming in R. Giving lectures, grading materials. 
+
 **Instructor** Iowa State University - Department of Mechanical Engineering  
-_Software Carpentry Python/Unix Workshop_  
+_Software Carpentry Python/Unix Workshop_ November 2015  
 Taught a two-day workshop on reprodicible research and programming in python and unix  
 
 **Instructor** American Ornithologists Union Conference  
-_'Taking R to the Next Level' Workshop_   
+_'Taking R to the Next Level' Workshop_ July 2015  
 Taught a day long workshop on programming, graphing and data management in R  
 
 **Instructor** University of Arkansas  
-_Graphing with ggplot2 workshop_   
+_Graphing with ggplot2 workshop_ May 2015    
 Taught an hour long workshop on graphing in R  
 
 **Instructor** University of Arkansas  
-_Social Media for Outreach and Professional Development Workshop_  
+_Social Media for Outreach and Professional Development Workshop_  May 2015  
 Taught an hour long workshop on using Twitter and other social media for outreach and professional development  
-
-<!---
-**Teaching Assistant** University of Arkansas  
-Biometry  
-Spring Semester 2016  
-Teaching weekly labs on statistics, experimental design and programming in R. Giving lectures, grading materials. 
---->
 
 **Teaching Assistant** University of Arkansas    
 Wetlands Ecology and Management  
