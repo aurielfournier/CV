@@ -16,7 +16,6 @@ PhD Candidate - University of Arkansas - Fayetteville & amvander@uark.edu \\
 \end{tabular*}
 
 
-
 ## Education
 
 \begin{tabular*}{7in}{l@{\extracolsep{\fill}}r}
@@ -221,6 +220,11 @@ Volunteered weekly throughout the year on various field projects. Primarily the 
 
 ## Teaching Experience
 
+**Teaching Assistant** University of Arkansas  
+Biometry  
+Spring Semester 2016    
+Teaching weekly labs on statistics, experimental design and programming in R. Giving lectures, grading materials. 
+
 **Instructor** Iowa State University - Department of Mechanical Engineering  
 _Software Carpentry Python/Unix Workshop_  
 Taught a two-day workshop on reprodicible research and programming in python and unix 
@@ -269,7 +273,6 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2010 **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
 2009 **Woman of Promise** - School of Forest Resources and Environmental Science - Michigan Technological University
 
-\newpage
 
 ## Professional Development
 
@@ -281,26 +284,13 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2013 **Occupancy Modeling Short Course** Humboldt State U./Darryl MacKenzie  
 2011 **Guest Lecture** Ornithology - Michigan Technological University
 
-## Service 
-
-2013-5 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin  
-2015 **Volunteer** American Ornithologists Union Meeting  
-2015 **Presentation Judge** Association of Field Ornithology, Wilson Ornithological Society, Society of Canadian Ornithologists Meeting  
-2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas    
-2014 **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar  
-2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
-2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
-2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI   
-2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
-2010 **Career Panel Member** Ohio Young Birder's Club Conference  
-
 ## Outreach  
+2013-6 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
+Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
+2013-6 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas    
+2015-6 **Editor** Science and Math Section Editor of [Science Borealis](scienceborealis.ca)   
 2015 **RealScientist Curator** Curating a week of tweets to 30k+ people about my research for the Twitter Account RealScientists  
 2015 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for the Twitter Account Biotweeps  
-2013-5 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
-Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
-2013-5 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas    
-2015 **Editor** Science and Math Section Editor of [Science Borealis](scienceborealis.ca)  
 2015 **Presentation** Local Library Science Program, AR  
 2015 **Presentation** Camp War Eagle Summer Camp, Arkansas  
 2015 **Field Trip Leader** The Biggest Week In American Birding Festival  
@@ -319,6 +309,22 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2008 **Presentation** Black Swamp Bird Observatory Lunch Lecture  
 2007 **Presentation** Ohio Young Birder's Club Conference 
 
+\newpage
+
+## Service 
+
+2013-6 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology 
+2015 **Volunteer** American Ornithologists Union Meeting  
+2015 **Presentation Judge** Association of Field Ornithology, Wilson Ornithological Society, Society of Canadian Ornithologists Meeting  
+2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas    
+2014 **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar  
+2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
+2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
+2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI   
+2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
+2010 **Career Panel Member** Ohio Young Birder's Club Conference  
+
+
 ## Leadership
 
 **Wetlands Working Group** The Wildlife Society  
@@ -328,12 +334,10 @@ Secretary/Treasurer 2015-Present
 Treasurer 2014 - 2015
 
 **The Wildlife Society** Student Chapter University of Arkansas    
-Secretary 2014 - 2015  
-Treasurer 2013 - 2014
+Secretary 2014 - 2015 & Treasurer 2013 - 2014
 
 **Biology Graduate Student Association** University of Arkansas      
-Treasurer 2014 - Present    
-Vice President 2013 - 2014  
+Treasurer 2014 - Present  & Vice President 2013 - 2014  
 
 **The Wildlife Society** Student Chapter Michigan Technological University  
 Activities Chair 2008 - 2011  
@@ -343,9 +347,6 @@ Treasurer, Secretary, Committee Chair 2008 - 2011
 
 **The Birdbums** Michigan Technological University  
 Founding Member & President 2008 - 2011
-
-**Xi Sigma Pi Honors Fraternity** Michigan Technological University  
-Symposium Chair 2010 - 2011
 
 ## Memberships (since)
 
