@@ -69,7 +69,7 @@ May - August 2009
 
 -->
 
-1. *2015* **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** 39: 819-821 [pdf](https://www.researchgate.net/publication/283791283_Volunteer_Field_Technicians_Are_Bad_for_Wildlife_Ecology) doi:10.1002/wsb.603
+1. 2015 **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** 39: 819-821 [pdf](https://www.researchgate.net/publication/283791283_Volunteer_Field_Technicians_Are_Bad_for_Wildlife_Ecology) doi:10.1002/wsb.603
 
 2. 2015 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 [pdf](https://www.researchgate.net/publication/282289695_Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes_Ohio_USA) doi:10.1675/063.038.0313
 
@@ -227,17 +227,6 @@ Taught an hour long workshop on graphing in R
 _Social Media for Outreach and Professional Development Workshop_  May 2015  
 Taught an hour long workshop on using Twitter and other social media for outreach and professional development  
 
-<<<<<<< HEAD
-
-<!---
-**Teaching Assistant** University of Arkansas  
-Biometry  
-Spring Semester 2016  
-Teaching weekly labs on statistics, experimental design and programming in R. Giving lectures, grading materials. 
--->
-
-=======
->>>>>>> 1340815bbaa271a8fe28f53cf9483cc9f30815a2
 **Teaching Assistant** University of Arkansas    
 Wetlands Ecology and Management  
 Spring Semester 2015  
@@ -282,10 +271,10 @@ Lead field trips, gave guest lecture, gave field quizzes.
 
 ## Service 
 
-2013-5 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin  
+2013-6 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology  
 2015 **Volunteer** American Ornithologists Union Meeting  
 2015 **Presentation Judge** Association of Field Ornithology, Wilson Ornithological Society, Society of Canadian Ornithologists Meeting  
- 2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas    
+2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas    
 2014 **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
 2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
@@ -294,12 +283,12 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
 ## Outreach  
+2013-6 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
+Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
+2013-6 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas    
 2015 **Interviewed for BreakingBio Podcast** [link](https://t.co/eOCG2kVoEI)  
 2015 **RealScientist Curator** Curating a week of tweets to 20k+ people about my research for the Twitter Account [RealScientists](https://twitter.com/realscientists)    
 2015 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for the Twitter Account [Biotweeps](https://twitter.com/biotweeps)  
-2013-5 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
-Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
-2013-5 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas    
 2015 **Editor** Science and Math Section Editor of [Science Borealis](scienceborealis.ca)  
 2015 **Presentation** Local Library Science Program, AR  
 2015 **Presentation** Camp War Eagle Summer Camp, Arkansas  
