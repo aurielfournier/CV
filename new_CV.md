@@ -120,10 +120,6 @@ May - August 2009
 
 2014 **Fournier, A.M.V.,** Krementz, D.G. The Use of U.A.V.s to Assess Wetland Vegetation Interspersion. *Arkansas State Chapter of The Wildlife Society Spring Meeting*
 
-2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use of Fall Migrating Rails in Missouri. *Missouri Department of Conservation Annual Meeting*  
-
-2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use of Fall Migrating Rails in Missouri. *Arkansas Coop Fish & Wildlife Research Unit Annual Meeting*
-
 2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium,* USFWS
 
 ## Posters
