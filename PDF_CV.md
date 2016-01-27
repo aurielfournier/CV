@@ -359,7 +359,8 @@ Founding Member & President 2008 - 2011
 
 - R/RStudio
 - Python
-- ArcGIS (9 and 10)
+- SQL
+- ArcGIS
 - LaTeX
 - Markdown/RMarkdown
 - Program Mark/RMark
