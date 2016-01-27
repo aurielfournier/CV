@@ -313,7 +313,7 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 
 ## Service 
 
-2013-6 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology 
+2013-6 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology   
 2015 **Volunteer** American Ornithologists Union Meeting  
 2015 **Presentation Judge** Association of Field Ornithology, Wilson Ornithological Society, Society of Canadian Ornithologists Meeting  
 2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas    
@@ -341,12 +341,6 @@ Treasurer 2014 - Present  & Vice President 2013 - 2014
 
 **The Wildlife Society** Student Chapter Michigan Technological University  
 Activities Chair 2008 - 2011  
-
-**The Honors Institute** Michigan Technological University   
-Treasurer, Secretary, Committee Chair 2008 - 2011  
-
-**The Birdbums** Michigan Technological University  
-Founding Member & President 2008 - 2011
 
 ## Memberships (since)
 
