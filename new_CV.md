@@ -334,10 +334,12 @@ Symposium Chair 2010 - 2011
 
 - R/RStudio
 - Python
-- ArcGIS (9 and 10)
+- SQL
+- ArcGIS
 - LaTeX
 - Markdown/RMarkdown
 - Program Mark/RMark
+- Program Presence
 - Git/Github
 - Unix Shell
 
