@@ -10,7 +10,7 @@ output: pdf_document
 \Huge\textbf{Auriel M.V. Fournier}  \\
 PhD Candidate - University of Arkansas - Fayetteville & amvander@uark.edu \\
 \href{http://www.coopunits.org/Arkansas/}{Arkansas Cooperative Fish and Wildlife Research Unit} & 419.307.6261 \\
-\href{http://wildlife.org/learn/professional-development-certification/certification-programs/}{Associate Wildlife Biologist Â©} & \href{https://twitter.com/RallidaeRule}{@RallidaeRule} \\
+\href{http://wildlife.org/learn/professional-development-certification/certification-programs/}{Associate Wildlife Biologist ©} & \href{https://twitter.com/RallidaeRule}{@RallidaeRule} \\
 \href{http://aurielfournier.github.io/}{aurielfournier.github.io} &    \href{https://scholar.google.com/citations?user=H0AXRhQAAAAJ}{Google Scholar} \href{https://github.com/aurielfournier}{Github}  
 
 \end{tabular*}
@@ -19,7 +19,7 @@ PhD Candidate - University of Arkansas - Fayetteville & amvander@uark.edu \\
 ## Education
 
 \begin{tabular*}{7in}{l@{\extracolsep{\fill}}r}
-PhD in \textbf{Biological Sciences - Ecology and Evolutionary Biology} & 2017 (expected) \\
+PhD in \textbf{Biological Sciences - Ecology and Evolutionary Biology} & 2017 (expected spring) \\
 Arkansas Cooperative Fish and Wildlife Research Unit \textbf{University of Arkansas} & Fayetteville, AR \\  
 Distinguished Doctoral Fellowship Recipient
 \end{tabular*}
@@ -35,14 +35,14 @@ Dr. David Krementz
 Arkansas Cooperative Fish and Wildlife Research Unit - University of Arkansas  
 August 2012 - Present
 
-Effects of wetland management strategies on habitat use of fall migrating rails on intensively managed wetland complexes in Missouri. Performing distance based nocturnal ATV surveys for rails in wetland impoundments across the state of Missouri. Managing a four person field crew, working closely with state and federal land managers. Capturing rails, taking blood and feather samples.
+Effects of wetland management strategies on habitat use of fall migrating rails on intensively managed wetland complexes in Missouri. Developing a new survey methdology to monitor rail abundance during autumn migration using distance based nocturnal ATV surveys for rails in wetland impoundments. Managing a four person field crew. Reguarly meeting and working closely with state and federal land managers to develop questions and establish field experiments to answer their questions. Capturing rails, taking blood and feather samples. Working with Bird Studies Canada and researchers/hunters across the U.S. to collect feathers for a large scale migratory connectivity project.
 
 **Undergraduate Research Grant**  
 Dr. Joseph Bump  
 Michigan Technological University  
 May 2011 - Present  
 
-Assessing the breeding location of Virginia Rails migrating through NW Ohio using stable isotopes. Manuscript In Review. 
+Assessing the migratory connectivity of Virginia Rails using citizen science data as an informative prior for geographic assignment. Manuscript In Review. 
 
 **Summer Undergraduate Research Fellowship**  
 Dr. Joseph Bump  
@@ -86,16 +86,64 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 ### In Review
 
 1. *In Review* **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)*   
-The first two authors contributed equally to this manuscript
-
 
 ## Technical Publications
 
 1. **Fournier, A.M.V.,** K. Willard, D. G. Krementz. 2015. King rail nesting and brood rearing ecology in managed wetlands: Final report USFWS Division of Migratory Birds Webless Program [pdf](http://s3.amazonaws.com/file-storage.INDIVIDUAL-ACTIVITIES-CooperativeResearchUnits.digitalmeasures.usgs.edu/krementz/tech_publications/rwo_40_final_report DGK-1.docx)
 
-2. Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, Nelson's Sparrows and Sedge Wrens. U.S. Fish and Wildlife Service (Region 3) and Prairie Pothole Joint Venture. 
+2. Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, Nelson's Sparrows and Sedge Wrens. U.S. Fish and Wildlife Service (Region 3) and Prairie Pothole Joint Venture. 
 
-3. Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens. U.S. Forest Service
+3. Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, and Sedge Wrens. U.S. Forest Service
+
+
+## Presentations
+
+2015 **Fournier, A.M.V.,** Drake, K. Active capture of rails during the breeding season and fall migration. *Inland Bird Banders Association Meeting* [pdf](http://figshare.com/articles/Active_Capture_Methods_for_Rails_During_the_Breeding_Season_and_Fall_MIgration/1598135)
+
+2015 **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* [pdf](http://doi.org/5m5)
+
+2015 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. Timing of Autumn Migration in the Mississippi Flyway by Rails. *Association of Field Ornithologists Meeting* [pdf](http://doi.org/5ks)
+
+2014 **Fournier, A.M.V.,** Krementz, D.G. The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*
+
+2014 **Fournier, A.M.V.,** Krementz, D.G. The Use of U.A.V.s to Assess Wetland Vegetation Interspersion. *Arkansas State Chapter of The Wildlife Society Spring Meeting*
+
+2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium,* USFWS
+
+\newpage 
+
+## Posters
+
+2014 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H. Sora Migration and Wetland Management *The Wildlife Society National Conference* - PA [pdf](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
+
+2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Ecology of Fall Migrating Sora in Missouri. *The Wildlife Society National Conference* - WI [pdf](http://figshare.com/articles/The_Ecology_of_Fall_Migrating_Sora_in_Missouri/840571)
+
+2011 **Fournier, A.M.V.,** Sheildcastle, M.C., Fries, A.C., Bump, J.K., Developing a morphometric model to predict the sex of Virginia Rails. *The Wildlife Society National Conference* - HI [pdf](http://figshare.com/articles/Developing_a_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails/1320946)
+
+2011 **Fournier, A.M.V.,** Roth, A.M., Flaspohler, D.J., Assessing mechanisms for variation in the eyes of Golden-winged Warblers *Ecosystem Science Center Poster Session* - MI  [pdf](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
+
+2010 **Fournier, A.M.V.,** Flaspohler, D.J., Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
+
+## Grants
+
+2015 *Co-PI* **Missouri Department of Conservation Research Grant** $62,000 Effects of Wetland Management Strategies on Habitat Use of Autumn Migrating Rails on Intensively Managed Wetland Complexes in Missouri
+
+2015 **Travel Grant** $320 American Ornithologists Union/Cooper Ornithological Society Conference  
+
+2015 **Travel Grant** $500 Association of Field Ornithologists/Wilson Ornithological Society/Society of Canadian Ornithologists Conference
+
+2015 **The Frances M. Peacock Scholarship for Native Bird Habitat** $4000 The Use of Stable Isotopes, eBird and Species Distribution Models to Assess Migratory Connectivity of Fall Migrating Rails
+
+2014 **Arkansas Audubon Society Trust** $1200 Migratory Stopover Timing, Survival and Habitat Use of Fall Migrating Sora in Managed Wetlands     
+
+2011 **Summer Undergraduate Research Fellowship** $3000 Developing A Morphometric Model to Predict the Sex of Virginia Rails 
+
+2011  **Ecosystem Science Center Undergraduate Research Grant** $750 What are the Breeding and Wintering Areas of Virginia Rails Which Migrate Through NW Ohio?
+
+2010  **Ecosystem Science Center Undergraduate Research Grant** $750 Assessing the Relationship Between Eye-Spotting and Breeding Location in Golden-winged Warblers  
+
+2009 **Summer Undergraduate Research Fellowship** $3000 Habitat Classification and Biological Inventory of Pioneer Scout Reservation
+
 
 ## Work Experience
 **Environmental Education Internship**  
@@ -108,6 +156,10 @@ Planned and led outdoor education programs for all ages. Developed a social medi
 The Big Island, Hawaii  February - May 2012   
 
 Banded endemic and endangered birds in isolated forest patches on the Big Island of Hawaii. Operated double high mist-nets to capture birds and take blood and feather samples.
+
+\newpage
+
+## Work Experience (continued)
 
 **Field Technician**  
 Isle Royale National Park - Dr. Joseph Bump  May 2011  
@@ -145,111 +197,50 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 Volunteered weekly throughout the year on various field projects. Primarily the rail migration project, checking traps, banding birds and taking vegetation data. Also helped with a wide variety of mist netting projects, including public education programs. Also checked fish and turtle traps, banded hundreds of fledgling Eastern Bluebirds and monitored a bluebird trail for many years. 
 
-
-
-## Presentations
-
-2015 **Fournier, A.M.V.,** Drake, K. Active capture of rails during the breeding season and fall migration. *Inland Bird Banders Association Meeting* [pdf](http://figshare.com/articles/Active_Capture_Methods_for_Rails_During_the_Breeding_Season_and_Fall_MIgration/1598135)
-
-2015 **Fournier, A.M.V.,** Drake, K. Active capture of rails during the breeding season and fall migration. *Inland Bird Banders Association Meeting* [pdf](http://figshare.com/articles/Active_Capture_Methods_for_Rails_During_the_Breeding_Season_and_Fall_MIgration/1598135)
-
-2015 **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* [pdf](http://doi.org/5m5)
-
-2015 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. Timing of Autumn Migration in the Mississippi Flyway by Rails. *Association of Field Ornithologists Meeting* [pdf](http://doi.org/5ks)
-
-2014 **Fournier, A.M.V.,** Krementz, D.G. The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*
-
-2014 **Fournier, A.M.V.,** Krementz, D.G. The Use of U.A.V.s to Assess Wetland Vegetation Interspersion. *Arkansas State Chapter of The Wildlife Society Spring Meeting*
-
-2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use of Fall Migrating Rails in Missouri. *Missouri Department of Conservation Annual Meeting*  
-
-2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use of Fall Migrating Rails in Missouri. *Arkansas Coop Fish & Wildlife Research Unit Annual Meeting*
-
-2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium,* USFWS
-
-\newpage 
-
-## Posters
-
-2014 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H. Sora Migration and Wetland Management The Wildlife Society National Conference - PA [pdf](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
-
-2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Ecology of Fall Migrating Sora in Missouri. *The Wildlife Society National Conference* - WI [pdf](http://figshare.com/articles/The_Ecology_of_Fall_Migrating_Sora_in_Missouri/840571)
-
-2011 **Fournier, A.M.V.,** Sheildcastle, M.C., Fries, A.C., Bump, J.K., Developing a morphometric model to predict the sex of Virginia Rails. *The Wildlife Society National Conference* - HI [pdf](http://figshare.com/articles/Developing_a_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails/1320946)
-
-2011 **Fournier, A.M.V.,** Roth, A.M., Flaspohler, D.J., Assessing mechanisms for variation in the eyes of Golden-winged Warblers *Ecosystem Science Center Poster Session* - MI  [pdf](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
-
-2010 **Fournier, A.M.V.,** Flaspohler, D.J., Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
-
-## Grants
-
-2015 *Co-PI* **Missouri Department of Conservation Research Grant** $62,000 Effects of Wetland Management Strategies on Habitat Use of Autumn Migrating Rails on Intensively Managed Wetland Complexes in Missouri
-
-2015 **Travel Grant** $320 American Ornithologists Union/Cooper Ornithological Society Conference  
-
-2015 **Travel Grant** $500 Association of Field Ornithologists/Wilson Ornithological Society/Society of Canadian Ornithologists Conference
-
-2015 **The Frances M. Peacock Scholarship for Native Bird Habitat** $4000 The Use of Stable Isotopes, eBird and Species Distribution Models to Assess Migratory Connectivity of Fall Migrationg Rails
-
-2014 **Arkansas Audubon Society Trust** $1200 Migratory Stopover Timing, Survival and Habitat Use of Fall Migrating Sora in Managed Wetlands     
-
-2011 **Summer Undergraduate Research Fellowship** $3000 Developing A Morphometric Model to Predict the Sex of Virginia Rails 
-
-2011  **Ecosystem Science Center Undergraduate Research Grant** $750 What are the Breeding and Wintering Areas of Virginia Rails Which Migrate Through NW Ohio?
-
-2010  **Ecosystem Science Center Undergraduate Research Grant** $750 Assessing the Relationship Between Eye-Spotting and Breeding Location in Golden-winged Warblers  
-
-2009 **Summer Undergraduate Research Fellowship** $3000 Habitat Classification and Biological Inventory of Pioneer Scout Reservation
-
-
 ## Professional Licenses and Certifications
 
 **Software Carpentry Instructor** [Software Carpentry](https://software-carpentry.org/index.html) - (5/2015)  
 [**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society - (3/2015)  
-**Sub-permit bird banding license holder** (13 years experience, handled ~7k birds, passerines, rails, owls, have taken blood from 200+ and feathers from 700+ individuals, subpermittee in both the U.S and Canada)    
+**Sub-permit bird banding license holder** (13 years experience, handled ~7k birds, passerines, rails, owls, have taken blood from 200+ and feathers from 700+ individuals, sub-permittee in both the U.S and Canada)    
 **CPR/First Aid** American Red Cross (4/2014)  
 **NSC Defensive Driving II** National Safety Council (1/2013)  
 **Defensive Driving** AAA Driver Improvement Program (7/2012)  
 **ATV Rider Certification** ATV Safety Institute (6/2012)
 
-
-## International Experience
-
-2015 **Wetland Field Work Capturing Rails** Bird Studies Canada, Foam Lake, Saskatchewan. 
-
+\newpage
 
 ## Teaching Experience
 
 **Teaching Assistant** University of Arkansas  
 Biometry  
 Spring Semester 2016    
-Teaching weekly labs on statistics, experimental design and programming in R. Giving lectures, grading materials. 
+Teaching weekly labs on statistics, experimental design and programming in R. Giving lectures, grading materials. Developed materials, scripts and documentation to move all labs from SYSTAT to R. 
+
+**Science Writing Tutor**  
+Quality Writing Center - University of Arkansas  
+January 2014 - Present  
+Tutoring undergraduate and graduate students on scientific writing 8 hours a week. Editing thesis, dissertations, lab reports and other writing. Working extensively with English as a Second Language students. 
 
 **Instructor** Iowa State University - Department of Mechanical Engineering  
-_Software Carpentry Python/Unix Workshop_  
-Taught a two-day workshop on reprodicible research and programming in python and unix 
+_Software Carpentry Python/Unix Workshop_  November 2015
+Taught a two-day workshop on reproducible research and programming in python and UNIX .
 
 **Instructor** American Ornithologists Union Conference  
-_'Taking R to the Next Level' Workshop_   
-Taught a day long workshop on programming, graphing and data management in R  
+_'Taking R to the Next Level' Workshop_ July 2015
+Taught a day long workshop on programming, graphing and data management in R . 
 
 **Instructor** University of Arkansas  
-_Graphing with ggplot2 workshop_   
-Taught an hour long workshop on graphing in R  
+_Graphing with ggplot2 workshop_  May 2015
+Taught an hour long workshop on graphing in R with the _ggplot2_ package.  
 
 **Instructor** University of Arkansas  
-_Social Media for Outreach and Professional Development Workshop_  
-Taught an hour long workshop on using Twitter and other social media for outreach and professional development  
+_Social Media for Outreach and Professional Development Workshop_  April 2015
+Taught an hour long workshop on using Twitter and other social media for outreach and professional development. 
 
 **Teaching Assistant** University of Arkansas    
 Wetlands Ecology and Management  
 Spring Semester 2015  
 Teaching weekly labs on taxonomy and wetland field methods. Giving lectures, grading materials.   
-
-**Science Writing Tutor**  
-Quality Writing Center - University of Arkansas  
-January 2014 - Present  
-Tutoring undergraduate and graduate students on proper scientific writing 8-15 hours a week. Editing thesis, dissertations, lab reports and other writing.
 
 **Teaching Assistant** Michigan Technological University   
 Field Techniques   
@@ -271,8 +262,7 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2012-16 **Distinguished Doctoral Fellowship** - University of Arkansas  
 2011 **Outstanding Senior in Wildlife Ecology and Management** - Michigan Technological University   
 2010 **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
-2009 **Woman of Promise** - School of Forest Resources and Environmental Science - Michigan Technological University
-
+2009 **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological University
 
 ## Professional Development
 
@@ -281,22 +271,21 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2014 **Applied Hierarchical Modeling Workshop** Patuxent Wildlife Research Center/Royle & Kery   
 2013 **'Adehabitat' R Package Workshop** The Wildlife Society National Con/James Sheppard  
 2013 **Symposium Planning Committee** The Wildlife Society National Con, Milwaukee, WI  
-2013 **Occupancy Modeling Short Course** Humboldt State U./Darryl MacKenzie  
-2011 **Guest Lecture** Ornithology - Michigan Technological University
+2013 **Occupancy Modeling Short Course** Darryl MacKenzie  
 
 ## Outreach  
 2013-6 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
-2013-6 **Science Fair Judge** Regional/Local Science Fairs NW Arkansas    
-2015-6 **Editor** Science and Math Section Editor of [Science Borealis](scienceborealis.ca)   
-2015 **RealScientist Curator** Curating a week of tweets to 30k+ people about my research for the Twitter Account RealScientists  
-2015 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for the Twitter Account Biotweeps  
-2015 **Presentation** Local Library Science Program, AR  
+2013-6 **Science Fair Judge** (6) Regional/Local Science Fairs NW Arkansas    
+2015-6 **Editor** Science and Math Section Editor of [Science Borealis](http://scienceborealis.ca/)   
+2015 **RealScientist Curator** Curating a week of tweets to 30k+ people about my research for @RealScientists  
+2015 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for @Biotweeps  
+2015 **Presentation** (2) Local Library Science Program, AR  
 2015 **Presentation** Camp War Eagle Summer Camp, Arkansas  
-2015 **Field Trip Leader** The Biggest Week In American Birding Festival  
-2015 **Presentation** Boys and Girls Club of Bentonville, Arkansas STEAM Program   
+2015 **Field Trip Leader** (2) The Biggest Week In American Birding Festival  
+2015 **Presentation** (3) Boys and Girls Club of Bentonville, Arkansas STEAM Program   
 2015 **Presentation** Springdale Alternative High School, Springdale, AR    
-2014 **Presentation** Local Library Science Program, AR  
+2014 **Presentation** (2) Local Library Science Program, AR  
 2011 **North American Breeding Bird Survey Volunteer** U.S. Geological Survey  
 2013 **Presentation** Springdale Alternative High School, Springdale, AR  
 2011 **Outdoor Educator** W. U.P. Center for Science, Math and Envi. Education   
@@ -309,8 +298,6 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2008 **Presentation** Black Swamp Bird Observatory Lunch Lecture  
 2007 **Presentation** Ohio Young Birder's Club Conference 
 
-\newpage
-
 ## Service 
 
 2013-6 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology   
@@ -320,10 +307,10 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2014 **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
 2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
+2011 **Guest Lecture** Ornithology - Michigan Technological University
 2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI   
 2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
-
 
 ## Leadership
 
@@ -359,4 +346,4 @@ Activities Chair 2008 - 2011
 - Markdown/RMarkdown
 - Program Mark/RMark
 - Git/Github
-- Unix Shell
+- UNIX Shell
