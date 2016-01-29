@@ -4,30 +4,30 @@ header-includes:
 - \usepackage{hyperref}
 output: pdf_document
 ---
-  
-  
+
 \begin{tabular*}{6.6in}{l@{\extracolsep{\fill}}r}
 \Huge\textbf{Auriel M.V. Fournier}  \\
 PhD Candidate - University of Arkansas - Fayetteville & amvander@uark.edu \\
 \href{http://www.coopunits.org/Arkansas/}{Arkansas Cooperative Fish and Wildlife Research Unit} & 419.307.6261 \\
-\href{http://wildlife.org/learn/professional-development-certification/certification-programs/}{Associate Wildlife Biologist ©} & \href{https://twitter.com/RallidaeRule}{@RallidaeRule} \\
-\href{http://aurielfournier.github.io/}{aurielfournier.github.io} &    \href{https://scholar.google.com/citations?user=H0AXRhQAAAAJ}{Google Scholar} \href{https://github.com/aurielfournier}{Github}  
+1 University Drive SCEN 632 Fayetteville, AR 72701 & \href{https://twitter.com/RallidaeRule}{@RallidaeRule} \\
+\href{http://aurielfournier.github.io/}{aurielfournier.github.io} &    \href{https://scholar.google.com/citations?user=H0AXRhQAAAAJ}{Google Scholar} \href{https://github.com/aurielfournier}{Github}\\
 
 \end{tabular*}
-
 
 ## Education
 
 \begin{tabular*}{6.6in}{l@{\extracolsep{\fill}}r}
 PhD in \textbf{Biological Sciences - Ecology and Evolutionary Biology} & 2017 (expected) \\
 Arkansas Cooperative Fish and Wildlife Research Unit  & \textbf{University of Arkansas} \\ 
-Advisor: Dr. David Krementz & Distinguished Doctoral Fellowship \\
+Adviser: Dr. David Krementz & Distinguished Doctoral Fellowship \\
 \end{tabular*}
 
-> **Autumn migration ecology of rails on intensively managed wetland complexes** 
-
-> Assessing timing, habitat use and the impacts of management on migratory rails. Developing a new survey methodology to monitor rail abundance during autumn migration using distance based nocturnal ATV surveys for rails in wetland impoundments. Predicting rail density using hierachical distance sampling models in R package 'unmarked' while managing data and the analysis process in a reproducible framework. Hiring, training and managing a four person field crew for five field seasons. Working closely with over 20 state and federal land managers to develop questions and field experiments. Working with Bird Studies Canada and researchers/hunters across the U.S. to collect rail feathers for a large scale migratory connectivity project.
-
+\begin{center}\textbf{Autumn migration ecology of rails on intensively managed wetlands}\end{center}
+- Hierarchical distance modeling to predict rail density and examine habitat use
+- Hiring, training and managing a four person field crew
+- Developing new survey methodology for autumn migrating rails
+- Working closely with state and federal land managers to design field experiments
+- Coordinating collaboration across central North America to examine rail migratory connectivity
 
 \begin{tabular*}{6.6in}{l@{\extracolsep{\fill}}r}
 Bachelor of Science in \textbf{Wildlife Ecology and Management}  & 2011\\ 
@@ -48,25 +48,24 @@ Bachelor of Science in \textbf{Wildlife Ecology and Management}  & 2011\\
 2. *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration Timing of Sora in Missouri, USA.
 -->
 
-1. 2015 **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** 39: 819-821 [pdf](https://www.researchgate.net/publication/283791283_Volunteer_Field_Technicians_Are_Bad_for_Wildlife_Ecology) doi:10.1002/wsb.603
+1. 2015 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 [pdf](https://www.researchgate.net/publication/282289695_Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes_Ohio_USA) doi:10.1675/063.038.0313
 
-2. 2015 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 [pdf](https://www.researchgate.net/publication/282289695_Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes_Ohio_USA) doi:10.1675/063.038.0313
+2. 2015 **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** 39: 819-821 [pdf](https://www.researchgate.net/publication/283791283_Volunteer_Field_Technicians_Are_Bad_for_Wildlife_Ecology) doi:10.1002/wsb.603
 
-3. 2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **The Wildlife Society Bulletin** 27: 881-886 [pdf](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29) doi:10.1002/wsb.323 
+3. 2013 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **The Wildlife Society Bulletin** 27: 881-886 [pdf](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29) doi:10.1002/wsb.323   
 
-a. *In Review* **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)*   (first two authors are equal)
+4. *In Review* **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)*   (first two authors are equal)
 
-## Technical Publications
+## Honors 
 
-1. **Fournier, A.M.V.,** K. Willard, D. G. Krementz. 2015. King rail nesting and brood rearing ecology in managed wetlands: Final report USFWS Division of Migratory Birds Webless Program [pdf](http://s3.amazonaws.com/file-storage.INDIVIDUAL-ACTIVITIES-CooperativeResearchUnits.digitalmeasures.usgs.edu/krementz/tech_publications/rwo_40_final_report DGK-1.docx)
-
-2. Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, Nelson's Sparrows and Sedge Wrens. U.S. Fish and Wildlife Service (Region 3) and Prairie Pothole Joint Venture. 
-
-3. Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, and Sedge Wrens. U.S. Forest Service
+2012-16 **Distinguished Doctoral Fellowship** - University of Arkansas  
+2011 **Outstanding Senior in Wildlife Ecology and Management** - Michigan Technological University   
+2010 **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
+2009 **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological University
 
 ## Grants
 
-2015 *Co-PI* **Missouri Department of Conservation Research Grant** $62,000 Effects of Wetland Management Strategies on Habitat Use of Autumn Migrating Rails on Intensively Managed Wetland Complexes in Missouri
+2015 *Co-Investigator and Writer* **Missouri Department of Conservation Research Grant** $62,000 Effects of Wetland Management Strategies on Habitat Use of Autumn Migrating Rails on Intensively Managed Wetland Complexes in Missouri
 
 2015 **Travel Grant** $320 American Ornithologists Union/Cooper Ornithological Society Conference  
 
@@ -84,48 +83,39 @@ a. *In Review* **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldc
 
 2009 **Summer Undergraduate Research Fellowship** $3000 Habitat Classification and Biological Inventory of Pioneer Scout Reservation
 
-
 ## Research Experience
 
-**Undergraduate Research Grant**  
-Dr. Joseph Bump  
-Michigan Technological University  
-May 2011 - Present  
-
+**Undergraduate Research Grant** Dr. Joseph Bump - Michigan Technological Uni. - 2011  
 Assessing the migratory connectivity of Virginia Rails using citizen science data as an informative prior for geographic assignment. Manuscript In Review. 
 
-**Summer Undergraduate Research Fellowship**  
-Dr. Joseph Bump  
-August 2010 - December 2011  
+**Summer Undergrad Research Fellowship** Dr. Joseph Bump - Michigan Technological Uni. - 2011  
+Developed a morphometric model to predict the sex of Virginia Rails. [Fournier et al. 2013](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29).
 
-Developed a morphometric model to predict the sex of Virginia Rails. Published in [The Wildlife Society Bulletin](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29).
-
-**Undergraduate Research Grant**   
-Dr. David Flaspohler  
-May 2010 - March 2011  
-
+**Undergraduate Research Grant** Dr. David Flaspohler - Michigan Technological Uni. - 2010  
 Examined variation in eye color across the range of Golden-winged Warblers. [Presented poster.](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
 
-**Summer Undergraduate Research Fellowship**  
-Dr. David Flaspohler  
-May - August 2009  
-
+**Summer Undergrad Research Fellowship** Dr. David Flaspohler - Michigan Technological Uni. - 2009    
 Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented poster. 
 
+## Technical Publications
+
+1. **Fournier, A.M.V.,** K. Willard, D. G. Krementz. 2015. King rail nesting and brood rearing ecology in managed wetlands: Final report USFWS Division of Migratory Birds Webless Program [pdf](http://s3.amazonaws.com/file-storage.INDIVIDUAL-ACTIVITIES-CooperativeResearchUnits.digitalmeasures.usgs.edu/krementz/tech_publications/rwo_40_final_report DGK-1.docx)
+
+2. Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, Nelson's Sparrows and Sedge Wrens. U.S. Fish and Wildlife Service (Region 3) and Prairie Pothole Joint Venture. 
+
+3. Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, and Sedge Wrens. U.S. Forest Service
 
 ## Presentations
 
-2015 **Fournier, A.M.V.,** Drake, K. Active capture of rails during the breeding season and fall migration. *Inland Bird Banders Association Meeting* [pdf](http://figshare.com/articles/Active_Capture_Methods_for_Rails_During_the_Breeding_Season_and_Fall_MIgration/1598135)
+2015 **Fournier, A.M.V.,** Drake, K. Active capture of rails during the breeding season and fall migration. *Inland Bird Banders Association Meeting* - MS [pdf](http://figshare.com/articles/Active_Capture_Methods_for_Rails_During_the_Breeding_Season_and_Fall_MIgration/1598135)
 
-2015 **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* [pdf](http://doi.org/5m5)
+2015 **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* - OK [pdf](http://doi.org/5m5)
 
-2015 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. Timing of Autumn Migration in the Mississippi Flyway by Rails. *Association of Field Ornithologists Meeting* [pdf](http://doi.org/5ks)
+2015 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. Timing of Autumn Migration in the Mississippi Flyway by Rails. *Association of Field Ornithologists Meeting*  - NS [pdf](http://doi.org/5ks)
 
-2014 **Fournier, A.M.V.,** Krementz, D.G. The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*
+2014 **Fournier, A.M.V.,** Krementz, D.G. The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*- AR
 
-2014 **Fournier, A.M.V.,** Krementz, D.G. The Use of U.A.V.s to Assess Wetland Vegetation Interspersion. *Arkansas State Chapter of The Wildlife Society Spring Meeting*
-
-2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium,* USFWS
+2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
 
 ## Posters
 
@@ -138,7 +128,6 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 2011 **Fournier, A.M.V.,** Roth, A.M., Flaspohler, D.J., Assessing mechanisms for variation in the eyes of Golden-winged Warblers *Ecosystem Science Center Poster Session* - MI  [pdf](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
 
 2010 **Fournier, A.M.V.,** Flaspohler, D.J., Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
-
 
 ## Professional Licenses and Certifications
 
@@ -155,6 +144,8 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 **NSC Defensive Driving II** National Safety Council (1/2013)  
 **Defensive Driving** AAA Driver Improvement Program (7/2012)  
 **ATV Rider Certification** ATV Safety Institute (6/2012)
+
+\newpage
 
 ## Work Experience
 **Environmental Education Internship**  
@@ -183,7 +174,7 @@ later interpretation
 **Field Technician**   
 Michigan Technological University - Dan Haskell - July 2010  
 
-Trapped small mammals; Performed nocturnal audio boat surveys for frogs; Planted vegetation to restore lakeshores; reguarlly interacted with the public to explain the project and coordinate access with private landowners
+Trapped small mammals; Performed nocturnal audio boat surveys for frogs; Planted vegetation to restore lake shores; regularly interacted with the public to explain the project and coordinate access with private landowners
 
 **Field Crew Leader**  
 Michigan Technological University - Dr. Amber Roth  March - June 2010  
@@ -203,19 +194,11 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 Volunteered weekly throughout the year on various field projects. Primarily the rail migration project, checking traps, banding birds and taking vegetation data. Also helped with a wide variety of mist netting projects, including public education programs. Also checked fish and turtle traps, banded hundreds of fledgling Eastern Bluebirds and monitored a bluebird trail for many years. 
 
-
 \newpage 
 
 ## Teaching Experience
 
-**Teaching Assistant** University of Arkansas  
-Biometry  
-Spring Semester 2016    
-Teaching weekly labs on statistics, experimental design and programming in R. Giving lectures, grading materials. Developed materials, scripts and documentation to move all labs from SYSTAT to R. [materials](https://github.com/aurielfournier/Biometry_Materials)
-
-**Science Writing Tutor**  
-Quality Writing Center - University of Arkansas - January 2014 - Present  
-Tutoring undergraduate and graduate students on scientific writing 8 hours a week. Editing thesis, dissertations, lab reports and other writing. Working extensively with English as a Second Language students. 
+> **As Instructor**
 
 **Instructor** Iowa State University - Department of Mechanical Engineering  
 _Software Carpentry Python/Unix Workshop_  November 2015  
@@ -232,6 +215,13 @@ Taught an hour long workshop on graphing in R with the _ggplot2_ package.
 **Instructor** University of Arkansas  
 _Social Media for Outreach and Professional Development Workshop_  April 2015  
 Taught an hour long workshop on using Twitter and other social media for outreach and professional development. 
+
+> **As Teaching Assistant**
+
+**Teaching Assistant** University of Arkansas  
+Biometry  
+Spring Semester 2016    
+Teaching weekly labs on statistics, experimental design and programming in R. Giving lectures, grading materials. Developed materials, scripts and documentation to move all labs from SYSTAT to R. [materials](https://github.com/aurielfournier/Biometry_Materials)
 
 **Teaching Assistant** University of Arkansas    
 Wetlands Ecology and Management  
@@ -253,12 +243,11 @@ Ornithology
 Spring Semester 2011  
 Lead field trips, gave guest lecture, gave field quizzes. 
 
-## Honors 
+> **As Tutor**
 
-2012-16 **Distinguished Doctoral Fellowship** - University of Arkansas  
-2011 **Outstanding Senior in Wildlife Ecology and Management** - Michigan Technological University   
-2010 **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
-2009 **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological University
+**Science Writing Tutor**  
+Quality Writing Center - University of Arkansas - January 2014 - Present  
+Tutoring undergraduate and graduate students on scientific writing 8 hours a week. Editing thesis, dissertations, lab reports and other writing. Working extensively with English as a Second Language students. 
 
 ## Professional Development
 
@@ -268,7 +257,6 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2013 **'Adehabitat' R Package Workshop** The Wildlife Society National Con/James Sheppard    
 2013 **Symposium Planning Committee** The Wildlife Society National Con, Milwaukee, WI    
 2013 **Occupancy Modeling Short Course** Darryl MacKenzie    
-
 
 ## Outreach  
 2013-6 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
@@ -303,7 +291,7 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2014 **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
 2013-14 Treasurer **Student Chapter - University of Arkansas** The Wildlife Society  
-2013-14 Vice President **Biology Graduate Student Assocation** Univesrity of Arkansas  
+2013-14 Vice President **Biology Graduate Student Assocation** University of Arkansas  
 2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
 2011 **Guest Lecture** Ornithology - Michigan Technological University  
 2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI   
@@ -340,7 +328,7 @@ UNIX Shell
 Manual Transmission  
 Vehicle Maintenance
 ATVs (over 1000 hours operating time)  
-Small Motor Maintence and Repair  
+Small Motor Maintenance and Repair  
 Kayak/Canoe  
 Small Engine Boating  
 Backpacking and Back Country Living
