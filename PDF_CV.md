@@ -151,48 +151,56 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 **Environmental Education Internship**  
 Kellogg Bird Sanctuary, Michigan State University - Kara Hass -  May - July 2012  
 
-Planned and led outdoor education programs for all ages. Developed a social media plan.
-
 **Bird Bander**  
 The Big Island, Hawaii - Dr. Jessie Knowlton - February - May 2012   
-
-Banded endemic and endangered birds in isolated forest patches on the Big Island of Hawaii. Operated double high mist-nets to capture birds and take blood and feather samples.
 
 **Field Technician**  
 Isle Royale National Park - Dr. Joseph Bump -  May 2011  
  
-Worked full-time constructing aquatic moose and beaver exclosures in small inland lakes at Isle
-Royale National Park to study the affect of herbivory on plant communities.
-
 **Remote Sensing/GIS Technician**  
 Michigan Technological University - Dr. Mike Falkowski - February 2010 - December 2011  
 
-Delineated cover type from color and B/W photos from past seventy years; Identified beaver dams
-and identified water bodies were created by the dams; Processed raw LiDAR data into maps for
-later interpretation
-
-**Field Technician**   
+**Small Mammal/Lakeshore Restoration Technician**   
 Michigan Technological University - Dan Haskell - July 2010  
-
-Trapped small mammals; Performed nocturnal audio boat surveys for frogs; Planted vegetation to restore lake shores; regularly interacted with the public to explain the project and coordinate access with private landowners
 
 **Field Crew Leader**  
 Michigan Technological University - Dr. Amber Roth  March - June 2010  
 
-Led a crew of three to gather blood, feather and toenail samples of Blue-winged and Golden-winged
-Warblers across five study sites in Minnesota and Wisconsin; Developed the time line, budget and
-travel plans as to cover the largest area and gather the most samples; Established contact and
-coordinated site access on local, state, federal and military properties
-
 **Bird Bander**  
 Black Swamp Bird Observatory - Mark & Julie Shieldcastle - Spring and Fall 2004-2008
-
-Volunteered at least weekly during both spring and fall migration working at Black Swamp Bird Observatory's banding station. Extracted thousands of birds over the five years, was trusted to help train volunteers and extract birds solo even on very busy days or under harsh conditions. Banded hundreds of passerines. 
 
 **Bird Bander**  
 Green Creek Wildlife Society - Tom Kashmer - 2002-2008  
 
-Volunteered weekly throughout the year on various field projects. Primarily the rail migration project, checking traps, banding birds and taking vegetation data. Also helped with a wide variety of mist netting projects, including public education programs. Also checked fish and turtle traps, banded hundreds of fledgling Eastern Bluebirds and monitored a bluebird trail for many years. 
+## Professional Development
+
+2015 **Editoring in Ornithology Workshop** American Ornithologist Union Meeting    
+2014 **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA    
+2014 **Applied Hierarchical Modeling Workshop** Patuxent Wildlife Research Center/Royle & Kery     
+2013 **'Adehabitat' R Package Workshop** The Wildlife Society National Con/James Sheppard    
+2013 **Symposium Planning Committee** The Wildlife Society National Con, Milwaukee, WI    
+2013 **Occupancy Modeling Short Course** Darryl MacKenzie    
+
+## Outreach  
+2013-6 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
+Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
+2013-6 **Science Fair Judge** (6) Regional/Local Science Fairs NW Arkansas    
+2015-6 **Editor** Science and Math Section Editor of [Science Borealis](http://scienceborealis.ca/)   
+2015 **RealScientist Curator** Curating a week of tweets to 30k+ people about my research for [RealScientists](http://realscientists.org/)  
+2015 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for [Biotweeps](https://biotweep.wordpress.com/about/)  
+2015 **Presentation** (2) Local Library Science Program, AR  
+2015 **Presentation** Camp War Eagle Summer Camp, Arkansas  
+2015 **Field Trip Leader** (2) The Biggest Week In American Birding Festival  
+2015 **Presentation** (3) Boys and Girls Club of Bentonville, Arkansas STEAM Program   
+2015 **Presentation** Springdale Alternative High School, Springdale, AR    
+2014 **Presentation** (2) Local Library Science Program, AR  
+2011 **North American Breeding Bird Survey Volunteer** U.S. Geological Survey  
+2013 **Presentation** Springdale Alternative High School, Springdale, AR  
+2011 **Outdoor Educator** W. U.P. Center for Science, Math and Envi. Education   
+2011 **Owl Survey Volunteer** Michigan Bird Conservation Initiative  
+2009 **Presentation** Kirtland Bird Club - Cleveland, OH  
+2009 **Bird Bander** (Six years) Black Swamp Bird Observatory  
+
 
 \newpage 
 
@@ -249,34 +257,6 @@ Lead field trips, gave guest lecture, gave field quizzes.
 Quality Writing Center - University of Arkansas - January 2014 - Present  
 Tutoring undergraduate and graduate students on scientific writing 8 hours a week. Editing thesis, dissertations, lab reports and other writing. Working extensively with English as a Second Language students. 
 
-## Professional Development
-
-2015 **Editoring in Ornithology Workshop** American Ornithologist Union Meeting    
-2014 **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA    
-2014 **Applied Hierarchical Modeling Workshop** Patuxent Wildlife Research Center/Royle & Kery     
-2013 **'Adehabitat' R Package Workshop** The Wildlife Society National Con/James Sheppard    
-2013 **Symposium Planning Committee** The Wildlife Society National Con, Milwaukee, WI    
-2013 **Occupancy Modeling Short Course** Darryl MacKenzie    
-
-## Outreach  
-2013-6 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
-Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
-2013-6 **Science Fair Judge** (6) Regional/Local Science Fairs NW Arkansas    
-2015-6 **Editor** Science and Math Section Editor of [Science Borealis](http://scienceborealis.ca/)   
-2015 **RealScientist Curator** Curating a week of tweets to 30k+ people about my research for [RealScientists](http://realscientists.org/)  
-2015 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for [Biotweeps](https://biotweep.wordpress.com/about/)  
-2015 **Presentation** (2) Local Library Science Program, AR  
-2015 **Presentation** Camp War Eagle Summer Camp, Arkansas  
-2015 **Field Trip Leader** (2) The Biggest Week In American Birding Festival  
-2015 **Presentation** (3) Boys and Girls Club of Bentonville, Arkansas STEAM Program   
-2015 **Presentation** Springdale Alternative High School, Springdale, AR    
-2014 **Presentation** (2) Local Library Science Program, AR  
-2011 **North American Breeding Bird Survey Volunteer** U.S. Geological Survey  
-2013 **Presentation** Springdale Alternative High School, Springdale, AR  
-2011 **Outdoor Educator** W. U.P. Center for Science, Math and Envi. Education   
-2011 **Owl Survey Volunteer** Michigan Bird Conservation Initiative  
-2009 **Presentation** Kirtland Bird Club - Cleveland, OH  
-2009 **Bird Bander** (Six years) Black Swamp Bird Observatory  
 
 ## Service 
 
@@ -309,15 +289,11 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 ## Computer Skills
 
 R  
-- data analysis, cleaning and manipulation  
-- graphing (ggplot2)  
-- function writing  
-- package creation and curation  
 Python  
 SQL  
 ArcGIS  
 LaTeX  
-Markdown/RMarkdown  (this CV is written in Markdown)
+Markdown/RMarkdown  (this CV is written in Markdown)  
 Program Mark/RMark  
 Git/Github [github profile](https://github.com/aurielfournier)  
 UNIX Shell
@@ -331,5 +307,5 @@ ATVs (over 1000 hours operating time)
 Small Motor Maintenance and Repair  
 Kayak/Canoe  
 Small Engine Boating  
-Backpacking and Back Country Living
+Backpacking and Back Country Living  
 Electronics Repair
