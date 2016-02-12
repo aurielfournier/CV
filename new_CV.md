@@ -132,7 +132,8 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 - taken blood from 200+ and feathers from 700+ individuals  
 - sub-permittee in the U.S and Canada  
 - have worked under 7 master banders    
-- have trained people in mist net extraction, feather pulling and blood from brachial vein  
+- have trained people in mist net extraction, feather pulling and blood from brachial vein    
+
 **CPR/First Aid** American Red Cross (4/2014)  
 **NSC Defensive Driving II** National Safety Council (1/2013)  
 **Defensive Driving** AAA Driver Improvement Program (7/2012)  
