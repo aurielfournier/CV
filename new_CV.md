@@ -135,7 +135,7 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 - have trained people in mist net extraction, feather pulling and blood from brachial vein    
 
 **Wilderness First Aid** Wilderness Medicine Institute/NOLS (2/2016)  
-**CPR/First Aid** American Red Cross (4/2014)  
+**CPR/First Aid** American Red Cross (12/2015)  
 **NSC Defensive Driving II** National Safety Council (1/2013)  
 **Defensive Driving** AAA Driver Improvement Program (7/2012)  
 **ATV Rider Certification** ATV Safety Institute (6/2012)
