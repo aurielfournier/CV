@@ -16,7 +16,6 @@ University of Arkansas - Fayetteville                                       @Ral
 -------------------                                                         ----------------------------
 
 
-
 PhD in \textbf{Biological Sciences - Ecology and Evolutionary Biology}      2017 (expected)   
 Arkansas Cooperative Fish and Wildlife Research Unit - University of Arkansas   
 Adviser: Dr. David Krementz                                         
@@ -223,8 +222,8 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 
 <!---
 **Instructor** University of Conneticut - Department of Ecology and Evolutionary Biology  
-_Software Carpentry Python/Unix Workshop_  March 2016  
-Taught a two-day workshop on reproducible research and programming in python and UNIX. [materials](https://github.com/wrightaprilm/2015-11-16-ISU)
+_Software Carpentry Workshop_  March 2016  
+Taught a two-day workshop on reproducible research and programming in R, Git and Unix. [materials](https://github.com/butterflyology/2016-03-21-UConn)
 -->
 
 **Instructor** Iowa State University - Department of Mechanical Engineering  

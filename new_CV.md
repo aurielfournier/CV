@@ -58,6 +58,8 @@ Minor *Remote Sensing* - Magna Cum Laude
 
 ## Grants
 
+- 10 (declined) *PI* **National Science Foundation East Asia Pacific Summer Institute Program** 2016 Timing is everything: Identifying peak Rallidae call rate in southeast Australia
+
 - 9 - *Co-Investigator and Writer* **Missouri Department of Conservation Research Grant** 2015 $62,000 Effects of Wetland Management Strategies on Habitat Use of Autumn Migrating Rails on Intensively Managed Wetland Complexes in Missouri
 
 - 8 - **Travel Grant** 2015 $320 American Ornithologists Union/Cooper Ornithological Society Conference  
@@ -121,6 +123,13 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 - 2 - **Fournier, A.M.V.,** Roth, A.M., Flaspohler, D.J., 2011 Assessing mechanisms for variation in the eyes of Golden-winged Warblers *Ecosystem Science Center Poster Session* - MI  [pdf](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
 
 - 1 - **Fournier, A.M.V.,** Flaspohler, D.J., 2010 Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
+
+## Invited Seminars
+<!---
+2016  University of Toledo, Department of Environmental Sciences
+-->
+2014  Arkansas Tech University, Department of Biological Sciences
+
 
 ## Professional Licenses and Certifications
 
@@ -199,6 +208,13 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 ## Teaching Experience
 
 > **As Instructor**
+
+
+<!---
+**Instructor** University of Conneticut - Department of Ecology and Evolutionary Biology  
+_Software Carpentry Python/Unix Workshop_  March 2016  
+Taught a two-day workshop on reproducible research and programming in python and UNIX. [materials](https://github.com/wrightaprilm/2015-11-16-ISU)
+-->
 
 **Instructor** Iowa State University - Department of Mechanical Engineering  
 _Software Carpentry Python/Unix Workshop_  November 2015  
