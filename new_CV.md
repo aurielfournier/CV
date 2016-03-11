@@ -276,7 +276,6 @@ Tutoring undergraduate and graduate students on scientific writing 8 hours a wee
 2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas  
 2014-15 Treasurer **Student Working Group** The Wildlife Society    
 2014-15 Secretary **Student Chapter - University of Arkansas** The Wildlife Society  
-2014 **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
 2013-14 Treasurer **Student Chapter - University of Arkansas** The Wildlife Society  
 2013-14 Vice President **Biology Graduate Student Assocation** University of Arkansas  
