@@ -37,15 +37,19 @@ Minor \textbf{Remote Sensing}
 ## Peer-Reviewed Publications  
 
 <!---
-*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in Missouri, USA.
-
-*In Review* **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S.  Diet and mercury availability in Clapper Rails (Rallus longirostris) from museum specimens in North Carolina
-
-*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C.  Autumn Migration timing of Virginia Rail in Missouri, USA. 
+*In Review* **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R.  Diet and mercury availability in Clapper Rails (Rallus longirostris) from museum specimens in North Carolina
 
 *In Review* Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
 
-2. *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration Timing of Sora in Missouri, USA.
+*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Gbur, E.E. Autumn Migration Timing of Sora in Missouri, USA.
+
+*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in Missouri, USA.
+
+*In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
+
+*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C.  Chapter 5
+
+*In Review* **Fournier, A.M.V.**, Drake K., Touzer D. Krementz D.G. Rails Demonstrate Limited Migratory Connectivity East of the Rocky Mountains
 -->
 
 - 3 - **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. 2015  _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 [pdf](https://www.researchgate.net/publication/282289695_Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes_Ohio_USA) doi:10.1675/063.038.0313
@@ -64,6 +68,8 @@ Minor \textbf{Remote Sensing}
 2009 **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological University
 
 ## Grants
+
+- 10 (declined) *PI* **National Science Foundation East Asia Pacific Summer Institute Program** 2016 Timing is everything: Identifying peak Rallidae call rate in southeast Australia
 
 - 9  *Co-Investigator and Writer* **Missouri Department of Conservation Research Grant** 2015 $62,000 Effects of Wetland Management Strategies on Habitat Use of Autumn Migrating Rails on Intensively Managed Wetland Complexes in Missouri
 
@@ -128,6 +134,12 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 - 2 **Fournier, A.M.V.,** Roth, A.M., Flaspohler, D.J., 2011  Assessing mechanisms for variation in the eyes of Golden-winged Warblers *Ecosystem Science Center Poster Session* - MI  [pdf](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
 
 - 1 **Fournier, A.M.V.,** Flaspohler, D.J.,  Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
+
+## Invited Seminars
+<!---
+2016  University of Toledo, Department of Environmental Sciences
+-->
+2014  Arkansas Tech University, Department of Biological Sciences
 
 ## Professional Licenses and Certifications
 
@@ -209,6 +221,12 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 
 > **As Instructor**
 
+<!---
+**Instructor** University of Conneticut - Department of Ecology and Evolutionary Biology  
+_Software Carpentry Python/Unix Workshop_  March 2016  
+Taught a two-day workshop on reproducible research and programming in python and UNIX. [materials](https://github.com/wrightaprilm/2015-11-16-ISU)
+-->
+
 **Instructor** Iowa State University - Department of Mechanical Engineering  
 _Software Carpentry Python/Unix Workshop_  November 2015  
 Taught a two-day workshop on reproducible research and programming in python and UNIX. [materials](https://github.com/wrightaprilm/2015-11-16-ISU)
@@ -269,7 +287,6 @@ Tutoring undergraduate and graduate students on scientific writing 8 hours a wee
 2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas  
 2014-15 Treasurer **Student Working Group** The Wildlife Society    
 2014-15 Secretary **Student Chapter - University of Arkansas** The Wildlife Society  
-2014 **Invited Seminar** Arkansas Tech University Fish and Wildlife Seminar  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
 2013-14 Treasurer **Student Chapter - University of Arkansas** The Wildlife Society  
 2013-14 Vice President **Biology Graduate Student Assocation** University of Arkansas  
