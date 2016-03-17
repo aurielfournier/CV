@@ -126,7 +126,7 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 ## Invited Seminars
 
-2016  University of Toledo, Department of Environmental Sciences
+2016  University of Toledo, Department of Environmental Sciences  
 2014  Arkansas Tech University, Department of Biological Sciences
 
 
