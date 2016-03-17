@@ -132,7 +132,7 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 ## Professional Licenses and Certifications
 
-**Instructor Training** [Software Carpentry](https://software-carpentry.org/index.html) - (5/2015)  
+**Instructor Training** [Software Carpentry & Data Carpentry](https://software-carpentry.org/index.html) - (5/2015)  
 [**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society - (3/2015)  
 **Sub-permit bird banding license holder**  
 - 13 years experience, handled 7000+ birds,  
