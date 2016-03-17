@@ -135,9 +135,7 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 - 1 **Fournier, A.M.V.,** Flaspohler, D.J.,  Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
 ## Invited Seminars
-<!---
 2016  University of Toledo, Department of Environmental Sciences
--->
 2014  Arkansas Tech University, Department of Biological Sciences
 
 ## Professional Licenses and Certifications
