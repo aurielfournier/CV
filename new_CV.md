@@ -208,15 +208,12 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 
 > **As Instructor**
 
-
-<!---
 **Instructor** University of Conneticut - Department of Ecology and Evolutionary Biology  
-_Software Carpentry Python/Unix Workshop_  March 2016  
-Taught a two-day workshop on reproducible research and programming in python and UNIX. [materials](https://github.com/wrightaprilm/2015-11-16-ISU)
--->
+_Software Carpentry Workshop_  March 2016  
+Taught a two-day workshop on reproducible research and programming in R, Unix Shell and Git. [materials](https://github.com/butterflyology/2016-03-21-UConn)
 
 **Instructor** Iowa State University - Department of Mechanical Engineering  
-_Software Carpentry Python/Unix Workshop_  November 2015  
+_Software Carpentry Workshop_  November 2015  
 Taught a two-day workshop on reproducible research and programming in python and UNIX. [materials](https://github.com/wrightaprilm/2015-11-16-ISU)
 
 **Instructor** American Ornithologists Union Conference  
@@ -267,6 +264,7 @@ Tutoring undergraduate and graduate students on scientific writing 8 hours a wee
 
 ## Service 
 
+2016 **Lesson Maintainer** Data Carpentry [R Ecology Lessons](http://www.datacarpentry.org/R-ecology-lesson/)  
 2013-6 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology   [Publons profile](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)  
 2015-16 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society  
 2014-16 Treasurer **Biology Graduate Student Assocation** University of Arkansas  
