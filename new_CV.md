@@ -32,7 +32,7 @@ Minor *Remote Sensing* - Magna Cum Laude
 <!---
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in Missouri, USA.
 
-*In Review* **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S.  Diet and mercury availability in Clapper Rails (Rallus longirostris) from museum specimens in North Carolina
+
 
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C.  Autumn Migration timing of Virginia Rail in Missouri, USA. 
 
@@ -48,6 +48,8 @@ Minor *Remote Sensing* - Magna Cum Laude
 - 1 - **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K.  2013  _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **The Wildlife Society Bulletin** 27: 881-886 [pdf](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29) doi:10.1002/wsb.323   
 
 - a - *In Review* **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)*   (first two authors are equal)
+
+- b - *In Review* **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S.  Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina
 
 ## Honors 
 
