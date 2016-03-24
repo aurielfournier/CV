@@ -36,7 +36,7 @@ Minor \textbf{Remote Sensing}
 ## Peer-Reviewed Publications  
 
 <!---
-*In Review* **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R.  Diet and mercury availability in Clapper Rails (Rallus longirostris) from museum specimens in North Carolina
+
 
 *In Review* Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
 
@@ -58,6 +58,8 @@ Minor \textbf{Remote Sensing}
 - 1 - **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. 2013  _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **The Wildlife Society Bulletin** 27: 881-886 [pdf](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29) doi:10.1002/wsb.323   
 
 - *In Review* **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)*   (first two authors are equal)
+
+- *In Review* **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina
 
 ## Honors 
 
