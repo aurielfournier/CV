@@ -267,7 +267,7 @@ Tutoring undergraduate and graduate students on scientific writing 8 hours a wee
 ## Service 
 
 2016 **Lesson Maintainer** Data Carpentry [R Ecology Lessons](http://www.datacarpentry.org/R-ecology-lesson/)  
-2013-6 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology   [Publons profile](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)  
+2013-6 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology, Ecology and Evolution   [Publons profile](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)  
 2015-16 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society  
 2014-16 Treasurer **Biology Graduate Student Assocation** University of Arkansas  
 2015 **Volunteer** American Ornithologists Union Meeting  
