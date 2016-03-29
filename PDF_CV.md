@@ -145,19 +145,15 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 **Instructor Training** [Software Carpentry & Data Carpentry](https://software-carpentry.org/index.html) - (5/2015)  
 [**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society - (3/2015)  
 **Sub-permit bird banding license holder**  
-- 13 years experience, handled 7000+ birds,  
-- primarily passerines, rails and owls  
-- taken blood from 200+ and feathers from 700+ individuals  
-- sub-permittee in the U.S and Canada  
-- have worked under 7 master banders    
-- have trained people in mist net extraction, feather pulling and blood from brachial vein  
+- 13 years experience, handled 7000+ birds & sub-permittee in the U.S and Canada  
+- taken blood from 200+ and feathers from 700+ individuals    
+- have worked under 7 master banders & trained people in mist net extraction, feather pulling and blood from brachial vein  
 **Wilderness First Aid** Wilderness Medicine Institute/NOLS (2/2016)  
 **CPR/First Aid** American Red Cross (5/2015)  
 **NSC Defensive Driving II** National Safety Council (1/2013)  
 **Defensive Driving** AAA Driver Improvement Program (7/2012)  
 **ATV Rider Certification** ATV Safety Institute (6/2012)
 
-\newpage
 
 ## Work Experience
 **Environmental Education Internship**  
@@ -278,7 +274,7 @@ Tutoring undergraduate and graduate students on scientific writing 8 hours a wee
 
 ## Service 
 
-2013-6 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology, Ecology and Evoltuion   [Publons profile](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)  
+2013-6 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology, Ecology and Evoltuion   - [Publons profile](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)  
 2015-16 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society  
 2014-16 Treasurer **Biology Graduate Student Assocation** University of Arkansas  
 2015 **Volunteer** American Ornithologists Union Meeting  
@@ -311,7 +307,7 @@ SQL
 ArcGIS  
 Markdown/RMarkdown  (this CV is written in Markdown)  
 Program Mark/RMark  
-Git/Github [Github Account](https://github.com/aurielfournier)  
+Git/Github - [Github Account](https://github.com/aurielfournier)  
 UNIX Shell
 
 ## Field Skills
