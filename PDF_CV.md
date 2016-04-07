@@ -215,11 +215,9 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 
 > **As Instructor**
 
-<!---
 **Instructor** University of Conneticut - Department of Ecology and Evolutionary Biology  
 _Software Carpentry Workshop_  March 2016  
-Taught a two-day workshop on reproducible research and programming in R, Git and Unix. [materials](https://github.com/butterflyology/2016-03-21-UConn)
--->
+Taught a two-day workshop on reproducible research and programming in R, Unix Shell and Git. [materials](https://github.com/butterflyology/2016-03-21-UConn)
 
 **Instructor** Iowa State University - Department of Mechanical Engineering  
 _Software Carpentry Python/Unix Workshop_  November 2015  
@@ -228,14 +226,6 @@ Taught a two-day workshop on reproducible research and programming in python and
 **Instructor** American Ornithologists Union Conference  
 _'Taking R to the Next Level' Workshop_ July 2015  
 Taught a day long workshop on programming, graphing and data management in R. [materials](https://github.com/aurielfournier/AOU_workshop) 
-
-**Instructor** University of Arkansas  
-_Graphing with ggplot2 workshop_  May 2015  
-Taught an hour long workshop on graphing in R with the _ggplot2_ package.  
-
-**Instructor** University of Arkansas  
-_Social Media for Outreach and Professional Development Workshop_  April 2015  
-Taught an hour long workshop on using Twitter and other social media for outreach and professional development. 
 
 > **As Teaching Assistant**
 
@@ -270,6 +260,7 @@ Lead field trips, gave guest lecture, gave field quizzes.
 Quality Writing Center - University of Arkansas - January 2014 - Present  
 Tutoring undergraduate and graduate students on scientific writing 8 hours a week. Editing thesis, dissertations, lab reports and other writing. Working extensively with English as a Second Language students. 
 
+\newpage
 
 ## Service 
 
