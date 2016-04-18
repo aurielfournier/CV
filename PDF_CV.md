@@ -63,7 +63,7 @@ Minor \textbf{Remote Sensing}
 ## Honors 
 
 2012-16 **Distinguished Doctoral Fellowship** - University of Arkansas  
-2016 **Distinguished Graduate Student Service Award** The Wildlife Society University of Arkansas Student Chapter  
+2016 **Graduate Student Service Award** The Wildlife Society U. of Arkansas Student Chapter  
 2011 **Outstanding Senior in Wildlife Ecology and Management** - Michigan Technological University   
 2010 **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
 2009 **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological University
@@ -215,6 +215,21 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 ## Teaching Experience
 
 > **As Instructor**
+
+
+<!---
+**Instructor** North American Ornithological Conference
+_Advanced R Programming and Graphing Workshop_ August 2016  
+Taught a day long workshop on programming, graphing and data management in R. [materials](https://github.com/aurielfournier/AOU_workshop) 
+
+**Instructor** US Department of Agriculture -  
+_Data Carpentry Workshop_  June 2016  
+Taught a two-day workshop on reproducible research and programming in R,  [materials]
+
+**Instructor** Federal Reserve 
+_Software Carpentry Workshop_  June 2016  
+Taught a two-day workshop on reproducible research and programming in R, Unix Shell and Git. [materials]
+--->
 
 **Instructor** University of Conneticut - Department of Ecology and Evolutionary Biology  
 _Software Carpentry Workshop_  March 2016  
