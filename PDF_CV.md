@@ -63,6 +63,7 @@ Minor \textbf{Remote Sensing}
 ## Honors 
 
 2012-16 **Distinguished Doctoral Fellowship** - University of Arkansas  
+2016 **Distinguished Graduate Student Service Award** The Wildlife Society University of Arkansas Student Chapter  
 2011 **Outstanding Senior in Wildlife Ecology and Management** - Michigan Technological University   
 2010 **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
 2009 **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological University
