@@ -30,8 +30,6 @@ Minor *Remote Sensing* - Magna Cum Laude
 ## Peer-Reviewed Publications  
 
 <!---
-#Chapter1
-*In Review* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration
 #Chapter2
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in Missouri, USA.
 #ChapterMethods
@@ -53,6 +51,8 @@ Minor *Remote Sensing* - Magna Cum Laude
 - a - *In Review* **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S.  Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina
 
 - b - *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
+
+- c - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration
 
 ## Honors 
 
