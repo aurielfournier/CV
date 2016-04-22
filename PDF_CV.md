@@ -36,14 +36,10 @@ Minor \textbf{Remote Sensing}
 ## Peer-Reviewed Publications  
 
 <!---
-#Chapter1
-*In Review* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration
 #Chapter2
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in Missouri, USA.
 #ChapterMethods
 *In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
-
-*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C.  Chapter 5
 #Chapter3
 *In Review* **Fournier, A.M.V.**, Drake K., Touzer D. Krementz D.G. Rails Demonstrate Limited Migratory Connectivity East of the Rocky Mountains
 -->
@@ -59,6 +55,8 @@ Minor \textbf{Remote Sensing}
 - a - *In Review* **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina
 
 - b - *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
+
+- c - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration
 
 ## Honors 
 
