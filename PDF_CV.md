@@ -1,10 +1,6 @@
 ---
-header-includes:
-- \usepackage{tabularx}
-- \usepackage{hyperref}
 output: pdf_document
 ---
-
 
 # Auriel M.V. Fournier
 
@@ -12,7 +8,7 @@ output: pdf_document
 PhD Candidate -  Arkansas Cooperative Fish and Wildlife Research Unit       amvander@uark.edu
 University of Arkansas - Fayetteville                                       @RallidaeRule
 1 University Drive, Fayetteville, AR 72701                                  419.307.6261
-[aurielfournier.github.io](http://aurielfournier.github.io/)                [Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ)  [GitHub](https://github.com/aurielfournier)
+[aurielfournier.github.io](http://aurielfournier.github.io/)                [Google Scholar Link](https://scholar.google.com/citations?user=H0AXRhQAAAAJ)  [GitHub Link](https://github.com/aurielfournier)
 -------------------                                                         ----------------------------
 
 
@@ -46,11 +42,11 @@ Minor \textbf{Remote Sensing}
 
 - 4 - **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. Accepted *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)* **Journal of Applied Ecology** (first two authors are equal)
 
-- 3 - **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. 2015  _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 [pdf](https://www.researchgate.net/publication/282289695_Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes_Ohio_USA) doi:10.1675/063.038.0313
+- 3 - **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. 2015  _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 [pdf link](https://www.researchgate.net/publication/282289695_Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes_Ohio_USA) doi:10.1675/063.038.0313
 
-- 2 - **Fournier, A.M.V.**, Bond, A.L. 2015  *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** 39: 819-821 [pdf](https://www.researchgate.net/publication/283791283_Volunteer_Field_Technicians_Are_Bad_for_Wildlife_Ecology) doi:10.1002/wsb.603
+- 2 - **Fournier, A.M.V.**, Bond, A.L. 2015  *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** 39: 819-821 [pdf link](https://www.researchgate.net/publication/283791283_Volunteer_Field_Technicians_Are_Bad_for_Wildlife_Ecology) doi:10.1002/wsb.603
 
-- 1 - **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. 2013  _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **The Wildlife Society Bulletin** 27: 881-886 [pdf](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29) doi:10.1002/wsb.323   
+- 1 - **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. 2013  _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **The Wildlife Society Bulletin** 27: 881-886 [pdf link](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29) doi:10.1002/wsb.323   
 
 - a - *In Review* **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina
 
@@ -94,17 +90,17 @@ Minor \textbf{Remote Sensing}
 Assessing the migratory connectivity of Virginia Rails using citizen science data as an informative prior for geographic assignment. Manuscript In Review. 
 
 **Summer Undergrad Research Fellowship** Dr. Joseph Bump - Michigan Technological Uni. - 2011  
-Developed a morphometric model to predict the sex of Virginia Rails. [Fournier et al. 2013](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29).
+Developed a morphometric model to predict the sex of Virginia Rails. [Fournier et al. 2013 link](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29).
 
 **Undergraduate Research Grant** Dr. David Flaspohler - Michigan Technological Uni. - 2010  
-Examined variation in eye color across the range of Golden-winged Warblers. [Presented poster.](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
+Examined variation in eye color across the range of Golden-winged Warblers. [Presented poster link](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
 
 **Summer Undergrad Research Fellowship** Dr. David Flaspohler - Michigan Technological Uni. - 2009    
 Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented poster. 
 
 ## Technical Publications
 
-- 3 **Fournier, A.M.V.,** K. Willard, D. G. Krementz. 2015. King rail nesting and brood rearing ecology in managed wetlands: Final report USFWS Division of Migratory Birds Webless Program [pdf](http://s3.amazonaws.com/file-storage.INDIVIDUAL-ACTIVITIES-CooperativeResearchUnits.digitalmeasures.usgs.edu/krementz/tech_publications/rwo_40_final_report DGK-1.docx)
+- 3 **Fournier, A.M.V.,** K. Willard, D. G. Krementz. 2015. King rail nesting and brood rearing ecology in managed wetlands: Final report USFWS Division of Migratory Birds Webless Program [pdf link ](http://s3.amazonaws.com/file-storage.INDIVIDUAL-ACTIVITIES-CooperativeResearchUnits.digitalmeasures.usgs.edu/krementz/tech_publications/rwo_40_final_report DGK-1.docx)
 
 - 2 Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, Nelson's Sparrows and Sedge Wrens. U.S. Fish and Wildlife Service (Region 3) and Prairie Pothole Joint Venture. 
 
@@ -112,11 +108,11 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 ## Presentations
 
-- 5 **Fournier, A.M.V.,** Drake, K. 2015  Active capture of rails during the breeding season and fall migration. *Inland Bird Banders Association Meeting* - MS [pdf](http://figshare.com/articles/Active_Capture_Methods_for_Rails_During_the_Breeding_Season_and_Fall_MIgration/1598135)
+- 5 **Fournier, A.M.V.,** Drake, K. 2015  Active capture of rails during the breeding season and fall migration. *Inland Bird Banders Association Meeting* - MS [pdf link](http://figshare.com/articles/Active_Capture_Methods_for_Rails_During_the_Breeding_Season_and_Fall_MIgration/1598135)
 
-- 4 **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. 2015  Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* - OK [pdf](http://doi.org/5m5)
+- 4 **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. 2015  Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* - OK [pdf link](http://doi.org/5m5)
 
-- 3 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. 2015  Timing of Autumn Migration in the Mississippi Flyway by Rails. *Association of Field Ornithologists Meeting*  - NS [pdf](http://doi.org/5ks)
+- 3 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. 2015  Timing of Autumn Migration in the Mississippi Flyway by Rails. *Association of Field Ornithologists Meeting*  - NS [pdf link](http://doi.org/5ks)
 
 - 2 **Fournier, A.M.V.,** Krementz, D.G. 2014  The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*- AR
 
@@ -124,13 +120,13 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 ## Posters
 
-- 5 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H., 2014  Sora Migration and Wetland Management *The Wildlife Society National Conference* - PA [pdf](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
+- 5 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H., 2014  Sora Migration and Wetland Management *The Wildlife Society National Conference* - PA [pdf link](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
 
-- 4 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., 2013  Ecology of Fall Migrating Sora in Missouri. *The Wildlife Society National Conference* - WI [pdf](http://figshare.com/articles/The_Ecology_of_Fall_Migrating_Sora_in_Missouri/840571)
+- 4 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., 2013  Ecology of Fall Migrating Sora in Missouri. *The Wildlife Society National Conference* - WI [pdf link](http://figshare.com/articles/The_Ecology_of_Fall_Migrating_Sora_in_Missouri/840571)
 
-- 3 **Fournier, A.M.V.,** Sheildcastle, M.C., Fries, A.C., Bump, J.K., 2011  Developing a morphometric model to predict the sex of Virginia Rails. *The Wildlife Society National Conference* - HI [pdf](http://figshare.com/articles/Developing_a_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails/1320946)
+- 3 **Fournier, A.M.V.,** Sheildcastle, M.C., Fries, A.C., Bump, J.K., 2011  Developing a morphometric model to predict the sex of Virginia Rails. *The Wildlife Society National Conference* - HI [pdf link](http://figshare.com/articles/Developing_a_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails/1320946)
 
-- 2 **Fournier, A.M.V.,** Roth, A.M., Flaspohler, D.J., 2011  Assessing mechanisms for variation in the eyes of Golden-winged Warblers *Ecosystem Science Center Poster Session* - MI  [pdf](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
+- 2 **Fournier, A.M.V.,** Roth, A.M., Flaspohler, D.J., 2011  Assessing mechanisms for variation in the eyes of Golden-winged Warblers *Ecosystem Science Center Poster Session* - MI  [pdf link](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
 
 - 1 **Fournier, A.M.V.,** Flaspohler, D.J.,  Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
@@ -188,12 +184,14 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 2013 **Symposium Planning Committee** The Wildlife Society National Con, Milwaukee, WI    
 2013 **Occupancy Modeling Short Course** Darryl MacKenzie    
 
+\newpage
+
 ## Outreach  
 2013-6 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
 2013-6 **Science Fair Judge** (7) Regional/Local Science Fairs NW Arkansas    
 2015-6 **Editor** Science and Math Section Editor of [Science Borealis](http://scienceborealis.ca/)     
-2016 **Presentation** Arkansas Audubon Society Annual Meeting [presentation](https://dx.doi.org/10.6084/m9.figshare.3206122.v1)  
+2016 **Presentation** Arkansas Audubon Society Annual Meeting [presentation link](https://dx.doi.org/10.6084/m9.figshare.3206122.v1)  
 2015 **RealScientist Curator** Curating a week of tweets to 30k+ people about my research for [RealScientists](http://realscientists.org/)  
 2015 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for [Biotweeps](https://biotweep.wordpress.com/about/)  
 2015 **Presentation** (2) Local Library Science Program, AR  
@@ -210,7 +208,26 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2009 **Bird Bander** (Six years) Black Swamp Bird Observatory  
 
 
-\newpage 
+## Service 
+
+2013-6 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology, Ecology and Evoltuion   - [Publons profile](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)  
+2015-16 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society  
+2014-16 Treasurer **Biology Graduate Student Assocation** University of Arkansas  
+2015 **Volunteer** American Ornithologists Union Meeting  
+2015 **Presentation Judge** Association of Field Ornithology, Wilson Ornithological Society, Society of Canadian Ornithologists Meeting  
+2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas  
+2014-15 Treasurer **Student Working Group** The Wildlife Society    
+2014-15 Secretary **Student Chapter - University of Arkansas** The Wildlife Society  
+2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
+2013-14 Treasurer **Student Chapter - University of Arkansas** The Wildlife Society  
+2013-14 Vice President **Biology Graduate Student Assocation** University of Arkansas  
+2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
+2011 **Guest Lecture** Ornithology - Michigan Technological University  
+2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI   
+2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
+2010 **Career Panel Member** Ohio Young Birder's Club Conference  
+
+\newpage
 
 ## Teaching Experience
 
@@ -233,22 +250,22 @@ Taught a two-day workshop on reproducible research and programming in R, Unix Sh
 
 **Instructor** University of Conneticut - Department of Ecology and Evolutionary Biology  
 _Software Carpentry Workshop_  March 2016  
-Taught a two-day workshop on reproducible research and programming in R, Unix Shell and Git. [materials](https://github.com/butterflyology/2016-03-21-UConn)
+Taught a two-day workshop on reproducible research and programming in R, Unix Shell and Git. [Link to Materials](https://github.com/butterflyology/2016-03-21-UConn)
 
 **Instructor** Iowa State University - Department of Mechanical Engineering  
 _Software Carpentry Python/Unix Workshop_  November 2015  
-Taught a two-day workshop on reproducible research and programming in python and UNIX. [materials](https://github.com/wrightaprilm/2015-11-16-ISU)
+Taught a two-day workshop on reproducible research and programming in python and UNIX. [Link to Materials](https://github.com/wrightaprilm/2015-11-16-ISU)
 
 **Instructor** American Ornithologists Union Conference  
 _'Taking R to the Next Level' Workshop_ July 2015  
-Taught a day long workshop on programming, graphing and data management in R. [materials](https://github.com/aurielfournier/AOU_workshop) 
+Taught a day long workshop on programming, graphing and data management in R. [Link to Materials](https://github.com/aurielfournier/AOU_workshop) 
 
 > **As Teaching Assistant**
 
 **Teaching Assistant** University of Arkansas  
 Biometry  
 Spring Semester 2016    
-Teaching weekly labs on statistics, experimental design and programming in R. Giving lectures, grading materials. Developed materials, scripts and documentation to move all labs from SYSTAT to R. [materials](https://github.com/aurielfournier/Biometry_Materials)
+Teaching weekly labs on statistics, experimental design and programming in R. Giving lectures, grading materials. Developed materials, scripts and documentation to move all labs from SYSTAT to R. [Link to Materials](https://github.com/aurielfournier/Biometry_Materials)
 
 **Teaching Assistant** University of Arkansas    
 Wetlands Ecology and Management  
@@ -278,25 +295,6 @@ Tutoring undergraduate and graduate students on scientific writing 8 hours a wee
 
 \newpage
 
-## Service 
-
-2013-6 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology, Ecology and Evoltuion   - [Publons profile](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)  
-2015-16 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society  
-2014-16 Treasurer **Biology Graduate Student Assocation** University of Arkansas  
-2015 **Volunteer** American Ornithologists Union Meeting  
-2015 **Presentation Judge** Association of Field Ornithology, Wilson Ornithological Society, Society of Canadian Ornithologists Meeting  
-2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas  
-2014-15 Treasurer **Student Working Group** The Wildlife Society    
-2014-15 Secretary **Student Chapter - University of Arkansas** The Wildlife Society  
-2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
-2013-14 Treasurer **Student Chapter - University of Arkansas** The Wildlife Society  
-2013-14 Vice President **Biology Graduate Student Assocation** University of Arkansas  
-2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
-2011 **Guest Lecture** Ornithology - Michigan Technological University  
-2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI   
-2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
-2010 **Career Panel Member** Ohio Young Birder's Club Conference  
-
 ## Memberships 
 (since)  
 2008 **The Wildlife Society**  
@@ -313,7 +311,7 @@ SQL
 ArcGIS  
 Markdown/RMarkdown  (this CV is written in Markdown)  
 Program Mark/RMark  
-Git/Github - [Github Account](https://github.com/aurielfournier)  
+Git/Github   
 UNIX Shell
 
 ## Field Skills
