@@ -32,8 +32,6 @@ Minor *Remote Sensing* - Magna Cum Laude
 <!---
 #Chapter2
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in Missouri, USA.
-#ChapterMethods
-*In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
 
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C.  Chapter 5
 #Chapter3
@@ -53,6 +51,9 @@ Minor *Remote Sensing* - Magna Cum Laude
 - b - *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
 
 - c - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration
+
+- d - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
+
 
 ## Honors 
 
