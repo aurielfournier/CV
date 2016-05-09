@@ -1,4 +1,4 @@
-[PDF of CV](https://github.com/aurielfournier/CV/blob/master/PDF_CV.pdf)
+[PDF of CV](https://github.com/aurielfournier/CV/blob/master/PDF_CV.pdf) click 'raw' button to download
 
 Auriel M.V. Fournier
 =============================
