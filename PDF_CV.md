@@ -1,12 +1,14 @@
 ---
+linkcolor: green
 output: pdf_document
 ---
 
-# Auriel M.V. Fournier
+\begin{Huge}\textbf{Auriel M.V. Fournier}\end{Huge}
+
 
 -------------------                                                         ----------------------------
 PhD Candidate -  Arkansas Cooperative Fish and Wildlife Research Unit       amvander@uark.edu
-University of Arkansas - Fayetteville                                       @RallidaeRule
+University of Arkansas - Fayetteville                                       [\@RallidaeRule](https://twitter.com/RallidaeRule)
 1 University Drive, Fayetteville, AR 72701                                  419.307.6261
 [aurielfournier.github.io](http://aurielfournier.github.io/)                [Google Scholar Link](https://scholar.google.com/citations?user=H0AXRhQAAAAJ)  [GitHub Link](https://github.com/aurielfournier)
 -------------------                                                         ----------------------------
@@ -29,7 +31,7 @@ Bachelor of Science in \textbf{Wildlife Ecology and Management} 2011
 \textbf{Michigan Technological University} Magna Cum Laude  
 Minor \textbf{Remote Sensing}
 
-## Peer-Reviewed Publications  
+# Peer-Reviewed Publications  
 
 <!---
 #Chapter2
@@ -55,7 +57,7 @@ Minor \textbf{Remote Sensing}
 - d - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
 
 
-## Honors 
+# Honors 
 
 2012-16 **Distinguished Doctoral Fellowship** - University of Arkansas  
 2016 **Graduate Student Service Award** The Wildlife Society U. of Arkansas Student Chapter  
@@ -63,9 +65,9 @@ Minor \textbf{Remote Sensing}
 2010 **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
 2009 **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological University
 
-## Grants
+# Grants
 
-- 10 (declined) *PI* **National Science Foundation East Asia Pacific Summer Institute Program** 2016 Timing is everything: Identifying peak Rallidae call rate in southeast Australia
+- 10 (declined) *PI* **National Science Foundation East Asia Pacific Summer Institute ** 2016 
 
 - 9  *Co-Investigator and Writer* **Missouri Department of Conservation Research Grant** 2015 $62,000 Effects of Wetland Management Strategies on Habitat Use of Autumn Migrating Rails on Intensively Managed Wetland Complexes in Missouri
 
@@ -99,7 +101,7 @@ Examined variation in eye color across the range of Golden-winged Warblers. [Pre
 **Summer Undergrad Research Fellowship** Dr. David Flaspohler - Michigan Technological Uni. - 2009    
 Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented poster. 
 
-## Technical Publications
+# Technical Publications
 
 - 3 **Fournier, A.M.V.,** K. Willard, D. G. Krementz. 2015. King rail nesting and brood rearing ecology in managed wetlands: Final report USFWS Division of Migratory Birds Webless Program [pdf link ](http://s3.amazonaws.com/file-storage.INDIVIDUAL-ACTIVITIES-CooperativeResearchUnits.digitalmeasures.usgs.edu/krementz/tech_publications/rwo_40_final_report DGK-1.docx)
 
@@ -107,7 +109,7 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 - 1 Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, and Sedge Wrens. U.S. Forest Service
 
-## Presentations
+# Presentations
 
 - 5 **Fournier, A.M.V.,** Drake, K. 2015  Active capture of rails during the breeding season and fall migration. *Inland Bird Banders Association Meeting* - MS [pdf link](http://figshare.com/articles/Active_Capture_Methods_for_Rails_During_the_Breeding_Season_and_Fall_MIgration/1598135)
 
@@ -119,7 +121,7 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 - 1 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. 2013  Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
 
-## Posters
+# Posters
 
 - 5 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H., 2014  Sora Migration and Wetland Management *The Wildlife Society National Conference* - PA [pdf link](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
 
@@ -131,11 +133,11 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 - 1 **Fournier, A.M.V.,** Flaspohler, D.J.,  Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
-## Invited Seminars
+# Invited Seminars
 2016  University of Toledo, Department of Environmental Sciences  
 2014  Arkansas Tech University, Department of Biological Sciences
 
-## Professional Licenses and Certifications
+# Professional Licenses and Certifications
 
 **Instructor Training** [Software Carpentry & Data Carpentry](https://software-carpentry.org/index.html) - (5/2015)  
 [**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society - (3/2015)  
@@ -150,7 +152,7 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 **ATV Rider Certification** ATV Safety Institute (6/2012)
 
 
-## Work Experience
+# Work Experience
 **Environmental Education Internship**  
 Kellogg Bird Sanctuary, Michigan State University - Kara Hass -  May - July 2012  
 
@@ -175,7 +177,7 @@ Black Swamp Bird Observatory - Mark & Julie Shieldcastle - Spring and Fall 2004-
 **Bird Bander**  
 Green Creek Wildlife Society - Tom Kashmer - 2002-2008  
 
-## Professional Development
+# Professional Development
 
 2016 **Game Theoretical Modeling of Evolution in Structured Populations Tutorial** NIMBios, University of Tennessee, Knoxville    
 2015 **Editoring in Ornithology Workshop** American Ornithologist Union Meeting    
@@ -187,7 +189,7 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 \newpage
 
-## Outreach  
+# Outreach  
 2013-6 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
 2013-6 **Science Fair Judge** (7) Regional/Local Science Fairs NW Arkansas    
@@ -208,10 +210,9 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2009 **Presentation** Kirtland Bird Club - Cleveland, OH  
 2009 **Bird Bander** (Six years) Black Swamp Bird Observatory  
 
+# Service 
 
-## Service 
-
-2013-6 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology, Ecology and Evoltuion   - [Publons profile](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)  
+2013-6 **Peer Reviewer** Waterbirds, Wildlife Society Bulletin, Conservation Biology, PLOS ONE, J of Wildlife Management, Science Bulletin, Avian Conservation and Ecology, Ecology and Evolution   - [Publons ](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)  
 2015-16 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society  
 2014-16 Treasurer **Biology Graduate Student Assocation** University of Arkansas  
 2015 **Volunteer** American Ornithologists Union Meeting  
@@ -230,7 +231,7 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 
 \newpage
 
-## Teaching Experience
+# Teaching Experience
 
 > **As Instructor**
 
@@ -249,7 +250,7 @@ _Software Carpentry Workshop_  June 2016
 Taught a two-day workshop on reproducible research and programming in R, Unix Shell and Git. [materials]
 --->
 
-**Instructor** University of Conneticut - Department of Ecology and Evolutionary Biology  
+**Instructor** University of Connecticut - Department of Ecology and Evolutionary Biology  
 _Software Carpentry Workshop_  March 2016  
 Taught a two-day workshop on reproducible research and programming in R, Unix Shell and Git. [Link to Materials](https://github.com/butterflyology/2016-03-21-UConn)
 
@@ -296,7 +297,7 @@ Tutoring undergraduate and graduate students on scientific writing 8 hours a wee
 
 \newpage
 
-## Memberships 
+# Memberships 
 (since)  
 2008 **The Wildlife Society**  
 2012 **American Ornithologist Union** & **Association of Field Ornithologists**    
@@ -304,7 +305,7 @@ Tutoring undergraduate and graduate students on scientific writing 8 hours a wee
 2015 **Wilson Ornithological Society**  
 2016 **Ecological Society of America**
 
-## Computer Skills
+# Computer Skills
 
 R  
 Python  
@@ -315,7 +316,7 @@ Program Mark/RMark
 Git/Github   
 UNIX Shell
 
-## Field Skills
+# Field Skills
 
 4x4  
 Manual Transmission  
