@@ -7,7 +7,7 @@ PhD Candidate - University of Arkansas
 1 University Drive SCEN 632 Fayetteville, AR 72701  
 amvander@uark.edu - 419.307.6261  
 [aurielfournier.github.io](http://aurielfournier.github.io/) - [Github](https://github.com/aurielfournier)  
-[Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) - [(@)RallidaeRule](https://twitter.com/RallidaeRule)
+[Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) - [@RallidaeRule](https://twitter.com/RallidaeRule)
 
 ## Education
 
