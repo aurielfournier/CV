@@ -38,21 +38,21 @@ Minor *Remote Sensing* - Magna Cum Laude
 *In Review* **Fournier, A.M.V.**, Drake K., Touzer D. Krementz D.G. Rails Demonstrate Limited Migratory Connectivity East of the Rocky Mountains
 -->
 
+- 5 - **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. Accepted Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina **Bulletin of Environmental Contamination & Toxicology**
+
 - 4 - **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. Accepted *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)* **Journal of Applied Ecology** (first two authors are equal)
 
-- 3 - **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A.  2015 _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 [pdf](https://www.researchgate.net/publication/282289695_Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes_Ohio_USA) doi:10.1675/063.038.0313
+- 3 - **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. 2015  _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 [pdf link](https://www.researchgate.net/publication/282289695_Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes_Ohio_USA) doi:10.1675/063.038.0313
 
-- 2 - **Fournier, A.M.V.**, Bond, A.L.  2015  *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** 39: 819-821 [pdf](https://www.researchgate.net/publication/283791283_Volunteer_Field_Technicians_Are_Bad_for_Wildlife_Ecology) doi:10.1002/wsb.603
+- 2 - **Fournier, A.M.V.**, Bond, A.L. 2015  *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** 39: 819-821 [pdf link](https://www.researchgate.net/publication/283791283_Volunteer_Field_Technicians_Are_Bad_for_Wildlife_Ecology) doi:10.1002/wsb.603
 
-- 1 - **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K.  2013  _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **The Wildlife Society Bulletin** 27: 881-886 [pdf](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29) doi:10.1002/wsb.323   
+- 1 - **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. 2013  _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **The Wildlife Society Bulletin** 27: 881-886 [pdf link](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29) doi:10.1002/wsb.323   
 
-- a - *In Review* **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S.  Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina
+- a - *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
 
-- b - *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
+- b - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration
 
-- c - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration
-
-- d - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
+- c - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
 
 
 ## Honors 
