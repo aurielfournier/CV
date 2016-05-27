@@ -38,6 +38,8 @@ Minor \textbf{Remote Sensing}
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in Missouri, USA.
 #Chapter3
 *In Review* **Fournier, A.M.V.**, Drake K., Touzer D. Krementz D.G. Rails Demonstrate Limited Migratory Connectivity East of the Rocky Mountains
+#Chapter 5
+*In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and Yellow Rail Autumn Migration Phenology and Habitat Use in the Mississippi Flyway
 -->
 
 - 5 - **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. Accepted Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina **Bulletin of Environmental Contamination & Toxicology**
