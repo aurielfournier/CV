@@ -33,7 +33,9 @@ Minor *Remote Sensing* - Magna Cum Laude
 #Chapter2
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in Missouri, USA.
 
-*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C.  Chapter 5
+#Chapter 5
+*In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and Yellow Rail Autumn Migration Phenology and Habitat Use in the Mississippi Flyway
+
 #Chapter3
 *In Review* **Fournier, A.M.V.**, Drake K., Touzer D. Krementz D.G. Rails Demonstrate Limited Migratory Connectivity East of the Rocky Mountains
 -->
