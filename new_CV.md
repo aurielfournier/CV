@@ -40,7 +40,7 @@ Minor *Remote Sensing* - Magna Cum Laude
 *In Review* **Fournier, A.M.V.**, Drake K., Touzer D. Krementz D.G. Rails Demonstrate Limited Migratory Connectivity East of the Rocky Mountains
 -->
 
-- 5 - **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. Accepted Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina **Bulletin of Environmental Contamination & Toxicology**
+- 5 - **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. Accepted *Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina* **Bulletin of Environmental Contamination & Toxicology**
 
 - 4 - **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. Accepted *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)* **Journal of Applied Ecology** (first two authors are equal)
 
