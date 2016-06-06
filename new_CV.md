@@ -111,6 +111,8 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 ## Presentations
 
+- 6 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. 2016 Habitat use by Autumn Migrating Sora in the Mississippi Flyway *Society of Wetland Scientists* - TX [pdf link](https://figshare.com/articles/Habitat_Use_of_Autumn_Migrating_Sora_in_the_Mississippi_Flyway/3398683)
+
 - 5 - **Fournier, A.M.V.,** Drake, K. 2015 Active capture of rails during the breeding season and fall migration. *Inland Bird Banders Association Meeting* - MS [pdf](http://figshare.com/articles/Active_Capture_Methods_for_Rails_During_the_Breeding_Season_and_Fall_MIgration/1598135)
 
 - 4 - **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. 2015 Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* - OK [pdf](http://doi.org/5m5)
