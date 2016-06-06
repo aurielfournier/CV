@@ -42,7 +42,7 @@ Minor \textbf{Remote Sensing}
 *In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and Yellow Rail Autumn Migration Phenology and Habitat Use in the Mississippi Flyway
 -->
 
-- 5 - **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. Accepted Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina **Bulletin of Environmental Contamination & Toxicology**
+- 5 - **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. Accepted *Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina* **Bulletin of Environmental Contamination & Toxicology**
 
 - 4 - **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. Accepted *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)* **Journal of Applied Ecology** (first two authors are equal)
 
@@ -56,7 +56,7 @@ Minor \textbf{Remote Sensing}
 
 - b - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration
 
-- c - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
+- c - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance Sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
 
 
 # Honors 
