@@ -30,6 +30,9 @@ Minor *Remote Sensing* - Magna Cum Laude
 ## Peer-Reviewed Publications  
 
 <!---
+#Chapter 1
+- b - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration
+
 #Chapter2
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in Missouri, USA.
 
@@ -40,9 +43,9 @@ Minor *Remote Sensing* - Magna Cum Laude
 *In Review* **Fournier, A.M.V.**, Drake K., Touzer D. Krementz D.G. Rails Demonstrate Limited Migratory Connectivity East of the Rocky Mountains
 -->
 
-- 5 - **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. Accepted Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina **Bulletin of Environmental Contamination & Toxicology**
+- 5 - **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. Accepted *Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina* **Bulletin of Environmental Contamination & Toxicology**
 
-- 4 - **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. Accepted *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)* **Journal of Applied Ecology** (first two authors are equal)
+- 4 - **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. Accepted *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)* **Journal of Applied Ecology** (first two authors are equal) [pdf link](https://www.researchgate.net/publication/303839043_Combining_citizen_science_species_distribution_models_and_stable_isotopes_reveals_migratory_connectivity_in_the_secretive_Virginia_rail)
 
 - 3 - **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. 2015  _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 [pdf link](https://www.researchgate.net/publication/282289695_Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes_Ohio_USA) doi:10.1675/063.038.0313
 
@@ -52,9 +55,7 @@ Minor *Remote Sensing* - Magna Cum Laude
 
 - a - *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
 
-- b - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration
-
-- c - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
+- b - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
 
 
 ## Honors 
