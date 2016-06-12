@@ -222,7 +222,11 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 
 > **As Instructor**
 
-**Instructor** University of Conneticut - Department of Ecology and Evolutionary Biology  
+**Instructor** US Department of Agriculture - New Orleans, LA
+_Data Carpentry Workshop_  June 2016  
+Taught a two-day workshop on reproducible research and programming in R, SQL and Open Refine. [materials](https://github.com/aurielfournier/2016-06-15-USDA-NOLA)
+
+**Instructor** University of Connecticut - Department of Ecology and Evolutionary Biology  
 _Software Carpentry Workshop_  March 2016  
 Taught a two-day workshop on reproducible research and programming in R, Unix Shell and Git. [materials](https://github.com/butterflyology/2016-03-21-UConn)
 
