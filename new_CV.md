@@ -219,57 +219,57 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2009 **Bird Bander** (Six years) Black Swamp Bird Observatory  
 
 
+
 ## Teaching Experience
 
 > **As Instructor**
 
-**Instructor** US Department of Agriculture - New Orleans, LA
-_Data Carpentry Workshop_  June 2016  
-Taught a two-day workshop on reproducible research and programming in R, SQL and Open Refine. [materials](https://github.com/aurielfournier/2016-06-15-USDA-NOLA)
-
-**Instructor** University of Connecticut - Department of Ecology and Evolutionary Biology  
-_Software Carpentry Workshop_  March 2016  
-Taught a two-day workshop on reproducible research and programming in R, Unix Shell and Git. [materials](https://github.com/butterflyology/2016-03-21-UConn)
-
-**Instructor** Iowa State University - Department of Mechanical Engineering  
-_Software Carpentry Workshop_  November 2015  
-Taught a two-day workshop on reproducible research and programming in python and UNIX. [materials](https://github.com/wrightaprilm/2015-11-16-ISU)
-
-**Instructor** American Ornithologists Union Conference  
-_'Taking R to the Next Level' Workshop_ July 2015  
+<!---
+**Instructor** North American Ornithological Conference
+_Advanced R Programming and Graphing Workshop_ August 2016  
 Taught a day long workshop on programming, graphing and data management in R. [materials](https://github.com/aurielfournier/AOU_workshop) 
 
-**Instructor** University of Arkansas  
-_Graphing with ggplot2 workshop_  May 2015  
-Taught an hour long workshop on graphing in R with the _ggplot2_ package.  
+**Instructor** Federal Reserve 
+_Software Carpentry Workshop_  June 2016  
+Taught a two-day workshop on reproducible research and programming in R, Unix Shell and Git. [materials]
+--->
 
-**Instructor** University of Arkansas  
-_Social Media for Outreach and Professional Development Workshop_  April 2015  
-Taught an hour long workshop on using Twitter and other social media for outreach and professional development. 
+ _Data Carpentry Workshop_  
+Two-day workshops on reproducible research and data management in R, SQL and Open Refine.   \
+- USDA - New Orleans, LA June 2016 
+
+ _Software Carpentry Workshop_  
+Two-day workshops on reproducible research and programming in R, Unix Shell and Git.  
+- University of Connecticut March 2016  
+- Iowa State University November 2015
+
+_American Ornithologists Union Conference Workshop_  
+July 2015  
+Taught a day long workshop on programming, graphing and data management in R. [Link to Materials](https://github.com/aurielfournier/AOU_workshop) 
 
 > **As Teaching Assistant**
 
-**Teaching Assistant** University of Arkansas  
+University of Arkansas  
 Biometry  
 Spring Semester 2016    
-Teaching weekly labs on statistics, experimental design and programming in R. Giving lectures, grading materials. Developed materials, scripts and documentation to move all labs from SYSTAT to R. [materials](https://github.com/aurielfournier/Biometry_Materials)
+Teaching weekly labs on statistics, experimental design and programming in R. Giving lectures, grading materials. Developed materials, scripts and documentation to move all labs from SYSTAT to R. [Link to Materials](https://github.com/aurielfournier/Biometry_Materials)
 
-**Teaching Assistant** University of Arkansas    
+University of Arkansas    
 Wetlands Ecology and Management  
 Spring Semester 2015  
 Teaching weekly labs on taxonomy and wetland field methods. Giving lectures, grading materials.   
 
-**Teaching Assistant** Michigan Technological University   
+Michigan Technological University   
 Field Techniques   
 Fall Semester 2010 and 2011  
 Taught weekly field labs on forestry and wildlife ecology skills. Graded 100+ lab reports weekly. 
 
-**Teaching Assistant** Michigan Technological University   
+Michigan Technological University   
 Creating Your Success  
 Fall Semester 2010 and 2011  
 Oriented new students to campus resources, taught study skills. 
 
-**Teaching Assistant** Michigan Technological University  
+Michigan Technological University  
 Ornithology  
 Spring Semester 2011  
 Lead field trips, gave guest lecture, gave field quizzes. 

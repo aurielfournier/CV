@@ -17,19 +17,14 @@ University of Arkansas - Fayetteville                                       [\@R
 PhD in \textbf{Biological Sciences - Ecology and Evolutionary Biology}      2017 (expected)   
 Arkansas Cooperative Fish and Wildlife Research Unit - University of Arkansas   
 Adviser: Dr. David Krementz                                         
-
-
 \begin{center}\textbf{Autumn migration ecology of rails in intensively managed wetlands}\end{center}
 - Hierarchical distance modeling to predict rail density and examine habitat use
 - Hiring, training and managing a four person field crew
 - Developing new survey methodology for autumn migrating rails
 - Working closely with state and federal land managers to design field experiments
-- Coordinating collaboration across central North America to examine rail migratory connectivity
-
 
 Bachelor of Science in \textbf{Wildlife Ecology and Management} 2011  
-\textbf{Michigan Technological University} Magna Cum Laude  
-Minor \textbf{Remote Sensing}
+\textbf{Michigan Technological University} Magna Cum Laude *Minor* \textbf{Remote Sensing}
 
 # Peer-Reviewed Publications  
 
@@ -249,45 +244,42 @@ _Software Carpentry Workshop_  June 2016
 Taught a two-day workshop on reproducible research and programming in R, Unix Shell and Git. [materials]
 --->
 
-**Instructor** US Department of Agriculture - New Orleans, LA
-_Data Carpentry Workshop_  June 2016  
-Taught a two-day workshop on reproducible research and programming in R, SQL and Open Refine. [materials](https://github.com/aurielfournier/2016-06-15-USDA-NOLA)
+ _Data Carpentry Workshop_  
+Two-day workshops on reproducible research and data management in R, SQL and Open Refine.   \
+- USDA - New Orleans, LA June 2016 
 
-**Instructor** University of Connecticut - Department of Ecology and Evolutionary Biology  
-_Software Carpentry Workshop_  March 2016  
-Taught a two-day workshop on reproducible research and programming in R, Unix Shell and Git. [Link to Materials](https://github.com/butterflyology/2016-03-21-UConn)
+ _Software Carpentry Workshop_  
+Two-day workshops on reproducible research and programming in R, Unix Shell and Git.  
+- University of Connecticut March 2016  
+- Iowa State University November 2015
 
-**Instructor** Iowa State University - Department of Mechanical Engineering  
-_Software Carpentry Python/Unix Workshop_  November 2015  
-Taught a two-day workshop on reproducible research and programming in python and UNIX. [Link to Materials](https://github.com/wrightaprilm/2015-11-16-ISU)
-
-**Instructor** American Ornithologists Union Conference  
-_'Taking R to the Next Level' Workshop_ July 2015  
+_American Ornithologists Union Conference Workshop_  
+July 2015  
 Taught a day long workshop on programming, graphing and data management in R. [Link to Materials](https://github.com/aurielfournier/AOU_workshop) 
 
 > **As Teaching Assistant**
 
-**Teaching Assistant** University of Arkansas  
+University of Arkansas  
 Biometry  
 Spring Semester 2016    
 Teaching weekly labs on statistics, experimental design and programming in R. Giving lectures, grading materials. Developed materials, scripts and documentation to move all labs from SYSTAT to R. [Link to Materials](https://github.com/aurielfournier/Biometry_Materials)
 
-**Teaching Assistant** University of Arkansas    
+University of Arkansas    
 Wetlands Ecology and Management  
 Spring Semester 2015  
 Teaching weekly labs on taxonomy and wetland field methods. Giving lectures, grading materials.   
 
-**Teaching Assistant** Michigan Technological University   
+Michigan Technological University   
 Field Techniques   
 Fall Semester 2010 and 2011  
 Taught weekly field labs on forestry and wildlife ecology skills. Graded 100+ lab reports weekly. 
 
-**Teaching Assistant** Michigan Technological University   
+Michigan Technological University   
 Creating Your Success  
 Fall Semester 2010 and 2011  
 Oriented new students to campus resources, taught study skills. 
 
-**Teaching Assistant** Michigan Technological University  
+Michigan Technological University  
 Ornithology  
 Spring Semester 2011  
 Lead field trips, gave guest lecture, gave field quizzes. 
