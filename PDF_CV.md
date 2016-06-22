@@ -31,7 +31,7 @@ Bachelor of Science in \textbf{Wildlife Ecology and Management} 2011
 <!---
 #Chapter 1
 
-- b - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration
+
 #Chapter2
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in Missouri, USA.
 #Chapter3
@@ -53,6 +53,7 @@ Bachelor of Science in \textbf{Wildlife Ecology and Management} 2011
 
 - a - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
 
+- b - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration
 
 # Honors 
 
