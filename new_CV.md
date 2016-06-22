@@ -198,10 +198,10 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 2013 **Occupancy Modeling Short Course** Darryl MacKenzie    
 
 ## Outreach  
-2013-6 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
+2013-16 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
-2013-6 **Science Fair Judge** (7) Regional/Local Science Fairs NW Arkansas    
-2015-6 **Editor** Science and Math Section Editor of [Science Borealis](http://scienceborealis.ca/)   
+2013-16 **Science Fair Judge** (7) Regional/Local Science Fairs NW Arkansas    
+2015-16 **Editor** Science and Math Section Editor of [Science Borealis](http://scienceborealis.ca/)   
 2016 **Presentation** Arkansas Audubon Society Annual Meeting [presentation](https://dx.doi.org/10.6084/m9.figshare.3206122.v1)  
 2015 **RealScientist Curator** Curating a week of tweets to 30k+ people about my research for [RealScientists](http://realscientists.org/)  
 2015 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for [Biotweeps](https://biotweep.wordpress.com/about/)  
@@ -211,8 +211,8 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2015 **Presentation** (3) Boys and Girls Club of Bentonville, Arkansas STEAM Program   
 2015 **Presentation** Springdale Alternative High School, Springdale, AR    
 2014 **Presentation** (2) Local Library Science Program, AR  
-2011 **North American Breeding Bird Survey Volunteer** U.S. Geological Survey  
 2013 **Presentation** Springdale Alternative High School, Springdale, AR  
+2011 **North American Breeding Bird Survey Volunteer** U.S. Geological Survey  
 2011 **Outdoor Educator** W. U.P. Center for Science, Math and Envi. Education   
 2011 **Owl Survey Volunteer** Michigan Bird Conservation Initiative  
 2009 **Presentation** Kirtland Bird Club - Cleveland, OH  
@@ -284,7 +284,7 @@ Tutoring undergraduate and graduate students on scientific writing 8 hours a wee
 ## Service 
 
 2016 **Lesson Maintainer** Data Carpentry [R Ecology Lessons](http://www.datacarpentry.org/R-ecology-lesson/)  
-2013-6 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology, Ecology and Evolution   [Publons profile](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)  
+2013-16 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology, Ecology and Evolution   [Publons profile](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)  
 2015-16 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society  
 2014-16 Treasurer **Biology Graduate Student Assocation** University of Arkansas  
 2015 **Volunteer** American Ornithologists Union Meeting  
