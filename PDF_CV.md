@@ -195,12 +195,13 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 2013-6 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
 2013-6 **Science Fair Judge** (7) Regional/Local Science Fairs NW Arkansas    
-2015-6 **Editor** Science and Math Section Editor of [Science Borealis](http://scienceborealis.ca/)     
-2016 **Presentation** Arkansas Audubon Society Annual Meeting [presentation link](https://dx.doi.org/10.6084/m9.figshare.3206122.v1)  
+2015-6 **Editor** Science and Math Section Editor of [Science Borealis](http://scienceborealis.ca/)  
+2015 **Bird Banding Demonstration** (2) Camp War Eagle Summer Camp, Arkansas    
+2016 **Presentation** Arkansas Audubon Society Annual Meeting [presentation](https://dx.doi.org/10.6084/m9.figshare.3206122.v1)  
 2015 **RealScientist Curator** Curating a week of tweets to 30k+ people about my research for [RealScientists](http://realscientists.org/)  
 2015 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for [Biotweeps](https://biotweep.wordpress.com/about/)  
 2015 **Presentation** (2) Local Library Science Program, AR  
-2015 **Presentation** Camp War Eagle Summer Camp, Arkansas  
+2015 **Bird Banding Demonstration** Camp War Eagle Summer Camp, Arkansas  
 2015 **Field Trip Leader** (2) The Biggest Week In American Birding Festival  
 2015 **Presentation** (3) Boys and Girls Club of Bentonville, Arkansas STEAM Program   
 2015 **Presentation** Springdale Alternative High School, Springdale, AR    
@@ -211,6 +212,7 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2011 **Owl Survey Volunteer** Michigan Bird Conservation Initiative  
 2009 **Presentation** Kirtland Bird Club - Cleveland, OH  
 2009 **Bird Bander** (Six years) Black Swamp Bird Observatory  
+ 
 
 # Service 
 
