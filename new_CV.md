@@ -106,7 +106,7 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 ## Technical Publications
 
-- 3 - **Fournier, A.M.V.,** K. Willard, D. G. Krementz. 2015. King rail nesting and brood rearing ecology in managed wetlands: Final report USFWS Division of Migratory Birds Webless Program [pdf](http://s3.amazonaws.com/file-storage.INDIVIDUAL-ACTIVITIES-CooperativeResearchUnits.digitalmeasures.usgs.edu/krementz/tech_publications/rwo_40_final_report DGK-1.docx)
+- 3 - **Fournier, A.M.V.,** K. Willard, D. G. Krementz. 2015. King Rail Nesting and Brood Rearing Ecology in Managed Wetlands: Final Report USFWS Division of Migratory Birds Webless Program [pdf](http://s3.amazonaws.com/file-storage.INDIVIDUAL-ACTIVITIES-CooperativeResearchUnits.digitalmeasures.usgs.edu/krementz/tech_publications/rwo_40_final_report DGK-1.docx)
 
 - 2 - Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, Nelson's Sparrows and Sedge Wrens. U.S. Fish and Wildlife Service (Region 3) and Prairie Pothole Joint Venture. 
 
@@ -114,17 +114,17 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 ## Presentations
 
-- 6 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. 2016 Habitat use by Autumn Migrating Sora in the Mississippi Flyway *Society of Wetland Scientists* - TX [pdf link](https://figshare.com/articles/Habitat_Use_of_Autumn_Migrating_Sora_in_the_Mississippi_Flyway/3398683)
+- 6 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. 2016 Habitat Use by Autumn Migrating Sora in the Mississippi Flyway *Society of Wetland Scientists* - TX [pdf link](https://figshare.com/articles/Habitat_Use_of_Autumn_Migrating_Sora_in_the_Mississippi_Flyway/3398683)
 
-- 5 - **Fournier, A.M.V.,** Drake, K. 2015 Active capture of rails during the breeding season and fall migration. *Inland Bird Banders Association Meeting* - MS [pdf](http://figshare.com/articles/Active_Capture_Methods_for_Rails_During_the_Breeding_Season_and_Fall_MIgration/1598135)
+- 5 **Fournier, A.M.V.,** Drake, K. 2015  Active Capture of Rails During the Breeding Season and Fall Migration. *Inland Bird Banders Association Meeting* - MS [pdf link](http://figshare.com/articles/Active_Capture_Methods_for_Rails_During_the_Breeding_Season_and_Fall_MIgration/1598135)
 
-- 4 - **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. 2015 Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* - OK [pdf](http://doi.org/5m5)
+- 4 **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. 2015  Combining Citizen Science Derived Species Distribution Models and Stable Isotope Analysis Reveals Migratory Connectivity in a Secretive Species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* - OK [pdf link](http://doi.org/5m5)
 
-- 3 - **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. 2015 Timing of Autumn Migration in the Mississippi Flyway by Rails. *Association of Field Ornithologists Meeting*  - NS [pdf](http://doi.org/5ks)
+- 3 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. 2015  Timing of Autumn Migration in the Mississippi Flyway by Rails. *Association of Field Ornithologists Meeting*  - NS [pdf link](http://doi.org/5ks)
 
-- 2 - **Fournier, A.M.V.,** Krementz, D.G. 2014 The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*- AR
+- 2 **Fournier, A.M.V.,** Krementz, D.G. 2014  The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*- AR
 
-- 1 - **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. 2013 Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
+- 1 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. 2013  Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
 
 ## Posters
 
@@ -221,45 +221,19 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2009 **Bird Bander** (Six years) Black Swamp Bird Observatory  
 
 
-
-## Teaching Experience
-
-> **As Instructor**
-
-<!---
-**Instructor** North American Ornithological Conference
-_Advanced R Programming and Graphing Workshop_ August 2016  
-Taught a day long workshop on programming, graphing and data management in R. [materials](https://github.com/aurielfournier/AOU_workshop) 
-
-**Instructor** Federal Reserve 
-_Software Carpentry Workshop_  June 2016  
-Taught a two-day workshop on reproducible research and programming in R, Unix Shell and Git. [materials]
---->
-
- _Data Carpentry Workshop_  
-Two-day workshops on reproducible research and data management in R, SQL and Open Refine.   \
-- USDA - New Orleans, LA June 2016 
-
-_Software Carpentry Workshop_  
-Two-day workshops on reproducible research and programming in R, Unix Shell and Git.  
-- University of Connecticut March 2016  
-- Iowa State University November 2015
-
-_American Ornithologists Union Conference Workshop_  
-July 2015  
-Taught a day long workshop on programming, graphing and data management in R. [Link to Materials](https://github.com/aurielfournier/AOU_workshop) 
+## Teaching
 
 > **As Teaching Assistant**
 
 University of Arkansas  
 Biometry  
 Spring Semester 2016    
-Teaching weekly labs on statistics, experimental design and programming in R. Giving lectures, grading materials. Developed materials, scripts and documentation to move all labs from SYSTAT to R. [Link to Materials](https://github.com/aurielfournier/Biometry_Materials)
+Developed materials for and taught weekly labs on statistics, experimental design and programming in R. Giving lectures, grading materials. Developed materials, scripts and documentation to move all labs from SYSTAT to R. [Link to Materials](https://github.com/aurielfournier/Biometry_Materials)
 
 University of Arkansas    
 Wetlands Ecology and Management  
 Spring Semester 2015  
-Teaching weekly labs on taxonomy and wetland field methods. Giving lectures, grading materials.   
+Taught weekly labs on taxonomy and wetland field methods. Gave lectures, graded materials.   
 
 Michigan Technological University   
 Field Techniques   
