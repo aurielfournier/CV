@@ -41,11 +41,14 @@ Minor *Remote Sensing* - Magna Cum Laude
 
 #Chapter3
 *In Review* **Fournier, A.M.V.**, Drake K., Touzer D. Krementz D.G. Rails Demonstrate Limited Migratory Connectivity East of the Rocky Mountains
+
+- a - *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
+
 -->
 
 - 5 - **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. Accepted *Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina* **Bulletin of Environmental Contamination & Toxicology**
 
-- 4 - **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. Accepted *Combining citizen science derived species distribution models and stable isotope analysis reveals migratory connectivity in a secretive species, the Virginia rail (Rallus limicola)* **Journal of Applied Ecology** (first two authors are equal) [pdf link](https://www.researchgate.net/publication/303839043_Combining_citizen_science_species_distribution_models_and_stable_isotopes_reveals_migratory_connectivity_in_the_secretive_Virginia_rail)
+- 4 - **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. 2016 *Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail* **Journal of Applied Ecology** (first two authors are equal) [pdf link](https://www.researchgate.net/publication/303839043_Combining_citizen_science_species_distribution_models_and_stable_isotopes_reveals_migratory_connectivity_in_the_secretive_Virginia_rail) doi:10.1111/1365-2664.12723
 
 - 3 - **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. 2015  _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 [pdf link](https://www.researchgate.net/publication/282289695_Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes_Ohio_USA) doi:10.1675/063.038.0313
 
@@ -53,9 +56,7 @@ Minor *Remote Sensing* - Magna Cum Laude
 
 - 1 - **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. 2013  _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **The Wildlife Society Bulletin** 27: 881-886 [pdf link](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29) doi:10.1002/wsb.323   
 
-- a - *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
-
-- b - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
+- a - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
 
 
 ## Honors 
@@ -197,10 +198,10 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 2013 **Occupancy Modeling Short Course** Darryl MacKenzie    
 
 ## Outreach  
-2013-6 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
+2013-16 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
-2013-6 **Science Fair Judge** (7) Regional/Local Science Fairs NW Arkansas    
-2015-6 **Editor** Science and Math Section Editor of [Science Borealis](http://scienceborealis.ca/)   
+2013-16 **Science Fair Judge** (7) Regional/Local Science Fairs NW Arkansas    
+2015-16 **Editor** Science and Math Section Editor of [Science Borealis](http://scienceborealis.ca/)   
 2016 **Presentation** Arkansas Audubon Society Annual Meeting [presentation](https://dx.doi.org/10.6084/m9.figshare.3206122.v1)  
 2015 **RealScientist Curator** Curating a week of tweets to 30k+ people about my research for [RealScientists](http://realscientists.org/)  
 2015 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for [Biotweeps](https://biotweep.wordpress.com/about/)  
@@ -210,65 +211,65 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2015 **Presentation** (3) Boys and Girls Club of Bentonville, Arkansas STEAM Program   
 2015 **Presentation** Springdale Alternative High School, Springdale, AR    
 2014 **Presentation** (2) Local Library Science Program, AR  
-2011 **North American Breeding Bird Survey Volunteer** U.S. Geological Survey  
 2013 **Presentation** Springdale Alternative High School, Springdale, AR  
+2011 **North American Breeding Bird Survey Volunteer** U.S. Geological Survey  
 2011 **Outdoor Educator** W. U.P. Center for Science, Math and Envi. Education   
 2011 **Owl Survey Volunteer** Michigan Bird Conservation Initiative  
 2009 **Presentation** Kirtland Bird Club - Cleveland, OH  
 2009 **Bird Bander** (Six years) Black Swamp Bird Observatory  
 
 
+
 ## Teaching Experience
 
 > **As Instructor**
 
-**Instructor** US Department of Agriculture - New Orleans, LA
-_Data Carpentry Workshop_  June 2016  
-Taught a two-day workshop on reproducible research and programming in R, SQL and Open Refine. [materials](https://github.com/aurielfournier/2016-06-15-USDA-NOLA)
-
-**Instructor** University of Connecticut - Department of Ecology and Evolutionary Biology  
-_Software Carpentry Workshop_  March 2016  
-Taught a two-day workshop on reproducible research and programming in R, Unix Shell and Git. [materials](https://github.com/butterflyology/2016-03-21-UConn)
-
-**Instructor** Iowa State University - Department of Mechanical Engineering  
-_Software Carpentry Workshop_  November 2015  
-Taught a two-day workshop on reproducible research and programming in python and UNIX. [materials](https://github.com/wrightaprilm/2015-11-16-ISU)
-
-**Instructor** American Ornithologists Union Conference  
-_'Taking R to the Next Level' Workshop_ July 2015  
+<!---
+**Instructor** North American Ornithological Conference
+_Advanced R Programming and Graphing Workshop_ August 2016  
 Taught a day long workshop on programming, graphing and data management in R. [materials](https://github.com/aurielfournier/AOU_workshop) 
 
-**Instructor** University of Arkansas  
-_Graphing with ggplot2 workshop_  May 2015  
-Taught an hour long workshop on graphing in R with the _ggplot2_ package.  
+**Instructor** Federal Reserve 
+_Software Carpentry Workshop_  June 2016  
+Taught a two-day workshop on reproducible research and programming in R, Unix Shell and Git. [materials]
+--->
 
-**Instructor** University of Arkansas  
-_Social Media for Outreach and Professional Development Workshop_  April 2015  
-Taught an hour long workshop on using Twitter and other social media for outreach and professional development. 
+ _Data Carpentry Workshop_  
+Two-day workshops on reproducible research and data management in R, SQL and Open Refine.   \
+- USDA - New Orleans, LA June 2016 
+
+ _Software Carpentry Workshop_  
+Two-day workshops on reproducible research and programming in R, Unix Shell and Git.  
+- University of Connecticut March 2016  
+- Iowa State University November 2015
+
+_American Ornithologists Union Conference Workshop_  
+July 2015  
+Taught a day long workshop on programming, graphing and data management in R. [Link to Materials](https://github.com/aurielfournier/AOU_workshop) 
 
 > **As Teaching Assistant**
 
-**Teaching Assistant** University of Arkansas  
+University of Arkansas  
 Biometry  
 Spring Semester 2016    
-Teaching weekly labs on statistics, experimental design and programming in R. Giving lectures, grading materials. Developed materials, scripts and documentation to move all labs from SYSTAT to R. [materials](https://github.com/aurielfournier/Biometry_Materials)
+Teaching weekly labs on statistics, experimental design and programming in R. Giving lectures, grading materials. Developed materials, scripts and documentation to move all labs from SYSTAT to R. [Link to Materials](https://github.com/aurielfournier/Biometry_Materials)
 
-**Teaching Assistant** University of Arkansas    
+University of Arkansas    
 Wetlands Ecology and Management  
 Spring Semester 2015  
 Teaching weekly labs on taxonomy and wetland field methods. Giving lectures, grading materials.   
 
-**Teaching Assistant** Michigan Technological University   
+Michigan Technological University   
 Field Techniques   
 Fall Semester 2010 and 2011  
 Taught weekly field labs on forestry and wildlife ecology skills. Graded 100+ lab reports weekly. 
 
-**Teaching Assistant** Michigan Technological University   
+Michigan Technological University   
 Creating Your Success  
 Fall Semester 2010 and 2011  
 Oriented new students to campus resources, taught study skills. 
 
-**Teaching Assistant** Michigan Technological University  
+Michigan Technological University  
 Ornithology  
 Spring Semester 2011  
 Lead field trips, gave guest lecture, gave field quizzes. 
@@ -283,7 +284,7 @@ Tutoring undergraduate and graduate students on scientific writing 8 hours a wee
 ## Service 
 
 2016 **Lesson Maintainer** Data Carpentry [R Ecology Lessons](http://www.datacarpentry.org/R-ecology-lesson/)  
-2013-6 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology, Ecology and Evolution   [Publons profile](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)  
+2013-16 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology, Ecology and Evolution   [Publons profile](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)  
 2015-16 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society  
 2014-16 Treasurer **Biology Graduate Student Assocation** University of Arkansas  
 2015 **Volunteer** American Ornithologists Union Meeting  
