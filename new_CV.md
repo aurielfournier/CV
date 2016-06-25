@@ -60,6 +60,8 @@ Minor *Remote Sensing* - Magna Cum Laude
  
 - b - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration
 
+<div style="page-break-after: always;"></div>
+
 ## Honors 
 
 2012-16 **Distinguished Doctoral Fellowship** - University of Arkansas  
@@ -198,6 +200,8 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 2013 **Symposium Planning Committee** The Wildlife Society National Con, Milwaukee, WI    
 2013 **Occupancy Modeling Short Course** Darryl MacKenzie    
 
+<div style="page-break-after: always;"></div>
+
 ## Outreach  
 2013-16 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
@@ -219,6 +223,7 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2009 **Presentation** Kirtland Bird Club - Cleveland, OH  
 2009 **Bird Bander** (Six years) Black Swamp Bird Observatory  
 
+<div style="page-break-after: always;"></div>
 
 ## Teaching
 
@@ -275,6 +280,8 @@ Tutoring undergraduate and graduate students on scientific writing 8 hours a wee
 2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI   
 2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
+
+<div style="page-break-after: always;"></div>
 
 ## Memberships 
 (since)  
