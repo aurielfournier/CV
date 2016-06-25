@@ -1,13 +1,11 @@
-[PDF of CV](https://github.com/aurielfournier/CV/blob/master/PDF_CV.pdf) click 'raw' button to download
-
+---
+output: pdf_document
+---
 Auriel M.V. Fournier
 =============================
-PhD Candidate - University of Arkansas  
-[Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/)  
-1 University Drive SCEN 632 Fayetteville, AR 72701  
-amvander@uark.edu - 419.307.6261  
-[aurielfournier.github.io](http://aurielfournier.github.io/) - [Github](https://github.com/aurielfournier)  
-[Google Scholar](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) - [@RallidaeRule](https://twitter.com/RallidaeRule)
+PhD Candidate - University of Arkansas - [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/)  
+1 University Drive SCEN 632 Fayetteville, AR 72701 - amvander@uark.edu - 419.307.6261  
+[aurielfournier.github.io](http://aurielfournier.github.io/) - [Github Profile](https://github.com/aurielfournier) - [Google Scholar Profile](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) - [Twitter \@RallidaeRule](https://twitter.com/RallidaeRule)
 
 ## Education
 
@@ -223,9 +221,55 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2009 **Presentation** Kirtland Bird Club - Cleveland, OH  
 2009 **Bird Bander** (Six years) Black Swamp Bird Observatory  
 
-<div style="page-break-after: always;"></div>
+## Service 
+
+2016 **Lesson Maintainer** Data Carpentry [R Ecology Lessons](http://www.datacarpentry.org/R-ecology-lesson/)  
+2013-16 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology, Ecology and Evolution   [Publons profile](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)  
+2015-16 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society  
+2014-16 Treasurer **Biology Graduate Student Assocation** University of Arkansas  
+2015 **Volunteer** American Ornithologists Union Meeting  
+2015 **Presentation Judge** Association of Field Ornithology, Wilson Ornithological Society, Society of Canadian Ornithologists Meeting  
+2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas  
+2014-15 Treasurer **Student Working Group** The Wildlife Society    
+2014-15 Secretary **Student Chapter - University of Arkansas** The Wildlife Society  
+2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
+2013-14 Treasurer **Student Chapter - University of Arkansas** The Wildlife Society  
+2013-14 Vice President **Biology Graduate Student Assocation** University of Arkansas  
+2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
+2011 **Guest Lecture** Ornithology - Michigan Technological University  
+2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI   
+2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
+2010 **Career Panel Member** Ohio Young Birder's Club Conference  
+
+\newpage
 
 ## Teaching
+
+> **As Instructor**
+
+<!---
+**Instructor** North American Ornithological Conference
+_Advanced R Programming and Graphing Workshop_ August 2016  
+Taught a day long workshop on programming, graphing and data management in R. [materials](https://github.com/aurielfournier/AOU_workshop) 
+
+**Instructor** Federal Reserve 
+_Software Carpentry Workshop_  June 2016  
+Taught a two-day workshop on reproducible research and programming in R, Unix Shell and Git. [materials]
+--->
+
+ _Data Carpentry Workshop_  
+Two-day workshops on reproducible research and data management in R, SQL and Open Refine.   \
+- USDA - New Orleans, LA June 2016 
+
+ _Software Carpentry Workshop_  
+Two-day workshops on reproducible research and programming in R, Unix Shell and Git.  
+- University of Connecticut March 2016  
+- Iowa State University November 2015
+
+_American Ornithologists Union Conference Workshop_  
+July 2015  
+Taught a day long workshop on programming, graphing and data management in R. [Link to Materials](https://github.com/aurielfournier/AOU_workshop) 
+
 
 > **As Teaching Assistant**
 
@@ -259,29 +303,6 @@ Lead field trips, gave guest lecture, gave field quizzes.
 **Science Writing Tutor**  
 Quality Writing Center - University of Arkansas - January 2014 - Present  
 Tutoring undergraduate and graduate students on scientific writing 8 hours a week. Editing thesis, dissertations, lab reports and other writing. Working extensively with English as a Second Language students. 
-
-
-## Service 
-
-2016 **Lesson Maintainer** Data Carpentry [R Ecology Lessons](http://www.datacarpentry.org/R-ecology-lesson/)  
-2013-16 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology, Ecology and Evolution   [Publons profile](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)  
-2015-16 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society  
-2014-16 Treasurer **Biology Graduate Student Assocation** University of Arkansas  
-2015 **Volunteer** American Ornithologists Union Meeting  
-2015 **Presentation Judge** Association of Field Ornithology, Wilson Ornithological Society, Society of Canadian Ornithologists Meeting  
-2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas  
-2014-15 Treasurer **Student Working Group** The Wildlife Society    
-2014-15 Secretary **Student Chapter - University of Arkansas** The Wildlife Society  
-2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
-2013-14 Treasurer **Student Chapter - University of Arkansas** The Wildlife Society  
-2013-14 Vice President **Biology Graduate Student Assocation** University of Arkansas  
-2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
-2011 **Guest Lecture** Ornithology - Michigan Technological University  
-2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI   
-2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
-2010 **Career Panel Member** Ohio Young Birder's Club Conference  
-
-<div style="page-break-after: always;"></div>
 
 ## Memberships 
 (since)  
