@@ -49,7 +49,11 @@ Minor *Remote Sensing* - Magna Cum Laude
 
 - 5 - **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. Accepted *Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina* **Bulletin of Environmental Contamination & Toxicology** doi 10.1007/s00128-016-1870-z
 
+   > dataset - Fournier, Auriel; James Welsh, Kyle; Polito, Michael; D. Emslie, Steven 2015. North Carolina Clapper Rail Data. figshare. https://dx.doi.org/10.6084/m9.figshare.1621405.v1
+
 - 4 - **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. 2016 *Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail* **Journal of Applied Ecology** (first two authors are equal) [pdf link](https://www.researchgate.net/publication/303839043_Combining_citizen_science_species_distribution_models_and_stable_isotopes_reveals_migratory_connectivity_in_the_secretive_Virginia_rail) doi:10.1111/1365-2664.12723
+
+   > dataset - Fournier AMV, Sullivan AR, Bump JK, Perkins M, Shieldcastle MC, King SL 2016. Data from: Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail. Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.r4847
 
 - 3 - **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. 2015  _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 [pdf link](https://www.researchgate.net/publication/282289695_Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes_Ohio_USA) doi:10.1675/063.038.0313
 
@@ -109,14 +113,6 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 - 2 - Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, Nelson's Sparrows and Sedge Wrens. U.S. Fish and Wildlife Service (Region 3) and Prairie Pothole Joint Venture. 
 
 - 1 - Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, and Sedge Wrens. U.S. Forest Service
-
-## Published Datasets
-
-- 3 - Fournier AMV, Sullivan AR, Bump JK, Perkins M, Shieldcastle MC, King SL 2016. Data from: Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail. Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.r4847
-
-- 2 - Fournier, Auriel; James Welsh, Kyle; Polito, Michael; D. Emslie, Steven 2015. North Carolina Clapper Rail Data. figshare. https://dx.doi.org/10.6084/m9.figshare.1621405.v1
-
-- 1 - Fournier, Auriel 2016. The Bluebird Rail Data. figshare. https://dx.doi.org/10.6084/m9.figshare.2760913.v2
 
 ## Presentations
 
