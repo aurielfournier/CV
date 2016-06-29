@@ -47,13 +47,13 @@ Minor *Remote Sensing* - Magna Cum Laude
 
 -->
 
-- 5 - **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. Accepted *Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina* **Bulletin of Environmental Contamination & Toxicology** doi 10.1007/s00128-016-1870-z
+- 5 - **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. Accepted *Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina* **Bulletin of Environmental Contamination & Toxicology** doi 10.1007/s00128-016-1870-z  
 
-   > dataset - Fournier, A.M.V.; James K.W; Polito, M.; Emslie, S.D. 2015. North Carolina Clapper Rail Data. figshare. doi m9.figshare.1621405.v1
+>> data: Fournier, A.M.V.; James K.W; Polito, M.; Emslie, S.D. 2015. Figshare. doi m9.figshare.1621405.v1
 
-- 4 - **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. 2016 *Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail* **Journal of Applied Ecology** (first two authors are equal) [pdf link](https://www.researchgate.net/publication/303839043_Combining_citizen_science_species_distribution_models_and_stable_isotopes_reveals_migratory_connectivity_in_the_secretive_Virginia_rail) doi:10.1111/1365-2664.12723
+- 4 - **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. 2016 *Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail* **Journal of Applied Ecology** (first two authors are equal) [pdf link](https://www.researchgate.net/publication/303839043_Combining_citizen_science_species_distribution_models_and_stable_isotopes_reveals_migratory_connectivity_in_the_secretive_Virginia_rail) doi:10.1111/1365-2664.12723  
 
-   > dataset - Fournier A.M.V., Sullivan A.R., Bump J.K., Perkins M., Shieldcastle M.C., King S.L. 2016. Data from: Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail. Dryad Digital Repository. doi 10.5061/dryad.r4847
+>> data: Fournier A.M.V., Sullivan A.R., Bump J.K., Perkins M., Shieldcastle M.C., King S.L. 2016. Dryad Digital Repository. doi 10.5061/dryad.r4847
 
 - 3 - **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. 2015  _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 [pdf link](https://www.researchgate.net/publication/282289695_Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes_Ohio_USA) doi:10.1675/063.038.0313
 
@@ -254,10 +254,6 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 **Instructor** North American Ornithological Conference
 _Advanced R Programming and Graphing Workshop_ August 2016  
 Taught a day long workshop on programming, graphing and data management in R. [materials](https://github.com/aurielfournier/AOU_workshop) 
-
-**Instructor** Federal Reserve 
-_Software Carpentry Workshop_  June 2016  
-Taught a two-day workshop on reproducible research and programming in R, Unix Shell and Git. [materials]
 --->
 
  _Data Carpentry Workshop_  
@@ -266,13 +262,13 @@ Two-day workshops on reproducible research and data management in R, SQL and Ope
 
  _Software Carpentry Workshop_  
 Two-day workshops on reproducible research and programming in R, Unix Shell and Git.  
+- Federal Reserve Board, Washington D.C. June 2016  \
 - University of Connecticut March 2016  
 - Iowa State University November 2015
 
 _American Ornithologists Union Conference Workshop_  
 July 2015  
 Taught a day long workshop on programming, graphing and data management in R. [Link to Materials](https://github.com/aurielfournier/AOU_workshop) 
-
 
 > **As Teaching Assistant**
 
