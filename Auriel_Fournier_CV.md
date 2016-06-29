@@ -112,6 +112,14 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 - 1 - Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, and Sedge Wrens. U.S. Forest Service
 
+## Published Datasets
+
+- 3 - Fournier AMV, Sullivan AR, Bump JK, Perkins M, Shieldcastle MC, King SL 2016. Data from: Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail. Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.r4847
+
+- 2 - Fournier, Auriel; James Welsh, Kyle; Polito, Michael; D. Emslie, Steven 2015. North Carolina Clapper Rail Data. figshare. https://dx.doi.org/10.6084/m9.figshare.1621405.v1
+
+- 1 - Fournier, Auriel 2016. The Bluebird Rail Data. figshare. https://dx.doi.org/10.6084/m9.figshare.2760913.v2
+
 ## Presentations
 
 - 6 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. 2016 Habitat Use by Autumn Migrating Sora in the Mississippi Flyway *Society of Wetland Scientists* - TX [pdf link](https://figshare.com/articles/Habitat_Use_of_Autumn_Migrating_Sora_in_the_Mississippi_Flyway/3398683)
