@@ -306,6 +306,7 @@ Lead field trips, gave guest lecture, gave field quizzes.
 Quality Writing Center - University of Arkansas - January 2014 - Present  
 Tutoring undergraduate and graduate students on scientific writing 8 hours a week. Editing thesis, dissertations, lab reports and other writing. Working extensively with English as a Second Language students. 
 
+
 ## Memberships 
 (since)  
 2008 **The Wildlife Society**  
