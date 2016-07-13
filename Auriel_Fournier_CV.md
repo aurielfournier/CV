@@ -195,6 +195,7 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 
 ## Professional Development
 
+2016 **Spatial Capture Recapture Workshop** University of Georgia  
 2016 **Game Theoretical Modeling of Evolution in Structured Populations Tutorial** NIMBios, University of Tennessee, Knoxville    
 2015 **Editoring in Ornithology Workshop** American Ornithologist Union Meeting    
 2014 **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA    
