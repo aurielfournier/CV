@@ -9,17 +9,16 @@ PhD Candidate - University of Arkansas - [Arkansas Cooperative Fish and Wildlife
 
 ## Education
 
-PhD in **Biological Sciences - Ecology and Evolutionary Biology**   
-2017 (expected) Arkansas Cooperative Fish and Wildlife Research Unit  
-**University of Arkansas** Fayetteville, AR  
-Distinguished Doctoral Fellowship Recipient
+PhD in **Biological Sciences**  2017 (expected)   
+Arkansas Cooperative Fish and Wildlife Research Unit  
+**University of Arkansas** Fayetteville, AR -Distinguished Doctoral Fellowship Recipient
 
 **Autumn migration ecology of rails on intensively managed wetlands**  
 - Hierarchical distance modeling to predict rail density and examine habitat use  
 - Hiring, training and managing a four person field crew  
 - Developing new survey methodology for autumn migrating rails  
 - Working closely with state and federal land managers to design field experiments  
-- Coordinating collaboration across central North America to examine rail migratory connectivity
+- Coordinating collaboration US and Canada to examine rail migratory connectivity
 
 Bachelor of Science in **Wildlife Ecology and Management**  
 2011 **Michigan Technological University** Houghton, MI  
