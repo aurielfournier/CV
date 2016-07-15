@@ -31,7 +31,6 @@ Minor *Remote Sensing* - Magna Cum Laude
 
 
 #Chapter2
-*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in Missouri, USA.
 
 #Chapter 5
 
@@ -61,6 +60,9 @@ Minor *Remote Sensing* - Magna Cum Laude
 - 1 - **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. 2013  _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **The Wildlife Society Bulletin** 27: 881-886 [pdf link](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29) doi:10.1002/wsb.323   
 
 - a - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration
+
+- b - *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in the Mississippi Flyway
+
 
 ## Honors 
 
