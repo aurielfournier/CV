@@ -209,7 +209,8 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 2013-16 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
 2013-16 **Science Fair Judge** (7) Regional/Local Science Fairs NW Arkansas    
-2015-16 **Editor** Science and Math Section Editor of [Science Borealis](http://scienceborealis.ca/)   
+2015-16 **Editor** Science and Math Section Editor of [Science Borealis](http://scienceborealis.ca/)     
+2016 **Bird Banding Demonstration** (2) Camp War Eagle Summer Camp, Arkansas   
 2016 **Presentation** Arkansas Audubon Society Annual Meeting [presentation](https://dx.doi.org/10.6084/m9.figshare.3206122.v1)  
 2015 **RealScientist Curator** Curating a week of tweets to 30k+ people about my research for [RealScientists](http://realscientists.org/)  
 2015 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for [Biotweeps](https://biotweep.wordpress.com/about/)  
