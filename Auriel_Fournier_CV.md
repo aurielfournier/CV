@@ -326,7 +326,8 @@ LaTeX
 Markdown/RMarkdown  (this CV is written in Markdown)  
 Program Mark/RMark  
 Git/Github [github profile](https://github.com/aurielfournier)  
-UNIX Shell
+UNIX Shell  
+JAGS/WINBugs 
 
 ## Field Skills
 
