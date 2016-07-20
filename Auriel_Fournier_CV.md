@@ -27,13 +27,6 @@ Minor *Remote Sensing* - Magna Cum Laude
 ## Peer-Reviewed Publications  
 
 <!---
-#Chapter 1
-
-
-#Chapter2
-
-#Chapter 5
-
 
 #Chapter3
 *In Review* **Fournier, A.M.V.**, Drake K., Touzer D. Krementz D.G. Rails Demonstrate Limited Migratory Connectivity East of the Rocky Mountains
@@ -41,7 +34,7 @@ Minor *Remote Sensing* - Magna Cum Laude
 - a - *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
 
 - a - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
-- a - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and Yellow Rail Autumn Migration Phenology and Habitat Use in the Mississippi Flyway  
+- a - 
 
 -->
 
@@ -63,6 +56,7 @@ Minor *Remote Sensing* - Magna Cum Laude
 
 - b - *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in the Mississippi Flyway
 
+- c - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and Yellow Rail Autumn Migration Phenology and Habitat Use in the Mississippi Flyway  
 
 ## Honors 
 
