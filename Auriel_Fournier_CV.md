@@ -32,7 +32,7 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 
 - a - *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
 
-- a - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
+
 - a - 
 
 -->
@@ -56,6 +56,8 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 - b - *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in the Mississippi Flyway
 
 - c - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and Yellow Rail Autumn Migration Phenology and Habitat Use in the Mississippi Flyway  
+
+- d - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
 
 ## Honors 
 
