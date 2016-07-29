@@ -5,7 +5,7 @@ Auriel M.V. Fournier
 =============================
 PhD Candidate - University of Arkansas - [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/)  
 1 University Drive SCEN 632 Fayetteville, AR 72701 - amvander@uark.edu - 419.307.6261  
-[aurielfournier.github.io](http://aurielfournier.github.io/) - [Github Profile](https://github.com/aurielfournier) - [Google Scholar Profile](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) - [Twitter \@RallidaeRule](https://twitter.com/RallidaeRule)
+[aurielfournier.github.io](http://aurielfournier.github.io/) - [Github Profile](https://github.com/aurielfournier) - [Google Scholar Profile](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) - [Twitter \@RallidaeRule](https://twitter.com/RallidaeRule)  
 
 ## Education
 
@@ -39,11 +39,11 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 
 - 5 - **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. 2016 *Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina* **Bulletin of Environmental Contamination & Toxicology** doi 10.1007/s00128-016-1870-z [pdf link](https://www.researchgate.net/publication/304715358_Levels_of_Mercury_in_Feathers_of_Clapper_Rails_Rallus_crepitans_over_45_Years_in_Coastal_Salt_Marshes_of_New_Hanover_County_North_Carolina?_iepl%5Bcontexts%5D%5B0%5D=successStoryDialog&_iepl%5BviewId%5D=A1hbsjOhVmHBL75qFiuLh4sp&_iepl%5BstoryInteractionType%5D=read&_iepl%5BinteractionType%5D=publicationView)
 
->> data: Fournier, A.M.V.; James K.W; Polito, M.; Emslie, S.D. 2015. Figshare. doi m9.figshare.1621405.v1
+> data: Fournier, A.M.V.; James K.W; Polito, M.; Emslie, S.D. 2015. doi m9.figshare.1621405.v1
 
-- 4 - **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. 2016 *Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail* **Journal of Applied Ecology** (first two authors are equal) [pdf link](https://www.researchgate.net/publication/303839043_Combining_citizen_science_species_distribution_models_and_stable_isotopes_reveals_migratory_connectivity_in_the_secretive_Virginia_rail) doi:10.1111/1365-2664.12723  
+- 4 - **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. 2016 *Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail* **Journal of Applied Ecology** [pdf link](https://www.researchgate.net/publication/303839043_Combining_citizen_science_species_distribution_models_and_stable_isotopes_reveals_migratory_connectivity_in_the_secretive_Virginia_rail) doi:10.1111/1365-2664.12723  
 
->> data: Fournier A.M.V., Sullivan A.R., Bump J.K., Perkins M., Shieldcastle M.C., King S.L. 2016. Dryad Digital Repository. doi 10.5061/dryad.r4847
+> data: Fournier A.M.V., Sullivan A.R., Bump J.K., Perkins M., Shieldcastle M.C., King S.L. 2016. Dryad Digital Repository. doi 10.5061/dryad.r4847
 
 - 3 - **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. 2015  _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 [pdf link](https://www.researchgate.net/publication/282289695_Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes_Ohio_USA) doi:10.1675/063.038.0313
 
@@ -302,6 +302,7 @@ Lead field trips, gave guest lecture, gave field quizzes.
 Quality Writing Center - University of Arkansas - January 2014 - Present  
 Tutoring undergraduate and graduate students on scientific writing 8 hours a week. Editing thesis, dissertations, lab reports and other writing. Working extensively with English as a Second Language students. 
 
+\newpage 
 
 ## Memberships 
 (since)  
