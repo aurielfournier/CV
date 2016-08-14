@@ -224,6 +224,7 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 
 ## Service 
 
+2016-17 Vice Chair **Open Science Section** Ecological Society of America  
 2015-17 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society    
 2016 **Research Committee Member** Black Swamp Bird Observatory  
 2016 **Lesson Maintainer** Data Carpentry [R Ecology Lessons](http://www.datacarpentry.org/R-ecology-lesson/)  
