@@ -256,6 +256,14 @@ _Advanced R Programming and Graphing Workshop_ August 2016
 Taught a day long workshop on programming, graphing and data management in R. [materials](https://github.com/aurielfournier/AOU_workshop) 
 --->
 
+_North American Ornithological Conference Twitter Workshop_  
+August 2016  
+Taught a half day workshop on using twitter as a scientist
+
+_North American Ornithological Conference R Workshop_  
+August 2016  
+Taught a day long workshop on programming and graphing and data management in R. [Link to Materials](https://github.com/aurielfournier/naoc_2016_r_workshop)
+
  _Data Carpentry Workshop_  
 Two-day workshops on reproducible research and data management in R, SQL and Open Refine.   \
 - USDA - New Orleans, LA June 2016 
@@ -266,7 +274,7 @@ Two-day workshops on reproducible research and programming in R, Unix Shell and 
 - University of Connecticut March 2016  
 - Iowa State University November 2015
 
-_American Ornithologists Union Conference Workshop_  
+_American Ornithologists Union Conference R Workshop_  
 July 2015  
 Taught a day long workshop on programming, graphing and data management in R. [Link to Materials](https://github.com/aurielfournier/AOU_workshop) 
 
