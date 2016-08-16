@@ -113,6 +113,8 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 ## Presentations
 
+- 7 **Fournier, A.M.V.,** Drake, K., Tozer, D., Krementz, D.G. 2016. Migratory Connectivity of Sora, Virginia Rail and Yellow Rail. North American Ornithological Conference, Washington D.C. 
+
 - 6 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. 2016 Habitat Use by Autumn Migrating Sora in the Mississippi Flyway *Society of Wetland Scientists* - TX [pdf link](https://figshare.com/articles/Habitat_Use_of_Autumn_Migrating_Sora_in_the_Mississippi_Flyway/3398683)
 
 - 5 **Fournier, A.M.V.,** Drake, K. 2015  Active Capture of Rails During the Breeding Season and Fall Migration. *Inland Bird Banders Association Meeting* - MS [pdf link](http://figshare.com/articles/Active_Capture_Methods_for_Rails_During_the_Breeding_Season_and_Fall_MIgration/1598135)
