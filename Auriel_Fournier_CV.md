@@ -150,14 +150,8 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 **Instructor Training** [Software Carpentry & Data Carpentry](https://software-carpentry.org/index.html) - (5/2015)  
 [**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society - (3/2015)  
-**Sub-permit bird banding license holder**  
-- 13 years experience, handled 7000+ birds,  
-- primarily passerines, rails and owls  
-- taken blood from 200+ and feathers from 700+ individuals  
-- sub-permittee in the U.S and Canada  
-- have worked under 7 master banders    
-- have trained people in mist net extraction, feather pulling and blood from brachial vein    
-
+**Sub-permit bird banding license holder in US and Canada**  
+- 13 years experience, handled 7000+ birds, have taken blood from 200+ & feathers from 700+  
 **Wilderness First Aid** Wilderness Medicine Institute/NOLS (2/2016)  
 **CPR/First Aid** American Red Cross (12/2015)  
 **NSC Defensive Driving II** National Safety Council (1/2013)  
