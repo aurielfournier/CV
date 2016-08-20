@@ -32,9 +32,6 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 
 - a - *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
 
-
-- a - 
-
 -->
 
 - 5 - **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. 2016 *Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina* **Bulletin of Environmental Contamination & Toxicology** doi 10.1007/s00128-016-1870-z [pdf link](https://www.researchgate.net/publication/304715358_Levels_of_Mercury_in_Feathers_of_Clapper_Rails_Rallus_crepitans_over_45_Years_in_Coastal_Salt_Marshes_of_New_Hanover_County_North_Carolina?_iepl%5Bcontexts%5D%5B0%5D=successStoryDialog&_iepl%5BviewId%5D=A1hbsjOhVmHBL75qFiuLh4sp&_iepl%5BstoryInteractionType%5D=read&_iepl%5BinteractionType%5D=publicationView)
@@ -68,6 +65,8 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 2009 **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological University
 
 ## Grants
+
+- 11 **Travel Grant** 2016 $200 North American Ornithological Conference
 
 - 10 (declined) *PI* **National Science Foundation East Asia Pacific Summer Institute Program** 2016 Timing is everything: Identifying peak Rallidae call rate in southeast Australia
 
@@ -113,7 +112,9 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 ## Presentations
 
-- 7 **Fournier, A.M.V.,** Drake, K., Tozer, D., Krementz, D.G. 2016. Migratory Connectivity of Sora, Virginia Rail and Yellow Rail. North American Ornithological Conference, Washington D.C. 
+- 8 **Fournier, A.M.V.,** Drake, K., Tozer, D., Krementz, D.G. 2016. Migratory Connectivity of Sora, Virginia Rail and Yellow Rail. North American Ornithological Conference, Washington D.C. [pdf link](https://figshare.com/articles/Migratory_Connectivity_of_Sora_Virginia_and_Yellow_Rails/3565578) [recording](https://www.periscope.tv/w/1rmGPDyEAnyGN)
+
+- 7 **Fournier, A.M.V.** 2016 Building Collaboration and Community in Science Through Twitter. North American Ornithological Conference, Twitter for Scientists Workshop, Washington D.C. 
 
 - 6 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. 2016 Habitat Use by Autumn Migrating Sora in the Mississippi Flyway *Society of Wetland Scientists* - TX [pdf link](https://figshare.com/articles/Habitat_Use_of_Autumn_Migrating_Sora_in_the_Mississippi_Flyway/3398683)
 
@@ -200,7 +201,6 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 2013 **Symposium Planning Committee** The Wildlife Society National Con, Milwaukee, WI    
 2013 **Occupancy Modeling Short Course** Darryl MacKenzie    
 
-<div style="page-break-after: always;"></div>
 
 ## Outreach  
 2013-16 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
@@ -227,7 +227,8 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 ## Service 
 
 2016-17 Vice Chair **Open Science Section** Ecological Society of America  
-2015-17 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society    
+2015-17 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society  
+2016 **Volunteer & Session Moderator** North American Ornithological Conference  
 2016 **Research Committee Member** Black Swamp Bird Observatory  
 2016 **Lesson Maintainer** Data Carpentry [R Ecology Lessons](http://www.datacarpentry.org/R-ecology-lesson/)  
 2013-16 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology, Ecology and Evolution   [Publons profile](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)  
@@ -252,19 +253,9 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 
 > **As Instructor**
 
-<!---
-**Instructor** North American Ornithological Conference
-_Advanced R Programming and Graphing Workshop_ August 2016  
-Taught a day long workshop on programming, graphing and data management in R. [materials](https://github.com/aurielfournier/AOU_workshop) 
---->
-
-_North American Ornithological Conference Twitter Workshop_  
+_Advanced R Programming and Graphing Workshop - North American Ornithological Conference_ 
 August 2016  
-Taught a half day workshop on using twitter as a scientist
-
-_North American Ornithological Conference R Workshop_  
-August 2016  
-Taught a day long workshop on programming and graphing and data management in R. [Link to Materials](https://github.com/aurielfournier/naoc_2016_r_workshop)
+Taught a day long workshop on programming, graphing, data management and building packages in R. [Link to Materials](https://github.com/aurielfournier/naoc_2016_r_workshop)
 
  _Data Carpentry Workshop_  
 Two-day workshops on reproducible research and data management in R, SQL and Open Refine.   \
