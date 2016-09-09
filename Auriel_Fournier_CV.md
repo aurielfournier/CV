@@ -34,6 +34,8 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 - c - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and Yellow Rail Autumn Migration Phenology and Habitat Use in the Mississippi Flyway 
 -->
 
+- 6 - **Fournier, A.M.V.**, Krementz, D.G. In Press *Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails* **The Wildlife Society Bulletin** 
+
 - 5 - **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. 2016 *Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina* **Bulletin of Environmental Contamination & Toxicology** doi 10.1007/s00128-016-1870-z [pdf link](https://www.researchgate.net/publication/304715358_Levels_of_Mercury_in_Feathers_of_Clapper_Rails_Rallus_crepitans_over_45_Years_in_Coastal_Salt_Marshes_of_New_Hanover_County_North_Carolina?_iepl%5Bcontexts%5D%5B0%5D=successStoryDialog&_iepl%5BviewId%5D=A1hbsjOhVmHBL75qFiuLh4sp&_iepl%5BstoryInteractionType%5D=read&_iepl%5BinteractionType%5D=publicationView)
 
 > data: Fournier, A.M.V.; James K.W; Polito, M.; Emslie, S.D. 2015. doi m9.figshare.1621405.v1
@@ -51,8 +53,6 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 - a - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration
 
 - b - *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in the Mississippi Flyway
-
-- c - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails
 
 ## Honors 
 
