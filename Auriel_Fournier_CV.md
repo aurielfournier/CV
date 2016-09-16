@@ -28,10 +28,10 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 <!---
 
 #Chapter3
-*In Review* **Fournier, A.M.V.**, Drake K., Touzer D. Krementz D.G. Rails Demonstrate Limited Migratory Connectivity East of the Rocky Mountains
 
 - a - *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
 - c - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and Yellow Rail Autumn Migration Phenology and Habitat Use in the Mississippi Flyway 
+
 -->
 
 - 6 - **Fournier, A.M.V.**, Krementz, D.G. In Press *Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails* **The Wildlife Society Bulletin** 
@@ -53,6 +53,8 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 - a - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration
 
 - b - *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in the Mississippi Flyway
+
+- c - *In Review* **Fournier, A.M.V.**, Drake K.L., Touzer D.C. Species distribution models improve isotope-based migratory connectivity estimates of wetland-dependent birds
 
 ## Honors 
 
