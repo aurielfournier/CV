@@ -54,7 +54,7 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 
 - b - *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in the Mississippi Flyway
 
-- c - *In Review* **Fournier, A.M.V.**, Drake K.L., Touzer D.C. Species distribution models improve isotope-based migratory connectivity estimates of wetland-dependent birds
+- c - *In Review* **Fournier, A.M.V.**, Drake K.L., Tozer D.C. Species distribution models improve isotope-based migratory connectivity estimates of wetland-dependent birds
 
 ## Honors 
 
