@@ -140,18 +140,18 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 - 1 - **Fournier, A.M.V.,** Flaspohler, D.J., 2010 Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
-## Invited Seminars
+## Invited Presentations
 
-2016  University of Toledo, Department of Environmental Sciences  
-2014  Arkansas Tech University, Department of Biological Sciences
-
+2016  **Keynote** Ohio Ornithological Society Annual Conference  
+2016  **Talk** Arkansas Audubon Society Annual Conference   
+2016  **Seminar** University of Toledo, Department of Environmental Sciences    
+2014  **Seminar** Arkansas Tech University, Department of Biological Sciences
 
 ## Professional Licenses and Certifications
 
 **Instructor Training** [Software Carpentry & Data Carpentry](https://software-carpentry.org/index.html) - (5/2015)  
 [**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society - (3/2015)  
-**Sub-permit bird banding license holder in US and Canada**  
-- 13 years experience, handled 7000+ birds, have taken blood from 200+ & feathers from 700+  
+**Sub-permit bird banding license holder in US and Canada** 13 years experience, 7000+ birds   
 **Wilderness First Aid** Wilderness Medicine Institute/NOLS (2/2016)  
 **CPR/First Aid** American Red Cross (12/2015)  
 **NSC Defensive Driving II** National Safety Council (1/2013)  
