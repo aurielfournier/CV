@@ -27,8 +27,6 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 
 <!---
 
-#Chapter3
-
 - a - *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
 - c - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and Yellow Rail Autumn Migration Phenology and Habitat Use in the Mississippi Flyway 
 
@@ -40,7 +38,7 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 
 > data: Fournier, A.M.V.; James K.W; Polito, M.; Emslie, S.D. 2015. doi m9.figshare.1621405.v1
 
-- 4 - **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. 2016 *Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail* **Journal of Applied Ecology** [pdf link](https://www.researchgate.net/publication/303839043_Combining_citizen_science_species_distribution_models_and_stable_isotopes_reveals_migratory_connectivity_in_the_secretive_Virginia_rail) doi:10.1111/1365-2664.12723  
+- 4 - **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. In Press *Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail* **Journal of Applied Ecology** [pdf link](https://www.researchgate.net/publication/303839043_Combining_citizen_science_species_distribution_models_and_stable_isotopes_reveals_migratory_connectivity_in_the_secretive_Virginia_rail) doi:10.1111/1365-2664.12723  
 
 > data: Fournier A.M.V., Sullivan A.R., Bump J.K., Perkins M., Shieldcastle M.C., King S.L. 2016. Dryad Digital Repository. doi 10.5061/dryad.r4847
 
@@ -91,7 +89,7 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 ## Research Experience
 
 **Undergraduate Research Grant** Dr. Joseph Bump - Michigan Technological Uni. - 2011  
-Assessing the migratory connectivity of Virginia Rails using citizen science data as an informative prior for geographic assignment. Manuscript In Review. 
+Assessing the migratory connectivity of Virginia Rails using citizen science data as an informative prior for geographic assignment. _[Fournier et al. In Press](https://www.researchgate.net/publication/303839043_Combining_citizen_science_species_distribution_models_and_stable_isotopes_reveals_migratory_connectivity_in_the_secretive_Virginia_rail)_
 
 **Summer Undergrad Research Fellowship** Dr. Joseph Bump - Michigan Technological Uni. - 2011  
 Developed a morphometric model to predict the sex of Virginia Rails. [Fournier et al. 2013](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29).
