@@ -104,11 +104,20 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 ## Technical Publications
 
+- 4 - **Fournier, A.M.V.,** D.G. Krementz 2016. Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails on Intensively-Managed Wetland Complexes in Missouri : Final Report USFWS Division of Migratory Birds Webless Program
+
 - 3 - **Fournier, A.M.V.,** K. Willard, D. G. Krementz. 2015. King Rail Nesting and Brood Rearing Ecology in Managed Wetlands: Final Report USFWS Division of Migratory Birds Webless Program [pdf](http://s3.amazonaws.com/file-storage.INDIVIDUAL-ACTIVITIES-CooperativeResearchUnits.digitalmeasures.usgs.edu/krementz/tech_publications/rwo_40_final_report DGK-1.docx)
 
 - 2 - Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, Nelson's Sparrows and Sedge Wrens. U.S. Fish and Wildlife Service (Region 3) and Prairie Pothole Joint Venture. 
 
 - 1 - Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, and Sedge Wrens. U.S. Forest Service
+
+## Invited Presentations
+
+- 2016  **Keynote** Ohio Ornithological Society Annual Conference  
+- 2016  **Talk** Arkansas Audubon Society Annual Conference   
+- 2016  **Seminar** University of Toledo, Department of Environmental Sciences    
+- 2014  **Seminar** Arkansas Tech University, Department of Biological Sciences
 
 ## Presentations
 
@@ -128,6 +137,9 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 - 1 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. 2013  Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
 
+
+\newpage
+
 ## Posters
 
 - 5 - **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H., 2014 Sora Migration and Wetland Management *The Wildlife Society National Conference* - PA [pdf](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
@@ -140,49 +152,7 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 - 1 - **Fournier, A.M.V.,** Flaspohler, D.J., 2010 Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
-## Invited Presentations
 
-2016  **Keynote** Ohio Ornithological Society Annual Conference  
-2016  **Talk** Arkansas Audubon Society Annual Conference   
-2016  **Seminar** University of Toledo, Department of Environmental Sciences    
-2014  **Seminar** Arkansas Tech University, Department of Biological Sciences
-
-## Professional Licenses and Certifications
-
-**Instructor Training** [Software Carpentry & Data Carpentry](https://software-carpentry.org/index.html) - (5/2015)  
-[**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society - (3/2015)  
-**Sub-permit bird banding license holder in US and Canada** 13 years experience, 7000+ birds   
-**Wilderness First Aid** Wilderness Medicine Institute/NOLS (2/2016)  
-**CPR/First Aid** American Red Cross (12/2015)  
-**NSC Defensive Driving II** National Safety Council (1/2013)  
-**Defensive Driving** AAA Driver Improvement Program (7/2012)  
-**ATV Rider Certification** ATV Safety Institute (6/2012)
-
-
-## Work Experience
-**Environmental Education Internship**  
-Kellogg Bird Sanctuary, Michigan State University - Kara Hass -  May - July 2012  
-
-**Bird Bander**  
-The Big Island, Hawaii - Dr. Jessie Knowlton - February - May 2012   
-
-**Field Technician**  
-Isle Royale National Park - Dr. Joseph Bump -  May 2011  
- 
-**Remote Sensing/GIS Technician**  
-Michigan Technological University - Dr. Mike Falkowski - February 2010 - December 2011  
-
-**Small Mammal/Lakeshore Restoration Technician**   
-Michigan Technological University - Dan Haskell - July 2010  
-
-**Field Crew Leader**  
-Michigan Technological University - Dr. Amber Roth  March - June 2010  
-
-**Bird Bander**  
-Black Swamp Bird Observatory - Mark & Julie Shieldcastle - Spring and Fall 2004-2008
-
-**Bird Bander**  
-Green Creek Wildlife Society - Tom Kashmer - 2002-2008  
 
 ## Professional Development
 
@@ -241,29 +211,8 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
-\newpage
 
 ## Teaching
-
-> **As Instructor**
-
-_Advanced R Programming and Graphing Workshop - North American Ornithological Conference_ 
-August 2016  
-Taught a day long workshop on programming, graphing, data management and building packages in R. [Link to Materials](https://github.com/aurielfournier/naoc_2016_r_workshop)
-
- _Data Carpentry Workshop_  
-Two-day workshops on reproducible research and data management in R, SQL and Open Refine.   \
-- USDA - New Orleans, LA June 2016 
-
- _Software Carpentry Workshop_  
-Two-day workshops on reproducible research and programming in R, Unix Shell and Git.  
-- Federal Reserve Board, Washington D.C. June 2016  \
-- University of Connecticut March 2016  
-- Iowa State University November 2015
-
-_American Ornithologists Union Conference R Workshop_  
-July 2015  
-Taught a day long workshop on programming, graphing and data management in R. [Link to Materials](https://github.com/aurielfournier/AOU_workshop) 
 
 > **As Teaching Assistant**
 
@@ -292,13 +241,74 @@ Ornithology
 Spring Semester 2011  
 Lead field trips, gave guest lecture, gave field quizzes. 
 
+## Teaching Continued
+
+> **As Instructor**
+
+_Advanced R Programming and Graphing Workshop - North American Ornithological Conference_ 
+August 2016  
+Taught a day long workshop on programming, graphing, data management and building packages in R. [Link to Materials](https://github.com/aurielfournier/naoc_2016_r_workshop)
+
+ _Data Carpentry Workshop_  
+Two-day workshops on reproducible research and data management in R, SQL and Open Refine.   \
+- USDA - New Orleans, LA June 2016 
+
+ _Software Carpentry Workshop_  
+Two-day workshops on reproducible research and programming in R, Unix Shell and Git.  
+- Federal Reserve Board, Washington D.C. June 2016  \
+- University of Connecticut March 2016  
+- Iowa State University November 2015
+
+_American Ornithologists Union Conference R Workshop_  
+July 2015  
+Taught a day long workshop on programming, graphing and data management in R. [Link to Materials](https://github.com/aurielfournier/AOU_workshop) 
+
 > **As Tutor**
 
 **Science Writing Tutor**  
 Quality Writing Center - University of Arkansas - January 2014 - Present  
 Tutoring undergraduate and graduate students on scientific writing 8 hours a week. Editing thesis, dissertations, lab reports and other writing. Working extensively with English as a Second Language students. 
 
+
+
+
+## Work Experience
+**Environmental Education Internship**  
+Kellogg Bird Sanctuary, Michigan State University - Kara Hass -  May - July 2012  
+
+**Bird Bander**  
+The Big Island, Hawaii - Dr. Jessie Knowlton - February - May 2012   
+
+**Field Technician**  
+Isle Royale National Park - Dr. Joseph Bump -  May 2011  
+ 
+**Remote Sensing/GIS Technician**  
+Michigan Technological University - Dr. Mike Falkowski - February 2010 - December 2011  
+
+**Small Mammal/Lakeshore Restoration Technician**   
+Michigan Technological University - Dan Haskell - July 2010  
+
+**Field Crew Leader**  
+Michigan Technological University - Dr. Amber Roth  March - June 2010  
+
+**Bird Bander**  
+Black Swamp Bird Observatory - Mark & Julie Shieldcastle - Spring and Fall 2004-2008
+
+**Bird Bander**  
+Green Creek Wildlife Society - Tom Kashmer - 2002-2008  
+
 \newpage 
+
+## Professional Licenses and Certifications
+
+**Instructor Training** [Software Carpentry & Data Carpentry](https://software-carpentry.org/index.html) - (5/2015)  
+[**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society - (3/2015)  
+**Sub-permit bird banding license holder in US and Canada** 13 years experience, 7000+ birds   
+**Wilderness First Aid** Wilderness Medicine Institute/NOLS (2/2016)  
+**CPR/First Aid** American Red Cross (12/2015)  
+**NSC Defensive Driving II** National Safety Council (1/2013)  
+**Defensive Driving** AAA Driver Improvement Program (7/2012)  
+**ATV Rider Certification** ATV Safety Institute (6/2012)
 
 ## Memberships 
 (since)  
