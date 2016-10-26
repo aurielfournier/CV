@@ -1,6 +1,9 @@
 ---
 output: pdf_document
+urlcolor: blue
 ---
+
+
 Auriel M.V. Fournier
 =============================
 PhD Candidate - University of Arkansas - [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/)  
@@ -89,7 +92,7 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 ## Research Experience
 
 **Undergraduate Research Grant** Dr. Joseph Bump - Michigan Technological Uni. - 2011  
-Assessing the migratory connectivity of Virginia Rails using citizen science data as an informative prior for geographic assignment. _[Fournier et al. In Press](https://www.researchgate.net/publication/303839043_Combining_citizen_science_species_distribution_models_and_stable_isotopes_reveals_migratory_connectivity_in_the_secretive_Virginia_rail)_
+Assessing the migratory connectivity of Virginia Rails using citizen science data as an informative prior for geographic assignment. [Fournier et al. In Press](https://www.researchgate.net/publication/303839043_Combining_citizen_science_species_distribution_models_and_stable_isotopes_reveals_migratory_connectivity_in_the_secretive_Virginia_rail)
 
 **Summer Undergrad Research Fellowship** Dr. Joseph Bump - Michigan Technological Uni. - 2011  
 Developed a morphometric model to predict the sex of Virginia Rails. [Fournier et al. 2013](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29).
