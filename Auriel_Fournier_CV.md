@@ -29,10 +29,9 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 ## Peer-Reviewed Publications  
 
 <!---
-
 - a - *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
 - c - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and Yellow Rail Autumn Migration Phenology and Habitat Use in the Mississippi Flyway 
-
+ b *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in the Mississippi Flyway
 -->
 
  6 **Fournier, A.M.V.**, Krementz, D.G. In Press *Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails* **The Wildlife Society Bulletin** 
@@ -52,10 +51,8 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
  1 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. 2013  _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **The Wildlife Society Bulletin** 27: 881-886 [pdf link](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29) doi:10.1002/wsb.323   
 
  a *In Review* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration
-
- b *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in the Mississippi Flyway
-
- c *In Review* **Fournier, A.M.V.**, Drake K.L., Tozer D.C. Species distribution models improve isotope-based migratory connectivity estimates of wetland-dependent birds
+ 
+ b *In Review* **Fournier, A.M.V.**, Drake K.L., Tozer D.C. Species distribution models improve isotope-based migratory connectivity estimates of wetland-dependent birds
 
 ## Honors 
 
