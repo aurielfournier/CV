@@ -20,7 +20,7 @@ Ph.D. in **Biological Sciences**  2017 (expected) - Arkansas Cooperative Fish an
 - Hiring, training and managing a four person field crew  
 - Developing new survey methodology for autumn migrating rails  
 - Working closely with state and federal land managers to design field experiments  
-- Coordinating collaboration US and Canada to examine rail migratory connectivity
+- Coordinating collaboration across US and Canada to examine rail migratory connectivity
 
 Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensing*  
 2011 **Michigan Technological University** Houghton, MI - Magna Cum Laude
@@ -34,7 +34,7 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
  b *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in the Mississippi Flyway
 -->
 
- 7 *Accepted* **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. The Timing of Autumn Sora (Porzana carolina) Migration **Wilson Journal of Ornithology**
+ 7 **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. *Accepted* The Timing of Autumn Sora (Porzana carolina) Migration in Missouri **Wilson Journal of Ornithology**
 
  6 **Fournier, A.M.V.**, Krementz, D.G. In Press *Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails* **The Wildlife Society Bulletin** 
 
