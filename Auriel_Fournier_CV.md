@@ -69,6 +69,8 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 
 ## Grants
 
+12 **Travel Grant** 2017 $350 Wilson Ornithological Society Annual Conference
+
 11 **Travel Grant** 2016 $200 North American Ornithological Conference
 
 10 (declined) *PI* **National Science Foundation East Asia Pacific Summer Institute Program** 2016 Timing is everything: Identifying peak Rallidae call rate in southeast Australia
