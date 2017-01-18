@@ -16,7 +16,7 @@ Ph.D. in **Biological Sciences**  2017 (expected) - Arkansas Cooperative Fish an
 **University of Arkansas** Fayetteville, AR - Distinguished Doctoral Fellowship Recipient
 
 **Autumn migration ecology of rails on intensively managed wetlands**  
-- Hierarchical distance modeling to predict rail density and examine habitat use  
+- Hierarchical modeling to predict rail density and examine habitat use  
 - Hiring, training and managing a four person field crew  
 - Developing new survey methodology for autumn migrating rails  
 - Working closely with state and federal land managers to design field experiments  
@@ -34,8 +34,6 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 *In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and Yellow Rail Autumn Migration Phenology and Habitat Use in the Mississippi Flyway 
  
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in the Mississippi Flyway
- 
-*In Review* **Fournier, A.M.V.**, Krementz, D.G. Confirmation of diving and swimming behavior in the Sora (Porzana carolina)  
 -->
 
  8 **Fournier, A.M.V.**, Drake K.L., Tozer D.C. *Accepted* Species distribution models improve isotope-based migratory connectivity estimates of wetland-dependent birds **Journal of Avian Biology**
@@ -58,6 +56,7 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 
  1 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. 2013  _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **The Wildlife Society Bulletin** 27: 881-886 [pdf link](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29) doi:10.1002/wsb.323   
  
+a - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Confirmation of diving and swimming behavior in the Sora (Porzana carolina)  
 
 ## Honors 
 
