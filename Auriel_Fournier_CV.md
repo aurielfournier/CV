@@ -38,7 +38,7 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 
  8 **Fournier, A.M.V.**, Drake K.L., Tozer D.C. *Accepted* Species distribution models improve isotope-based migratory connectivity estimates of wetland-dependent birds **Journal of Avian Biology**
 
- 7 **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. *Accepted* The Timing of Autumn Sora (Porzana carolina) Migration in Missouri **Wilson Journal of Ornithology**
+ 7 **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. *In Press* The Timing of Autumn Sora (Porzana carolina) Migration in Missouri **Wilson Journal of Ornithology**
 
  6 **Fournier, A.M.V.**, Krementz, D.G. In Press *Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails* **The Wildlife Society Bulletin** 
 
@@ -107,6 +107,7 @@ Examined variation in eye color across the range of Golden-winged Warblers. [Pre
 Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented poster. 
 
 ## Technical Publications
+
 <!---
 7 **Fournier, A.M.V., Drake, K.L., Tozer D.C. 2017 Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds *Missouri Department of Conservation Science Note* [pdf]
 
@@ -114,6 +115,7 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 5 **Fournier, A.M.V.** 2017 Nocturnal Distance Sampling All-Terrain Vehicle Surveys for Non-Breeding Rails *Missouri Department of Conservation Science Note* [pdf] 
 -->
+
 4 **Fournier, A.M.V.,** 2016. Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails on Intensively-Managed Wetland Complexes in Missouri : Final Report USFWS Division of Migratory Birds Webless Program
 
 3 **Fournier, A.M.V.,** K. Willard, D. G. Krementz. 2015. King Rail Nesting and Brood Rearing Ecology in Managed Wetlands: Final Report USFWS Division of Migratory Birds Webless Program [pdf](http://s3.amazonaws.com/file-storage.INDIVIDUAL-ACTIVITIES-CooperativeResearchUnits.digitalmeasures.usgs.edu/krementz/tech_publications/rwo_40_final_report DGK-1.docx)
@@ -184,7 +186,7 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 2013-16 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology, Ecology and Evolution, Methods in Ecology and Evolution, Wilson Journal of Ornithology, Biotropica   [Publons profile](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)  
 2014-16 Treasurer **Biology Graduate Student Assocation** University of Arkansas  
 2015 **Volunteer** American Ornithologists Union Meeting  
-2015 **Presentation Judge** Association of Field Ornithology, Wilson Ornithological Society, Society of Canadian Ornithologists Meeting  
+2015 **Presentation Judge** Association of Field Ornithology, Wilson Ornithological Society, Society of Canadian Ornithologists Meeting 
 2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas  
 2014-15 Treasurer **Student Working Group** The Wildlife Society    
 2014-15 Secretary **Student Chapter - University of Arkansas** The Wildlife Society  
@@ -242,8 +244,8 @@ Two-day workshops on reproducible research and data management in R, SQL and Ope
 _Software Carpentry Workshop_  
 Two-day workshops on reproducible research and programming in R, Unix Shell and Git.  
 - Federal Reserve Board, Washington D.C. June 2016  
-- University of Connecticut March 2016  
-- Iowa State University November 2015
+- University of Connecticut, March 2016  
+- Iowa State University, November 2015
 
 _American Ornithologists Union Conference R Workshop_  
 July 2015  
@@ -252,7 +254,7 @@ Developed materials and taught a day long workshop on programming, graphing and 
 > **As Tutor**
 
 **Science Writing Tutor**  
-Quality Writing Center - University of Arkansas - January 2014 - Present  
+Quality Writing Center - University of Arkansas - January 2014 - April 2017 
 Tutoring undergraduate and graduate students on scientific writing 8 hours a week. Editing thesis, dissertations, lab reports and other writing. Working extensively with English as a Second Language students. 
 
 \newpage
@@ -285,9 +287,6 @@ Michigan Technological University
 Ornithology  
 Spring Semester 2011  
 Lead field trips, gave guest lecture, gave field quizzes. 
-
-
-
 
 ## Work Experience
 **Environmental Education Internship**  
