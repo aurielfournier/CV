@@ -107,7 +107,13 @@ Examined variation in eye color across the range of Golden-winged Warblers. [Pre
 Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented poster. 
 
 ## Technical Publications
+<!---
+7 **Fournier, A.M.V., Drake, K.L., Tozer D.C. 2017 Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds *Missouri Department of Conservation Science Note* [pdf]
 
+6 **Fournier, A.M.V., Mengel, D.C. 2017 The timing of autumn Sora (porzana carolina) migration in Missouri *Missouri Department of Consrevation Science Note* [pdf]
+
+5 **Fournier, A.M.V.** 2017 Nocturnal Distance Sampling All-Terrain Vehicle Surveys for Non-Breeding Rails *Missouri Department of Conservation Science Note* [pdf] 
+-->
 4 **Fournier, A.M.V.,** 2016. Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails on Intensively-Managed Wetland Complexes in Missouri : Final Report USFWS Division of Migratory Birds Webless Program
 
 3 **Fournier, A.M.V.,** K. Willard, D. G. Krementz. 2015. King Rail Nesting and Brood Rearing Ecology in Managed Wetlands: Final Report USFWS Division of Migratory Birds Webless Program [pdf](http://s3.amazonaws.com/file-storage.INDIVIDUAL-ACTIVITIES-CooperativeResearchUnits.digitalmeasures.usgs.edu/krementz/tech_publications/rwo_40_final_report DGK-1.docx)
@@ -117,6 +123,13 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 1 Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, and Sedge Wrens. U.S. Forest Service
 
 ## Invited Presentations
+
+<!---
+2017 **Talk** Science Communication Symposium, American Ornithological Society/Society of Canadian Ornithologists Conference
+2017 **Talk** Science Communication Symposium, International Association of Great Lake Researchers Conference
+2017 **Keynote** The Biggest Week in American Birding Festival
+2017 **Seminar** Missouri State University, Department of Biological Sciences
+-->
 
 2016  **Keynote** Ohio Ornithological Society Annual Conference  
 2016  **Talk** Arkansas Audubon Society Annual Conference   
@@ -146,6 +159,10 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 \newpage
 
 ## Posters
+
+<!---
+6 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. 2017 Comparison of Arrival Dates of Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA *International Association of Great Lakes Researchers Conference* - MI [pdf]
+--> 
 
 5 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H., 2014 Sora Migration and Wetland Management *The Wildlife Society National Conference* - PA [pdf](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
 
@@ -218,11 +235,11 @@ _Advanced R Programming and Graphing Workshop - North American Ornithological Co
 August 2016  
 Developed materials and taught a day long workshop on programming, graphing, data management and building packages in R. [Link to Materials](https://github.com/aurielfournier/naoc_2016_r_workshop)
 
- _Data Carpentry Workshop_  
+_Data Carpentry Workshop_  
 Two-day workshops on reproducible research and data management in R, SQL and Open Refine.   \
 - USDA - New Orleans, LA June 2016 
 
- _Software Carpentry Workshop_  
+_Software Carpentry Workshop_  
 Two-day workshops on reproducible research and programming in R, Unix Shell and Git.  
 - Federal Reserve Board, Washington D.C. June 2016  \
 - University of Connecticut March 2016  
