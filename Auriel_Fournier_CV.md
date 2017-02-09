@@ -236,12 +236,12 @@ August 2016
 Developed materials and taught a day long workshop on programming, graphing, data management and building packages in R. [Link to Materials](https://github.com/aurielfournier/naoc_2016_r_workshop)
 
 _Data Carpentry Workshop_  
-Two-day workshops on reproducible research and data management in R, SQL and Open Refine.   \
+Two-day workshops on reproducible research and data management in R, SQL and Open Refine.   
 - USDA - New Orleans, LA June 2016 
 
 _Software Carpentry Workshop_  
 Two-day workshops on reproducible research and programming in R, Unix Shell and Git.  
-- Federal Reserve Board, Washington D.C. June 2016  \
+- Federal Reserve Board, Washington D.C. June 2016  
 - University of Connecticut March 2016  
 - Iowa State University November 2015
 
