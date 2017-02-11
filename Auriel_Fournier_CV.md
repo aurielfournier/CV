@@ -130,9 +130,10 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 2017 **Talk** Science Communication Symposium, American Ornithological Society/Society of Canadian Ornithologists Conference
 2017 **Talk** Science Communication Symposium, International Association of Great Lake Researchers Conference
 2017 **Keynote** The Biggest Week in American Birding Festival
-2017 **Seminar** Missouri State University, Department of Biological Sciences
+
 -->
 
+2017 **Seminar** Missouri State University, Department of Biological Sciences
 2016  **Keynote** Ohio Ornithological Society Annual Conference  
 2016  **Talk** Arkansas Audubon Society Annual Conference   
 2016  **Seminar** University of Toledo, Department of Environmental Sciences    
