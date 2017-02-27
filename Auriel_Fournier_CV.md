@@ -12,10 +12,13 @@ PhD Candidate - University of Arkansas - [Arkansas Cooperative Fish and Wildlife
 
 ## Education
 
-Ph.D. in **Biological Sciences**  2017 (expected) - Arkansas Cooperative Fish and Wildlife Research Unit  
+Ph.D. in **Biological Sciences**  May 2017  - Arkansas Cooperative Fish and Wildlife Research Unit  
 **University of Arkansas** Fayetteville, AR - Distinguished Doctoral Fellowship Recipient
 
-**Autumn migration ecology of rails on intensively managed wetlands**  
+**Phenology, Habitat Use, and the Impacts of Wetland Management 
+on Autumn Migrating Rails in Missouri**  
+- Dr. David G. Krementz, Adviser 
+
 - Hierarchical modeling to predict rail density and examine habitat use  
 - Hiring, training and managing a four person field crew  
 - Developing new survey methodology for autumn migrating rails  
