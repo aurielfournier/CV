@@ -38,9 +38,9 @@ a - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Confirmation of diving and 
 
 -->
 
- 8 **Fournier, A.M.V.**, Drake K.L., Tozer D.C. *Accepted* Species distribution models improve isotope-based migratory connectivity estimates of wetland-dependent birds **Journal of Avian Biology**
+ 8 **Fournier, A.M.V.**, Drake K.L., Tozer D.C. Accepted *Species distribution models improve isotope-based migratory connectivity estimates of wetland-dependent birds* **Journal of Avian Biology**
 
- 7 **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. *In Press* The Timing of Autumn Sora (Porzana carolina) Migration in Missouri **Wilson Journal of Ornithology**
+ 7 **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. In Press *The Timing of Autumn Sora (Porzana carolina) Migration in Missouri* **Wilson Journal of Ornithology**
 
  6 **Fournier, A.M.V.**, Krementz, D.G. In Press *Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails* **The Wildlife Society Bulletin** 
 
@@ -130,7 +130,6 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 2017 **Talk** Science Communication Symposium, American Ornithological Society/Society of Canadian Ornithologists Conference
 2017 **Talk** Science Communication Symposium, International Association of Great Lake Researchers Conference
 2017 **Keynote** The Biggest Week in American Birding Festival
-
 -->
 
 2017 **Seminar** Missouri State University, Department of Biological Sciences  
