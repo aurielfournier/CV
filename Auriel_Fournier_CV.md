@@ -45,19 +45,19 @@ a - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Confirmation of diving and 
 
  6 **Fournier, A.M.V.**, Krementz, D.G. In Press *Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails* **The Wildlife Society Bulletin** 
 
- 5 **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. 2016 *Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina* **Bulletin of Environmental Contamination & Toxicology** 97: 469-473 doi 10.1007/s00128-016-1870-z [pdf link](https://www.researchgate.net/publication/304715358_Levels_of_Mercury_in_Feathers_of_Clapper_Rails_Rallus_crepitans_over_45_Years_in_Coastal_Salt_Marshes_of_New_Hanover_County_North_Carolina?_iepl%5Bcontexts%5D%5B0%5D=successStoryDialog&_iepl%5BviewId%5D=A1hbsjOhVmHBL75qFiuLh4sp&_iepl%5BstoryInteractionType%5D=read&_iepl%5BinteractionType%5D=publicationView)
+ 5 **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. 2016 *Historic mercury exposure in the Clapper Rail (Rallus crepitans) in coastal salt marshes of North Carolina* **Bulletin of Environmental Contamination & Toxicology** 97: 469-473 doi 10.1007/s00128-016-1870-z [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Bulletin%20of%20Environmental%20Contamination%20and%20Toxicology.pdf)
 
 > data: Fournier, A.M.V.; James K.W; Polito, M.; Emslie, S.D. 2015. doi m9.figshare.1621405.v1
 
- 4 **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. In Press *Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail* **Journal of Applied Ecology** [pdf link](https://www.researchgate.net/publication/303839043_Combining_citizen_science_species_distribution_models_and_stable_isotopes_reveals_migratory_connectivity_in_the_secretive_Virginia_rail) doi:10.1111/1365-2664.12723  
+ 4 **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. In Press *Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail* **Journal of Applied Ecology** [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf) doi:10.1111/1365-2664.12723  
 
 > data: Fournier A.M.V., Sullivan A.R., Bump J.K., Perkins M., Shieldcastle M.C., King S.L. 2016. Dryad Digital Repository. doi 10.5061/dryad.r4847
 
- 3 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. 2015  _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 [pdf link](https://www.researchgate.net/publication/282289695_Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes_Ohio_USA) doi:10.1675/063.038.0313
+ 3 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. 2015  _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202015%20-%20Waterbirds.pdf) doi:10.1675/063.038.0313
 
- 2 **Fournier, A.M.V.**, Bond, A.L. 2015  *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** 39: 819-821 [pdf link](https://www.researchgate.net/publication/283791283_Volunteer_Field_Technicians_Are_Bad_for_Wildlife_Ecology) doi:10.1002/wsb.603
+ 2 **Fournier, A.M.V.**, Bond, A.L. 2015  *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** 39: 819-821 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%2C%20Bond%20-%202015%20-%20Wildlife%20Society%20Bulletin.pdf) doi:10.1002/wsb.603
 
- 1 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. 2013  _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **The Wildlife Society Bulletin** 27: 881-886 [pdf link](http://www.researchgate.net/publication/258931344_A_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails_%28Rallus_limicola%29) doi:10.1002/wsb.323   
+ 1 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. 2013  _Developing a morphometric model to predict the sex of Virginia Rails (Rallus limicola)_ **The Wildlife Society Bulletin** 27: 881-886 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al._2013_Wildlife%20Society%20Bulletin_A%20Morphometric%20Model%20to%20Predict%20the%20Sex%20of%20Virginia%20Rails%20(Rallus%20limicola).pdf) doi:10.1002/wsb.323   
 
 ## Honors 
 
