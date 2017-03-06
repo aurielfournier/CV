@@ -333,7 +333,8 @@ Green Creek Wildlife Society - Tom Kashmer - 2002-2008
 2012 **Association of Field Ornithologists**    
 2012 **The Waterbirds Society**  
 2015 **Wilson Ornithological Society**  
-2016 **Ecological Society of America**
+2016 **Ecological Society of America**  
+2017 **International Assocation of Great Lakes Researchers**
 
 ## Computer Skills
 
