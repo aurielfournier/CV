@@ -142,7 +142,9 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 ## Presentations
 
-8 **Fournier, A.M.V.,** Drake, K., Tozer, D., Krementz, D.G. 2016. Migratory Connectivity of Sora, Virginia Rail and Yellow Rail. North American Ornithological Conference, Washington D.C. [pdf link](https://figshare.com/articles/Migratory_Connectivity_of_Sora_Virginia_and_Yellow_Rails/3565578) [recording](https://www.periscope.tv/w/1rmGPDyEAnyGN)
+9 **Fournier, A.M.V.,** Mengel, D.C., Krementz, D.G. 2017. Habitat Use and Migratory Timing of Virginia and Yellow Rails. *Wilson Ornithological Society Meeting, Fort Meyers, FL* [pdf link](https://figshare.com/articles/Virginia_and_Yellow_Rail_Autumn_Migration_Phenology_and_Habitat_Use/4724296)
+
+8 **Fournier, A.M.V.,** Drake, K., Tozer, D., Krementz, D.G. 2016. Migratory Connectivity of Sora, Virginia Rail and Yellow Rail. *North American Ornithological Conference, Washington D.C.* [pdf link](https://figshare.com/articles/Migratory_Connectivity_of_Sora_Virginia_and_Yellow_Rails/3565578) [recording](https://www.periscope.tv/w/1rmGPDyEAnyGN)
 
 7 **Fournier, A.M.V.** 2016 Building Collaboration and Community in Science Through Twitter. North American Ornithological Conference, Twitter for Scientists Workshop, Washington D.C. 
 
@@ -178,6 +180,7 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 1 **Fournier, A.M.V.,** Flaspohler, D.J., 2010 Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
 ## Service 
+2017-Present **Elected Councilor** Wilson Ornithological Society
 2017-Present **Associate Editor** The Ibis  
 2016-17 Vice Chair **Open Science Section** Ecological Society of America  
 2015-17 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society  
