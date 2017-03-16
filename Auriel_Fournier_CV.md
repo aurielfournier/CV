@@ -180,7 +180,7 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 1 **Fournier, A.M.V.,** Flaspohler, D.J., 2010 Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
 ## Service 
-2017-Present **Elected Councilor** Wilson Ornithological Society
+2017-Present **Elected Councilor** Wilson Ornithological Society  
 2017-Present **Associate Editor** The Ibis  
 2016-17 Vice Chair **Open Science Section** Ecological Society of America  
 2015-17 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society  
