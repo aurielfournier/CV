@@ -179,9 +179,17 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 
 1 **Fournier, A.M.V.,** Flaspohler, D.J., 2010 Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
+
+
 ## Service 
+
+<!---
+2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
+2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI  
+-->
 2017-Present **Elected Councilor** Wilson Ornithological Society  
 2017-Present **Associate Editor** The Ibis  
+2017 **Presentation Judge** Wilson Ornithological Society Meeting
 2016-17 Vice Chair **Open Science Section** Ecological Society of America  
 2015-17 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society  
 2013-17 **Peer Reviewer** Waterbirds, The Wildlife Society Bulletin, Conservation Biology, PLOS ONE, Journal of Wildlife Management, Science Bulletin, Avian Conservation and Ecology, Ecology and Evolution, Methods in Ecology and Evolution, Wilson Journal of Ornithology, Biotropica, Diversity and Distributions [Publons profile](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)  
@@ -190,15 +198,13 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 2016 **Lesson Maintainer** Data Carpentry [R Ecology Lessons](http://www.datacarpentry.org/R-ecology-lesson/)  
 2014-16 Treasurer **Biology Graduate Student Assocation** University of Arkansas  
 2015 **Volunteer** American Ornithologists Union Meeting  
-2015 **Presentation Judge** Association of Field Ornithology, Wilson Ornithological Society, Society of Canadian Ornithologists Meeting 
+2015 **Presentation Judge** Association of Field Ornithology, Wilson Ornithological Society, Society of Canadian Ornithologists Meeting   
 2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas  
 2014-15 Treasurer **Student Working Group** The Wildlife Society    
 2014-15 Secretary **Student Chapter - University of Arkansas** The Wildlife Society  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
 2013-14 Treasurer **Student Chapter - University of Arkansas** The Wildlife Society  
 2013-14 Vice President **Biology Graduate Student Assocation** University of Arkansas  
-2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
-2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI   
 2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
