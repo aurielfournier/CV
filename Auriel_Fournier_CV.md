@@ -13,13 +13,12 @@ PhD Candidate - University of Arkansas - [Arkansas Cooperative Fish and Wildlife
 ## Professional Appointments and Education
 
 Postdoctoral Researcher - **Mississippi State University**   
-2017-Present  Dr. Mark Woodrey and Dr. Jim Lyons Supervisors
+April 2017-Present  Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 Ph.D. in **Biological Sciences**  - Arkansas Cooperative Fish and Wildlife Research Unit  
 2017 **University of Arkansas**   - Distinguished Doctoral Fellowship Recipient
 
-- Title: **Phenology, Habitat Use, and the Impacts of Wetland Management 
-on Autumn Migrating Rails in Missouri** - Dr. David G. Krementz, Adviser 
+- Title: **Phenology, Habitat Use, and the Impacts of Wetland Management on Autumn Migrating Rails in Missouri** - Dr. David G. Krementz, Adviser 
 
 Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensing*  
 2011 **Michigan Technological University** Houghton, MI - Magna Cum Laude
