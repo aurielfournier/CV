@@ -42,7 +42,7 @@ a - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Confirmation of diving and 
 
  7 **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. In Press *The Timing of Autumn Sora (Porzana carolina) Migration in Missouri* **Wilson Journal of Ornithology**
 
- 6 **Fournier, A.M.V.**, Krementz, D.G. In Press *Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails* **The Wildlife Society Bulletin** 
+ 6 **Fournier, A.M.V.**, Krementz, D.G. 2017 *Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails* **The Wildlife Society Bulletin** doi:10.1002/wsb.745
 
 5 **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. 2017 *Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail* **Journal of Applied Ecology** 54:618–627 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf) doi:10.1111/1365-2664.12723  
 
