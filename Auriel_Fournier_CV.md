@@ -6,7 +6,7 @@ urlcolor: blue
 
 Auriel M.V. Fournier
 =============================
-Postdoctoral Research Associate - Mississippi State University, Biloxi, MS 
+Postdoctoral Research Associate - Mississippi State University, Biloxi, MS   
 1815 Popps Ferry Rd, Biloxi, MS 39532 - amvander@uark.edu - 419.307.6261  
 [aurielfournier.github.io](http://aurielfournier.github.io/) - [Github Profile](https://github.com/aurielfournier) - [Google Scholar Profile](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) - [Twitter \@RallidaeRule](https://twitter.com/RallidaeRule)  
 
