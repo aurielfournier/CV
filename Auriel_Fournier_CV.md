@@ -32,9 +32,6 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 *In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and Yellow Rail Autumn Migration Phenology and Habitat Use in the Mississippi Flyway 
  
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in the Mississippi Flyway
-
- 
-
 -->
 
  8 **Fournier, A.M.V.**, Drake K.L., Tozer D.C. Accepted *Species distribution models improve isotope-based migratory connectivity estimates of wetland-dependent birds* **Journal of Avian Biology**
