@@ -6,8 +6,8 @@ urlcolor: blue
 
 Auriel M.V. Fournier
 =============================
-PhD Candidate - University of Arkansas - [Arkansas Cooperative Fish and Wildlife Research Unit](http://www.coopunits.org/Arkansas/)  
-1 University Drive SCEN 632 Fayetteville, AR 72701 - amvander@uark.edu - 419.307.6261  
+Postdoctoral Research Associate - Mississippi State University, Biloxi, MS 
+1815 Popps Ferry Rd, Biloxi, MS 39532 - amvander@uark.edu - 419.307.6261  
 [aurielfournier.github.io](http://aurielfournier.github.io/) - [Github Profile](https://github.com/aurielfournier) - [Google Scholar Profile](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) - [Twitter \@RallidaeRule](https://twitter.com/RallidaeRule)  
 
 ## Professional Appointments and Education
@@ -16,7 +16,7 @@ Postdoctoral Researcher - **Mississippi State University**
 April 2017-Present  Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 Ph.D. in **Biological Sciences**  - Arkansas Cooperative Fish and Wildlife Research Unit  
-2017 **University of Arkansas**   - Distinguished Doctoral Fellowship Recipient
+May 2017 **University of Arkansas**   - Distinguished Doctoral Fellowship Recipient
 
 - Title: **Phenology, Habitat Use, and the Impacts of Wetland Management on Autumn Migrating Rails in Missouri** - Dr. David G. Krementz, Adviser 
 
