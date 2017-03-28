@@ -18,7 +18,7 @@ April 2017-Present  Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 Ph.D. in **Biological Sciences**  - Arkansas Cooperative Fish and Wildlife Research Unit  
 August 2012-April 2017 **University of Arkansas**   - Distinguished Doctoral Fellowship Recipient
 
-- Title: **Phenology, Habitat Use, and the Impacts of Wetland Management on Autumn Migrating Rails in Missouri** - Dr. David G. Krementz, Adviser 
+- [Title: **Phenology, Habitat Use, and the Impacts of Wetland Management on Autumn Migrating Rails in Missouri**](http://pqdtopen.proquest.com/doc/1879756773.html?FMT=ABS) - Dr. David G. Krementz, Adviser 
 
 Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensing*  
 2011 **Michigan Technological University** Houghton, MI - Magna Cum Laude
@@ -38,7 +38,7 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 
  7 **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. In Press *The Timing of Autumn Sora (Porzana carolina) Migration in Missouri* **Wilson Journal of Ornithology**
 
- 6 **Fournier, A.M.V.**, Krementz, D.G. 2017 *Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails* **The Wildlife Society Bulletin** doi:10.1002/wsb.745 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2017-Wildlife_Society_Bulletin.pdf)
+ 6 **Fournier, A.M.V.**, Krementz, D.G. 2017 *Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails* **The Wildlife Society Bulletin** 41:151–156 doi:10.1002/wsb.745 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2017-Wildlife_Society_Bulletin.pdf)
 
 5 **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. 2017 *Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail* **Journal of Applied Ecology** 54:618-627 doi:10.1111/1365-2664.12723 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf)   
 
