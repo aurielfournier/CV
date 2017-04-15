@@ -29,8 +29,7 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 <!---
 *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
 
-*In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and Yellow Rail Autumn Migration Phenology and Habitat Use in the Mississippi Flyway 
- 
+
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in the Mississippi Flyway
 -->
 
@@ -56,6 +55,8 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
  
 a - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Confirmation of diving and swimming behavior in the Sora (Porzana carolina)  
 
+b - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets
+ 
 ## Honors 
 
 2012-16 **Distinguished Doctoral Fellowship** - University of Arkansas  
