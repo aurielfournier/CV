@@ -29,7 +29,6 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 <!---
 *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
 
-
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in the Mississippi Flyway
 -->
 
@@ -118,6 +117,8 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 2017 **Talk** Science Communication Symposium, American Ornithological Society/Society of Canadian Ornithologists Conference
 2017 **Talk** Science Communication Symposium, International Association of Great Lake Researchers Conference
 2017 **Keynote** The Biggest Week in American Birding Festival
+
+10 Heard, S., **Fournier, A.M.V.,** Branch, T. Skelly, D. 2017 Why most studied populations should decline. Canadian Society for Ecology and Evolution
 -->
 
 2017 **Seminar** Missouri State University, Department of Biological Sciences  
