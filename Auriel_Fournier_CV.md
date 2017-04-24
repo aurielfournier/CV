@@ -33,6 +33,8 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in the Mississippi Flyway
 -->
 
+ 9 - **Fournier, A.M.V.**, Krementz, D.G. Accepted *Confirmation of diving and swimming behavior in the Sora (Porzana carolina)* **Wilson Journal of Ornithology**  
+
  8 **Fournier, A.M.V.**, Drake K.L., Tozer D.C. Accepted *Species distribution models improve isotope-based migratory connectivity estimates of wetland-dependent birds* **Journal of Avian Biology**
 
  7 **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. In Press *The Timing of Autumn Sora (Porzana carolina) Migration in Missouri* **Wilson Journal of Ornithology**
@@ -57,9 +59,7 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
  
 ## Peer-Reviewed Publications In Review  
  
-a - *In Review* **Fournier, A.M.V.**, Krementz, D.G. Confirmation of diving and swimming behavior in the Sora (Porzana carolina)  
-
-b - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets
+a - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets
  
 ## Honors 
 
