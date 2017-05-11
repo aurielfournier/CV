@@ -99,16 +99,12 @@ a - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and 
 ## Research Experience
 
 **Undergraduate Research Grant** Dr. Joseph Bump - Michigan Technological Uni. - 2011  
-Assessing the migratory connectivity of Virginia Rails using citizen science data as an informative prior for geographic assignment. [Fournier et al. 2017](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf)
 
-**Summer Undergrad Research Fellowship** Dr. Joseph Bump - Michigan Technological Uni. - 2011  
-Developed a morphometric model to predict the sex of Virginia Rails. [Fournier et al. 2013](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al._2013_Wildlife%20Society%20Bulletin_A%20Morphometric%20Model%20to%20Predict%20the%20Sex%20of%20Virginia%20Rails%20(Rallus%20limicola).pdf).
+**Summer Undergraduate Research Fellowship** Dr. Joseph Bump - Michigan Technological Uni. - 2011  
 
 **Undergraduate Research Grant** Dr. David Flaspohler - Michigan Technological Uni. - 2010  
-Examined variation in eye color across the range of Golden-winged Warblers. [Presented poster.](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
 
-**Summer Undergrad Research Fellowship** Dr. David Flaspohler - Michigan Technological Uni. - 2009    
-Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented poster. 
+**Summer Undergraduate Research Fellowship** Dr. David Flaspohler - Michigan Technological Uni. - 2009    
 
 
 ## Invited Presentations
@@ -118,8 +114,8 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 2017 **Talk** Science Communication Symposium, International Association of Great Lake Researchers Conference
 -->
 
-2017 **Seminar** Bird Studies Canada
-2017 **Keynote** The Biggest Week in American Birding Festival  
+2017 **Seminar** Bird Studies Canada  
+2017 **Keynote** The Biggest Week in American Birding Festival    
 2017 **Seminar** Missouri State University, Department of Biological Sciences  
 2016  **Keynote** Ohio Ornithological Society Annual Conference  
 2016  **Talk** Arkansas Audubon Society Annual Conference   
