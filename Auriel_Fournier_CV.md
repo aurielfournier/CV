@@ -116,11 +116,10 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 <!---
 2017 **Talk** Science Communication Symposium, American Ornithological Society/Society of Canadian Ornithologists Conference
 2017 **Talk** Science Communication Symposium, International Association of Great Lake Researchers Conference
-2017 **Keynote** The Biggest Week in American Birding Festival
-
-10 Heard, S., **Fournier, A.M.V.,** Branch, T. Skelly, D. 2017 Why most studied populations should decline. Canadian Society for Ecology and Evolution
 -->
 
+2017 **Seminar** Bird Studies Canada
+2017 **Keynote** The Biggest Week in American Birding Festival  
 2017 **Seminar** Missouri State University, Department of Biological Sciences  
 2016  **Keynote** Ohio Ornithological Society Annual Conference  
 2016  **Talk** Arkansas Audubon Society Annual Conference   
@@ -129,6 +128,8 @@ Developed a land management plan for Pioneer Scout Reservation, Ohio. Presented 
 2011  **Guest Lecture** Michigan Technological University, Ornithology Course
 
 ## Presentations
+
+10 Heard, S., **Fournier, A.M.V.,** Branch, T. Skelly, D. 2017 Why most studied populations should decline. *Canadian Society for Ecology and Evolution*
 
 9 **Fournier, A.M.V.,** Mengel, D.C., Krementz, D.G. 2017. Habitat Use and Migratory Timing of Virginia and Yellow Rails. *Wilson Ornithological Society Meeting, Fort Meyers, FL* [pdf link](https://figshare.com/articles/Virginia_and_Yellow_Rail_Autumn_Migration_Phenology_and_Habitat_Use/4724296)
 
