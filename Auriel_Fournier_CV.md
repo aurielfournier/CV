@@ -111,9 +111,9 @@ a - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and 
 
 <!---
 2017 **Talk** Science Communication Symposium, American Ornithological Society/Society of Canadian Ornithologists Conference
-2017 **Talk** Science Communication Symposium, International Association of Great Lake Researchers Conference
 -->
 
+2017 **Talk** Science Communication Symposium, International Association of Great Lake Researchers Conference  
 2017 **Seminar** Bird Studies Canada  
 2017 **Keynote** The Biggest Week in American Birding Festival    
 2017 **Seminar** Missouri State University, Department of Biological Sciences  
@@ -169,9 +169,7 @@ a - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and 
 
 ## Posters
 
-<!---
 6 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. 2017 Comparison of Arrival Dates of Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA *International Association of Great Lakes Researchers Conference* - MI [pdf]
---> 
 
 5 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H., 2014 Sora Migration and Wetland Management *The Wildlife Society National Conference* - PA [pdf](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
 
