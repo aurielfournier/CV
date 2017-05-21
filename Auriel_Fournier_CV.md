@@ -13,15 +13,15 @@ Postdoctoral Research Associate - Mississippi State University, Biloxi, MS
 ## Professional Appointments and Education
 
 Postdoctoral Researcher - **Mississippi State University**   
-April 2017-Present  Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
+April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 Ph.D. in **Biological Sciences**  - Arkansas Cooperative Fish and Wildlife Research Unit  
-August 2012-April 2017 **University of Arkansas**   - Distinguished Doctoral Fellowship Recipient
+2017 ~ **University of Arkansas**   - Distinguished Doctoral Fellowship Recipient
 
 - Title: [**Phenology, Habitat Use, and the Impacts of Wetland Management on Autumn Migrating Rails in Missouri**](http://pqdtopen.proquest.com/doc/1879756773.html?FMT=ABS) - Dr. David G. Krementz, Adviser 
 
 Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensing*  
-2011 **Michigan Technological University** Houghton, MI - Magna Cum Laude
+2011 ~ **Michigan Technological University** Houghton, MI - Magna Cum Laude
 
 
 ## Peer-Reviewed Publications  
@@ -32,9 +32,9 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in the Mississippi Flyway
 -->
 
- 9 - **Fournier, A.M.V.**, Krementz, D.G. Accepted *Confirmation of diving and swimming behavior in the Sora (Porzana carolina)* **Wilson Journal of Ornithology**  
+ 9 **Fournier, A.M.V.**, Drake K.L., Tozer D.C. Accepted *Species distribution models improve isotope-based migratory connectivity estimates of wetland-dependent birds* **Journal of Avian Biology** 
 
- 8 **Fournier, A.M.V.**, Drake K.L., Tozer D.C. Accepted *Species distribution models improve isotope-based migratory connectivity estimates of wetland-dependent birds* **Journal of Avian Biology**
+ 8 **Fournier, A.M.V.**, Krementz, D.G. In Press *Confirmation of diving and swimming behavior in the Sora (Porzana carolina)* **Wilson Journal of Ornithology**
 
  7 **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. In Press *The Timing of Autumn Sora (Porzana carolina) Migration in Missouri* **Wilson Journal of Ornithology**
 
@@ -42,11 +42,11 @@ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensi
 
 5 **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. 2017 *Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail* **Journal of Applied Ecology** 54:618-627 doi:10.1111/1365-2664.12723 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf)   
 
-> data: Fournier A.M.V., Sullivan A.R., Bump J.K., Perkins M., Shieldcastle M.C., King S.L. 2016. Dryad Digital Repository. doi 10.5061/dryad.r4847
+> data: Fournier A.M.V., Sullivan A.R., Bump J.K., Perkins M., Shieldcastle M.C., King S.L. 2016. Dryad Digital Repository. doi:10.5061/dryad.r4847
 
-4 **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. 2016 *Levels of Mercury in Feathers of Clapper Rails (Rallus crepitans) over 45 Years in Coastal Salt Marshes of New Hanover County, North Carolina* **Bulletin of Environmental Contamination & Toxicology** 97: 469-473 doi 10.1007/s00128-016-1870-z [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Bulletin%20of%20Environmental%20Contamination%20and%20Toxicology.pdf)
+4 **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. 2016 *Levels of Mercury in Feathers of Clapper Rails (Rallus crepitans) over 45 Years in Coastal Salt Marshes of New Hanover County, North Carolina* **Bulletin of Environmental Contamination & Toxicology** 97: 469-473 doi:10.1007/s00128-016-1870-z [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Bulletin%20of%20Environmental%20Contamination%20and%20Toxicology.pdf)
 
-> data: Fournier, A.M.V.; James K.W; Polito, M.; Emslie, S.D. 2015. doi m9.figshare.1621405.v1
+> data: Fournier, A.M.V.; James K.W; Polito, M.; Emslie, S.D. 2015. doi:m9.figshare.1621405.v1
 
  3 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. 2015  _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 doi:10.1675/063.038.0313 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202015%20-%20Waterbirds.pdf) 
 
@@ -94,34 +94,28 @@ a - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and 
 
 1 **Summer Undergraduate Research Fellowship** 2009 $3000 Habitat Classification and Biological Inventory of Pioneer Scout Reservation
 
-\newpage
-
 ## Research Experience
 
 **Undergraduate Research Grant** Dr. Joseph Bump - Michigan Technological Uni. - 2011  
-
-**Summer Undergraduate Research Fellowship** Dr. Joseph Bump - Michigan Technological Uni. - 2011  
-
+**Summer Undergrad Research Fellowship** Dr. Joseph Bump - Michigan Technological Uni. - 2011  
 **Undergraduate Research Grant** Dr. David Flaspohler - Michigan Technological Uni. - 2010  
-
-**Summer Undergraduate Research Fellowship** Dr. David Flaspohler - Michigan Technological Uni. - 2009    
+**Summer Undergrad Research Fellowship** Dr. David Flaspohler - Michigan Technological Uni. - 2009    
 
 
 ## Invited Presentations
 
 <!---
-2017 **Talk** Science Communication Symposium, American Ornithological Society/Society of Canadian Ornithologists Conference
+9 2017 **Talk** *#MORails #MOScience Tweeting Live From The Field* Science Communication Symposium, American Ornithological Society/Society of Canadian Ornithologists Conference
 -->
 
-2017 **Talk** Science Communication Symposium, International Association of Great Lake Researchers Conference  
-2017 **Seminar** Bird Studies Canada  
-2017 **Keynote** The Biggest Week in American Birding Festival    
-2017 **Seminar** Missouri State University, Department of Biological Sciences  
-2016  **Keynote** Ohio Ornithological Society Annual Conference  
-2016  **Talk** Arkansas Audubon Society Annual Conference   
-2016  **Seminar** University of Toledo, Department of Environmental Sciences    
-2014  **Seminar** Arkansas Tech University, Department of Biological Sciences  
-2011  **Guest Lecture** Michigan Technological University, Ornithology Course
+8 2017 **Talk** *#MORails #MOScience Tweeting Live From The Field* Science Communication Symposium, International Association of Great Lake Researchers Conference  
+7 2017 **Seminar** *#MORails : Sharing Rails  with Social Media* Seminar, Bird Studies Canada  
+6 2017 **Keynote** *Elusive Migration: The Migration Ecology of Rails* The Biggest Week in American Birding Festival    
+5 2017 **Seminar** *Elusive Migration: The Migration Ecology and Habitat Use of Rails* Missouri State University, Department of Biological Sciences  
+4 2016  **Keynote** *Elusive Migration: The Migration Ecology of Rails* Ohio Ornithological Society Annual Conference  
+3 2016  **Talk** *Autumn Migration of Rails in the Central and Mississippi Flyways* Arkansas Audubon Society Annual Conference   
+2 2016  **Seminar** *Elusive Migration: The Migration Ecology and Habitat Use of Rails* University of Toledo, Department of Environmental Sciences    
+1 2014  **Seminar** *Elusive Migration: The Migration Ecology and Habitat Use of Rails* Arkansas Tech University, Department of Biological Sciences
 
 ## Presentations
 
@@ -191,6 +185,8 @@ a - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and 
 2016 **Volunteer & Session Moderator** North American Ornithological Conference 
 2015 **Volunteer** American Ornithologists Union Meeting  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
+ 
+2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
 -->
 2017-Present **Elected Councilor** Wilson Ornithological Society  
 2017-Present **Associate Editor** The Ibis  
@@ -206,8 +202,7 @@ a - *In Review* **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Virginia and 
 2014-15 Treasurer **Student Working Group** The Wildlife Society    
 2014-15 Secretary **Student Chapter - University of Arkansas** The Wildlife Society    
 2013-14 Treasurer **Student Chapter - University of Arkansas** The Wildlife Society  
-2013-14 Vice President **Biology Graduate Student Assocation** University of Arkansas  
-2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
+2013-14 Vice President **Biology Graduate Student Assocation** University of Arkansas   
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
 ## Professional Development
