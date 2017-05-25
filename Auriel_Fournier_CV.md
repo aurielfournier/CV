@@ -145,11 +145,11 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 6 **Fournier, A.M.V., Mengel, D.C. 2017 The timing of autumn Sora (porzana carolina) migration in Missouri *Missouri Department of Consrevation Science Note* [pdf]
 
 5 **Fournier, A.M.V.** 2017 Nocturnal Distance Sampling All-Terrain Vehicle Surveys for Non-Breeding Rails *Missouri Department of Conservation Science Note* [pdf] 
--->
+--->
 
 4 **Fournier, A.M.V.,** 2016. Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails on Intensively-Managed Wetland Complexes in Missouri : Final Report USFWS Division of Migratory Birds Webless Program
 
-3 **Fournier, A.M.V.,** K. Willard, D. G. Krementz. 2015. King Rail Nesting and Brood Rearing Ecology in Managed Wetlands: Final Report USFWS Division of Migratory Birds Webless Program
+3 **Fournier, A.M.V.,** K. Willard. 2015. King Rail Nesting and Brood Rearing Ecology in Managed Wetlands: Final Report USFWS Division of Migratory Birds Webless Program [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/KingRailNesting&BroodRearingEcologyInManagedWetlands_FinalReport.pdf)
 
 2 Butler, C.J., **Fournier, A.M.V.** 2015. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, Nelson's Sparrows and Sedge Wrens. U.S. Fish and Wildlife Service (Region 3) and Prairie Pothole Joint Venture. 
 
