@@ -100,10 +100,12 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 ## Invited Presentations
 
 <!---
-9 2017 **Talk** *#MORails #MOScience Tweeting Live From The Field* Science Communication Symposium, American Ornithological Society/Society of Canadian Ornithologists Conference
+11 **Talk** 2017 *#MORails #MOScience Tweeting Live From The Field* Science Communication Symposium, American Ornithological Society/Society of Canadian Ornithologists Conference
+
+10 **Seminar** 2017 *Elusive Migration: The phenology, habitat use and connectivity of autumn migrating rails* Royal Society for the Protection of Birds, Centre for Conservation Science, UK Headquarters
 -->
 
-9 **Talk** 2017 *Elusive Migration: The Migration Ecology of Rails* Mississippi Coast Audubon Society
+9 **Talk** 2017 *Elusive Migration: The Migration Ecology of Rails* Mississippi Coast Audubon Society  
 8 **Talk** 2017 *#MORails #MOScience Tweeting Live From The Field* Science Communication Symposium, International Association of Great Lake Researchers Conference  
 7 **Seminar** 2017 *#MORails : Sharing Rails  with Social Media* Seminar, Bird Studies Canada  
 6 **Keynote** 2017 *Elusive Migration: The Migration Ecology of Rails* The Biggest Week in American Birding Festival    
@@ -114,6 +116,12 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 1 **Seminar** 2014 *Elusive Migration: The Migration Ecology and Habitat Use of Rails* Arkansas Tech University, Department of Biological Sciences
 
 ## Presentations
+
+<!---
+12 **Fournier, A.M.V.** 2017 Rallidae: models for method development and ecological questions. *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
+
+11 **Fournier, A.M.V.,** Woodrey, M.S., Lyons, J.E., Cooper, B.J., Evans, K.E. 2017 APPLICATION OF STRUCTURED DECISION MAKING TO MARSHBIRD MONITORING IN THE GULF OF MEXICO *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
+---> 
 
 10 Heard, S., **Fournier, A.M.V.,** Branch, T. Skelly, D. 2017 Why most studied populations should decline. *Canadian Society for Ecology and Evolution*
 
@@ -239,9 +247,10 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 
 > **As Instructor**
 
-_Advanced R Programming and Graphing Workshop - North American Ornithological Conference_ 
-August 2016  
-Developed materials and taught a day long workshop on programming, graphing, data management and building packages in R. [Link to Materials](https://github.com/aurielfournier/naoc_2016_r_workshop)
+_Advanced R Programming and Graphing Workshop_   
+Developed materials and taught a day long workshop on programming, graphing, data management and building packages in R. [Link to most recent Materials](https://github.com/aurielfournier/AOSSCO17)  
+- North American Ornithological Conference - August 2016    
+- American Ornithologists Union Conference - July 2015    
 
 _Data Carpentry Workshop_  
 Two-day workshops on reproducible research and data management in R, SQL and Open Refine.   
@@ -252,10 +261,6 @@ Two-day workshops on reproducible research and programming in R, Unix Shell and 
 - Federal Reserve Board, Washington D.C. June 2016  
 - University of Connecticut, March 2016  
 - Iowa State University, November 2015
-
-_American Ornithologists Union Conference R Workshop_  
-July 2015  
-Developed materials and taught a day long workshop on programming, graphing and data management in R. [Link to Materials](https://github.com/aurielfournier/AOU_workshop) 
 
 \newpage
 
