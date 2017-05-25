@@ -103,14 +103,15 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 9 2017 **Talk** *#MORails #MOScience Tweeting Live From The Field* Science Communication Symposium, American Ornithological Society/Society of Canadian Ornithologists Conference
 -->
 
-8 2017 **Talk** *#MORails #MOScience Tweeting Live From The Field* Science Communication Symposium, International Association of Great Lake Researchers Conference  
-7 2017 **Seminar** *#MORails : Sharing Rails  with Social Media* Seminar, Bird Studies Canada  
-6 2017 **Keynote** *Elusive Migration: The Migration Ecology of Rails* The Biggest Week in American Birding Festival    
-5 2017 **Seminar** *Elusive Migration: The Migration Ecology and Habitat Use of Rails* Missouri State University, Department of Biological Sciences  
-4 2016  **Keynote** *Elusive Migration: The Migration Ecology of Rails* Ohio Ornithological Society Annual Conference  
-3 2016  **Talk** *Autumn Migration of Rails in the Central and Mississippi Flyways* Arkansas Audubon Society Annual Conference   
-2 2016  **Seminar** *Elusive Migration: The Migration Ecology and Habitat Use of Rails* University of Toledo, Department of Environmental Sciences    
-1 2014  **Seminar** *Elusive Migration: The Migration Ecology and Habitat Use of Rails* Arkansas Tech University, Department of Biological Sciences
+9 **Talk** 2017 *Elusive Migration: The Migration Ecology of Rails* Mississippi Coast Audubon Society
+8 **Talk** 2017 *#MORails #MOScience Tweeting Live From The Field* Science Communication Symposium, International Association of Great Lake Researchers Conference  
+7 **Seminar** 2017 *#MORails : Sharing Rails  with Social Media* Seminar, Bird Studies Canada  
+6 **Keynote** 2017 *Elusive Migration: The Migration Ecology of Rails* The Biggest Week in American Birding Festival    
+5 **Seminar** 2017 *Elusive Migration: The Migration Ecology and Habitat Use of Rails* Missouri State University, Department of Biological Sciences  
+4 **Keynote** 2016 *Elusive Migration: The Migration Ecology of Rails* Ohio Ornithological Society Annual Conference  
+3 **Talk** 2016 *Autumn Migration of Rails in the Central and Mississippi Flyways* Arkansas Audubon Society Annual Conference   
+2 **Seminar** 2016 *Elusive Migration: The Migration Ecology and Habitat Use of Rails* University of Toledo, Department of Environmental Sciences    
+1 **Seminar** 2014 *Elusive Migration: The Migration Ecology and Habitat Use of Rails* Arkansas Tech University, Department of Biological Sciences
 
 ## Presentations
 
