@@ -23,13 +23,12 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 <!---
 *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
-
 *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Autumn Migration Habitat Use of Sora in the Mississippi Flyway
--->
+--->
 
 10 **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Accepted *Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets* **Animal Migration** 
 
- 9 **Fournier, A.M.V.**, Drake K.L., Tozer D.C. Accepted *Species distribution models improve isotope-based migratory connectivity estimates of wetland-dependent birds* **Journal of Avian Biology** 
+ 9 **Fournier, A.M.V.**, Drake K.L., Tozer D.C. In Press *Species distribution models improve isotope-based migratory connectivity estimates of wetland-dependent birds* **Journal of Avian Biology** 
 
  8 **Fournier, A.M.V.**, Krementz, D.G. In Press *Confirmation of diving and swimming behavior in the Sora (Porzana carolina)* **Wilson Journal of Ornithology**
 
