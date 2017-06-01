@@ -193,12 +193,12 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 -->
 2017-Present **Elected Councilor** Wilson Ornithological Society  
 2017-Present **Associate Editor** The Ibis  
-2016-Present **Research Committee Member** Black Swamp Bird Observatory   
-2013-Present **Peer Reviewer** 12 journals [Publons profile detailing all reviews](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)  
+2016-Present **Research Committee Member** Black Swamp Bird Observatory     
+2016-Present **Lesson Maintainer** Data Carpentry [R Ecology Lessons](http://www.datacarpentry.org/R-ecology-lesson/)     
+2013-Present **Peer Reviewer** 12 journals [Publons profile detailing all reviews](https://publons.com/author/434438/auriel-fournier-van-der-laar#profile)      
 2017 **Presentation Judge** Wilson Ornithological Society Meeting  
 2016-17 Vice Chair **Open Science Section** Ecological Society of America  
-2015-17 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society  
-2016 **Lesson Maintainer** Data Carpentry [R Ecology Lessons](http://www.datacarpentry.org/R-ecology-lesson/)  
+2015-17 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society    
 2014-16 Treasurer **Biology Graduate Student Assocation** University of Arkansas  
 2015 **Presentation Judge** Association of Field Ornithology, Wilson Ornithological Society, Society of Canadian Ornithologists Meeting   
 2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas  
