@@ -28,7 +28,7 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 10 **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Accepted *Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets* **Animal Migration** 
 
- 9 **Fournier, A.M.V.**, Drake K.L., Tozer D.C. In Press *Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds* **Journal of Avian Biology** 
+ 9 **Fournier, A.M.V.**, Drake K.L., Tozer D.C. In Press *Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds* **Journal of Avian Biology** doi:10.1111/jav.01273
 
  8 **Fournier, A.M.V.**, Krementz, D.G. In Press *Confirmation of diving and swimming behavior in the Sora (Porzana carolina)* **Wilson Journal of Ornithology**
 
