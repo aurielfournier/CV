@@ -28,7 +28,7 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 10 **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Accepted *Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets* **Animal Migration** 
 
- 9 **Fournier, A.M.V.**, Drake K.L., Tozer D.C. In Press *Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds* **Journal of Avian Biology** doi:10.1111/jav.01273 [Preprint](http://biorxiv.org/content/early/2017/06/01/144527)
+ 9 **Fournier, A.M.V.**, Drake K.L., Tozer D.C. In Press *Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds* **Journal of Avian Biology** doi:10.1111/jav.01273 [Preprint](http://biorxiv.org/content/early/2017/06/01/144527) data: Data Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.nb115
 
  8 **Fournier, A.M.V.**, Krementz, D.G. In Press *Confirmation of diving and swimming behavior in the Sora (Porzana carolina)* **Wilson Journal of Ornithology**
 
@@ -36,7 +36,7 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
  6 **Fournier, A.M.V.**, Krementz, D.G. 2017 *Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails* **The Wildlife Society Bulletin** 41:151-156 doi:10.1002/wsb.745 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2017-Wildlife_Society_Bulletin.pdf)
 
-5 **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. 2017 *Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail* **Journal of Applied Ecology** 54:618-627 doi:10.1111/1365-2664.12723 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf)   data: Dryad Digital Repository. doi:10.5061/dryad.r4847
+5 **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. 2017 *Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail* **Journal of Applied Ecology** 54:618-627 doi:10.1111/1365-2664.12723 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf)   data: Data Dryad Digital Repository. doi:10.5061/dryad.r4847
 
 4 **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. 2016 *Levels of Mercury in Feathers of Clapper Rails (Rallus crepitans) over 45 Years in Coastal Salt Marshes of New Hanover County, North Carolina* **Bulletin of Environmental Contamination & Toxicology** 97: 469-473 doi:10.1007/s00128-016-1870-z [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Bulletin%20of%20Environmental%20Contamination%20and%20Toxicology.pdf)      data: Figshare doi:m9.figshare.1621405.v1
 
@@ -336,7 +336,8 @@ Black Swamp Bird Observatory - Mark & Julie Shieldcastle - Spring and Fall 2004-
 2012 **The Waterbirds Society**  
 2015 **Wilson Ornithological Society**  
 2016 **Ecological Society of America**  
-2017 **International Assocation of Great Lakes Researchers**
+2017 **International Assocation of Great Lakes Researchers**  
+2017 **British Ornithologists Union**
 
 ## Computer Skills
 
