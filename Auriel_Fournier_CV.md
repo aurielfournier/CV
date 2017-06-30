@@ -100,9 +100,10 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 <!---
 11 **Talk** 2017 *#MORails #MOScience Tweeting Live From The Field* Science Communication Symposium, American Ornithological Society/Society of Canadian Ornithologists Conference
 
-10 **Seminar** 2017 *Elusive Migration: The phenology, habitat use and connectivity of autumn migrating rails* Royal Society for the Protection of Birds, Centre for Conservation Science, UK Headquarters
 -->
 
+
+10 **Seminar** 2017 *Elusive Migration: The phenology, habitat use and connectivity of autumn migrating rails* Royal Society for the Protection of Birds, Centre for Conservation Science, UK Headquarters  
 9 **Talk** 2017 *Elusive Migration: The Migration Ecology of Rails* Mississippi Coast Audubon Society  
 8 **Talk** 2017 *#MORails #MOScience Tweeting Live From The Field* Science Communication Symposium, International Association of Great Lake Researchers Conference  
 7 **Seminar** 2017 *#MORails : Sharing Rails  with Social Media* Seminar, Bird Studies Canada  
