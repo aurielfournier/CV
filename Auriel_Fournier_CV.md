@@ -23,6 +23,9 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 <!---
 *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
+*In Review* Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and their effect on rails (Rallidae) as non-target species* 
+*In Review* **Fournier, A.M.V., Anderson, S.C., Branch, T.A., Skelly, D.K., Heard, S.B. *How site-selection bias may drive apparent population declines in long-term studies*
+*In Review* **Fournier, A.M.V.,** Mengel, D.C., Gao, S., Vinning, I., Gbur, E., Raedeke, A., Krementz, D.G. *Waterbird community response to early autumn wetland flooding enables multi-species management*
 --->
 
 10 **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Accepted *Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets* **Animal Migration** 
@@ -118,7 +121,6 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 <!---
 12 **Fournier, A.M.V.** 2017 Rallidae: models for method development and ecological questions. *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
-
 11 **Fournier, A.M.V.,** Woodrey, M.S., Lyons, J.E., Cooper, B.J., Evans, K.E. 2017 APPLICATION OF STRUCTURED DECISION MAKING TO MARSHBIRD MONITORING IN THE GULF OF MEXICO *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
 ---> 
 
@@ -149,9 +151,7 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 <!---
 7 **Fournier, A.M.V., Drake, K.L., Tozer D.C. 2017 Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds *Missouri Department of Conservation Science Note* [pdf]
-
 6 **Fournier, A.M.V., Mengel, D.C. 2017 The timing of autumn Sora (porzana carolina) migration in Missouri *Missouri Department of Consrevation Science Note* [pdf]
-
 5 **Fournier, A.M.V.** 2017 Nocturnal Distance Sampling All-Terrain Vehicle Surveys for Non-Breeding Rails *Missouri Department of Conservation Science Note* [pdf] 
 --->
 
@@ -188,7 +188,6 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 2016 **Volunteer & Session Moderator** North American Ornithological Conference 
 2015 **Volunteer** American Ornithologists Union Meeting  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
- 
 2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
 -->
 2017-Present **Elected Councilor** Wilson Ornithological Society  
