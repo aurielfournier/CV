@@ -22,9 +22,12 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 ## Peer-Reviewed Publications  
 
 <!---
-*In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.
+*In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. *Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.*
+-
 *In Review* Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and their effect on rails (Rallidae) as non-target species* 
+-
 *In Review* **Fournier, A.M.V., Anderson, S.C., Branch, T.A., Skelly, D.K., Heard, S.B. *How site-selection bias may drive apparent population declines in long-term studies*
+-
 *In Review* **Fournier, A.M.V.,** Mengel, D.C., Gao, S., Vinning, I., Gbur, E., Raedeke, A., Krementz, D.G. *Waterbird community response to early autumn wetland flooding enables multi-species management*
 --->
 
