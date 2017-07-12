@@ -28,7 +28,7 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 -
 *In Review* **Fournier, A.M.V., Anderson, S.C., Branch, T.A., Skelly, D.K., Heard, S.B. *How site-selection bias may drive apparent population declines in long-term studies*
 -
-*In Review* **Fournier, A.M.V.,** Mengel, D.C., Gao, S., Vinning, I., Gbur, E., Raedeke, A., Krementz, D.G. *Waterbird community response to early autumn wetland flooding enables multi-species management*
+*In Review* **Fournier, A.M.V.,** Mengel, D.C., Gbur, E., Raedeke, A., Krementz, D.G. *Waterbird community response to early autumn wetland flooding enables multi-species management*
 --->
 
 10 **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Accepted *Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets* **Animal Migration** 
