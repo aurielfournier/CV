@@ -171,7 +171,7 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 ## Posters
 
-6 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. 2017 Comparison of Arrival Dates of Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA *International Association of Great Lakes Researchers Conference* - MI [pdf]
+6 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. 2017 Comparison of Arrival Dates of Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA *International Association of Great Lakes Researchers Conference* - MI [pdf](https://figshare.com/articles/Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes/4726315)
 
 5 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H., 2014 Sora Migration and Wetland Management *The Wildlife Society National Conference* - PA [pdf](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
 
