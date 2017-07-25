@@ -35,13 +35,13 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 *In Review* **Fournier, A.M.V.,** Shave, A., Fischer, J., Siegrist, J., Ray, J., Savage, A., Chesky, T., MacIntosh, M., Fraser, K. *Testing the island habitat-selection hypothesis for a long-distance migratory songbird*
 --->
 
-10 **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Accepted *Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets* **Animal Migration** 
+10 **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Accepted *Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets* **Animal Migration** (copy available upon request)
 
  9 **Fournier, A.M.V.**, Drake K.L., Tozer D.C. In Press *Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds* **Journal of Avian Biology** doi:10.1111/jav.01273 [Preprint](http://biorxiv.org/content/early/2017/06/01/144527) data: Data Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.nb115
 
- 8 **Fournier, A.M.V.**, Krementz, D.G. In Press *Confirmation of diving and swimming behavior in the Sora (Porzana carolina)* **Wilson Journal of Ornithology**
+ 8 **Fournier, A.M.V.**, Krementz, D.G. In Press *Confirmation of diving and swimming behavior in the Sora (Porzana carolina)* **Wilson Journal of Ornithology** (copy available upon request)
 
- 7 **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. In Press *The Timing of Autumn Sora (Porzana carolina) Migration in Missouri* **Wilson Journal of Ornithology**
+ 7 **Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. In Press *The Timing of Autumn Sora (Porzana carolina) Migration in Missouri* **Wilson Journal of Ornithology** (copy available upon request)
 
  6 **Fournier, A.M.V.**, Krementz, D.G. 2017 *Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails* **The Wildlife Society Bulletin** 41:151-156 doi:10.1002/wsb.745 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2017-Wildlife_Society_Bulletin.pdf)
 
