@@ -54,11 +54,12 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
  2 **Fournier, A.M.V.**, Bond, A.L. 2015  *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** 39: 819-821 doi:10.1002/wsb.603 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%2C%20Bond%20-%202015%20-%20Wildlife%20Society%20Bulletin.pdf) 
 
  1 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K. 2013  _A morphometric model to predict the sex of virginia rails_ **The Wildlife Society Bulletin** 27: 881-886 doi:10.1002/wsb.323 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al._2013_Wildlife%20Society%20Bulletin_A%20Morphometric%20Model%20to%20Predict%20the%20Sex%20of%20Virginia%20Rails%20(Rallus%20limicola).pdf)  
- 
+
+\newpage
+
+## Peer-Reviewed Publications In Review 
  a *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Sora (_Porzana carolina_) autumn migration habitat use 
   
- \newpage 
-
 ## Honors 
 
 2012-16 **Distinguished Doctoral Fellowship** - University of Arkansas  
@@ -250,21 +251,19 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 
 > **Lesson Development**
 
-von Hardenberg A et al. Editors: Francois Michonneau and Auriel Fournier. 2017. “Data Carpentry: R for data analysis and visualization of Ecological Data.” doi: 10.5281/zenodo.569338, http://datacarpentry.org/R-ecology-lesson.
+von Hardenberg A et al. Editors: Francois Michonneau and Auriel Fournier. 2017. Data Carpentry: R for data analysis and visualization of Ecological Data. doi: 10.5281/zenodo.569338
 
 > **As Instructor**
 
 _Advanced R Programming and Graphing Workshop_   
-Developed materials and taught a day long workshop on programming, graphing, data management and building packages in R. [Link to most recent Materials](https://github.com/aurielfournier/AOSSCO17)  
+Developed materials and taught a day long workshop on programming, graphing, data management and building packages in R. [Link to most recent Materials](https://github.com/aurielfournier/AOSSCO17)    
+- American Ornithological Society/Society of Canadian Ornithologists - August 2017  
 - North American Ornithological Conference - August 2016    
 - American Ornithologists Union Conference - July 2015    
 
-_Data Carpentry Workshop_  
-Two-day workshops on reproducible research and data management in R, SQL and Open Refine.   
-- USDA - New Orleans, LA June 2016 
-
-_Software Carpentry Workshop_  
-Two-day workshops on reproducible research and programming in R, Unix Shell and Git.  
+_Data and Software Carpentry Workshop_  
+Two-day workshops on reproducible research and data management in R, SQL, Unix Shell, Git and Open Refine.   
+- USDA - New Orleans, LA June 2016   
 - Federal Reserve Board, Washington D.C. June 2016  
 - University of Connecticut, March 2016  
 - Iowa State University, November 2015
