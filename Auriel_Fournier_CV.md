@@ -248,6 +248,10 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 
 ## Teaching
 
+> **Lesson Development**
+
+von Hardenberg A et al. Editors: Francois Michonneau and Auriel Fournier. 2017. “Data Carpentry: R for data analysis and visualization of Ecological Data.” doi: 10.5281/zenodo.569338, http://datacarpentry.org/R-ecology-lesson.
+
 > **As Instructor**
 
 _Advanced R Programming and Graphing Workshop_   
