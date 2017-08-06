@@ -108,10 +108,9 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 ## Invited Presentations
 
 <!---
-11 **Talk** 2017 *#MORails #MOScience Tweeting Live From The Field* Science Communication Symposium, American Ornithological Society/Society of Canadian Ornithologists Conference
-
 -->
 
+11 **Talk** 2017 *#MORails #MOScience Tweeting Live From The Field* Science Communication Symposium, American Ornithological Society/Society of Canadian Ornithologists Conference  
 10 **Seminar** 2017 *Elusive Migration: The phenology, habitat use and connectivity of autumn migrating rails* Royal Society for the Protection of Birds, Centre for Conservation Science, UK Headquarters  
 9 **Talk** 2017 *Elusive Migration: The Migration Ecology of Rails* Mississippi Coast Audubon Society  
 8 **Talk** 2017 *#MORails #MOScience Tweeting Live From The Field* Science Communication Symposium, International Association of Great Lake Researchers Conference  
@@ -126,9 +125,9 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 ## Presentations
 
 <!---
-12 **Fournier, A.M.V.** 2017 Rallidae: models for method development and ecological questions. *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
-11 **Fournier, A.M.V.,** Woodrey, M.S., Lyons, J.E., Cooper, B.J., Evans, K.E. 2017 APPLICATION OF STRUCTURED DECISION MAKING TO MARSHBIRD MONITORING IN THE GULF OF MEXICO *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
 ---> 
+
+11 **Fournier, A.M.V.,** Woodrey, M.S., Lyons, J.E., Cooper, B.J., Evans, K.E. 2017 Application OF Structured Decision Making to Marshbird Monitoring in the Gulf of Mexico *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
 
 10 Heard, S., **Fournier, A.M.V.,** Branch, T. Skelly, D. 2017 Why most studied populations should decline. *Canadian Society for Ecology and Evolution*
 
@@ -171,6 +170,8 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 
 ## Posters
+
+7 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. 2017 Comparison of Arrival Dates of Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA *American Ornithological Society/Society of Canadian Ornithologists* - MI [pdf](https://figshare.com/articles/Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes/4726315)
 
 6 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. 2017 Comparison of Arrival Dates of Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA *International Association of Great Lakes Researchers Conference* - MI [pdf](https://figshare.com/articles/Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes/4726315)
 
