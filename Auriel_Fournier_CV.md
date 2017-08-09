@@ -35,7 +35,7 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 *In Review* **Fournier, A.M.V.,** Shave, A., Fischer, J., Siegrist, J., Ray, J., Savage, A., Chesky, T., MacIntosh, M., Fraser, K. *Testing the island habitat-selection hypothesis for a long-distance migratory songbird*
 --->
 
-10 **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. Accepted *Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets* **Animal Migration** (copy available upon request)
+10 **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. In Press *Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets* **Animal Migration** (copy available upon request) DOI: 10.1515/ami-2017-0003
 
  9 **Fournier, A.M.V.**, Drake K.L., Tozer D.C. In Press *Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds* **Journal of Avian Biology** doi:10.1111/jav.01273 [Preprint](http://biorxiv.org/content/early/2017/06/01/144527) data: Data Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.nb115
 
