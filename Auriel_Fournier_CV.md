@@ -198,7 +198,7 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 2017-Present **Associate Editor** The Ibis  
 2016-Present **Research Committee Member** Black Swamp Bird Observatory     
 2016-Present **Lesson Maintainer** Data Carpentry [R Ecology Lessons](http://www.datacarpentry.org/R-ecology-lesson/)     
-2013-Present **Peer Reviewer** 12 journals 
+2013-Present **Peer Reviewer** 13 journals 
 2017 **Presentation Judge** Wilson Ornithological Society Meeting  
 2016-17 Vice Chair **Open Science Section** Ecological Society of America  
 2015-17 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society    
