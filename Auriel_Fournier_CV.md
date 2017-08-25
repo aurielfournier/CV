@@ -212,9 +212,9 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
 ## Professional Development
-2017 **Bayesian Modeling for Ecological & Social Scientists** SESYNC, University of Maryland, Annapolis  
+2017 **Bayesian Modeling for Ecological & Social Scientists** SESYNC, University of Maryland
 2016 **Spatial Capture Recapture Workshop** University of Georgia  
-2016 **Game Theoretical Modeling of Evolution in Structured Populations Tutorial** NIMBios, University of Tennessee, Knoxville    
+2016 **Game Theoretical Modeling of Evolution Tutorial** NIMBios, University of Tennessee
 2015 **Editoring in Ornithology Workshop** American Ornithologist Union Meeting    
 2014 **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA    
 2014 **Applied Hierarchical Modeling Workshop** Patuxent Wildlife Research Center/Royle & Kery     
