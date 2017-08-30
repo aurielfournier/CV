@@ -108,7 +108,7 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 ## Invited Presentations
 
-
+12 **Seminar** 2017 Grand Bay National Estuarine Research Reserve  
 11 **Symposium Talk** 2017 American Ornithological Society/Society of Canadian Ornithologists      
 10 **Seminar** 2017 Royal Society for the Protection of Birds, Centre for Conservation Science, UK Headquarters     
 9 **Talk** 2017  Mississippi Coast Audubon Society     
