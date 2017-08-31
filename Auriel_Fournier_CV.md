@@ -22,6 +22,9 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 ## Peer-Reviewed Publications  
 
 <!---
+## Peer-Reviewed Publications In Review 
+ a *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Sora (_Porzana carolina_) autumn migration habitat use 
+-
 *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. *Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.*
 -
 *In Review* Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and their effect on rails (Rallidae) as non-target species* 
@@ -58,9 +61,7 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 \newpage
 
-## Peer-Reviewed Publications In Review 
- a *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Sora (_Porzana carolina_) autumn migration habitat use 
-  
+
 ## Honors 
 
 2012-16 **Distinguished Doctoral Fellowship** - University of Arkansas  
