@@ -44,7 +44,7 @@ In Press
 
 **Fournier, A.M.V.**, Krementz, D.G. *Confirmation of diving and swimming behavior in the Sora (Porzana carolina)* **Wilson Journal of Ornithology** (copy available upon request)
 
-**Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. *The Timing of Autumn Sora (Porzana carolina) Migration in Missouri* **Wilson Journal of Ornithology** (copy available upon request)
+**Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. *The timing of autumn Sora (Porzana carolina) migration in Missouri* **Wilson Journal of Ornithology** (copy available upon request)
  
 **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. *Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets* **Animal Migration** (copy available upon request) DOI: 10.1515/ami-2017-0003
 
@@ -52,17 +52,17 @@ In Press
 
 **Fournier, A.M.V.**, Drake K.L., Tozer D.C. *Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds* **Journal of Avian Biology** doi:10.1111/jav.01273 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20Drake%20Tozer%202017%20Journal%20of%20Avian%20Biology.pdf) [Preprint](http://biorxiv.org/content/early/2017/06/01/144527)  data: Data Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.nb115
 
-**Fournier, A.M.V.**, Krementz, D.G. *Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails* **The Wildlife Society Bulletin** 41:151-156 doi:10.1002/wsb.745 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2017-Wildlife_Society_Bulletin.pdf)
+**Fournier, A.M.V.**, Krementz, D.G. *Nocturnal distance sampling all-terrain vehicle surveys for non-breeding rails* **The Wildlife Society Bulletin** 41:151-156 doi:10.1002/wsb.745 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2017-Wildlife_Society_Bulletin.pdf)
 
 **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail* **Journal of Applied Ecology** 54:618-627 doi:10.1111/1365-2664.12723 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf)   data: Data Dryad Digital Repository. doi:10.5061/dryad.r4847
 
 2016 
 
-**Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. *Levels of Mercury in Feathers of Clapper Rails (Rallus crepitans) over 45 Years in Coastal Salt Marshes of New Hanover County, North Carolina* **Bulletin of Environmental Contamination & Toxicology** 97: 469-473 doi:10.1007/s00128-016-1870-z [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Bulletin%20of%20Environmental%20Contamination%20and%20Toxicology.pdf)      data: Figshare doi:m9.figshare.1621405.v1
+**Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. *Levels of mercury in feathers of Clapper Rails (Rallus crepitans) over 45 Years in coastal salt marshes of New Hanover county, North Carolina* **Bulletin of Environmental Contamination & Toxicology** 97: 469-473 doi:10.1007/s00128-016-1870-z [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Bulletin%20of%20Environmental%20Contamination%20and%20Toxicology.pdf)      data: Figshare doi:m9.figshare.1621405.v1
 
 2015
 
-**Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A.  _Comparison of Arrival Dates of Spring Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 doi:10.1675/063.038.0313 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202015%20-%20Waterbirds.pdf) 
+**Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A.  _Comparison of arrival dates of spring rail migration in the southwest Lake Erie Marshes, Ohio, USA._ **Waterbirds** 38: 312-314 doi:10.1675/063.038.0313 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202015%20-%20Waterbirds.pdf) 
 
 **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** 39: 819-821 doi:10.1002/wsb.603 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%2C%20Bond%20-%202015%20-%20Wildlife%20Society%20Bulletin.pdf) 
 
