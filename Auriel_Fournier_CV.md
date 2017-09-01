@@ -50,7 +50,7 @@ In Press
 
 2017 
 
-**Fournier, A.M.V.**, Drake K.L., Tozer D.C. *Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds* **Journal of Avian Biology** doi:10.1111/jav.01273 [Preprint](http://biorxiv.org/content/early/2017/06/01/144527) data: Data Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.nb115
+**Fournier, A.M.V.**, Drake K.L., Tozer D.C. *Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds* **Journal of Avian Biology** doi:10.1111/jav.01273 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20Drake%20Tozer%202017%20Journal%20of%20Avian%20Biology.pdf) [Preprint](http://biorxiv.org/content/early/2017/06/01/144527)  data: Data Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.nb115
 
 **Fournier, A.M.V.**, Krementz, D.G. *Nocturnal Distance sampling All-Terrain Vehicle Surveys for Non-Breeding Rails* **The Wildlife Society Bulletin** 41:151-156 doi:10.1002/wsb.745 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2017-Wildlife_Society_Bulletin.pdf)
 
