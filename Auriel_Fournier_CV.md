@@ -16,7 +16,8 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 2017 ~ Ph.D. in **Biological Sciences**  - Arkansas Cooperative Fish & Wildlife Research Unit   
 **University of Arkansas** - Dr. David G. Krementz, Adviser - [**Phenology, Habitat Use, and the Impacts of Wetland Management on Autumn Migrating Rails in Missouri**](http://pqdtopen.proquest.com/doc/1879756773.html?FMT=ABS) 
 
-2011 ~ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensing***Michigan Technological University** Houghton, MI - Magna Cum Laude
+2011 ~ Bachelor of Science in **Wildlife Ecology and Management** - Minor *Remote Sensing*  
+**Michigan Technological University** Houghton, MI - Magna Cum Laude
 
 
 ## Peer-Reviewed Publications  
@@ -82,31 +83,31 @@ In Press
 
 ## Grants
 
-13 **Travel Grant** 2017 $210 American Ornithological Society/Society of Canadian Ornithologists Conference  
+**Travel Grant** 2017 $210 American Ornithological Society/Society of Canadian Ornithologists Conference  
 
-12 **Travel Grant** 2017 $350 Wilson Ornithological Society Annual Conference
+**Travel Grant** 2017 $350 Wilson Ornithological Society Annual Conference
 
-11 **Travel Grant** 2016 $200 North American Ornithological Conference
+**Travel Grant** 2016 $200 North American Ornithological Conference
 
-10 (declined) *PI* **National Science Foundation East Asia Pacific Summer Institute Program** 2016 Timing is everything: Identifying peak Rallidae call rate in southeast Australia
+(declined) *PI* **National Science Foundation East Asia Pacific Summer Institute Program** 2016 Timing is everything: Identifying peak Rallidae call rate in southeast Australia
 
-9 *Co-Investigator and Writer* **Missouri Department of Conservation Research Grant** 2015 $62,000 Effects of Wetland Management Strategies on Habitat Use of Autumn Migrating Rails on Intensively Managed Wetland Complexes in Missouri
+*Co-Investigator and Writer* **Missouri Department of Conservation Research Grant** 2015 $62,000 Effects of Wetland Management Strategies on Habitat Use of Autumn Migrating Rails on Intensively Managed Wetland Complexes in Missouri
 
-8 **Travel Grant** 2015 $320 American Ornithologists Union/Cooper Ornithological Society Conference  
+**Travel Grant** 2015 $320 American Ornithologists Union/Cooper Ornithological Society Conference  
 
-7 **Travel Grant** 2015 $500 Association of Field Ornithologists/Wilson Ornithological Society/Society of Canadian Ornithologists Conference
+**Travel Grant** 2015 $500 Association of Field Ornithologists/Wilson Ornithological Society/Society of Canadian Ornithologists Conference
 
-6 **The Frances M. Peacock Scholarship for Native Bird Habitat** 2015 $4000 The Use of Stable Isotopes, eBird and Species Distribution Models to Assess Migratory Connectivity of Fall Migrating Rails
+**The Frances M. Peacock Scholarship for Native Bird Habitat** 2015 $4000 The Use of Stable Isotopes, eBird and Species Distribution Models to Assess Migratory Connectivity of Fall Migrating Rails
 
-5 **Arkansas Audubon Society Trust** 2014 $1200 Migratory Stopover Timing, Survival and Habitat Use of Fall Migrating Sora in Managed Wetlands     
+**Arkansas Audubon Society Trust** 2014 $1200 Migratory Stopover Timing, Survival and Habitat Use of Fall Migrating Sora in Managed Wetlands     
 
-4 **Summer Undergraduate Research Fellowship** 2011 $3000 Developing A Morphometric Model to Predict the Sex of Virginia Rails 
+**Summer Undergraduate Research Fellowship** 2011 $3000 Developing A Morphometric Model to Predict the Sex of Virginia Rails 
 
-3 **Ecosystem Science Center Undergraduate Research Grant** 2011 $750 What are the Breeding and Wintering Areas of Virginia Rails Which Migrate Through NW Ohio?
+*Ecosystem Science Center Undergraduate Research Grant** 2011 $750 What are the Breeding and Wintering Areas of Virginia Rails Which Migrate Through NW Ohio?
 
-2 **Ecosystem Science Center Undergraduate Research Grant** 2010 $750 Assessing the Relationship Between Eye-Spotting and Breeding Location in Golden-winged Warblers  
+*Ecosystem Science Center Undergraduate Research Grant** 2010 $750 Assessing the Relationship Between Eye-Spotting and Breeding Location in Golden-winged Warblers  
 
-1 **Summer Undergraduate Research Fellowship** 2009 $3000 Habitat Classification and Biological Inventory of Pioneer Scout Reservation
+**Summer Undergraduate Research Fellowship** 2009 $3000 Habitat Classification and Biological Inventory of Pioneer Scout Reservation
 
 ## Research Experience
 
@@ -119,18 +120,18 @@ In Press
 
 ## Invited Presentations
 
-12 **Seminar** 2017 Grand Bay National Estuarine Research Reserve  
-11 **Symposium Talk** 2017 American Ornithological Society/Society of Canadian Ornithologists      
-10 **Seminar** 2017 Royal Society for the Protection of Birds, Centre for Conservation Science, UK Headquarters     
-9 **Talk** 2017  Mississippi Coast Audubon Society     
-8 **Symposium Talk** 2017  International Association of Great Lake Researchers   
-7 **Seminar** 2017  Bird Studies Canada     
-6 **Keynote** 2017  The Biggest Week in American Birding Festival       
-5 **Seminar** 2017  Missouri State University, Department of Biological Sciences   
-4 **Keynote** 2016  Ohio Ornithological Society Annual Conference     
-3 **Talk** 2016  Arkansas Audubon Society Annual Conference      
-2 **Seminar** 2016  University of Toledo, Department of Environmental Sciences   
-1 **Seminar** 2014  Arkansas Tech University, Department of Biological Sciences
+**Seminar** 2017 Grand Bay National Estuarine Research Reserve  
+**Symposium Talk** 2017 American Ornithological Society/Society of Canadian Ornithologists      
+**Seminar** 2017 Royal Society for the Protection of Birds, Centre for Conservation Science, UK Headquarters     
+**Talk** 2017  Mississippi Coast Audubon Society     
+**Symposium Talk** 2017  International Association of Great Lake Researchers   
+**Seminar** 2017  Bird Studies Canada     
+**Keynote** 2017  The Biggest Week in American Birding Festival       
+**Seminar** 2017  Missouri State University, Department of Biological Sciences   
+**Keynote** 2016  Ohio Ornithological Society Annual Conference     
+**Talk** 2016  Arkansas Audubon Society Annual Conference      
+**Seminar** 2016  University of Toledo, Department of Environmental Sciences   
+**Seminar** 2014  Arkansas Tech University, Department of Biological Sciences
 
 ## Presentations
 
@@ -192,8 +193,6 @@ In Press
 2 **Fournier, A.M.V.,** Roth, A.M., Flaspohler, D.J., 2011 Assessing mechanisms for variation in the eyes of Golden-winged Warblers *Ecosystem Science Center Poster Session* - MI  [pdf](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
 
 1 **Fournier, A.M.V.,** Flaspohler, D.J., 2010 Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
-
-
 
 ## Service 
 
