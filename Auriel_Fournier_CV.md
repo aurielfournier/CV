@@ -48,7 +48,7 @@ In Press
  
 2017 
 
-**Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. 2017 *Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets* **Animal Migration** 4:15-22 DOI: 10.1515/ami-2017-0003 [pdf link](https://www.degruyter.com/downloadpdf/j/ami.2017.4.issue-1/ami-2017-0003/ami-2017-0003.pdf)
+**Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. *Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets* **Animal Migration** 4:15-22 DOI: 10.1515/ami-2017-0003 [pdf link](https://www.degruyter.com/downloadpdf/j/ami.2017.4.issue-1/ami-2017-0003/ami-2017-0003.pdf)
 
 **Fournier, A.M.V.**, Drake K.L., Tozer D.C. *Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds* **Journal of Avian Biology** doi:10.1111/jav.01273 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20Drake%20Tozer%202017%20Journal%20of%20Avian%20Biology.pdf) [Preprint](http://biorxiv.org/content/early/2017/06/01/144527)  data: Data Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.nb115
 
