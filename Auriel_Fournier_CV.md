@@ -24,11 +24,13 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 <!---
 ## Peer-Reviewed Publications In Review 
- a *In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Sora (_Porzana carolina_) autumn migration habitat use 
+*In Review* Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and their effect on rails (Rallidae) as non-target species* 
+-
+*In Review* **Fournier, A.M.V.,** Shave, A., Fischer, J., Siegrist, J., Ray, J., Savage, A., Chesky, T., MacIntosh, M., Fraser, K. *Testing the island habitat-selection hypothesis for a long-distance migratory songbird*
+-
+*In Review* **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. Sora (_Porzana carolina_) autumn migration habitat use 
 -
 *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. *Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.*
--
-*In Review* Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and their effect on rails (Rallidae) as non-target species* 
 -
 *In Review* **Fournier, A.M.V., Anderson, S.C., Branch, T.A., Skelly, D.K., Heard, S.B. *How site-selection bias may drive apparent population declines in long-term studies*
 -
@@ -36,7 +38,6 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 -
 *In Review* **Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. *The False Promise of Unpaid Work: Detrimental Effects of Internships to Science Graduates* Careers*
 -
-*In Review* **Fournier, A.M.V.,** Shave, A., Fischer, J., Siegrist, J., Ray, J., Savage, A., Chesky, T., MacIntosh, M., Fraser, K. *Testing the island habitat-selection hypothesis for a long-distance migratory songbird*
 --->
 
 
