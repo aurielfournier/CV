@@ -223,13 +223,14 @@ In Press
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
 ## Professional Development
-2017 **Bayesian Modeling for Ecological & Social Scientists** SESYNC, University of Maryland
-2016 **Spatial Capture Recapture Workshop** University of Georgia  
-2016 **Game Theoretical Modeling of Evolution Tutorial** NIMBios, University of Tennessee
-2015 **Editoring in Ornithology Workshop** American Ornithologist Union Meeting    
-2014 **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA    
-2014 **Applied Hierarchical Modeling Workshop** Patuxent Wildlife Research Center/Royle & Kery     
-2013 **'Adehabitat' R Package Workshop** The Wildlife Society National Con/James Sheppard    
+2017 **Adaptive Management: Structured Decision Making for Recurrent Decisions** NCTC  
+2017 **Bayesian Modeling for Ecological & Social Scientists** SESYNC, University of Maryland  
+2016 **Spatial Capture Recapture Workshop** University of Georgia    
+2016 **Game Theoretical Modeling of Evolution Tutorial** NIMBios, University of Tennessee  
+2015 **Editoring in Ornithology Workshop** American Ornithologist Union Meeting      
+2014 **Data Management Workshop** The Wildlife Society National Conference Pittsburgh, PA      
+2014 **Applied Hierarchical Modeling Workshop** Patuxent Wildlife Research Center/Royle & Kery       
+2013 **'Adehabitat' R Package Workshop** The Wildlife Society National Con/James Sheppard      
 2013 **Occupancy Modeling Short Course** Darryl MacKenzie    
 
 ## Outreach  
