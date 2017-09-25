@@ -51,15 +51,15 @@ In Press
 
 **Fournier, A.M.V.**, Mengel, D.C., Krementz, D.G. *Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets* **Animal Migration** 4:15-22 DOI: 10.1515/ami-2017-0003 [pdf link](https://www.degruyter.com/downloadpdf/j/ami.2017.4.issue-1/ami-2017-0003/ami-2017-0003.pdf)
 
-**Fournier, A.M.V.**, Drake K.L., Tozer D.C. *Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds* **Journal of Avian Biology** doi:10.1111/jav.01273 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20Drake%20Tozer%202017%20Journal%20of%20Avian%20Biology.pdf) [Preprint](http://biorxiv.org/content/early/2017/06/01/144527)  data: Data Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.nb115
+**Fournier, A.M.V.**, Drake K.L., Tozer D.C. *Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds* **Journal of Avian Biology** doi:10.1111/jav.01273 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20Drake%20Tozer%202017%20Journal%20of%20Avian%20Biology.pdf) 
 
 **Fournier, A.M.V.**, Krementz, D.G. *Nocturnal distance sampling all-terrain vehicle surveys for non-breeding rails* **The Wildlife Society Bulletin** 41:151-156 doi:10.1002/wsb.745 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2017-Wildlife_Society_Bulletin.pdf)
 
-**Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail* **Journal of Applied Ecology** 54:618-627 doi:10.1111/1365-2664.12723 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf)   data: Data Dryad Digital Repository. doi:10.5061/dryad.r4847
+**Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. *Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail* **Journal of Applied Ecology** 54:618-627 doi:10.1111/1365-2664.12723 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf)  
 
 2016 
 
-**Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. *Levels of mercury in feathers of Clapper Rails (Rallus crepitans) over 45 Years in coastal salt marshes of New Hanover county, North Carolina* **Bulletin of Environmental Contamination & Toxicology** 97: 469-473 doi:10.1007/s00128-016-1870-z [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Bulletin%20of%20Environmental%20Contamination%20and%20Toxicology.pdf)      data: Figshare doi:m9.figshare.1621405.v1
+**Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. *Levels of mercury in feathers of Clapper Rails over 45 Years in coastal salt marshes of New Hanover county, North Carolina* **Bulletin of Environmental Contamination & Toxicology** 97: 469-473 doi:10.1007/s00128-016-1870-z [pdf](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Bulletin%20of%20Environmental%20Contamination%20and%20Toxicology.pdf)
 
 2015
 
@@ -67,12 +67,12 @@ In Press
 
 **Fournier, A.M.V.**, Bond, A.L. *Volunteer field staff are bad for wildlife ecology* **The Wildlife Society Bulletin** 39: 819-821 doi:10.1002/wsb.603 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%2C%20Bond%20-%202015%20-%20Wildlife%20Society%20Bulletin.pdf) 
 
+
+## Peer-Reviewed Publications Continued
+
 2013 
 
 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K.  _A morphometric model to predict the sex of virginia rails_ **The Wildlife Society Bulletin** 27: 881-886 doi:10.1002/wsb.323 [pdf link](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al._2013_Wildlife%20Society%20Bulletin_A%20Morphometric%20Model%20to%20Predict%20the%20Sex%20of%20Virginia%20Rails%20(Rallus%20limicola).pdf)  
-
-\newpage
-
 
 ## Honors 
 
@@ -83,6 +83,12 @@ In Press
 2009    **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological University
 
 ## Grants
+
+<!--
+
+**Summer Undergrad Research Fellowship** Dr. David Flaspohler - Michigan Technological Uni. - 2009  
+
+-->
 
 **Travel Grant** 2017 $210 American Ornithological Society/Society of Canadian Ornithologists Conference  
 
@@ -104,20 +110,18 @@ In Press
 
 **Summer Undergraduate Research Fellowship** 2011 $3000 Developing A Morphometric Model to Predict the Sex of Virginia Rails 
 
-*Ecosystem Science Center Undergraduate Research Grant** 2011 $750 What are the Breeding and Wintering Areas of Virginia Rails Which Migrate Through NW Ohio?
+**Ecosystem Science Center Undergraduate Research Grant** 2011 $750 What are the Breeding and Wintering Areas of Virginia Rails Which Migrate Through NW Ohio?
 
-*Ecosystem Science Center Undergraduate Research Grant** 2010 $750 Assessing the Relationship Between Eye-Spotting and Breeding Location in Golden-winged Warblers  
+**Ecosystem Science Center Undergraduate Research Grant** 2010 $750 Assessing the Relationship Between Eye-Spotting and Breeding Location in Golden-winged Warblers  
 
-**Summer Undergraduate Research Fellowship** 2009 $3000 Habitat Classification and Biological Inventory of Pioneer Scout Reservation
 
 ## Research Experience
 
 **Undergraduate Research Grant** Dr. Joseph Bump - Michigan Technological Uni. - 2011  
 **Summer Undergrad Research Fellowship** Dr. Joseph Bump - Michigan Technological Uni. - 2011  
 **Undergraduate Research Grant** Dr. David Flaspohler - Michigan Technological Uni. - 2010  
-**Summer Undergrad Research Fellowship** Dr. David Flaspohler - Michigan Technological Uni. - 2009    
+  
 
-\newpage 
 
 ## Invited Presentations
 
@@ -248,13 +252,11 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2016 **Presentation** Arkansas Audubon Society Annual Meeting [presentation](https://dx.doi.org/10.6084/m9.figshare.3206122.v1)  
 2015 **RealScientist Curator** Curating a week of tweets to 30k+ people about my research for [RealScientists](http://realscientists.org/)  
 2015-6 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for [Biotweeps](https://biotweep.wordpress.com/about/)  
-2015 **Presentation** (2) Local Library Science Program, AR  
+2014-5 **Presentation** (4) Local Library Science Program, AR  
 2015 **Bird Banding Demonstration** Camp War Eagle Summer Camp, Arkansas  
 2015 **Field Trip Leader** (2) The Biggest Week In American Birding Festival  
 2015 **Presentation** (3) Boys and Girls Club of Bentonville, Arkansas STEAM Program   
-2015 **Presentation** Springdale Alternative High School, Springdale, AR    
-2014 **Presentation** (2) Local Library Science Program, AR  
-2013 **Presentation** Springdale Alternative High School, Springdale, AR  
+2013-5 **Presentation** (3) Springdale Alternative High School, Springdale, AR    
 2011 **North American Breeding Bird Survey Volunteer** U.S. Geological Survey  
 2009 **Bird Bander** (Six years) Black Swamp Bird Observatory  
 
