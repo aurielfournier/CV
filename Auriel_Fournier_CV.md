@@ -249,17 +249,16 @@ In Press
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
 2013-17 **Science Fair Judge** (7) Regional/Local Science Fairs NW Arkansas    
 2015-16 **Editor** Science and Math Section Editor of [Science Borealis](http://scienceborealis.ca/)     
-2016 **Bird Banding Demonstration** (2) Camp War Eagle Summer Camp, Arkansas   
+2015-16 **Bird Banding Demonstration** (3) Camp War Eagle Summer Camp, Arkansas   
+2015-6 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for [Biotweeps](https://biotweep.wordpress.com/about/)    
 2016 **Presentation** Arkansas Audubon Society Annual Meeting [presentation](https://dx.doi.org/10.6084/m9.figshare.3206122.v1)  
-2015 **RealScientist Curator** Curating a week of tweets to 30k+ people about my research for [RealScientists](http://realscientists.org/)  
-2015-6 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for [Biotweeps](https://biotweep.wordpress.com/about/)  
-2014-5 **Presentation** (4) Local Library Science Program, AR  
-2015 **Bird Banding Demonstration** Camp War Eagle Summer Camp, Arkansas  
+2015 **RealScientist Curator** Curating a week of tweets to 30k+ people about my research for [RealScientists](http://realscientists.org/)    
+2014-5 **Presentation** (4) Local Library Science Program, AR     
+2013-5 **Presentation** (3) Springdale Alternative High School, Springdale, AR    
 2015 **Field Trip Leader** (2) The Biggest Week In American Birding Festival  
 2015 **Presentation** (3) Boys and Girls Club of Bentonville, Arkansas STEAM Program   
-2013-5 **Presentation** (3) Springdale Alternative High School, Springdale, AR    
-2011 **North American Breeding Bird Survey Volunteer** U.S. Geological Survey  
-2009 **Bird Bander** (Six years) Black Swamp Bird Observatory  
+2011 **North American Breeding Bird Surveyor** U.S. Geological Survey  
+2003-9 **Bird Bander** Black Swamp Bird Observatory  
 
 ## Teaching
 
