@@ -45,7 +45,7 @@ In Press
 
 **Fournier, A.M.V.**, Krementz, D.G. *Confirmation of diving and swimming behavior in the Sora (Porzana carolina)* **Wilson Journal of Ornithology** (copy available upon request)
 
-**Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. *The timing of autumn Sora (Porzana carolina) migration in Missouri* **Wilson Journal of Ornithology** (copy available upon request)
+**Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. *The timing of autumn Sora (Porzana carolina) migration in Missouri* **Wilson Journal of Ornithology** (copy available upon request) Will be Published December 2017 Volume 129(4)
  
 2017 
 
