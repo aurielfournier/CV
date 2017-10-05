@@ -141,6 +141,8 @@ In Press
 ## Presentations
 
 <!---
+12 Ray, J.D., Fraser, K.C., **Fournier, A.M.V.,** Shave, A. 2018. SELECTION OF ISLAND HABITAT BY A TEXAS POPULATION OF PURPLE
+MARTIN DURING THE NON-BREEDING SEASON *Texas Chapter of the Wildlife Society Annual Meeting* 
 ---> 
 
 11 **Fournier, A.M.V.,** Woodrey, M.S., Lyons, J.E., Cooper, B.J., Evans, K.E. 2017 Application OF Structured Decision Making to Marshbird Monitoring in the Gulf of Mexico *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
