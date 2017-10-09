@@ -45,7 +45,7 @@ In Press
 
 **Fournier, A.M.V.**, Krementz, D.G. *Confirmation of diving and swimming behavior in the Sora (Porzana carolina)* **Wilson Journal of Ornithology** (copy available upon request)
 
-**Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. *The timing of autumn Sora (Porzana carolina) migration in Missouri* **Wilson Journal of Ornithology** (copy available upon request)
+**Fournier, A.M.V.**, Mengel, D.C., Gbur, E.E., Krementz, D.G. *The timing of autumn Sora (Porzana carolina) migration in Missouri* **Wilson Journal of Ornithology** (copy available upon request) Will be Published December 2017 Volume 129(4)
  
 2017 
 
@@ -141,6 +141,8 @@ In Press
 ## Presentations
 
 <!---
+12 Ray, J.D., Fraser, K.C., **Fournier, A.M.V.,** Shave, A. 2018. SELECTION OF ISLAND HABITAT BY A TEXAS POPULATION OF PURPLE
+MARTIN DURING THE NON-BREEDING SEASON *Texas Chapter of the Wildlife Society Annual Meeting* 
 ---> 
 
 11 **Fournier, A.M.V.,** Woodrey, M.S., Lyons, J.E., Cooper, B.J., Evans, K.E. 2017 Application OF Structured Decision Making to Marshbird Monitoring in the Gulf of Mexico *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
@@ -213,7 +215,7 @@ In Press
 2017-Present **Associate Editor** The Ibis  
 2016-Present **Research Committee Member** Black Swamp Bird Observatory     
 2016-Present **Lesson Maintainer** Data Carpentry [R Ecology Lessons](http://www.datacarpentry.org/R-ecology-lesson/)     
-2013-Present **Peer Reviewer** 13 journals 
+2013-Present **Peer Reviewer** 13 journals   
 2017 **Presentation Judge** Wilson Ornithological Society Meeting  
 2016-17 Vice Chair **Open Science Section** Ecological Society of America  
 2015-17 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society    
