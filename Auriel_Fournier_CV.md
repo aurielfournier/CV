@@ -321,6 +321,9 @@ Spring Semester 2011
 Lead field trips, gave guest lecture, gave field quizzes. 
 
 ## Work Experience
+**Freelance Ecologist** October 2016-January 2017  
+Bird Studies Canada
+
 **Environmental Education Internship**  
 Kellogg Bird Sanctuary, Michigan State University - Kara Hass -  May - July 2012  
 
