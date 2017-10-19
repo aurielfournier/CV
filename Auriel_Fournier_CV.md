@@ -107,23 +107,23 @@ In Review
 
 **Travel Grant** 2016 $200 North American Ornithological Conference
 
-(declined) *PI* **National Science Foundation East Asia Pacific Summer Institute Program** 2016 Timing is everything: Identifying peak Rallidae call rate in southeast Australia
+*PI* (declined) **National Science Foundation East Asia Pacific Summer Institute Program** 2016 
 
-*Co-Investigator and Writer* **Missouri Department of Conservation Research Grant** 2015 $62,000 Effects of Wetland Management Strategies on Habitat Use of Autumn Migrating Rails on Intensively Managed Wetland Complexes in Missouri
+*Co-Investigator and Writer* **Missouri Department of Conservation Research Grant** 2015 $62,000 
 
 **Travel Grant** 2015 $320 American Ornithologists Union/Cooper Ornithological Society Conference  
 
 **Travel Grant** 2015 $500 Association of Field Ornithologists/Wilson Ornithological Society/Society of Canadian Ornithologists Conference
 
-**The Frances M. Peacock Scholarship for Native Bird Habitat** 2015 $4000 The Use of Stable Isotopes, eBird and Species Distribution Models to Assess Migratory Connectivity of Fall Migrating Rails
+**The Frances M. Peacock Scholarship for Native Bird Habitat** 2015 $4000 
 
-**Arkansas Audubon Society Trust** 2014 $1200 Migratory Stopover Timing, Survival and Habitat Use of Fall Migrating Sora in Managed Wetlands     
+**Arkansas Audubon Society Trust** 2014 $1200   
 
-**Summer Undergraduate Research Fellowship** 2011 $3000 Developing A Morphometric Model to Predict the Sex of Virginia Rails 
+**Summer Undergraduate Research Fellowship** 2011 $3000 
 
-**Ecosystem Science Center Undergraduate Research Grant** 2011 $750 What are the Breeding and Wintering Areas of Virginia Rails Which Migrate Through NW Ohio?
+**Ecosystem Science Center Undergraduate Research Grant** 2011 $750 
 
-**Ecosystem Science Center Undergraduate Research Grant** 2010 $750 Assessing the Relationship Between Eye-Spotting and Breeding Location in Golden-winged Warblers  
+**Ecosystem Science Center Undergraduate Research Grant** 2010 $750 
 
 
 ## Research Experience
