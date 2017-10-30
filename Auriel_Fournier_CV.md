@@ -6,7 +6,8 @@ Auriel M.V. Fournier
 =============================
 Postdoctoral Research Associate - Mississippi State University, Biloxi, MS   
 1815 Popps Ferry Rd, Biloxi, MS 39532 - aurielfournier@gmail.com - 419.307.6261  
-[aurielfournier.github.io](http://aurielfournier.github.io/) - [Github Profile](https://github.com/aurielfournier) - [Google Scholar Profile](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) - [Twitter \@RallidaeRule](https://twitter.com/RallidaeRule)  
+[aurielfournier.github.io](http://aurielfournier.github.io/) - [Github Profile](https://github.com/aurielfournier)   
+[Google Scholar Profile](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) - [Twitter \@RallidaeRule](https://twitter.com/RallidaeRule)  
 
 ## Professional Appointments and Education
 
@@ -21,7 +22,7 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 2017 ~ **Ph.D. in Biological Sciences**  - Arkansas Cooperative Fish & Wildlife Research Unit   
 **University of Arkansas** - Dr. David G. Krementz, Adviser -  
 
-> [**Phenology, Habitat Use, and the Impacts of Wetland Management on Autumn Migrating Rails in Missouri**](http://pqdtopen.proquest.com/doc/1879756773.html?FMT=ABS) 
+> [*Phenology, Habitat Use, and the Impacts of Wetland Management on Autumn Migrating Rails in Missouri*](http://pqdtopen.proquest.com/doc/1879756773.html?FMT=ABS) 
 
 2011 ~ **Bachelor of Science in Wildlife Ecology and Management** - Minor *Remote Sensing*  
 **Michigan Technological University** Houghton, MI - Magna Cum Laude
