@@ -42,6 +42,8 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 -
 *In Review* **Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. *The False Promise of Unpaid Work: Detrimental Effects of Internships to Science Graduates* Careers*
 -
+**Fournier, A.M.V.,** Shave, A., Fischer, J., Siegrist, J., Ray, J., Chesky, T., MacIntosh, M., Fraser, K. *Testing the island habitat-selection hypothesis in a long-distance migratory songbird*
+-
 --->
 
 
@@ -79,7 +81,6 @@ In Review
 
 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. *Sora (_Porzana carolina_) autumn migration habitat use* (copy available upon request)
 
-**Fournier, A.M.V.,** Shave, A., Fischer, J., Siegrist, J., Ray, J., Chesky, T., MacIntosh, M., Fraser, K. *Testing the island habitat-selection hypothesis in a long-distance migratory songbird*
 
 ## Honors 
 
