@@ -222,14 +222,12 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 2015 **Volunteer** American Ornithologists Union Meeting  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
 2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
-
 2017-Present **Elected Councilor** Wilson Ornithological Society  
 2017-Present **Associate Editor** The Ibis  
 2016-Present **Research Committee Member** Black Swamp Bird Observatory 
-
 -->
     
-   
+2017-Present **Committee Member** Erin Lehnert, MS Student, U of Central Oklahoma  
 2013-Present **Peer Reviewer** 13 journals   
 2017 **Presentation Judge** Wilson Ornithological Society Meeting  
 2016-17 Vice Chair **Open Science Section** Ecological Society of America  
