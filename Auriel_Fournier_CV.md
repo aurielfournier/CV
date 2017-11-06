@@ -67,6 +67,9 @@ In Press
 
 **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. [*Levels of mercury in feathers of Clapper Rails over 45 Years in coastal salt marshes of New Hanover county, North Carolina*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Bulletin%20of%20Environmental%20Contamination%20and%20Toxicology.pdf) **Bulletin of Environmental Contamination & Toxicology** 97: 469-473 doi:10.1007/s00128-016-1870-z 
 
+
+\newpage
+
 2015
 
 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A.  [*Comparison of arrival dates of spring rail migration in the southwest Lake Erie Marshes, Ohio, USA.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202015%20-%20Waterbirds.pdf) **Waterbirds** 38: 312-314 doi:10.1675/063.038.0313  
