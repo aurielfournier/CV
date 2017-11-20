@@ -136,6 +136,7 @@ In Review
 
 ## Invited Presentations
 
+**Seminar** 2017 University of Montreal  
 **Seminar** 2017 Grand Bay National Estuarine Research Reserve  
 **Symposium Talk** 2017 American Ornithological Society/Society of Canadian Ornithologists      
 **Seminar** 2017 Royal Society for the Protection of Birds, Centre for Conservation Science, UK Headquarters     
