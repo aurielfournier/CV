@@ -79,7 +79,8 @@ In Press
 
 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K.  [*A morphometric model to predict the sex of virginia rails*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al._2013_Wildlife%20Society%20Bulletin_A%20Morphometric%20Model%20to%20Predict%20the%20Sex%20of%20Virginia%20Rails%20(Rallus%20limicola).pdf)  **The Wildlife Society Bulletin** 27: 881-886 doi:10.1002/wsb.323 
 
-In Review (copy available upon request)
+In Review   
+(copy available upon request)
 
 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. *Sora (_Porzana carolina_) autumn migration habitat use* 
 
@@ -124,15 +125,9 @@ In Review (copy available upon request)
 
 **Ecosystem Science Center Undergraduate Research Grant** 2011 $750 
 
-**Ecosystem Science Center Undergraduate Research Grant** 2010 $750 
+**Ecosystem Science Center Undergraduate Research Grant** 2010 $750   
 
-
-## Research Experience
-
-**Undergraduate Research Grant** Dr. Joseph Bump - Michigan Technological Uni. - 2011  
-**Summer Undergrad Research Fellowship** Dr. Joseph Bump - Michigan Technological Uni. - 2011  
-**Undergraduate Research Grant** Dr. David Flaspohler - Michigan Technological Uni. - 2010  
-  
+**Summer Undergraduate Research Fellowship** 2009 $3000 
 
 
 ## Invited Presentations
@@ -156,8 +151,6 @@ In Review (copy available upon request)
 <!---
 12 Ray, J.D., Fraser, K.C., **Fournier, A.M.V.,** Shave, A. 2018. SELECTION OF ISLAND HABITAT BY A TEXAS POPULATION OF PURPLE
 MARTIN DURING THE NON-BREEDING SEASON *Texas Chapter of the Wildlife Society Annual Meeting* 
-
-
 
 1 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. 2013  Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
 
@@ -191,9 +184,11 @@ Heard, S., **Fournier, A.M.V.,** Branch, T. Skelly, D. Why most studied populati
 
 <!---
 7 **Fournier, A.M.V., Drake, K.L., Tozer D.C. 2017 Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds *Missouri Department of Conservation Science Note* [pdf]
-6 **Fournier, A.M.V., Mengel, D.C. 2017 The timing of autumn Sora (porzana carolina) migration in Missouri *Missouri Department of Consrevation Science Note* [pdf]
+
 5 **Fournier, A.M.V.** 2017 Nocturnal Distance Sampling All-Terrain Vehicle Surveys for Non-Breeding Rails *Missouri Department of Conservation Science Note* [pdf] 
 --->
+
+2016 **Fournier, A.M.V.**, Mengel, D.C. 2017 The timing of autumn rail migration in Missouri *Missouri Department of Conservation Science Note*
 
 2016 **Fournier, A.M.V.,** 2016. Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails on Intensively-Managed Wetland Complexes in Missouri : Final Report USFWS Division of Migratory Birds Webless Program [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/EffectsofWetlandMgtStrategiesOnHabitatUseOfFallMigratingRails.pdf)
 
@@ -289,10 +284,12 @@ von Hardenberg A et al. Editors: Francois Michonneau and Auriel Fournier. 2017. 
 > **As Instructor**
 
 _Advanced R Programming and Graphing Workshop_   
-Developed materials and taught a day long workshop on programming, graphing, data management and building packages in R. [Link to most recent Materials](https://github.com/aurielfournier/AOSSCO17)    
+Developed materials and taught a day long workshop on programming, graphing, data management and building packages in R.   
+[Link to most recent Materials](https://github.com/aurielfournier/AOSSCO17)    
 - American Ornithological Society/Society of Canadian Ornithologists - August 2017  
 - North American Ornithological Conference - August 2016    
 - American Ornithologists Union Conference - July 2015    
+
 
 _Data and Software Carpentry Workshop_  
 Two-day workshops on reproducible research and data management in R, SQL, Unix Shell, Git and Open Refine.   
@@ -300,10 +297,6 @@ Two-day workshops on reproducible research and data management in R, SQL, Unix S
 - Federal Reserve Board, Washington D.C. June 2016  
 - University of Connecticut, March 2016  
 - Iowa State University, November 2015
-
-\newpage
-
-## Teaching Continued
 
 > **As Tutor**
 
@@ -336,29 +329,20 @@ Lead field trips, gave guest lecture, gave field quizzes.
 ## Work Experience
 **Freelance Ecologist** October 2016-January 2017  
 Bird Studies Canada
-
 **Environmental Education Internship**  
 Kellogg Bird Sanctuary, Michigan State University - Kara Hass -  May - July 2012  
-
 **Bird Bander**  
 The Big Island, Hawaii - Dr. Jessie Knowlton - February - May 2012   
-
 **Field Technician**  
 Isle Royale National Park - Dr. Joseph Bump -  May 2011  
- 
 **Remote Sensing/GIS Technician**  
 Michigan Technological University - Dr. Mike Falkowski - February 2010 - December 2011  
-
 **Small Mammal/Lakeshore Restoration Technician**   
 Michigan Technological University - Dan Haskell - July 2010  
-
 **Field Crew Leader**  
 Michigan Technological University - Dr. Amber Roth  March - June 2010  
-
 **Bird Bander**  
 Black Swamp Bird Observatory - Mark & Julie Shieldcastle - Spring and Fall 2004-2008
-
-\newpage 
 
 ## Professional Licenses and Certifications
 
@@ -370,6 +354,7 @@ Black Swamp Bird Observatory - Mark & Julie Shieldcastle - Spring and Fall 2004-
 [**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society - (3/2015)    
 **ATV Rider Certification** ATV Safety Institute (6/2012)
 
+<!---
 ## Memberships 
 (since)  
 2008 **The Wildlife Society**  
@@ -380,28 +365,4 @@ Black Swamp Bird Observatory - Mark & Julie Shieldcastle - Spring and Fall 2004-
 2016 **Ecological Society of America**  
 2017 **International Assocation of Great Lakes Researchers**  
 2017 **British Ornithologists Union**
-
-## Computer Skills
-
-R  
-Python  
-SQL  
-ArcGIS  
-LaTeX  
-Markdown/RMarkdown  (this CV is written in Markdown)  
-Program Mark/RMark  
-Git/Github [github profile](https://github.com/aurielfournier)  
-UNIX Shell  
-JAGS/WINBugs 
-
-## Field Skills
-
-4x4  
-Manual Transmission  
-Vehicle Maintenance
-ATVs (over 1000 hours operating time)  
-Small Motor Maintenance and Repair  
-Kayak/Canoe  
-Small Engine Boating  
-Backpacking and Back Country Living  
-Electronics Repair
+-->
