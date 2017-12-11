@@ -38,7 +38,6 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 -
 *In Review* **Fournier, A.M.V., Anderson, S.C., Branch, T.A., Skelly, D.K., Heard, S.B. *How site-selection bias may drive apparent population declines in long-term studies*
 -
-*In Review* **Fournier, A.M.V.,** Mengel, D.C., Gbur, E., Raedeke, A., Krementz, D.G. *Waterbird community response to early autumn wetland flooding enables multi-species management*
 -
 *In Review* **Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. *The False Promise of Unpaid Work: Detrimental Effects of Internships to Science Graduates* Careers*
 -
@@ -79,12 +78,13 @@ In Press
 
 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K.  [*A morphometric model to predict the sex of virginia rails*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al._2013_Wildlife%20Society%20Bulletin_A%20Morphometric%20Model%20to%20Predict%20the%20Sex%20of%20Virginia%20Rails%20(Rallus%20limicola).pdf)  **The Wildlife Society Bulletin** 27: 881-886 doi:10.1002/wsb.323 
 
-In Review   
-(copy available upon request)
+In Review   *(copy available upon request)*
 
 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. *Sora (_Porzana carolina_) autumn migration habitat use* 
 
 **Fournier, A.M.V.,** Shave, A., Fischer, J., Siegrist, J., Ray, J., Chesky, T., MacIntosh, M., Fraser, K. *Testing the island habitat-selection hypothesis in a long-distance migratory songbird* 
+
+**Fournier, A.M.V.,** Mengel, D.C., Gbur, E., Raedeke, A., Krementz, D.G. *Addressing uncertainty in wetland bird community response to early autumn wetland flooding in a structured decision-making framework*
 
 
 ## Honors 
