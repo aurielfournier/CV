@@ -292,8 +292,8 @@ Developed materials and taught a day long workshop on programming, graphing, dat
 
 
 _Data and Software Carpentry Workshop_  
-Two-day workshops on reproducible research and data management in R, SQL, Unix Shell, Git and Open Refine.   
-- Grand Valley State University, MI, Dec 2017
+Two-day workshops on reproducible research in R,  Unix Shell, and Git.   
+- Grand Valley State University, MI, Dec 2017  
 - USDA - New Orleans, LA June 2016   
 - Federal Reserve Board, Washington D.C. June 2016  
 - University of Connecticut, March 2016  
