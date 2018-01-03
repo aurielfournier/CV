@@ -126,6 +126,7 @@ In Review   *(copy available upon request)*
 
 **Summer Undergraduate Research Fellowship** 2009 $3000 
 
+\newpage
 
 ## Invited Presentations
 
@@ -345,14 +346,16 @@ Black Swamp Bird Observatory - Mark & Julie Shieldcastle - Spring and Fall 2004-
 ## Professional Licenses and Certifications
 
 **Sub-permit bird banding license holder in US and Canada** 13 years experience, 7000+ birds  
-**NSC Defensive Driving II** National Safety Council (10/2016)   
 **Wilderness First Aid** Wilderness Medicine Institute/NOLS (2/2016)   
 **CPR/First Aid** American Red Cross (12/2015)    
 **Instructor Training** [Software Carpentry & Data Carpentry](https://software-carpentry.org/index.html) - (5/2015)    
 [**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society - (3/2015)    
-**ATV Rider Certification** ATV Safety Institute (6/2012)
+
 
 <!---
+## Licenses/Certs
+**ATV Rider Certification** ATV Safety Institute (6/2012)
+**NSC Defensive Driving II** National Safety Council (10/2016)  
 ## Memberships 
 (since)  
 2008 **The Wildlife Society**  
