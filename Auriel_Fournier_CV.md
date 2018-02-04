@@ -132,6 +132,7 @@ In Review   *(copy available upon request)*
 
 ## Invited Presentations
 
+**Seminar** 2018 Tulane University   
 **Seminar** 2017 University of Montreal  
 **Seminar** 2017 Grand Bay National Estuarine Research Reserve  
 **Symposium Talk** 2017 American Ornithological Society/Society of Canadian Ornithologists      
