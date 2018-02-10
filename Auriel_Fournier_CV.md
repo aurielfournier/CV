@@ -243,6 +243,7 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
 ## Professional Development
+2018 **Introduction to Structured Deision Making** NCTC  
 2017 **Adaptive Management: Structured Decision Making for Recurrent Decisions** NCTC  
 2017 **Bayesian Modeling for Ecological & Social Scientists** SESYNC, University of Maryland  
 2016 **Spatial Capture Recapture Workshop** University of Georgia    
@@ -259,6 +260,8 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 2011 **Outdoor Educator** W. U.P. Center for Science, Math and Envi. Education   
 2011 **Owl Survey Volunteer** Michigan Bird Conservation Initiative  
 2009 **Presentation** Kirtland Bird Club - Cleveland, OH  
+2011 **North American Breeding Bird Surveyor** U.S. Geological Survey  
+2003-9 **Bird Bander** Black Swamp Bird Observatory 
 -->
 2016-17 **#SkypeWithAScientist** 8 Classrooms across the US  
 2013-17 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
@@ -273,8 +276,7 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2013-5 **Presentation** (3) Springdale Alternative High School, Springdale, AR    
 2015 **Field Trip Leader** (2) The Biggest Week In American Birding Festival  
 2015 **Presentation** (3) Boys and Girls Club of Bentonville, Arkansas STEAM Program   
-2011 **North American Breeding Bird Surveyor** U.S. Geological Survey  
-2003-9 **Bird Bander** Black Swamp Bird Observatory  
+ 
 
 ## Teaching
 
@@ -299,6 +301,8 @@ Two-day workshops on reproducible research in R,  Unix Shell, and Git.
 - Federal Reserve Board, Washington D.C. June 2016  
 - University of Connecticut, March 2016  
 - Iowa State University, November 2015
+
+\newpage
 
 > **As Tutor**
 
