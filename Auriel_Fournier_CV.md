@@ -132,6 +132,7 @@ In Review   *(copy available upon request)*
 
 ## Invited Presentations
 
+**Seminar** 2018 Gettysburg College   
 **Seminar** 2018 Tulane University   
 **Seminar** 2017 University of Montreal  
 **Seminar** 2017 Grand Bay National Estuarine Research Reserve  
@@ -156,6 +157,8 @@ MARTIN DURING THE NON-BREEDING SEASON *Texas Chapter of the Wildlife Society Ann
 1 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. 2013  Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
 
 ---> 
+
+2018 Ray, J. D., K. C. Fraser, **A. Fournier**, and A. Shave. 2018. Selection of island habitat by a Texas population of purple martin during the non-breeding season. 54rd TX Chapt. Wildl. Soc. Dallas, TX.   
 
 2017 **Fournier, A.M.V.,** Woodrey, M.S., Lyons, J.E., Cooper, B.J., Evans, K.E. Application OF Structured Decision Making to Marshbird Monitoring in the Gulf of Mexico *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
 
