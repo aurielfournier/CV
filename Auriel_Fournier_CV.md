@@ -132,6 +132,7 @@ In Review   *(copy available upon request)*
 
 ## Invited Presentations
 
+**Seminar** 2018 University of Delaware  
 **Seminar** 2018 Gettysburg College   
 **Seminar** 2018 Tulane University   
 **Seminar** 2017 University of Montreal  
