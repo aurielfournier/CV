@@ -32,8 +32,6 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 <!---
 ## Peer-Reviewed Publications In Review 
-
--
 *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. *Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.*
 -
 *In Review* **Fournier, A.M.V., White, E.A, Heard, S.B. *How site-selection bias may drive apparent population declines in long-term studies*
@@ -182,8 +180,6 @@ Heard, S., **Fournier, A.M.V.,** Branch, T. Skelly, D. Why most studied populati
 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. Timing of Autumn Migration in the Mississippi Flyway by Rails. *Association of Field Ornithologists Meeting*  - NS [pdf link](http://doi.org/5ks)
 
 2014 **Fournier, A.M.V.,** Krementz, D.G. 2014  The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*- AR
-
-
 
 \newpage
 
