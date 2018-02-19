@@ -16,7 +16,7 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 > **Elected Councilor** Wilson Ornithological Society - 2017-2020  
 **Associate Editor** The Ibis - 2017-Present  
-**Research Committee Member** Black Swamp Bird Observatory  - 2016-Present   
+**Research Committee Lead** Black Swamp Bird Observatory  - 2016-Present   
 **Lesson Maintainer** Data Carpentry [R Ecology Lessons](http://www.datacarpentry.org/R-ecology-lesson/) - 2016-Present  
 
 2017 ~ **Ph.D. in Biological Sciences**  - Arkansas Cooperative Fish & Wildlife Research Unit   
@@ -32,15 +32,13 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 <!---
 ## Peer-Reviewed Publications In Review 
-*In Review* Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and their effect on rails (Rallidae) as non-target species* 
+
 -
 *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. *Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.*
 -
 *In Review* **Fournier, A.M.V., White, E.A, Heard, S.B. *How site-selection bias may drive apparent population declines in long-term studies*
 -
 *In Review* **Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. *The False Promise of Unpaid Work: Detrimental Effects of Internships to Science Graduates* Careers*
--
-**Fournier, A.M.V.,** Shave, A., Fischer, J., Siegrist, J., Ray, J., Chesky, T., MacIntosh, M., Fraser, K. *Testing the island habitat-selection hypothesis in a long-distance migratory songbird* 
 -
 **Fournier, A.M.V.,** Mengel, D.C., Gbur, E., Raedeke, A., Krementz, D.G. *Addressing uncertainty in wetland bird community response to early autumn wetland flooding in a structured decision-making framework*
 --->
@@ -84,7 +82,11 @@ In Review   *(copy available upon request)*
 
 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. *Sora (_Porzana carolina_) autumn migration habitat use* 
 
+**Fournier, A.M.V.,** Shave, A., Fischer, J., Siegrist, J., Ray, J., Chesky, T., MacIntosh, M., Fraser, K. *Testing the island habitat-selection hypothesis in a long-distance migratory songbird* 
 
+Eulinger, K., McDaniel, T., Calvert, G., **Fournier, A.M.V.,** *Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)*
+
+Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and their effect on rails (Rallidae) as non-target species* 
 
 ## Honors 
 
