@@ -132,6 +132,7 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 
 ## Invited Presentations
 
+**Seminar** 2018 University of Southern Mississippi  
 **Seminar** 2018 University of Delaware  
 **Seminar** 2018 Gettysburg College   
 **Seminar** 2018 Tulane University   
