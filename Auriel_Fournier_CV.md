@@ -16,7 +16,7 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 > **Elected Councilor** Wilson Ornithological Society - 2017-2020  
 **Associate Editor** The Ibis - 2017-Present  
-**Research Committee Lead** Black Swamp Bird Observatory  - 2016-Present   
+**Research Committee Co-Chair** Black Swamp Bird Observatory  - 2016-Present   
 **Lesson Maintainer** Data Carpentry [R Ecology Lessons](http://www.datacarpentry.org/R-ecology-lesson/) - 2016-Present  
 
 2017 ~ **Ph.D. in Biological Sciences**  - Arkansas Cooperative Fish & Wildlife Research Unit   
