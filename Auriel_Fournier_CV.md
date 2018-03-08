@@ -132,11 +132,12 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 
 ## Invited Presentations
 
-**Seminar** 2018 University of Southern Mississippi  
-**Seminar** 2018 University of Delaware  
-**Seminar** 2018 Gettysburg College   
-**Seminar** 2018 Tulane University   
-**Seminar** 2017 University of Montreal  
+**Seminar** 2018 Mississippi State University, Department of Wildlife Fisheries and Aquaculture  
+**Seminar** 2018 University of Southern Mississippi, Department of Biological Sciences
+**Seminar** 2018 University of Delaware, Department of Entomology and Wildlife Ecology
+**Seminar** 2018 Gettysburg College, Department of Environmental Studies   
+**Seminar** 2018 Tulane University, Department of Ecology and Evolutionary Biology   
+**Seminar** 2017 University of Montreal, Department of Bioological Sciences  
 **Seminar** 2017 Grand Bay National Estuarine Research Reserve  
 **Symposium Talk** 2017 American Ornithological Society/Society of Canadian Ornithologists      
 **Seminar** 2017 Royal Society for the Protection of Birds, Centre for Conservation Science, UK Headquarters     
