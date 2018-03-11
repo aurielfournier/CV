@@ -133,8 +133,8 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 ## Invited Presentations
 
 **Seminar** 2018 Mississippi State University, Department of Wildlife Fisheries and Aquaculture  
-**Seminar** 2018 University of Southern Mississippi, Department of Biological Sciences
-**Seminar** 2018 University of Delaware, Department of Entomology and Wildlife Ecology
+**Seminar** 2018 University of Southern Mississippi, Department of Biological Sciences  
+**Seminar** 2018 University of Delaware, Department of Entomology and Wildlife Ecology  
 **Seminar** 2018 Gettysburg College, Department of Environmental Studies   
 **Seminar** 2018 Tulane University, Department of Ecology and Evolutionary Biology   
 **Seminar** 2017 University of Montreal, Department of Bioological Sciences  
@@ -247,7 +247,7 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
 ## Professional Development
-2018 **Introduction to Structured Deision Making** NCTC  
+2018 **Introduction to Structured Decision Making** NCTC  
 2017 **Adaptive Management: Structured Decision Making for Recurrent Decisions** NCTC  
 2017 **Bayesian Modeling for Ecological & Social Scientists** SESYNC, University of Maryland  
 2016 **Spatial Capture Recapture Workshop** University of Georgia    
