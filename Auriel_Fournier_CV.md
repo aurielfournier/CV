@@ -132,6 +132,7 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 
 ## Invited Presentations
 
+**Seminar** 2018 Louisiana State University, School of Renewable Natural   
 **Seminar** 2018 Mississippi State University, Department of Wildlife Fisheries and Aquaculture  
 **Seminar** 2018 University of Southern Mississippi, Department of Biological Sciences  
 **Seminar** 2018 University of Delaware, Department of Entomology and Wildlife Ecology  
@@ -159,6 +160,8 @@ MARTIN DURING THE NON-BREEDING SEASON *Texas Chapter of the Wildlife Society Ann
 
 1 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. 2013  Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
 
+
+2014 **Fournier, A.M.V.,** Krementz, D.G. 2014  The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*- AR
 ---> 
 
 2018 Ray, J. D., K. C. Fraser, **A. Fournier**, and A. Shave. 2018. Selection of island habitat by a Texas population of purple martin during the non-breeding season. 54rd TX Chapt. Wildl. Soc. Dallas, TX.   
@@ -181,7 +184,7 @@ Heard, S., **Fournier, A.M.V.,** Branch, T. Skelly, D. Why most studied populati
 
 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. Timing of Autumn Migration in the Mississippi Flyway by Rails. *Association of Field Ornithologists Meeting*  - NS [pdf link](http://doi.org/5ks)
 
-2014 **Fournier, A.M.V.,** Krementz, D.G. 2014  The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*- AR
+
 
 \newpage
 
