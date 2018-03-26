@@ -34,8 +34,6 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 ## Peer-Reviewed Publications In Review 
 *In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. *Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.*
 -
-*In Review* **Fournier, A.M.V., White, E.A, Heard, S.B. *How site-selection bias may drive apparent population declines in long-term studies*
--
 *In Review* **Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. *The False Promise of Unpaid Work: Detrimental Effects of Internships to Science Graduates* Careers*
 -
 **Fournier, A.M.V.,** Mengel, D.C., Gbur, E., Raedeke, A., Krementz, D.G. *Addressing uncertainty in wetland bird community response to early autumn wetland flooding in a structured decision-making framework*
@@ -84,7 +82,10 @@ In Review   *(copy available upon request)*
 
 Eulinger, K., McDaniel, T., Calvert, G., **Fournier, A.M.V.,** *Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)*
 
-Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and their effect on rails (Rallidae) as non-target species* 
+Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and their effect on rails (Rallidae) as non-target species*
+
+**Fournier, A.M.V.**, White, E.A, Heard, S.B. *Site-selection bias can drive apparent population declines in long-term studies*
+
 
 ## Honors 
 
@@ -100,6 +101,8 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 
 **Summer Undergrad Research Fellowship** Dr. David Flaspohler - Michigan Technological Uni. - 2009  
 
+
+**Ecosystem Science Center Undergraduate Research Grant** 2010 $750   
 -->
 
 **Travel Grant** 2017 $210 American Ornithological Society/Society of Canadian Ornithologists Conference  
@@ -114,7 +117,7 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 
 **Travel Grant** 2015 $320 American Ornithologists Union/Cooper Ornithological Society Conference  
 
-**Travel Grant** 2015 $500 Association of Field Ornithologists/Wilson Ornithological Society/Society of Canadian Ornithologists Conference
+**Travel Grant** 2015 $500 Association of Field Ornithologists Conference
 
 **The Frances M. Peacock Scholarship for Native Bird Habitat** 2015 $4000 
 
@@ -123,8 +126,6 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 **Summer Undergraduate Research Fellowship** 2011 $3000 
 
 **Ecosystem Science Center Undergraduate Research Grant** 2011 $750 
-
-**Ecosystem Science Center Undergraduate Research Grant** 2010 $750   
 
 **Summer Undergraduate Research Fellowship** 2009 $3000 
 
