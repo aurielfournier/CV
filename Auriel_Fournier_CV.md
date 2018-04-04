@@ -38,7 +38,6 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 -
 **Fournier, A.M.V.,** Mengel, D.C., Gbur, E., Raedeke, A., Krementz, D.G. *Addressing uncertainty in wetland bird community response to early autumn wetland flooding in a structured decision-making framework*
 -
-**Fournier, A.M.V.**, White, E.A, Heard, S.B. *Site-selection bias can drive apparent population declines in long-term studies*
 --->
 
 In Press
@@ -86,7 +85,7 @@ Eulinger, K., McDaniel, T., Calvert, G., **Fournier, A.M.V.,** *Juvenile King Ra
 
 Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and their effect on rails (Rallidae) as non-target species*
 
-
+**Fournier, A.M.V.**, White, E.A, Heard, S.B. *Site-selection bias can drive apparent population declines in long-term studies*
 
 
 ## Honors 
