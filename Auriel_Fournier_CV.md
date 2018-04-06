@@ -60,12 +60,11 @@ In Press
 
 **Fournier, A.M.V**, Sullivan, A., Bump, J., Perkins, M., Shieldcastle, M.C., King, S. [*Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf) **Journal of Applied Ecology** 54:618-627 doi:10.1111/1365-2664.12723   
 
+\newpage
+
 2016 
 
 **Fournier, A.M.V.**, Welsh, K.J., Polito, M., Emslie, S. Brasso, R. [*Levels of mercury in feathers of Clapper Rails over 45 Years in coastal salt marshes of New Hanover county, North Carolina*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Bulletin%20of%20Environmental%20Contamination%20and%20Toxicology.pdf) **Bulletin of Environmental Contamination & Toxicology** 97: 469-473 doi:10.1007/s00128-016-1870-z 
-
-
-\newpage
 
 2015
 
@@ -102,6 +101,11 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 
 <!--
 *PI* (declined) **National Science Foundation East Asia Pacific Summer Institute Program** 2016 
+-**Ecosystem Science Center Undergraduate Research Grant** 2011 $750 
+-
+**Ecosystem Science Center Undergraduate Research Grant** 2010 $750
+-
+**Travel Grant** 2015 $500 Association of Field Ornithologists Conference
 -->
 
 **Travel Grant** 2017 $210 American Ornithological Society/Society of Canadian Ornithologists Conference  
@@ -115,7 +119,7 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 
 **Travel Grant** 2015 $320 American Ornithologists Union/Cooper Ornithological Society Conference  
 
-**Travel Grant** 2015 $500 Association of Field Ornithologists Conference
+
 
 **The Frances M. Peacock Scholarship for Native Bird Habitat** 2015 $4000 
 
@@ -123,9 +127,7 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 
 **Summer Undergraduate Research Fellowship** 2011 $3000 
 
-**Ecosystem Science Center Undergraduate Research Grant** 2011 $750 
 
-**Ecosystem Science Center Undergraduate Research Grant** 2010 $750
 
 **Summer Undergraduate Research Fellowship** 2009 $3000   
 
