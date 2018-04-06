@@ -44,6 +44,8 @@ In Press
 
 **Fournier, A.M.V.**, Krementz, D.G. *Confirmation of diving and swimming behavior in the Sora (Porzana carolina)* **Wilson Journal of Ornithology** (copy available upon request)
 
+**Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. *Sora (_Porzana carolina_) autumn migration habitat use* **Royal Society Open Science** (copy available upon request)
+
 
 2017 
 
@@ -77,7 +79,7 @@ In Press
 
 In Review   *(copy available upon request)*
 
-**Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C. *Sora (_Porzana carolina_) autumn migration habitat use* 
+
 
 **Fournier, A.M.V.,** Shave, A., Fischer, J., Siegrist, J., Ray, J., Chesky, T., MacIntosh, M., Fraser, K. *Testing the island habitat-selection hypothesis in a long-distance migratory songbird* 
 
@@ -99,11 +101,7 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 ## Grants
 
 <!--
-
-**Summer Undergrad Research Fellowship** Dr. David Flaspohler - Michigan Technological Uni. - 2009  
-
-
-**Ecosystem Science Center Undergraduate Research Grant** 2010 $750   
+*PI* (declined) **National Science Foundation East Asia Pacific Summer Institute Program** 2016 
 -->
 
 **Travel Grant** 2017 $210 American Ornithological Society/Society of Canadian Ornithologists Conference  
@@ -112,7 +110,6 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 
 **Travel Grant** 2016 $200 North American Ornithological Conference
 
-*PI* (declined) **National Science Foundation East Asia Pacific Summer Institute Program** 2016 
 
 *Co-Investigator and Writer* **Missouri Department of Conservation Research Grant** 2015 $62,000 
 
@@ -128,7 +125,9 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 
 **Ecosystem Science Center Undergraduate Research Grant** 2011 $750 
 
-**Summer Undergraduate Research Fellowship** 2009 $3000 
+**Ecosystem Science Center Undergraduate Research Grant** 2010 $750
+
+**Summer Undergraduate Research Fellowship** 2009 $3000   
 
 \newpage
 
@@ -159,14 +158,19 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 <!---
 12 Ray, J.D., Fraser, K.C., **Fournier, A.M.V.,** Shave, A. 2018. SELECTION OF ISLAND HABITAT BY A TEXAS POPULATION OF PURPLE
 MARTIN DURING THE NON-BREEDING SEASON *Texas Chapter of the Wildlife Society Annual Meeting* 
-
 1 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. 2013  Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
-
-
 2014 **Fournier, A.M.V.,** Krementz, D.G. 2014  The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*- AR
+-
+**Fournier, A.M.V.,** Lyons, J.E., Adams, E.M., Brush, J., Cooper, R.J., DeMaso, S., Driscoll, M.,  Frederick, P., Gleason, J., Wilson, R., Woodrey, M.S., Guiding Coordinated Bird Monitoring Decisions Through Structured Decision Making. American Ornithological Society Meeting, Tucson, AZ
+-
+Woodrey, M.S., Cooper, R.J., Evans, K.O., Iglay, R., Rush, S.A., **Fournier, A.M.V.,** Strange, T. Application of monitoring Best Management Practices to marsh restoration priorities to reduce uncertainty of marsh birds response American Ornithological Society Meeting, Tucson, AZ
+- 
+Adams, E.M., **Fournier, A.M.V.,** Lyons, J.E., Woodrey, M.S. Using a structured decision making framework to support large-scale inference. American Ornithological Society Meeting, Tucson, AZ
+-
+**Fournier, A.M.V.,** Sullivan, A.R., Perkins, M., Shieldcastle, M.C., King, S.L., Drake, K.L., Tozer, D.C., Bump, J.K. Informing isotopic assignment of secretive marsh bird migratory connectivity with directed and opportunistic citizen science data. American Ornithological Society Meeting, Tucson, AZ
 ---> 
 
-2018 Ray, J. D., K. C. Fraser, **A. Fournier**, and A. Shave. 2018. Selection of island habitat by a Texas population of purple martin during the non-breeding season. 54rd TX Chapt. Wildl. Soc. Dallas, TX.   
+2018 Ray, J.D., Fraser, K.C. **Fournier, A.M.V.,** Shave, A. Selection of island habitat by a Texas population of purple martin during the non-breeding season. 54rd Texas Chapter Wildlife Society Dallas, TX.   
 
 2017 **Fournier, A.M.V.,** Woodrey, M.S., Lyons, J.E., Cooper, B.J., Evans, K.E. Application OF Structured Decision Making to Marshbird Monitoring in the Gulf of Mexico *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
 
@@ -235,6 +239,8 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 2017-Present **Elected Councilor** Wilson Ornithological Society  
 2017-Present **Associate Editor** The Ibis  
 2016-Present **Research Committee Member** Black Swamp Bird Observatory 
+-
+2018 **Presentation Judge** American Ornithological Society Meeting
 -->
     
 2017-Present **Committee Member** Erin Lehnert, MS Student, U of Central Oklahoma  
@@ -294,6 +300,10 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 von Hardenberg A et al. Editors: Francois Michonneau and Auriel Fournier. 2017. Data Carpentry: R for data analysis and visualization of Ecological Data. doi: 10.5281/zenodo.569338
 
 > **As Instructor**
+
+<!---
+- American Ornithological Society Conference - April 2018
+--->
 
 _Advanced R Programming and Graphing Workshop_   
 Developed materials and taught a day long workshop on programming, graphing, data management and building packages in R.   
