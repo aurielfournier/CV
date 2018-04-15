@@ -76,9 +76,7 @@ In Press
 
 **Fournier, A.M.V.**, Shieldcastle, M.C., Fries, A.C. and Bump, J.K.  [*A morphometric model to predict the sex of virginia rails*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al._2013_Wildlife%20Society%20Bulletin_A%20Morphometric%20Model%20to%20Predict%20the%20Sex%20of%20Virginia%20Rails%20(Rallus%20limicola).pdf)  **The Wildlife Society Bulletin** 27: 881-886 doi:10.1002/wsb.323 
 
-In Review   *(copy available upon request)*
-
-
+In Review 
 
 **Fournier, A.M.V.,** Shave, A., Fischer, J., Siegrist, J., Ray, J., Chesky, T., MacIntosh, M., Fraser, K. *Testing the island habitat-selection hypothesis in a long-distance migratory songbird* 
 
@@ -91,6 +89,7 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 
 ## Honors 
 
+2018 **Elective Member** - American Ornithological Society   
 2012-16 **Distinguished Doctoral Fellowship** - University of Arkansas  
 2016    **Distinguished Student Service Award** - The Wildlife Society U of Arkansas Student Chapter  
 2011    **Outstanding Senior in Wildlife Ecology and Management** - Michigan Technological University   
@@ -119,15 +118,11 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 
 **Travel Grant** 2015 $320 American Ornithologists Union/Cooper Ornithological Society Conference  
 
-
-
 **The Frances M. Peacock Scholarship for Native Bird Habitat** 2015 $4000 
 
 **Arkansas Audubon Society Trust** 2014 $1200   
 
 **Summer Undergraduate Research Fellowship** 2011 $3000 
-
-
 
 **Summer Undergraduate Research Fellowship** 2009 $3000   
 
@@ -135,6 +130,7 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 
 ## Invited Presentations
 
+**Symposium Talk** 2018 American Ornithological Society  
 **Seminar** 2018 Louisiana State University, School of Renewable Natural   
 **Seminar** 2018 Mississippi State University, Department of Wildlife Fisheries and Aquaculture  
 **Seminar** 2018 University of Southern Mississippi, Department of Biological Sciences  
@@ -158,21 +154,15 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 ## Presentations
 
 <!---
-12 Ray, J.D., Fraser, K.C., **Fournier, A.M.V.,** Shave, A. 2018. SELECTION OF ISLAND HABITAT BY A TEXAS POPULATION OF PURPLE
-MARTIN DURING THE NON-BREEDING SEASON *Texas Chapter of the Wildlife Society Annual Meeting* 
-1 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. 2013  Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
-2014 **Fournier, A.M.V.,** Krementz, D.G. 2014  The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*- AR
--
-**Fournier, A.M.V.,** Lyons, J.E., Adams, E.M., Brush, J., Cooper, R.J., DeMaso, S., Driscoll, M.,  Frederick, P., Gleason, J., Wilson, R., Woodrey, M.S., Guiding Coordinated Bird Monitoring Decisions Through Structured Decision Making. American Ornithological Society Meeting, Tucson, AZ
--
-Woodrey, M.S., Cooper, R.J., Evans, K.O., Iglay, R., Rush, S.A., **Fournier, A.M.V.,** Strange, T. Application of monitoring Best Management Practices to marsh restoration priorities to reduce uncertainty of marsh birds response American Ornithological Society Meeting, Tucson, AZ
-- 
-Adams, E.M., **Fournier, A.M.V.,** Lyons, J.E., Woodrey, M.S. Using a structured decision making framework to support large-scale inference. American Ornithological Society Meeting, Tucson, AZ
--
-**Fournier, A.M.V.,** Sullivan, A.R., Perkins, M., Shieldcastle, M.C., King, S.L., Drake, K.L., Tozer, D.C., Bump, J.K. Informing isotopic assignment of secretive marsh bird migratory connectivity with directed and opportunistic citizen science data. American Ornithological Society Meeting, Tucson, AZ
 ---> 
 
-2018 Ray, J.D., Fraser, K.C. **Fournier, A.M.V.,** Shave, A. Selection of island habitat by a Texas population of purple martin during the non-breeding season. 54rd Texas Chapter Wildlife Society Dallas, TX.   
+2018 **Fournier, A.M.V.,** Lyons, J.E., Adams, E.M., Brush, J., Cooper, R.J., DeMaso, S., Driscoll, M.,  Frederick, P., Gleason, J., Wilson, R., Woodrey, M.S., Guiding Coordinated Bird Monitoring Decisions Through Structured Decision Making. American Ornithological Society Meeting, Tucson, AZ
+
+Woodrey, M.S., Cooper, R.J., Evans, K.O., Iglay, R., Rush, S.A., **Fournier, A.M.V.,** Strange, T. Application of monitoring Best Management Practices to marsh restoration priorities to reduce uncertainty of marsh birds response American Ornithological Society Meeting, Tucson, AZ
+ 
+Adams, E.M., **Fournier, A.M.V.,** Lyons, J.E., Woodrey, M.S. Using a structured decision making framework to support large-scale inference. American Ornithological Society Meeting, Tucson, AZ
+
+Ray, J.D., Fraser, K.C. **Fournier, A.M.V.,** Shave, A. Selection of island habitat by a Texas population of purple martin during the non-breeding season. 54rd Texas Chapter Wildlife Society Dallas, TX.   
 
 2017 **Fournier, A.M.V.,** Woodrey, M.S., Lyons, J.E., Cooper, B.J., Evans, K.E. Application OF Structured Decision Making to Marshbird Monitoring in the Gulf of Mexico *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
 
@@ -192,9 +182,9 @@ Heard, S., **Fournier, A.M.V.,** Branch, T. Skelly, D. Why most studied populati
 
 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. Timing of Autumn Migration in the Mississippi Flyway by Rails. *Association of Field Ornithologists Meeting*  - NS [pdf link](http://doi.org/5ks)
 
+2014 **Fournier, A.M.V.,** Krementz, D.G. 2014  The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*- AR
 
-
-\newpage
+2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
 
 ## Technical Publications
 
@@ -294,6 +284,7 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2015 **Field Trip Leader** (2) The Biggest Week In American Birding Festival  
 2015 **Presentation** (3) Boys and Girls Club of Bentonville, Arkansas STEAM Program   
  
+\newpage
 
 ## Teaching
 
@@ -304,12 +295,12 @@ von Hardenberg A et al. Editors: Francois Michonneau and Auriel Fournier. 2017. 
 > **As Instructor**
 
 <!---
-- American Ornithological Society Conference - April 2018
 --->
 
 _Advanced R Programming and Graphing Workshop_   
 Developed materials and taught a day long workshop on programming, graphing, data management and building packages in R.   
 [Link to most recent Materials](https://github.com/aurielfournier/AOSSCO17)    
+- American Ornithological Society Conference - April 2018  
 - American Ornithological Society/Society of Canadian Ornithologists - August 2017  
 - North American Ornithological Conference - August 2016    
 - American Ornithologists Union Conference - July 2015    
@@ -323,7 +314,6 @@ Two-day workshops on reproducible research in R,  Unix Shell, and Git.
 - University of Connecticut, March 2016  
 - Iowa State University, November 2015
 
-\newpage
 
 > **As Tutor**
 
@@ -352,6 +342,8 @@ Oriented new students to campus resources, taught study skills.
 Michigan Technological University  
 Ornithology - 2011  
 Lead field trips, gave guest lecture, gave field quizzes. 
+
+\newpage
 
 ## Work Experience
 **Freelance Ecologist** October 2016-January 2017  
