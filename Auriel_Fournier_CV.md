@@ -92,6 +92,7 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 2018 **Elective Member** - American Ornithological Society   
 2012-16 **Distinguished Doctoral Fellowship** - University of Arkansas  
 2016    **Distinguished Student Service Award** - The Wildlife Society U of Arkansas Student Chapter  
+2015 [**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society   
 2011    **Outstanding Senior in Wildlife Ecology and Management** - Michigan Technological University   
 2010    **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
 2009    **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological University
@@ -122,14 +123,13 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 
 **Arkansas Audubon Society Trust** 2014 $1200   
 
-**Summer Undergraduate Research Fellowship** 2011 $3000 
-
-**Summer Undergraduate Research Fellowship** 2009 $3000   
+**Summer Undergraduate Research Fellowship** 2011 & 2009 $3000 
 
 \newpage
 
 ## Invited Presentations
 
+**Seminar** 2018 Water[@]Wayne Series - Wayne State University  
 **Symposium Talk** 2018 American Ornithological Society  
 **Seminar** 2018 Louisiana State University, School of Renewable Natural   
 **Seminar** 2018 Mississippi State University, Department of Wildlife Fisheries and Aquaculture  
@@ -369,7 +369,7 @@ Black Swamp Bird Observatory - Mark & Julie Shieldcastle - Spring and Fall 2004-
 **Wilderness First Aid** Wilderness Medicine Institute/NOLS (2/2016)   
 **CPR/First Aid** American Red Cross (12/2015)    
 **Instructor Training** [Software Carpentry & Data Carpentry](https://software-carpentry.org/index.html) - (5/2015)    
-[**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society - (3/2015)    
+   
 
 
 <!---
