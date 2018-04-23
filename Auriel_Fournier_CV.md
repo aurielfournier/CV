@@ -161,13 +161,13 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 ---> 
 
 2018   
-**Fournier, A.M.V.,** Lyons, J.E., Adams, E.M., Brush, J., Cooper, R.J., DeMaso, S., Driscoll, M.,  Frederick, P., Gleason, J., Wilson, R., Woodrey, M.S., Guiding Coordinated Bird Monitoring Decisions Through Structured Decision Making. American Ornithological Society Meeting, Tucson, AZ
+**Fournier, A.M.V.,** Lyons, J.E., Adams, E.M., Brush, J., Cooper, R.J., DeMaso, S., Driscoll, M.,  Frederick, P., Gleason, J., Wilson, R., Woodrey, M.S., Guiding Coordinated Bird Monitoring Decisions Through Structured Decision Making. *American Ornithological Society Meeting* Tucson, AZ
 
-Woodrey, M.S., Cooper, R.J., Evans, K.O., Iglay, R., Rush, S.A., **Fournier, A.M.V.,** Strange, T. Application of monitoring Best Management Practices to marsh restoration priorities to reduce uncertainty of marsh birds response American Ornithological Society Meeting, Tucson, AZ
+Woodrey, M.S., Cooper, R.J., Evans, K.O., Iglay, R., Rush, S.A., **Fournier, A.M.V.,** Strange, T. Application of monitoring Best Management Practices to marsh restoration priorities to reduce uncertainty of marsh birds response *American Ornithological Society Meeting* Tucson, AZ
  
-Adams, E.M., **Fournier, A.M.V.,** Lyons, J.E., Woodrey, M.S. Using a structured decision making framework to support large-scale inference. American Ornithological Society Meeting, Tucson, AZ
+Adams, E.M., **Fournier, A.M.V.,** Lyons, J.E., Woodrey, M.S. Using a structured decision making framework to support large-scale inference. *American Ornithological Society Meeting* Tucson, AZ
 
-Ray, J.D., Fraser, K.C. **Fournier, A.M.V.,** Shave, A. Selection of island habitat by a Texas population of purple martin during the non-breeding season. 54rd Texas Chapter Wildlife Society Dallas, TX.   
+Ray, J.D., Fraser, K.C. **Fournier, A.M.V.,** Shave, A. Selection of island habitat by a Texas population of purple martin during the non-breeding season. *54rd Texas Chapter Wildlife Society* Dallas, TX.   
 
 2017   
 **Fournier, A.M.V.,** Woodrey, M.S., Lyons, J.E., Cooper, B.J., Evans, K.E. Application OF Structured Decision Making to Marshbird Monitoring in the Gulf of Mexico *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
@@ -208,14 +208,14 @@ Heard, S., **Fournier, A.M.V.,** Branch, T. Skelly, D. Why most studied populati
 **Fournier, A.M.V.**, Mengel, D.C. The timing of autumn rail migration in Missouri *Missouri Department of Conservation Science Note*
 
 2016  
-**Fournier, A.M.V.,** Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails on Intensively-Managed Wetland Complexes in Missouri : Final Report USFWS Division of Migratory Birds Webless Program [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/EffectsofWetlandMgtStrategiesOnHabitatUseOfFallMigratingRails.pdf)
+**Fournier, A.M.V.,** Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails on Intensively-Managed Wetland Complexes in Missouri : *Final Report USFWS Division of Migratory Birds Webless Program* [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/EffectsofWetlandMgtStrategiesOnHabitatUseOfFallMigratingRails.pdf)
 
 2015   
-**Fournier, A.M.V.,** K. Willard. King Rail Nesting and Brood Rearing Ecology in Managed Wetlands: Final Report USFWS Division of Migratory Birds Webless Program [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/KingRailNesting&BroodRearingEcologyInManagedWetlands_FinalReport.pdf)
+**Fournier, A.M.V.,** K. Willard. King Rail Nesting and Brood Rearing Ecology in Managed Wetlands: *Final Report USFWS Division of Migratory Birds Webless Program* [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/KingRailNesting&BroodRearingEcologyInManagedWetlands_FinalReport.pdf)
 
-Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, Nelson's Sparrows and Sedge Wrens. U.S. Fish and Wildlife Service (Region 3) and Prairie Pothole Joint Venture. 
+Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, Nelson's Sparrows and Sedge Wrens. *U.S. Fish and Wildlife Service (Region 3) and Prairie Pothole Joint Venture.* 
 
-Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, and Sedge Wrens. U.S. Forest Service
+Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, and Sedge Wrens. *U.S. Forest Service*
 
 \newpage 
 
