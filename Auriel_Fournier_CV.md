@@ -129,34 +129,39 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 
 ## Invited Presentations
 
-**Seminar** 2018 Water[@]Wayne Series - Wayne State University  
-**Symposium Talk** 2018 American Ornithological Society  
-**Seminar** 2018 Louisiana State University, School of Renewable Natural   
-**Seminar** 2018 Mississippi State University, Department of Wildlife Fisheries and Aquaculture  
-**Seminar** 2018 University of Southern Mississippi, Department of Biological Sciences  
-**Seminar** 2018 University of Delaware, Department of Entomology and Wildlife Ecology  
-**Seminar** 2018 Gettysburg College, Department of Environmental Studies   
-**Seminar** 2018 Tulane University, Department of Ecology and Evolutionary Biology   
-**Seminar** 2017 University of Montreal, Department of Bioological Sciences  
-**Seminar** 2017 Grand Bay National Estuarine Research Reserve  
-**Symposium Talk** 2017 American Ornithological Society/Society of Canadian Ornithologists      
-**Seminar** 2017 Royal Society for the Protection of Birds, Centre for Conservation Science, UK Headquarters     
-**Talk** 2017  Mississippi Coast Audubon Society     
-**Symposium Talk** 2017  International Association of Great Lake Researchers   
-**Seminar** 2017  Bird Studies Canada     
-**Keynote** 2017  The Biggest Week in American Birding Festival       
-**Seminar** 2017  Missouri State University, Department of Biological Sciences   
-**Keynote** 2016  Ohio Ornithological Society Annual Conference     
-**Talk** 2016  Arkansas Audubon Society Annual Conference      
-**Seminar** 2016  University of Toledo, Department of Environmental Sciences   
-**Seminar** 2014  Arkansas Tech University, Department of Biological Sciences
+2018   
+**Seminar** Water[@]Wayne Series - Wayne State University  
+**Symposium Talk** American Ornithological Society  
+**Seminar** Louisiana State University, School of Renewable Natural   
+**Seminar** Mississippi State University, Department of Wildlife Fisheries and Aquaculture  
+**Seminar** University of Southern Mississippi, Department of Biological Sciences  
+**Seminar** University of Delaware, Department of Entomology and Wildlife Ecology  
+**Seminar** Gettysburg College, Department of Environmental Studies   
+**Seminar** Tulane University, Department of Ecology and Evolutionary Biology   
+2017   
+**Seminar** University of Montreal, Department of Bioological Sciences  
+**Seminar** Grand Bay National Estuarine Research Reserve  
+**Symposium Talk** American Ornithological Society/Society of Canadian Ornithologists      
+**Seminar** Royal Society for the Protection of Birds, Centre for Conservation Science, UK Headquarters     
+**Talk** Mississippi Coast Audubon Society     
+**Symposium Talk** International Association of Great Lake Researchers   
+**Seminar** Bird Studies Canada     
+**Keynote** The Biggest Week in American Birding Festival       
+**Seminar** Missouri State University, Department of Biological Sciences   
+2016   
+**Keynote** Ohio Ornithological Society Annual Conference     
+**Talk** Arkansas Audubon Society Annual Conference      
+**Seminar** University of Toledo, Department of Environmental Sciences   
+2014   
+**Seminar** Arkansas Tech University, Department of Biological Sciences
 
 ## Presentations
 
 <!---
 ---> 
 
-2018 **Fournier, A.M.V.,** Lyons, J.E., Adams, E.M., Brush, J., Cooper, R.J., DeMaso, S., Driscoll, M.,  Frederick, P., Gleason, J., Wilson, R., Woodrey, M.S., Guiding Coordinated Bird Monitoring Decisions Through Structured Decision Making. American Ornithological Society Meeting, Tucson, AZ
+2018   
+**Fournier, A.M.V.,** Lyons, J.E., Adams, E.M., Brush, J., Cooper, R.J., DeMaso, S., Driscoll, M.,  Frederick, P., Gleason, J., Wilson, R., Woodrey, M.S., Guiding Coordinated Bird Monitoring Decisions Through Structured Decision Making. American Ornithological Society Meeting, Tucson, AZ
 
 Woodrey, M.S., Cooper, R.J., Evans, K.O., Iglay, R., Rush, S.A., **Fournier, A.M.V.,** Strange, T. Application of monitoring Best Management Practices to marsh restoration priorities to reduce uncertainty of marsh birds response American Ornithological Society Meeting, Tucson, AZ
  
@@ -164,27 +169,32 @@ Adams, E.M., **Fournier, A.M.V.,** Lyons, J.E., Woodrey, M.S. Using a structured
 
 Ray, J.D., Fraser, K.C. **Fournier, A.M.V.,** Shave, A. Selection of island habitat by a Texas population of purple martin during the non-breeding season. 54rd Texas Chapter Wildlife Society Dallas, TX.   
 
-2017 **Fournier, A.M.V.,** Woodrey, M.S., Lyons, J.E., Cooper, B.J., Evans, K.E. Application OF Structured Decision Making to Marshbird Monitoring in the Gulf of Mexico *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
+2017   
+**Fournier, A.M.V.,** Woodrey, M.S., Lyons, J.E., Cooper, B.J., Evans, K.E. Application OF Structured Decision Making to Marshbird Monitoring in the Gulf of Mexico *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
 
 Heard, S., **Fournier, A.M.V.,** Branch, T. Skelly, D. Why most studied populations should decline. *Canadian Society for Ecology and Evolution*
 
 **Fournier, A.M.V.,** Mengel, D.C., Krementz, D.G. Habitat Use and Migratory Timing of Virginia and Yellow Rails. *Wilson Ornithological Society Meeting, Fort Meyers, FL* [pdf link](https://figshare.com/articles/Virginia_and_Yellow_Rail_Autumn_Migration_Phenology_and_Habitat_Use/4724296)
 
-2016 **Fournier, A.M.V.,** Drake, K., Tozer, D., Krementz, D.G. Migratory Connectivity of Sora, Virginia Rail and Yellow Rail. *North American Ornithological Conference, Washington D.C.* [pdf link](https://figshare.com/articles/Migratory_Connectivity_of_Sora_Virginia_and_Yellow_Rails/3565578) [recording](https://www.periscope.tv/w/1rmGPDyEAnyGN)
+2016   
+**Fournier, A.M.V.,** Drake, K., Tozer, D., Krementz, D.G. Migratory Connectivity of Sora, Virginia Rail and Yellow Rail. *North American Ornithological Conference, Washington D.C.* [pdf link](https://figshare.com/articles/Migratory_Connectivity_of_Sora_Virginia_and_Yellow_Rails/3565578) [recording](https://www.periscope.tv/w/1rmGPDyEAnyGN)
 
 **Fournier, A.M.V.** Building Collaboration and Community in Science Through Twitter. North American Ornithological Conference, Twitter for Scientists Workshop, Washington D.C. 
 
 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. Habitat Use by Autumn Migrating Sora in the Mississippi Flyway *Society of Wetland Scientists* - TX [pdf link](https://figshare.com/articles/Habitat_Use_of_Autumn_Migrating_Sora_in_the_Mississippi_Flyway/3398683)
 
-2015 **Fournier, A.M.V.,** Drake, K. Active Capture of Rails During the Breeding Season and Fall Migration. *Inland Bird Banders Association Meeting* - MS [pdf link](http://figshare.com/articles/Active_Capture_Methods_for_Rails_During_the_Breeding_Season_and_Fall_MIgration/1598135)
+2015   
+**Fournier, A.M.V.,** Drake, K. Active Capture of Rails During the Breeding Season and Fall Migration. *Inland Bird Banders Association Meeting* - MS [pdf link](http://figshare.com/articles/Active_Capture_Methods_for_Rails_During_the_Breeding_Season_and_Fall_MIgration/1598135)
 
 **Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. Combining Citizen Science Derived Species Distribution Models and Stable Isotope Analysis Reveals Migratory Connectivity in a Secretive Species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* - OK [pdf link](http://doi.org/5m5)
 
 **Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. Timing of Autumn Migration in the Mississippi Flyway by Rails. *Association of Field Ornithologists Meeting*  - NS [pdf link](http://doi.org/5ks)
 
-2014 **Fournier, A.M.V.,** Krementz, D.G. 2014  The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*- AR
+2014   
+**Fournier, A.M.V.,** Krementz, D.G. 2014  The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*- AR
 
-2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
+2013   
+**Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
 
 ## Technical Publications
 
@@ -194,30 +204,39 @@ Heard, S., **Fournier, A.M.V.,** Branch, T. Skelly, D. Why most studied populati
 5 **Fournier, A.M.V.** 2017 Nocturnal Distance Sampling All-Terrain Vehicle Surveys for Non-Breeding Rails *Missouri Department of Conservation Science Note* [pdf] 
 --->
 
-2016 **Fournier, A.M.V.**, Mengel, D.C. 2017 The timing of autumn rail migration in Missouri *Missouri Department of Conservation Science Note*
+2017   
+**Fournier, A.M.V.**, Mengel, D.C. The timing of autumn rail migration in Missouri *Missouri Department of Conservation Science Note*
 
-2016 **Fournier, A.M.V.,** 2016. Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails on Intensively-Managed Wetland Complexes in Missouri : Final Report USFWS Division of Migratory Birds Webless Program [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/EffectsofWetlandMgtStrategiesOnHabitatUseOfFallMigratingRails.pdf)
+2016  
+**Fournier, A.M.V.,** Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails on Intensively-Managed Wetland Complexes in Missouri : Final Report USFWS Division of Migratory Birds Webless Program [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/EffectsofWetlandMgtStrategiesOnHabitatUseOfFallMigratingRails.pdf)
 
-2015 **Fournier, A.M.V.,** K. Willard. 2015. King Rail Nesting and Brood Rearing Ecology in Managed Wetlands: Final Report USFWS Division of Migratory Birds Webless Program [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/KingRailNesting&BroodRearingEcologyInManagedWetlands_FinalReport.pdf)
+2015   
+**Fournier, A.M.V.,** K. Willard. King Rail Nesting and Brood Rearing Ecology in Managed Wetlands: Final Report USFWS Division of Migratory Birds Webless Program [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/KingRailNesting&BroodRearingEcologyInManagedWetlands_FinalReport.pdf)
 
 Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, Nelson's Sparrows and Sedge Wrens. U.S. Fish and Wildlife Service (Region 3) and Prairie Pothole Joint Venture. 
 
 Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, and Sedge Wrens. U.S. Forest Service
 
+\newpage 
 
 ## Posters
 
-2017 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. Comparison of Arrival Dates of Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA *International Association of Great Lakes Researchers Conference* - MI [pdf](https://figshare.com/articles/Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes/4726315)
+2017    
+**Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. Comparison of Arrival Dates of Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA *International Association of Great Lakes Researchers Conference* - MI [pdf](https://figshare.com/articles/Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes/4726315)
 
-2014 **Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H., Sora Migration and Wetland Management *The Wildlife Society National Conference* - PA [pdf](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
+2014   
+**Fournier, A.M.V.**, Krementz, D.G., Mengel, D.C., Raedeke, A.H., Sora Migration and Wetland Management *The Wildlife Society National Conference* - PA [pdf](http://figshare.com/articles/Sora_migration_and_Wetland_Management/1226634)
 
-2013 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Ecology of Fall Migrating Sora in Missouri. *The Wildlife Society National Conference* - WI [pdf](http://figshare.com/articles/The_Ecology_of_Fall_Migrating_Sora_in_Missouri/840571)
+2013   
+**Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H., Ecology of Fall Migrating Sora in Missouri. *The Wildlife Society National Conference* - WI [pdf](http://figshare.com/articles/The_Ecology_of_Fall_Migrating_Sora_in_Missouri/840571)
 
-2011 **Fournier, A.M.V.,** Sheildcastle, M.C., Fries, A.C., Bump, J.K., 2011 Developing a morphometric model to predict the sex of Virginia Rails. *The Wildlife Society National Conference* - HI [pdf](http://figshare.com/articles/Developing_a_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails/1320946)
+2011   
+**Fournier, A.M.V.,** Sheildcastle, M.C., Fries, A.C., Bump, J.K., 2011 Developing a morphometric model to predict the sex of Virginia Rails. *The Wildlife Society National Conference* - HI [pdf](http://figshare.com/articles/Developing_a_Morphometric_Model_to_Predict_the_Sex_of_Virginia_Rails/1320946)
 
 **Fournier, A.M.V.,** Roth, A.M., Flaspohler, D.J., 2011 Assessing mechanisms for variation in the eyes of Golden-winged Warblers *Ecosystem Science Center Poster Session* - MI  [pdf](http://figshare.com/articles/What_can_their_eyes_tell_us_Assessing_the_relationship_between_eye_spotting_age_and_breeding_location_of_Golden_winged_Warblers/1320945)
 
-2010 **Fournier, A.M.V.,** Flaspohler, D.J., 2010 Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
+2010   
+**Fournier, A.M.V.,** Flaspohler, D.J., 2010 Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
 ## Service 
 
@@ -260,31 +279,6 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 2014 **Applied Hierarchical Modeling Workshop** Patuxent Wildlife Research Center/Royle & Kery       
 2013 **'Adehabitat' R Package Workshop** The Wildlife Society National Con/James Sheppard      
 2013 **Occupancy Modeling Short Course** Darryl MacKenzie    
-
-## Outreach  
-
-<!---
-2011 **Outdoor Educator** W. U.P. Center for Science, Math and Envi. Education   
-2011 **Owl Survey Volunteer** Michigan Bird Conservation Initiative  
-2009 **Presentation** Kirtland Bird Club - Cleveland, OH  
-2011 **North American Breeding Bird Surveyor** U.S. Geological Survey  
-2003-9 **Bird Bander** Black Swamp Bird Observatory 
--->
-2016-17 **#SkypeWithAScientist** 8 Classrooms across the US  
-2013-17 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
-Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
-2013-17 **Science Fair Judge** (7) Regional/Local Science Fairs NW Arkansas    
-2015-16 **Editor** Science and Math Section Editor of [Science Borealis](http://scienceborealis.ca/)     
-2015-16 **Bird Banding Demonstration** (3) Camp War Eagle Summer Camp, Arkansas   
-2015-6 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for [Biotweeps](https://biotweep.wordpress.com/about/)    
-2016 **Presentation** Arkansas Audubon Society Annual Meeting [presentation](https://dx.doi.org/10.6084/m9.figshare.3206122.v1)  
-2015 **RealScientist Curator** Curating a week of tweets to 30k+ people about my research for [RealScientists](http://realscientists.org/)    
-2014-5 **Presentation** (4) Local Library Science Program, AR     
-2013-5 **Presentation** (3) Springdale Alternative High School, Springdale, AR    
-2015 **Field Trip Leader** (2) The Biggest Week In American Birding Festival  
-2015 **Presentation** (3) Boys and Girls Club of Bentonville, Arkansas STEAM Program   
- 
-\newpage
 
 ## Teaching
 
@@ -344,6 +338,31 @@ Ornithology - 2011
 Lead field trips, gave guest lecture, gave field quizzes. 
 
 \newpage
+
+
+## Outreach  
+
+<!---
+2011 **Outdoor Educator** W. U.P. Center for Science, Math and Envi. Education   
+2011 **Owl Survey Volunteer** Michigan Bird Conservation Initiative  
+2009 **Presentation** Kirtland Bird Club - Cleveland, OH  
+2011 **North American Breeding Bird Surveyor** U.S. Geological Survey  
+2003-9 **Bird Bander** Black Swamp Bird Observatory 
+-->
+2016-17 **#SkypeWithAScientist** 8 Classrooms across the US  
+2013-17 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
+Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
+2013-17 **Science Fair Judge** (7) Regional/Local Science Fairs NW Arkansas    
+2015-16 **Editor** Science and Math Section Editor of [Science Borealis](http://scienceborealis.ca/)     
+2015-16 **Bird Banding Demonstration** (3) Camp War Eagle Summer Camp, Arkansas   
+2015-6 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for [Biotweeps](https://biotweep.wordpress.com/about/)    
+2016 **Presentation** Arkansas Audubon Society Annual Meeting [presentation](https://dx.doi.org/10.6084/m9.figshare.3206122.v1)  
+2015 **RealScientist Curator** Curating a week of tweets to 30k+ people about my research for [RealScientists](http://realscientists.org/)    
+2014-5 **Presentation** (4) Local Library Science Program, AR     
+2013-5 **Presentation** (3) Springdale Alternative High School, Springdale, AR    
+2015 **Field Trip Leader** (2) The Biggest Week In American Birding Festival  
+2015 **Presentation** (3) Boys and Girls Club of Bentonville, Arkansas STEAM Program   
+ 
 
 ## Work Experience
 **Freelance Ecologist** October 2016-January 2017  
