@@ -130,6 +130,7 @@ Ward, S., **Fournier, A.M.V.,** Bond, A.L. *Rodent eradications on islands and t
 ## Invited Presentations
 
 2018   
+**Keynote** Oklahoma Ornithological Society Spring Meeting  
 **Seminar** Water[@]Wayne Series - Wayne State University  
 **Symposium Talk** American Ornithological Society  
 **Seminar** Louisiana State University, School of Renewable Natural   
