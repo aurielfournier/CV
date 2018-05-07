@@ -55,7 +55,7 @@ In Press
 
 **Fournier, AMV**, Mengel, DC, Krementz, DG. [*Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets*](https://www.degruyter.com/downloadpdf/j/ami.2017.4.issue-1/ami-2017-0003/ami-2017-0003.pdf) **Animal Migration** 4:15-22 DOI: 10.1515/ami-2017-0003 
 
-**Fournier, AMV**, Drake KL, Tozer DC. [*Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20Drake%20Tozer%202017%20Journal%20of%20Avian%20Biology.pdf)  **Journal of Avian Biology** doi:10.1111/jav.01273 
+**Fournier, AMV**, Drake KL, Tozer DC. [*Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20Drake%20Tozer%202017%20Journal%20of%20Avian%20Biology.pdf)  **Journal of Avian Biology** 48: 1556-1562 doi:10.1111/jav.01273 
 
 **Fournier, AMV**, Krementz, DG. [*Nocturnal distance sampling all-terrain vehicle surveys for non-breeding rails*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2017-Wildlife_Society_Bulletin.pdf) **The Wildlife Society Bulletin** 41:151-156 doi:10.1002/wsb.745 
 
