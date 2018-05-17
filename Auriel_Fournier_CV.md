@@ -46,7 +46,7 @@ In Press
 
 2018
 
-**Fournier AMV**, Mengel DC, Krementz DG. *Sora (Porzana carolina) autumn migration habitat use.* **Royal Society Open Science**. 5: 171664. 10.1098/rsos.171664
+**Fournier AMV**, Mengel DC, Krementz DG. [*Sora (Porzana carolina) autumn migration habitat use.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2018_sora_habitat.pdf) **Royal Society Open Science**. 5: 171664. 10.1098/rsos.171664
 
 2017 
 
