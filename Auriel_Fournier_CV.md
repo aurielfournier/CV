@@ -254,6 +254,8 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 2016-Present **Research Committee Member** Black Swamp Bird Observatory 
 -
 2018 **Presentation Judge** American Ornithological Society Meeting
+2010 **Career Panel Member** Ohio Young Birder's Club Conference  
+
 -->
     
 2017-Present **Committee Member** Erin Lehnert, MS Student, U of Central Oklahoma  
@@ -268,9 +270,9 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 2014-15 Secretary **Student Chapter - University of Arkansas** The Wildlife Society    
 2013-14 Treasurer **Student Chapter - University of Arkansas** The Wildlife Society  
 2013-14 Vice President **Biology Graduate Student Assocation** University of Arkansas   
-2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
 ## Professional Development
+2018 **ROpenSci Unconference** Seattle, WA  
 2018 **Introduction to Structured Decision Making** NCTC  
 2017 **Adaptive Management: Structured Decision Making for Recurrent Decisions** NCTC  
 2017 **Bayesian Modeling for Ecological & Social Scientists** SESYNC, University of Maryland  
