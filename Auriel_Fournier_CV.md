@@ -255,9 +255,11 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 -
 2018 **Presentation Judge** American Ornithological Society Meeting
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
-
+2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas 
+2013-14 Vice President **Biology Graduate Student Assocation** University of Arkansas   
 -->
-    
+
+2018-Present Co-Chair **Early Professional Development Committee** American Ornithological Society     
 2017-Present **Committee Member** Erin Lehnert, MS Student, U of Central Oklahoma  
 2013-Present **Peer Reviewer** 13 journals   
 2017 **Presentation Judge** Wilson Ornithological Society Meeting  
@@ -265,11 +267,10 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 2015-17 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society    
 2014-16 Treasurer **Biology Graduate Student Assocation** University of Arkansas  
 2015 **Presentation Judge** Association of Field Ornithology, Wilson Ornithological Society, Society of Canadian Ornithologists Meeting   
-2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas  
 2014-15 Treasurer **Student Working Group** The Wildlife Society    
 2014-15 Secretary **Student Chapter - University of Arkansas** The Wildlife Society    
 2013-14 Treasurer **Student Chapter - University of Arkansas** The Wildlife Society  
-2013-14 Vice President **Biology Graduate Student Assocation** University of Arkansas   
+
 
 ## Professional Development
 2018 **ROpenSci Unconference** Seattle, WA  
