@@ -38,6 +38,7 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 -
 **Fournier, A.M.V.,** Mengel, D.C., Gbur, E., Raedeke, A., Krementz, D.G. *Addressing uncertainty in wetland bird community response to early autumn wetland flooding in a structured decision-making framework*
 -
+Ward, S, **Fournier, AMV,** Bond, AL. *Rodent eradications on islands and their effect on rails (Rallidae) as non-target species*
 --->
 
 In Press
@@ -82,8 +83,6 @@ In Review
 **Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. *Testing the island habitat-selection hypothesis in a long-distance migratory songbird* 
 
 Eulinger, K, McDaniel, T, Calvert, G, **Fournier, AMV.** *Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)*
-
-Ward, S, **Fournier, AMV,** Bond, AL. *Rodent eradications on islands and their effect on rails (Rallidae) as non-target species*
 
 **Fournier, AMV**, White, EA, Heard, SB. *Site-selection bias can drive apparent population declines in long-term studies*
 
