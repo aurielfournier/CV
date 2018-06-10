@@ -159,9 +159,16 @@ Eulinger, K, McDaniel, T, Calvert, G, **Fournier, AMV.** *Juvenile King Rail (Ra
 ## Presentations
 
 <!---
+2013   
+**Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
 ---> 
 
-2018   
+2018     
+
+Woodrey, M.S., **Fournier, A.M.V.,** Wilson, R.R., Gleason, J., Lyons, J., Cooper, R.J., Tirpak, J. Application of structured decision making in the development of a Gulf of Mexico-wide avian monitoring program *Assoc of Field Ornithologists/Wilson Ornithological Soc Meeting* Chattanooga, TN  
+
+Ward, S., **Fournier, A.M.V.,** Bond A.L. Rodent eradications on islands and their effect on rails (Rallidae) as non-target species *Assoc of Field Ornithologists/Wilson Ornithological Soc Meeting* Chattanooga, TN
+  
 **Fournier, A.M.V.,** Lyons, J.E., Adams, E.M., Brush, J., Cooper, R.J., DeMaso, S., Driscoll, M.,  Frederick, P., Gleason, J., Wilson, R., Woodrey, M.S., Guiding Coordinated Bird Monitoring Decisions Through Structured Decision Making. *American Ornithological Society Meeting* Tucson, AZ
 
 Woodrey, M.S., Cooper, R.J., Evans, K.O., Iglay, R., Rush, S.A., **Fournier, A.M.V.,** Strange, T. Application of monitoring Best Management Practices to marsh restoration priorities to reduce uncertainty of marsh birds response *American Ornithological Society Meeting* Tucson, AZ
@@ -169,6 +176,8 @@ Woodrey, M.S., Cooper, R.J., Evans, K.O., Iglay, R., Rush, S.A., **Fournier, A.M
 Adams, E.M., **Fournier, A.M.V.,** Lyons, J.E., Woodrey, M.S. Using a structured decision making framework to support large-scale inference. *American Ornithological Society Meeting* Tucson, AZ
 
 Ray, J.D., Fraser, K.C. **Fournier, A.M.V.,** Shave, A. Selection of island habitat by a Texas population of purple martin during the non-breeding season. *54rd Texas Chapter Wildlife Society* Dallas, TX.   
+
+\newpage
 
 2017   
 **Fournier, A.M.V.,** Woodrey, M.S., Lyons, J.E., Cooper, B.J., Evans, K.E. Application OF Structured Decision Making to Marshbird Monitoring in the Gulf of Mexico *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
@@ -194,8 +203,6 @@ Heard, S., **Fournier, A.M.V.,** Branch, T. Skelly, D. Why most studied populati
 2014   
 **Fournier, A.M.V.,** Krementz, D.G. 2014  The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*- AR
 
-2013   
-**Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
 
 ## Technical Publications
 
@@ -260,12 +267,14 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 
 2018-Present Co-Chair **Early Professional Development Committee** American Ornithological Society     
 2017-Present **Committee Member** Erin Lehnert, MS Student, U of Central Oklahoma  
-2013-Present **Peer Reviewer** 13 journals   
+2013-Present **Peer Reviewer** 13 journals     
+2018 **Local Organizing Committee** Assoc. of Field Ornith. & Wilson Ornith. Soc. Meeting   
+2018 **Presentation Judge** Assoc. of Field Ornith. & Wilson Ornith. Soc. Meeting  
 2017 **Presentation Judge** Wilson Ornithological Society Meeting  
 2016-17 Vice Chair **Open Science Section** Ecological Society of America  
 2015-17 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society    
 2014-16 Treasurer **Biology Graduate Student Assocation** University of Arkansas  
-2015 **Presentation Judge** Association of Field Ornithology, Wilson Ornithological Society, Society of Canadian Ornithologists Meeting   
+2015 **Presentation Judge** Assoc. of Field Ornith., Wilson Ornith. Soc., Soc. of Canadian Ornith. Meeting   
 2014-15 Treasurer **Student Working Group** The Wildlife Society    
 2014-15 Secretary **Student Chapter - University of Arkansas** The Wildlife Society    
 2013-14 Treasurer **Student Chapter - University of Arkansas** The Wildlife Society  
