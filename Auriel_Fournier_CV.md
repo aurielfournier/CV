@@ -165,6 +165,8 @@ Eulinger, K, McDaniel, T, Calvert, G, **Fournier, AMV.** *Juvenile King Rail (Ra
 
 2018     
 
+**Fournier, A.M.V.,** Woodrey, M.S., Wilson, R.R., Gleason, J., Lyons, J., Cooper, R.J., Tirpak, J. Coordinated Bird Monitoring Through Decision Science *SESYNC Boundary Spanning International Symposium* Annapolis, MD
+
 Woodrey, M.S., **Fournier, A.M.V.,** Wilson, R.R., Gleason, J., Lyons, J., Cooper, R.J., Tirpak, J. Application of structured decision making in the development of a Gulf of Mexico-wide avian monitoring program *Assoc of Field Ornithologists/Wilson Ornithological Soc Meeting* Chattanooga, TN  
 
 Ward, S., **Fournier, A.M.V.,** Bond A.L. Rodent eradications on islands and their effect on rails (Rallidae) as non-target species *Assoc of Field Ornithologists/Wilson Ornithological Soc Meeting* Chattanooga, TN
