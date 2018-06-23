@@ -399,7 +399,7 @@ Black Swamp Bird Observatory - Mark & Julie Shieldcastle - Spring and Fall 2004-
 
 ## Professional Licenses and Certifications
 
-**Sub-permit bird banding license holder in US and Canada** 13 years experience, 7000+ birds  
+**Master Bander License Holder. Previously sub permitted in US and Canada for 13 years** 14 years experience, 7000+ birds  
 **Wilderness First Aid** Wilderness Medicine Institute/NOLS (2/2016)   
 **CPR/First Aid** American Red Cross (12/2015)    
 **Instructor Training** [Software Carpentry & Data Carpentry](https://software-carpentry.org/index.html) - (5/2015)    
