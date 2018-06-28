@@ -6,8 +6,7 @@ Auriel M.V. Fournier
 =============================
 Postdoctoral Research Associate - Mississippi State University, Biloxi, MS   
 1815 Popps Ferry Rd, Biloxi, MS 39532 - aurielfournier@gmail.com - 419.307.6261  
-[aurielfournier.github.io](http://aurielfournier.github.io/) - [Github Profile](https://github.com/aurielfournier)   
-[Google Scholar Profile](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) - [Twitter \@RallidaeRule](https://twitter.com/RallidaeRule)  
+[aurielfournier.github.io](http://aurielfournier.github.io/) - [Github Profile](https://github.com/aurielfournier)  - [Google Scholar Profile](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) - [Twitter \@RallidaeRule](https://twitter.com/RallidaeRule)  
 
 ## Professional Appointments and Education
 
@@ -84,7 +83,7 @@ In Review
 
 Eulinger, K, McDaniel, T, Calvert, G, **Fournier, AMV.** *Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)*
 
-**Fournier, AMV**, White, EA, Heard, SB. *Site-selection bias can drive apparent population declines in long-term studies*
+**Fournier, A.M.V.,** Mengel, D.C., Gbur, E., Raedeke, A., Krementz, D.G. *Addressing uncertainty in wetland bird community response to early autumn wetland inundation*
 
 
 ## Honors 
