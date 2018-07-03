@@ -42,7 +42,7 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Rodent eradications on islands and their 
 
 In Press
 
-**Fournier, AMV**, Krementz, DG. *Confirmation of diving and swimming behavior in the Sora (Porzana carolina)* **Wilson Journal of Ornithology** (copy available upon request)
+**Fournier, AMV**, Krementz, DG. *Confirmation of diving and swimming behavior in the Sora (Porzana carolina)* **Wilson Journal of Ornithology**  130(3) [pdf](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20and%20Krementz%202018%20-%20Wilson%20Journal%20of%20Ornithology.pdf)
 
 2018
 
