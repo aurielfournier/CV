@@ -35,8 +35,6 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 -
 *In Review* **Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. *The False Promise of Unpaid Work: Detrimental Effects of Internships to Science Graduates* Careers*
 -
-**Fournier, A.M.V.,** Mengel, D.C., Gbur, E., Raedeke, A., Krementz, D.G. *Addressing uncertainty in wetland bird community response to early autumn wetland flooding in a structured decision-making framework*
--
 Ward, S, **Fournier, AMV,** Bond, AL. *Rodent eradications on islands and their effect on rails (Rallidae) as non-target species*
 --->
 
@@ -106,6 +104,8 @@ Eulinger, K, McDaniel, T, Calvert, G, **Fournier, AMV.** *Juvenile King Rail (Ra
 -
 **Travel Grant** 2015 $500 Association of Field Ornithologists Conference
 -->
+
+**Co-PI and Writer** 2018 $3000 Mississippi State University CFR/FWRC Undergraduate Research Scholars Program [supporting an undergraduate mentee]
 
 **Travel Grant** 2017 $210 American Ornithological Society/Society of Canadian Ornithologists Conference  
 
