@@ -282,6 +282,7 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 
 
 ## Professional Development
+2018 **Grant Writing Workshop** Starkville, MS  
 2018 **ROpenSci Unconference** Seattle, WA  
 2018 **Introduction to Structured Decision Making** NCTC  
 2017 **Adaptive Management: Structured Decision Making for Recurrent Decisions** NCTC  
