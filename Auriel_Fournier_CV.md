@@ -20,6 +20,7 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 2017 ~ **Ph.D. in Biological Sciences**  - Arkansas Cooperative Fish & Wildlife Research Unit   
 **University of Arkansas** - Dr. David G. Krementz, Adviser -  
+> 
 
 > [*Phenology, Habitat Use, and the Impacts of Wetland Management on Autumn Migrating Rails in Missouri*](http://pqdtopen.proquest.com/doc/1879756773.html?FMT=ABS) 
 
@@ -143,14 +144,12 @@ Eulinger, K, McDaniel, T, Calvert, G, **Fournier, AMV.** *Juvenile King Rail (Ra
 **Seminar** Grand Bay National Estuarine Research Reserve  
 **Symposium Talk** American Ornithological Society/Society of Canadian Ornithologists      
 **Seminar** Royal Society for the Protection of Birds, Centre for Conservation Science, UK Headquarters     
-**Talk** Mississippi Coast Audubon Society     
 **Symposium Talk** International Association of Great Lake Researchers   
 **Seminar** Bird Studies Canada     
 **Keynote** The Biggest Week in American Birding Festival       
 **Seminar** Missouri State University, Department of Biological Sciences   
 2016   
 **Keynote** Ohio Ornithological Society Annual Conference     
-**Talk** Arkansas Audubon Society Annual Conference      
 **Seminar** University of Toledo, Department of Environmental Sciences   
 2014   
 **Seminar** Arkansas Tech University, Department of Biological Sciences
@@ -164,11 +163,13 @@ Eulinger, K, McDaniel, T, Calvert, G, **Fournier, AMV.** *Juvenile King Rail (Ra
 
 2018     
 
-**Fournier, A.M.V.,** Woodrey, M.S., Wilson, R.R., Gleason, J., Lyons, J., Cooper, R.J., Tirpak, J. Coordinated Bird Monitoring Through Decision Science *SESYNC Boundary Spanning International Symposium* Annapolis, MD
+**Fournier, A.M.V.,** Lyons, J., Cooper, R., Woodrey, M. Prioritization of conservation actions through structured decision making *Ecological Society of America* New Orleans, LA
 
-Woodrey, M.S., **Fournier, A.M.V.,** Wilson, R.R., Gleason, J., Lyons, J., Cooper, R.J., Tirpak, J. Application of structured decision making in the development of a Gulf of Mexico-wide avian monitoring program *Assoc of Field Ornithologists/Wilson Ornithological Soc Meeting* Chattanooga, TN  
+**Fournier, A.M.V.,** Woodrey, M., Wilson, R., Gleason, J., Lyons, J., Cooper, R., Tirpak, J. Coordinated Bird Monitoring With Decision Science *SESYNC Boundary Spanning Symposium* Annapolis, MD
 
-Ward, S., **Fournier, A.M.V.,** Bond A.L. Rodent eradications on islands and their effect on rails (Rallidae) as non-target species *Assoc of Field Ornithologists/Wilson Ornithological Soc Meeting* Chattanooga, TN
+Woodrey, M.S., **Fournier, A.M.V.,** Wilson, R.R., Gleason, J., Lyons, J., Cooper, R.J., Tirpak, J. Application of structured decision making in the development of a Gulf of Mexico-wide avian monitoring program *Assoc of Field Ornithologists/Wilson Ornithological Soc * Chattanooga, TN  
+
+Ward, S., **Fournier, A.M.V.,** Bond A.L. Rodent eradications on islands and their effect on rails (Rallidae) as non-target species *Assoc of Field Ornith/Wilson Ornith Soc* Chattanooga, TN
   
 **Fournier, A.M.V.,** Lyons, J.E., Adams, E.M., Brush, J., Cooper, R.J., DeMaso, S., Driscoll, M.,  Frederick, P., Gleason, J., Wilson, R., Woodrey, M.S., Guiding Coordinated Bird Monitoring Decisions Through Structured Decision Making. *American Ornithological Society Meeting* Tucson, AZ
 
@@ -177,8 +178,6 @@ Woodrey, M.S., Cooper, R.J., Evans, K.O., Iglay, R., Rush, S.A., **Fournier, A.M
 Adams, E.M., **Fournier, A.M.V.,** Lyons, J.E., Woodrey, M.S. Using a structured decision making framework to support large-scale inference. *American Ornithological Society Meeting* Tucson, AZ
 
 Ray, J.D., Fraser, K.C. **Fournier, A.M.V.,** Shave, A. Selection of island habitat by a Texas population of purple martin during the non-breeding season. *54rd Texas Chapter Wildlife Society* Dallas, TX.   
-
-\newpage
 
 2017   
 **Fournier, A.M.V.,** Woodrey, M.S., Lyons, J.E., Cooper, B.J., Evans, K.E. Application OF Structured Decision Making to Marshbird Monitoring in the Gulf of Mexico *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
@@ -226,7 +225,6 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 
 Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, and Sedge Wrens. *U.S. Forest Service*
 
-\newpage 
 
 ## Posters
 
@@ -263,7 +261,10 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 2018 **Presentation Judge** American Ornithological Society Meeting
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas 
-2013-14 Vice President **Biology Graduate Student Assocation** University of Arkansas   
+2013-14 Vice President **Biology Graduate Student Assocation** University of Arkansas  
+2014-15 Secretary **Student Chapter - University of Arkansas** The Wildlife Society    
+2013-14 Treasurer **Student Chapter - University of Arkansas** The Wildlife Society  
+
 -->
 
 2018-Present Co-Chair **Early Professional Development Committee** American Ornithological Society     
@@ -277,8 +278,6 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 2014-16 Treasurer **Biology Graduate Student Assocation** University of Arkansas  
 2015 **Presentation Judge** Assoc. of Field Ornith., Wilson Ornith. Soc., Soc. of Canadian Ornith. Meeting   
 2014-15 Treasurer **Student Working Group** The Wildlife Society    
-2014-15 Secretary **Student Chapter - University of Arkansas** The Wildlife Society    
-2013-14 Treasurer **Student Chapter - University of Arkansas** The Wildlife Society  
 
 
 ## Professional Development
@@ -367,7 +366,8 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2016-17 **#SkypeWithAScientist** 8 Classrooms across the US  
 2013-17 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
-2013-17 **Science Fair Judge** (7) Regional/Local Science Fairs NW Arkansas    
+2013-17 **Science Fair Judge** (7) Regional/Local Science Fairs NW Arkansas  
+2017 **Talk** Mississippi Coast Audubon Society 
 2015-16 **Editor** Science and Math Section Editor of [Science Borealis](http://scienceborealis.ca/)     
 2015-16 **Bird Banding Demonstration** (3) Camp War Eagle Summer Camp, Arkansas   
 2015-6 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for [Biotweeps](https://biotweep.wordpress.com/about/)    
@@ -376,7 +376,8 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2014-5 **Presentation** (4) Local Library Science Program, AR     
 2013-5 **Presentation** (3) Springdale Alternative High School, Springdale, AR    
 2015 **Field Trip Leader** (2) The Biggest Week In American Birding Festival  
-2015 **Presentation** (3) Boys and Girls Club of Bentonville, Arkansas STEAM Program   
+2015 **Presentation** (3) Boys and Girls Club of Bentonville, Arkansas STEAM Program  
+2014 **Talk** Arkansas Audubon Society Annual Conference   
  
 
 ## Work Experience
