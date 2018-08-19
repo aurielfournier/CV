@@ -20,7 +20,7 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 2017 ~ **Ph.D. in Biological Sciences**  - Arkansas Cooperative Fish & Wildlife Research Unit   
 **University of Arkansas** - Dr. David G. Krementz, Adviser -  
-> 
+
 
 > [*Phenology, Habitat Use, and the Impacts of Wetland Management on Autumn Migrating Rails in Missouri*](http://pqdtopen.proquest.com/doc/1879756773.html?FMT=ABS) 
 
@@ -32,11 +32,10 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 <!---
 ## Peer-Reviewed Publications In Review 
-*In Review* Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. *Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, LeConte's Sparrows, and Sedge Wrens.*
 -
 *In Review* **Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. *The False Promise of Unpaid Work: Detrimental Effects of Internships to Science Graduates* Careers*
 -
-Ward, S, **Fournier, AMV,** Bond, AL. *Rodent eradications on islands and their effect on rails (Rallidae) as non-target species*
+Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mortality in island rodent eradication operations
 --->
 
 In Press
@@ -84,6 +83,10 @@ Eulinger, K, McDaniel, T, Calvert, G, **Fournier, AMV.** *Juvenile King Rail (Ra
 
 **Fournier, A.M.V.,** Mengel, D.C., Gbur, E., Raedeke, A., Krementz, D.G. *Addressing uncertainty in wetland bird community response to early autumn wetland inundation*
 
+Wilson, R.R., **Fournier, A.M.V.,** Lyons, J.E., Gleason, J., Adams, E., Barnhill, L., Brush, J., Cooper, R.J., DeMaso, S., Driscoll, M., Eaton, M., Frederick, P., Just, M., Seymour, M., Tirpak, J., Woodrey, M.S. *Structured Decision Making and Optimal Bird Monitoring in the Northern Gulf of Mexico*
+
+Butler, C.J., **Fournier, A.M.V.**, Wilson, Jennifer K. *Varying levels of migratory connectivity among four mesic prairie bird species of North America*
+
 
 ## Honors 
 
@@ -124,8 +127,6 @@ Eulinger, K, McDaniel, T, Calvert, G, **Fournier, AMV.** *Juvenile King Rail (Ra
 **Arkansas Audubon Society Trust** 2014 $1200   
 
 **Summer Undergraduate Research Fellowship** 2011 & 2009 $3000 
-
-\newpage
 
 ## Invited Presentations
 
@@ -351,8 +352,6 @@ Michigan Technological University
 Ornithology - 2011  
 Lead field trips, gave guest lecture, gave field quizzes. 
 
-\newpage
-
 
 ## Outreach  
 
@@ -367,7 +366,7 @@ Lead field trips, gave guest lecture, gave field quizzes.
 2013-17 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
 2013-17 **Science Fair Judge** (7) Regional/Local Science Fairs NW Arkansas  
-2017 **Talk** Mississippi Coast Audubon Society 
+2017 **Talk** Mississippi Coast Audubon Society   
 2015-16 **Editor** Science and Math Section Editor of [Science Borealis](http://scienceborealis.ca/)     
 2015-16 **Bird Banding Demonstration** (3) Camp War Eagle Summer Camp, Arkansas   
 2015-6 **Biotweeps Curator** Curating a week of tweets to 2k+ people about my research for [Biotweeps](https://biotweep.wordpress.com/about/)    
