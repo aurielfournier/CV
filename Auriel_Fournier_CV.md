@@ -33,7 +33,7 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 <!---
 ## Peer-Reviewed Publications In Review 
 -
-*In Review* **Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. *The False Promise of Unpaid Work: Detrimental Effects of Internships to Science Graduates* Careers*
+*In Review* 
 -
 Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mortality in island rodent eradication operations
 -
@@ -77,6 +77,8 @@ In Press
 **Fournier, AMV**, Shieldcastle, MC, Fries, AC, and Bump, JK.  [*A morphometric model to predict the sex of virginia rails*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al._2013_Wildlife%20Society%20Bulletin_A%20Morphometric%20Model%20to%20Predict%20the%20Sex%20of%20Virginia%20Rails%20(Rallus%20limicola).pdf)  **The Wildlife Society Bulletin** 27: 881-886 doi:10.1002/wsb.323 
 
 In Review 
+
+**Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. *Unpaid work and access to science professions*
 
 **Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. *Testing the island habitat-selection hypothesis in a long-distance migratory songbird* 
 
