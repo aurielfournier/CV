@@ -171,6 +171,8 @@ Butler, CJ, **Fournier, AMV**, Wilson, JK. *Varying levels of migratory connecti
 
 2018     
 
+**Fournier, A.M.V.,** Lyons, J., Adams, E., Brush, J., Cooper, R., DeMaso, S., Driscoll, M., Frederick, P., Gleason, J., Wilson, R., Tirpak, J., Woodrey, M.  Guiding coordinated bird monitoring decisions through structured decision making *National Conference on Ecological Restoration* New Orleans, LA 
+
 **Fournier, A.M.V.,** Lyons, J., Cooper, R., Woodrey, M. Prioritization of conservation actions through structured decision making *Ecological Society of America* New Orleans, LA
 
 **Fournier, A.M.V.,** Woodrey, M., Wilson, R., Gleason, J., Lyons, J., Cooper, R., Tirpak, J. Coordinated Bird Monitoring With Decision Science *SESYNC Boundary Spanning Symposium* Annapolis, MD
