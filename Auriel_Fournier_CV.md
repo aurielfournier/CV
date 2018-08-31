@@ -35,7 +35,6 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 -
 *In Review* 
 -
-Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mortality in island rodent eradication operations
 -
 --->
 
@@ -91,6 +90,8 @@ In Review
 Wilson, R.R., **Fournier, AMV,** Lyons, JE, Gleason, J, Adams, E, Barnhill, L, Brush, J, Cooper, RJ, DeMaso, S, Driscoll, M, Eaton, M, Frederick, P, Just, M, Seymour, M, Tirpak, J, Woodrey, MS *Structured Decision Making and Optimal Bird Monitoring in the Northern Gulf of Mexico*
 
 Butler, CJ, **Fournier, AMV**, Wilson, JK. *Varying levels of migratory connectivity among four mesic prairie bird species of North America*
+
+Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mortality in island rodent eradication operations*
 
 
 
