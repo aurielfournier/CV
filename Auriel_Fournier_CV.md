@@ -38,11 +38,9 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 -
 --->
 
-In Press
+2018
 
 **Fournier, AMV**, Krementz, DG. [*Confirmation of diving and swimming behavior in the Sora (Porzana carolina)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20and%20Krementz%202018%20-%20Wilson%20Journal%20of%20Ornithology.pdf) **Wilson Journal of Ornithology**  130(3) doi:10.1676/17-046.1
-
-2018
 
 **Fournier AMV**, Mengel DC, Krementz DG. [*Sora (Porzana carolina) autumn migration habitat use.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2018_sora_habitat.pdf) **Royal Society Open Science**. 5: 171664. doi:10.1098/rsos.171664
 
@@ -58,8 +56,6 @@ In Press
 **Fournier, AMV**, Krementz, DG. [*Nocturnal distance sampling all-terrain vehicle surveys for non-breeding rails*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2017-Wildlife_Society_Bulletin.pdf) **The Wildlife Society Bulletin** 41:151-156 doi:10.1002/wsb.745 
 
 **Fournier, AMV**, Sullivan, A, Bump, J, Perkins, M, Shieldcastle, MC, King, S. [*Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf) **Journal of Applied Ecology** 54:618-627 doi:10.1111/1365-2664.12723   
-
-\newpage
 
 2016 
 
@@ -106,6 +102,8 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 2010    **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
 2009    **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological University
 
+\newpage
+
 ## Grants
 
 <!--
@@ -119,16 +117,7 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 
 **Co-PI and Writer** 2018 $3000 Mississippi State University CFR/FWRC Undergraduate Research Scholars Program [supporting an undergraduate mentee]
 
-**Travel Grant** 2017 $210 American Ornithological Society/Society of Canadian Ornithologists Conference  
-
-**Travel Grant** 2017 $350 Wilson Ornithological Society Annual Conference
-
-**Travel Grant** 2016 $200 North American Ornithological Conference
-
-
 *Co-Investigator and Writer* **Missouri Department of Conservation Research Grant** 2015 $62,000 
-
-**Travel Grant** 2015 $320 American Ornithologists Union/Cooper Ornithological Society Conference  
 
 **The Frances M. Peacock Scholarship for Native Bird Habitat** 2015 $4000 
 
@@ -162,6 +151,7 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 **Seminar** University of Toledo, Department of Environmental Sciences   
 2014   
 **Seminar** Arkansas Tech University, Department of Biological Sciences
+
 
 ## Presentations
 
