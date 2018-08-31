@@ -6,7 +6,7 @@ Auriel M.V. Fournier
 =============================
 Postdoctoral Research Associate - Mississippi State University, Biloxi, MS   
 1815 Popps Ferry Rd, Biloxi, MS 39532 - aurielfournier@gmail.com - 419.307.6261  
-[aurielfournier.github.io](http://aurielfournier.github.io/) - [Github Profile](https://github.com/aurielfournier)  - [Google Scholar Profile](https://scholar.google.com/citations?user=H0AXRhQAAAAJ) - [Twitter \@RallidaeRule](https://twitter.com/RallidaeRule)  
+[aurielfournier.github.io](http://aurielfournier.github.io/) - [Twitter \@RallidaeRule](https://twitter.com/RallidaeRule)  
 
 ## Professional Appointments and Education
 
@@ -19,7 +19,7 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 **Lesson Maintainer** Data Carpentry [R Ecology Lessons](http://www.datacarpentry.org/R-ecology-lesson/) - 2016-Present  
 
 2017 ~ **Ph.D. in Biological Sciences**  - Arkansas Cooperative Fish & Wildlife Research Unit   
-**University of Arkansas** - Dr. David G. Krementz, Adviser -  
+**University of Arkansas** - Dr. David G. Krementz, Adviser  
 
 
 > [*Phenology, Habitat Use, and the Impacts of Wetland Management on Autumn Migrating Rails in Missouri*](http://pqdtopen.proquest.com/doc/1879756773.html?FMT=ABS) 
@@ -30,28 +30,20 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 ## Peer-Reviewed Publications  
 
-<!---
-## Peer-Reviewed Publications In Review 
--
-*In Review* 
--
--
---->
-
 2018
 
 **Fournier, AMV**, Krementz, DG. [*Confirmation of diving and swimming behavior in the Sora (Porzana carolina)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20and%20Krementz%202018%20-%20Wilson%20Journal%20of%20Ornithology.pdf) **Wilson Journal of Ornithology**  130(3) doi:10.1676/17-046.1
 
-**Fournier AMV**, Mengel DC, Krementz DG. [*Sora (Porzana carolina) autumn migration habitat use.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2018_sora_habitat.pdf) **Royal Society Open Science**. 5: 171664. doi:10.1098/rsos.171664
+**Fournier, AMV**, Mengel, DC, Krementz, DG. [*Sora (Porzana carolina) autumn migration habitat use.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2018_sora_habitat.pdf) **Royal Society Open Science**. 5: 171664. doi:10.1098/rsos.171664
 
 2017 
 
-**Fournier, AMV**, Mengel, DC, Gbur, EE, Krementz, DG. [*The timing of autumn Sora (Porzana carolina) migration in Missouri* **Wilson Journal of Ornithology**](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2017_Wilson.pdf) 129:675-770 DOI: 10.1676/16-108.1
+**Fournier, AMV**, Mengel, DC, Gbur, EE, Krementz, DG. [*The timing of autumn Sora (Porzana carolina) migration in Missouri* **Wilson Journal of Ornithology**](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2017_Wilson.pdf) 129:675-770 doi: 10.1676/16-108.1
 
 
-**Fournier, AMV**, Mengel, DC, Krementz, DG. [*Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets*](https://www.degruyter.com/downloadpdf/j/ami.2017.4.issue-1/ami-2017-0003/ami-2017-0003.pdf) **Animal Migration** 4:15-22 DOI: 10.1515/ami-2017-0003 
+**Fournier, AMV**, Mengel, DC, Krementz, DG. [*Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets*](https://www.degruyter.com/downloadpdf/j/ami.2017.4.issue-1/ami-2017-0003/ami-2017-0003.pdf) **Animal Migration** 4:15-22 doi: 10.1515/ami-2017-0003 
 
-**Fournier, AMV**, Drake KL, Tozer DC. [*Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20Drake%20Tozer%202017%20Journal%20of%20Avian%20Biology.pdf)  **Journal of Avian Biology** 48: 1556-1562 doi:10.1111/jav.01273 
+**Fournier, AMV**, Drake, KL, Tozer, DC. [*Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20Drake%20Tozer%202017%20Journal%20of%20Avian%20Biology.pdf)  **Journal of Avian Biology** 48: 1556-1562 doi:10.1111/jav.01273 
 
 **Fournier, AMV**, Krementz, DG. [*Nocturnal distance sampling all-terrain vehicle surveys for non-breeding rails*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2017-Wildlife_Society_Bulletin.pdf) **The Wildlife Society Bulletin** 41:151-156 doi:10.1002/wsb.745 
 
@@ -77,7 +69,7 @@ In Review
 
 **Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. *Testing the island habitat-selection hypothesis in a long-distance migratory songbird* 
 
-**Fournier, AMV**, Eulinger, K, McDaniel, T, Calvert, G,  *Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)*
+**Fournier, AMV**, Eulinger, K, McDaniel, T, Calvert, G.  *Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)*
 
 **Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. *Addressing uncertainty in wetland bird community response to early autumn wetland inundation*
 
@@ -88,9 +80,6 @@ Wilson, R.R., **Fournier, AMV,** Lyons, JE, Gleason, J, Adams, E, Barnhill, L, B
 Butler, CJ, **Fournier, AMV**, Wilson, JK. *Varying levels of migratory connectivity among four mesic prairie bird species of North America*
 
 Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mortality in island rodent eradication operations*
-
-
-
 
 ## Honors 
 
@@ -129,7 +118,7 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 
 2018   
 **Keynote** Oklahoma Ornithological Society Spring Meeting  
-**Seminar** Water[@]Wayne Series - Wayne State University  
+**Seminar** Wayne State University  
 **Symposium Talk** American Ornithological Society  
 **Seminar** Louisiana State University, School of Renewable Natural   
 **Seminar** Mississippi State University, Department of Wildlife Fisheries and Aquaculture  
@@ -162,47 +151,47 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 
 2018     
 
-**Fournier, A.M.V.,** Lyons, J., Adams, E., Brush, J., Cooper, R., DeMaso, S., Driscoll, M., Frederick, P., Gleason, J., Wilson, R., Tirpak, J., Woodrey, M.  Guiding coordinated bird monitoring decisions through structured decision making *National Conference on Ecological Restoration* New Orleans, LA 
+**Fournier, AMV,** Lyons, JE, Adams, EA, Brush, J, Cooper, RJ, DeMaso, S, Driscoll, M, Frederick, P, Gleason, J, Wilson, RR, Tirpak, J, Woodrey, MS.  Guiding coordinated bird monitoring decisions through structured decision making *National Conference on Ecological Restoration* New Orleans, LA 
 
-**Fournier, A.M.V.,** Lyons, J., Cooper, R., Woodrey, M. Prioritization of conservation actions through structured decision making *Ecological Society of America* New Orleans, LA
+**Fournier, AMV,** Lyons, J, Cooper, RJ, Woodrey, MS. Prioritization of conservation actions through structured decision making *Ecological Society of America* New Orleans, LA
 
-**Fournier, A.M.V.,** Woodrey, M., Wilson, R., Gleason, J., Lyons, J., Cooper, R., Tirpak, J. Coordinated Bird Monitoring With Decision Science *SESYNC Boundary Spanning Symposium* Annapolis, MD
+**Fournier, AMV,** Woodrey, MS, Wilson, RR, Gleason, J, Lyons, JE, Cooper, RJ, Tirpak, J. Coordinated Bird Monitoring With Decision Science *SESYNC Boundary Spanning Symposium* Annapolis, MD
 
-Woodrey, M.S., **Fournier, A.M.V.,** Wilson, R.R., Gleason, J., Lyons, J., Cooper, R.J., Tirpak, J. Application of structured decision making in the development of a Gulf of Mexico-wide avian monitoring program *Assoc of Field Ornithologists/Wilson Ornithological Soc * Chattanooga, TN  
+[presenter] Woodrey, MS, **Fournier, AMV,** Wilson, RR, Gleason, J, Lyons, JE, Cooper, RJ, Tirpak, J. Application of structured decision making in the development of a Gulf of Mexico-wide avian monitoring program *Assoc of Field Ornithologists/Wilson Ornithological Soc * Chattanooga, TN  
 
-Ward, S., **Fournier, A.M.V.,** Bond A.L. Rodent eradications on islands and their effect on rails (Rallidae) as non-target species *Assoc of Field Ornith/Wilson Ornith Soc* Chattanooga, TN
+[presenter] Ward, S, **Fournier, AMV,** Bond, AL. Rodent eradications on islands and their effect on rails (Rallidae) as non-target species *Assoc of Field Ornith/Wilson Ornith Soc* Chattanooga, TN
   
-**Fournier, A.M.V.,** Lyons, J.E., Adams, E.M., Brush, J., Cooper, R.J., DeMaso, S., Driscoll, M.,  Frederick, P., Gleason, J., Wilson, R., Woodrey, M.S., Guiding Coordinated Bird Monitoring Decisions Through Structured Decision Making. *American Ornithological Society Meeting* Tucson, AZ
+**Fournier, AMV,** Lyons, JE, Adams, EM, Brush, J, Cooper, RJ, DeMaso, S, Driscoll, M,  Frederick, P, Gleason, J, Wilson, R, Woodrey, MS, Guiding Coordinated Bird Monitoring Decisions Through Structured Decision Making. *American Ornithological Society Meeting* Tucson, AZ
 
-Woodrey, M.S., Cooper, R.J., Evans, K.O., Iglay, R., Rush, S.A., **Fournier, A.M.V.,** Strange, T. Application of monitoring Best Management Practices to marsh restoration priorities to reduce uncertainty of marsh birds response *American Ornithological Society Meeting* Tucson, AZ
+Woodrey, MS, Cooper, RJ, Evans, KO, Iglay, R, Rush, SA, **Fournier, AMV,** Strange, T. Application of monitoring Best Management Practices to marsh restoration priorities to reduce uncertainty of marsh birds response *American Ornithological Society Meeting* Tucson, AZ
  
-Adams, E.M., **Fournier, A.M.V.,** Lyons, J.E., Woodrey, M.S. Using a structured decision making framework to support large-scale inference. *American Ornithological Society Meeting* Tucson, AZ
+Adams, EM, **Fournier, AMV,** Lyons, JE, Woodrey, MS. Using a structured decision making framework to support large-scale inference. *American Ornithological Society Meeting* Tucson, AZ
 
-Ray, J.D., Fraser, K.C. **Fournier, A.M.V.,** Shave, A. Selection of island habitat by a Texas population of purple martin during the non-breeding season. *54rd Texas Chapter Wildlife Society* Dallas, TX.   
+Ray, JD, Fraser, KC, **Fournier, AMV,** Shave, A. Selection of island habitat by a Texas population of purple martin during the non-breeding season. *54rd Texas Chapter Wildlife Society* Dallas, TX.   
 
 2017   
-**Fournier, A.M.V.,** Woodrey, M.S., Lyons, J.E., Cooper, B.J., Evans, K.E. Application OF Structured Decision Making to Marshbird Monitoring in the Gulf of Mexico *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
+**Fournier, AMV,** Woodrey, MS, Lyons, JE, Cooper, RJ, Evans, KE. Application OF Structured Decision Making to Marshbird Monitoring in the Gulf of Mexico *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
 
-Heard, S., **Fournier, A.M.V.,** Branch, T. Skelly, D. Why most studied populations should decline. *Canadian Society for Ecology and Evolution*
+Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. Why most studied populations should decline. *Canadian Society for Ecology and Evolution*
 
-**Fournier, A.M.V.,** Mengel, D.C., Krementz, D.G. Habitat Use and Migratory Timing of Virginia and Yellow Rails. *Wilson Ornithological Society Meeting, Fort Meyers, FL* [pdf link](https://figshare.com/articles/Virginia_and_Yellow_Rail_Autumn_Migration_Phenology_and_Habitat_Use/4724296)
+**Fournier, AMV,** Mengel, DC, Krementz, DG. Habitat Use and Migratory Timing of Virginia and Yellow Rails. *Wilson Ornithological Society Meeting, Fort Meyers, FL* [pdf link](https://figshare.com/articles/Virginia_and_Yellow_Rail_Autumn_Migration_Phenology_and_Habitat_Use/4724296)
 
 2016   
-**Fournier, A.M.V.,** Drake, K., Tozer, D., Krementz, D.G. Migratory Connectivity of Sora, Virginia Rail and Yellow Rail. *North American Ornithological Conference, Washington D.C.* [pdf link](https://figshare.com/articles/Migratory_Connectivity_of_Sora_Virginia_and_Yellow_Rails/3565578) [recording](https://www.periscope.tv/w/1rmGPDyEAnyGN)
+**Fournier, AMV,** Drake, KL, Tozer, DC, Krementz, DG. Migratory Connectivity of Sora, Virginia Rail and Yellow Rail. *North American Ornithological Conference, Washington D.C.* [pdf link](https://figshare.com/articles/Migratory_Connectivity_of_Sora_Virginia_and_Yellow_Rails/3565578) [recording](https://www.periscope.tv/w/1rmGPDyEAnyGN)
 
-**Fournier, A.M.V.** Building Collaboration and Community in Science Through Twitter. North American Ornithological Conference, Twitter for Scientists Workshop, Washington D.C. 
+**Fournier, AMV.** Building Collaboration and Community in Science Through Twitter. North American Ornithological Conference, Twitter for Scientists Workshop, Washington D.C. 
 
-**Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. Habitat Use by Autumn Migrating Sora in the Mississippi Flyway *Society of Wetland Scientists* - TX [pdf link](https://figshare.com/articles/Habitat_Use_of_Autumn_Migrating_Sora_in_the_Mississippi_Flyway/3398683)
+**Fournier, AMV,** Mengel, DC, Krementz, DG. Habitat Use by Autumn Migrating Sora in the Mississippi Flyway *Society of Wetland Scientists* - TX [pdf link](https://figshare.com/articles/Habitat_Use_of_Autumn_Migrating_Sora_in_the_Mississippi_Flyway/3398683)
 
 2015   
-**Fournier, A.M.V.,** Drake, K. Active Capture of Rails During the Breeding Season and Fall Migration. *Inland Bird Banders Association Meeting* - MS [pdf link](http://figshare.com/articles/Active_Capture_Methods_for_Rails_During_the_Breeding_Season_and_Fall_MIgration/1598135)
+**Fournier, AMV,** Drake, KL. Active Capture of Rails During the Breeding Season and Fall Migration. *Inland Bird Banders Association Meeting* - MS [pdf link](http://figshare.com/articles/Active_Capture_Methods_for_Rails_During_the_Breeding_Season_and_Fall_MIgration/1598135)
 
-**Fournier, A.M.V.,** Sullivan, A.R., Bump, J.K., Perkins M., Shieldcastle, M.C., King, S.L. Combining Citizen Science Derived Species Distribution Models and Stable Isotope Analysis Reveals Migratory Connectivity in a Secretive Species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* - OK [pdf link](http://doi.org/5m5)
+**Fournier, AMV,** Sullivan, AR, Bump, JK, Perkins M, Shieldcastle, MC, King, SL. Combining Citizen Science Derived Species Distribution Models and Stable Isotope Analysis Reveals Migratory Connectivity in a Secretive Species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* - OK [pdf link](http://doi.org/5m5)
 
-**Fournier, A.M.V.,** Mengel, D.C., Krementz D.G. Timing of Autumn Migration in the Mississippi Flyway by Rails. *Association of Field Ornithologists Meeting*  - NS [pdf link](http://doi.org/5ks)
+**Fournier, AMV,** Mengel, DC, Krementz DG. Timing of Autumn Migration in the Mississippi Flyway by Rails. *Association of Field Ornithologists Meeting*  - NS [pdf link](http://doi.org/5ks)
 
 2014   
-**Fournier, A.M.V.,** Krementz, D.G. 2014  The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*- AR
+**Fournier, AMV,** Krementz, DG. 2014  The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*- AR
 
 
 ## Technical Publications
