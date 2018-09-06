@@ -8,33 +8,41 @@ Postdoctoral Research Associate - Mississippi State University, Biloxi, MS
 1815 Popps Ferry Rd, Biloxi, MS 39532 - aurielfournier@gmail.com - 419.307.6261  
 [aurielfournier.github.io](http://aurielfournier.github.io/) - [Twitter \@RallidaeRule](https://twitter.com/RallidaeRule)  
 
-## Professional Appointments and Education
+## Professional Appointments & Education
 
-**Postdoctoral Researcher** - Mississippi State University   
-April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
+**Postdoctoral Researcher** - Mississippi State University - April 2017-Present  
+Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
-> **Elected Councilor** Wilson Ornithological Society - 2017-2020  
-**Associate Editor** The Ibis - 2017-Present  
-**Research Committee Co-Chair** Black Swamp Bird Observatory  - 2016-Present   
-**Lesson Maintainer** Data Carpentry [R Ecology Lessons](http://www.datacarpentry.org/R-ecology-lesson/) - 2016-Present  
+> Structured Decision Making To Faciliate Coordinated Avian Monitoring in the Gulf of Mexico   
+Building Decision Support Tools  
+Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
-2017 ~ **Ph.D. in Biological Sciences**  - Arkansas Cooperative Fish & Wildlife Research Unit   
-**University of Arkansas** - Dr. David G. Krementz, Adviser  
-
+**Ph.D. in Biological Sciences**  - Arkansas Cooperative Fish & Wildlife Research Unit   
+2017 **University of Arkansas** - Dr. David G. Krementz, Adviser 
 
 > [*Phenology, Habitat Use, and the Impacts of Wetland Management on Autumn Migrating Rails in Missouri*](http://pqdtopen.proquest.com/doc/1879756773.html?FMT=ABS) 
 
-2011 ~ **Bachelor of Science in Wildlife Ecology and Management** - Minor *Remote Sensing*  
-**Michigan Technological University** Houghton, MI - Magna Cum Laude
+**Bachelor of Science in Wildlife Ecology and Management** - Minor *Remote Sensing*  
+2011 **Michigan Technological University** Houghton, MI - Magna Cum Laude
+
+## Professional Leadership 
+
+**Elected Councilor** Wilson Ornithological Society - 2017-2020  
+
+**Associate Editor** The Ibis - 2017-Present  
+
+**Research Committee Co-Chair** Black Swamp Bird Observatory  - 2016-Present   
 
 
 ## Peer-Reviewed Publications  
 
+11 papers [all first author], 5 peer reviewed reports [2 first author]. 8 in review. 
+
 2018
 
-**Fournier, AMV**, Krementz, DG. [*Confirmation of diving and swimming behavior in the Sora (Porzana carolina)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20and%20Krementz%202018%20-%20Wilson%20Journal%20of%20Ornithology.pdf) **Wilson Journal of Ornithology**  130(3) doi:10.1676/17-046.1
+**Fournier, AMV**, Krementz, DG. [*Confirmation of diving and swimming behavior in the Sora (*Porzana carolina*)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20and%20Krementz%202018%20-%20Wilson%20Journal%20of%20Ornithology.pdf) **Wilson Journal of Ornithology**  130(3) doi: 10.1676/17-046.1
 
-**Fournier, AMV**, Mengel, DC, Krementz, DG. [*Sora (Porzana carolina) autumn migration habitat use.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2018_sora_habitat.pdf) **Royal Society Open Science**. 5: 171664. doi:10.1098/rsos.171664
+**Fournier, AMV**, Mengel, DC, Krementz, DG. [*Sora (Porzana carolina) autumn migration habitat use.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2018_sora_habitat.pdf) **Royal Society Open Science**. 5: 171664. doi: 10.1098/rsos.171664
 
 2017 
 
@@ -49,15 +57,27 @@ April 2017-Present ~ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 **Fournier, AMV**, Sullivan, A, Bump, J, Perkins, M, Shieldcastle, MC, King, S. [*Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf) **Journal of Applied Ecology** 54:618-627 doi:10.1111/1365-2664.12723   
 
+**Fournier, A.M.V.**, Mengel, D.C. The timing of autumn rail migration in Missouri *Missouri Department of Conservation Science Note*
+
+
 2016 
 
-**Fournier, AMV**, Welsh, KJ, Polito, M, Emslie, S, Brasso, R. [*Levels of mercury in feathers of Clapper Rails over 45 Years in coastal salt marshes of New Hanover county, North Carolina*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Bulletin%20of%20Environmental%20Contamination%20and%20Toxicology.pdf) **Bulletin of Environmental Contamination & Toxicology** 97: 469-473 doi:10.1007/s00128-016-1870-z 
+**Fournier, AMV**, Welsh, KJ, Polito, M, Emslie, S, Brasso, R. [*Levels of mercury in feathers of Clapper Rails over 45 Years in coastal salt marshes of New Hanover county, North Carolina*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Bulletin%20of%20Environmental%20Contamination%20and%20Toxicology.pdf) **Bulletin of Environmental Contamination & Toxicology** 97:469-473 doi:10.1007/s00128-016-1870-z 
+
+**Fournier, AMV.** Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails on Intensively-Managed Wetland Complexes in Missouri : *Final Report USFWS Division of Migratory Birds* [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/EffectsofWetlandMgtStrategiesOnHabitatUseOfFallMigratingRails.pdf)
+
 
 2015
 
 **Fournier, AMV**, Shieldcastle, MC, Kashmer, T, Mylecraine, KA.  [*Comparison of arrival dates of spring rail migration in the southwest Lake Erie Marshes, Ohio, USA.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202015%20-%20Waterbirds.pdf) **Waterbirds** 38: 312-314 doi:10.1675/063.038.0313  
 
 **Fournier, AMV**, Bond, AL. [*Volunteer field staff are bad for wildlife ecology*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%2C%20Bond%20-%202015%20-%20Wildlife%20Society%20Bulletin.pdf)  **The Wildlife Society Bulletin** 39: 819-821 doi:10.1002/wsb.603 
+
+**Fournier, A.M.V.,** K. Willard. King Rail Nesting and Brood Rearing Ecology in Managed Wetlands: *Final Report USFWS Division of Migratory Birds Webless Program* [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/KingRailNesting&BroodRearingEcologyInManagedWetlands_FinalReport.pdf)
+
+Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, Nelson's Sparrows and Sedge Wrens. *Final Report to U.S. FWS* 
+
+Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, and Sedge Wrens. *Final Report to U.S. Forest Service*
 
 2013 
 
@@ -91,26 +111,22 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 2010    **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
 2009    **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological University
 
-\newpage
 
 ## Grants
 
-<!--
-*PI* (declined) **National Science Foundation East Asia Pacific Summer Institute Program** 2016 
--**Ecosystem Science Center Undergraduate Research Grant** 2011 $750 
--
-**Ecosystem Science Center Undergraduate Research Grant** 2010 $750
--
-**Travel Grant** 2015 $500 Association of Field Ornithologists Conference
--->
-
 **Co-PI and Writer** 2018 $3000 Mississippi State University CFR/FWRC Undergraduate Research Scholars Program [supporting an undergraduate mentee]
+
+*PI* (declined) **National Science Foundation East Asia Pacific Summer Institute Program** 2016 
 
 *Co-Investigator and Writer* **Missouri Department of Conservation Research Grant** 2015 $62,000 
 
 **The Frances M. Peacock Scholarship for Native Bird Habitat** 2015 $4000 
 
 **Arkansas Audubon Society Trust** 2014 $1200   
+
+**Ecosystem Science Center Undergraduate Research Grant** 2011 $750 
+
+**Ecosystem Science Center Undergraduate Research Grant** 2010 $750
 
 **Summer Undergraduate Research Fellowship** 2011 & 2009 $3000 
 
@@ -120,34 +136,33 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 **Keynote** Oklahoma Ornithological Society Spring Meeting  
 **Seminar** Wayne State University  
 **Symposium Talk** American Ornithological Society  
-**Seminar** Louisiana State University, School of Renewable Natural   
-**Seminar** Mississippi State University, Department of Wildlife Fisheries and Aquaculture  
-**Seminar** University of Southern Mississippi, Department of Biological Sciences  
-**Seminar** University of Delaware, Department of Entomology and Wildlife Ecology  
-**Seminar** Gettysburg College, Department of Environmental Studies   
-**Seminar** Tulane University, Department of Ecology and Evolutionary Biology   
+**Seminar** Louisiana State University
+**Seminar** Mississippi State University  
+**Seminar** University of Southern Mississippi  
+**Seminar** University of Delaware  
+**Seminar** Gettysburg College   
+**Seminar** Tulane University   
+
 2017   
-**Seminar** University of Montreal, Department of Bioological Sciences  
+**Seminar** University of Montreal  
 **Seminar** Grand Bay National Estuarine Research Reserve  
 **Symposium Talk** American Ornithological Society/Society of Canadian Ornithologists      
 **Seminar** Royal Society for the Protection of Birds, Centre for Conservation Science, UK Headquarters     
 **Symposium Talk** International Association of Great Lake Researchers   
 **Seminar** Bird Studies Canada     
 **Keynote** The Biggest Week in American Birding Festival       
-**Seminar** Missouri State University, Department of Biological Sciences   
+**Seminar** Missouri State University   
+
 2016   
 **Keynote** Ohio Ornithological Society Annual Conference     
-**Seminar** University of Toledo, Department of Environmental Sciences   
+**Seminar** University of Toledo   
+
 2014   
-**Seminar** Arkansas Tech University, Department of Biological Sciences
+**Seminar** Arkansas Tech University
 
 
 ## Presentations
 
-<!---
-2013   
-**Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
----> 
 
 2018     
 
@@ -193,27 +208,8 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. Why most studied populations 
 2014   
 **Fournier, AMV,** Krementz, DG. 2014  The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*- AR
 
-
-## Technical Publications
-
-<!---
-7 **Fournier, A.M.V., Drake, K.L., Tozer D.C. 2017 Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds *Missouri Department of Conservation Science Note* [pdf]
-
-5 **Fournier, A.M.V.** 2017 Nocturnal Distance Sampling All-Terrain Vehicle Surveys for Non-Breeding Rails *Missouri Department of Conservation Science Note* [pdf] 
---->
-
-2017   
-**Fournier, A.M.V.**, Mengel, D.C. The timing of autumn rail migration in Missouri *Missouri Department of Conservation Science Note*
-
-2016  
-**Fournier, A.M.V.,** Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails on Intensively-Managed Wetland Complexes in Missouri : *Final Report USFWS Division of Migratory Birds Webless Program* [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/EffectsofWetlandMgtStrategiesOnHabitatUseOfFallMigratingRails.pdf)
-
-2015   
-**Fournier, A.M.V.,** K. Willard. King Rail Nesting and Brood Rearing Ecology in Managed Wetlands: *Final Report USFWS Division of Migratory Birds Webless Program* [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/KingRailNesting&BroodRearingEcologyInManagedWetlands_FinalReport.pdf)
-
-Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, Nelson's Sparrows and Sedge Wrens. *U.S. Fish and Wildlife Service (Region 3) and Prairie Pothole Joint Venture.* 
-
-Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, and Sedge Wrens. *U.S. Forest Service*
+2013   
+**Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
 
 
 ## Posters
@@ -238,36 +234,32 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 ## Service 
 
 <!---
-2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
-2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI  
-2016 **Volunteer & Session Moderator** North American Ornithological Conference 
-2015 **Volunteer** American Ornithologists Union Meeting  
-2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
-2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
-2017-Present **Elected Councilor** Wilson Ornithological Society  
-2017-Present **Associate Editor** The Ibis  
-2016-Present **Research Committee Member** Black Swamp Bird Observatory 
--
-2018 **Presentation Judge** American Ornithological Society Meeting
-2010 **Career Panel Member** Ohio Young Birder's Club Conference  
-2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas 
-2013-14 Vice President **Biology Graduate Student Assocation** University of Arkansas  
-2014-15 Secretary **Student Chapter - University of Arkansas** The Wildlife Society    
-2013-14 Treasurer **Student Chapter - University of Arkansas** The Wildlife Society  
 
 -->
 
 2018-Present Co-Chair **Early Professional Development Committee** American Ornithological Society     
 2017-Present **Committee Member** Erin Lehnert, MS Student, U of Central Oklahoma  
 2013-Present **Peer Reviewer** 13 journals     
+2018 **Presentation Judge** American Ornithological Society Meeting  
 2018 **Local Organizing Committee** Assoc. of Field Ornith. & Wilson Ornith. Soc. Meeting   
 2018 **Presentation Judge** Assoc. of Field Ornith. & Wilson Ornith. Soc. Meeting  
 2017 **Presentation Judge** Wilson Ornithological Society Meeting  
+2016 **Volunteer & Session Moderator** North American Ornithological Conference   
 2016-17 Vice Chair **Open Science Section** Ecological Society of America  
 2015-17 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society    
 2014-16 Treasurer **Biology Graduate Student Assocation** University of Arkansas  
 2015 **Presentation Judge** Assoc. of Field Ornith., Wilson Ornith. Soc., Soc. of Canadian Ornith. Meeting   
+2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas   
+2014-15 Secretary **Student Chapter - University of Arkansas** The Wildlife Society    
 2014-15 Treasurer **Student Working Group** The Wildlife Society    
+2013-14 Vice President **Biology Graduate Student Assocation** University of Arkansas  
+2013-14 Treasurer **Student Chapter - University of Arkansas** The Wildlife Society  
+2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
+2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI  
+2015 **Volunteer** American Ornithologists Union Meeting  
+2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
+2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
+2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
 
 ## Professional Development
@@ -286,40 +278,43 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 
 ## Teaching
 
-> **Lesson Development**
+**Lesson Development**
 
 von Hardenberg A et al. Editors: Francois Michonneau and Auriel Fournier. 2017. Data Carpentry: R for data analysis and visualization of Ecological Data. doi: 10.5281/zenodo.569338
 
-> **As Instructor**
+**As Instructor**
 
-<!---
---->
 
 _Advanced R Programming and Graphing Workshop_   
-Developed materials and taught a day long workshop on programming, graphing, data management and building packages in R.   
-[Link to most recent Materials](https://github.com/aurielfournier/AOSSCO17)    
-- American Ornithological Society Conference - April 2018  
-- American Ornithological Society/Society of Canadian Ornithologists - August 2017  
-- North American Ornithological Conference - August 2016    
-- American Ornithologists Union Conference - July 2015    
+Day long workshop on programming, graphing, data management in R. [Link to Materials](https://github.com/aurielfournier/AOSSCO17)    
 
+>    American Ornithological Society Conference - April 2018    
+    American Ornithological Society/Society of Canadian Ornithologists - August 2017  
+    North American Ornithological Conference - August 2016      
+    American Ornithologists Union Conference - July 2015    
 
 _Data and Software Carpentry Workshop_  
 Two-day workshops on reproducible research in R,  Unix Shell, and Git.   
-- Grand Valley State University, MI, Dec 2017  
-- USDA - New Orleans, LA June 2016   
-- Federal Reserve Board, Washington D.C. June 2016  
-- University of Connecticut, March 2016  
-- Iowa State University, November 2015
 
+>    Grand Valley State University, MI, Dec 2017  
+    USDA, New Orleans, LA June 2016   
+    Federal Reserve Board, Washington D.C. June 2016  
+    University of Connecticut, March 2016 
+    Iowa State University, November 2015
 
-> **As Tutor**
+**As Tutor**
 
 **Science Writing Tutor**  
 Quality Writing Center - University of Arkansas - January 2014 - March 2017 
 Tutoring undergraduate and graduate students on scientific writing 8 hours a week. Editing thesis, dissertations, lab reports and other writing. Working extensively with English as a Second Language students. 
 
-> **As Teaching Assistant**
+**As Mentor**
+
+**Undergraduate Mentor** Summer-Fall 2018  
+I am currently mentoring two undergraduates through independent research projects. I was awarded competitive funding to cover their salaries and housing. Throughout the summer I taught them field, and quantitative skills. Throughout the Fall Semester I am mentoring them through their data analysis and first paper. In Spring 2019 they will begin writing their first papers under my direction. 
+
+
+**As Teaching Assistant**
 
 University of Arkansas  
 Biometry - 2016    
@@ -344,13 +339,6 @@ Lead field trips, gave guest lecture, gave field quizzes.
 
 ## Outreach  
 
-<!---
-2011 **Outdoor Educator** W. U.P. Center for Science, Math and Envi. Education   
-2011 **Owl Survey Volunteer** Michigan Bird Conservation Initiative  
-2009 **Presentation** Kirtland Bird Club - Cleveland, OH  
-2011 **North American Breeding Bird Surveyor** U.S. Geological Survey  
-2003-9 **Bird Bander** Black Swamp Bird Observatory 
--->
 2016-17 **#SkypeWithAScientist** 8 Classrooms across the US  
 2013-17 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
@@ -366,7 +354,11 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2015 **Field Trip Leader** (2) The Biggest Week In American Birding Festival  
 2015 **Presentation** (3) Boys and Girls Club of Bentonville, Arkansas STEAM Program  
 2014 **Talk** Arkansas Audubon Society Annual Conference   
- 
+2011 **Outdoor Educator** W. U.P. Center for Science, Math and Envi. Education   
+2011 **Owl Survey Volunteer** Michigan Bird Conservation Initiative  
+2009 **Presentation** Kirtland Bird Club - Cleveland, OH  
+2011 **North American Breeding Bird Surveyor** U.S. Geological Survey  
+
 
 ## Work Experience
 **Freelance Ecologist** October 2016-January 2017  
@@ -392,12 +384,12 @@ Black Swamp Bird Observatory - Mark & Julie Shieldcastle - Spring and Fall 2004-
 **Wilderness First Aid** Wilderness Medicine Institute/NOLS (2/2016)   
 **CPR/First Aid** American Red Cross (12/2015)    
 **Instructor Training** [Software Carpentry & Data Carpentry](https://software-carpentry.org/index.html) - (5/2015)    
+**ATV Rider Certification** ATV Safety Institute (6/2012)
    
 
 
 <!---
 ## Licenses/Certs
-**ATV Rider Certification** ATV Safety Institute (6/2012)
 **NSC Defensive Driving II** National Safety Council (10/2016)  
 ## Memberships 
 (since)  
