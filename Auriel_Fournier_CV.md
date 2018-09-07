@@ -233,6 +233,7 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. Why most studied populations 
 
 ## Service 
 
+2018-Present Co-Chair **Student/Early Professional Committee** Wilson Ornithological Society   
 2018-Present Co-Chair **Early Professional Development Committee** American Ornithological Society     
 2017-Present **Committee Member** Erin Lehnert, MS Student, U of Central Oklahoma  
 2013-Present **Peer Reviewer** 13 journals     
