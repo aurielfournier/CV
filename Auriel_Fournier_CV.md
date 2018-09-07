@@ -233,10 +233,6 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. Why most studied populations 
 
 ## Service 
 
-<!---
-
--->
-
 2018-Present Co-Chair **Early Professional Development Committee** American Ornithological Society     
 2017-Present **Committee Member** Erin Lehnert, MS Student, U of Central Oklahoma  
 2013-Present **Peer Reviewer** 13 journals     
@@ -261,8 +257,8 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. Why most studied populations 
 2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
-
-## Professional Development
+## Professional Development  
+2018 **Decision Analysis Certification Program** Apprentice Level  
 2018 **Grant Writing Workshop** Starkville, MS  
 2018 **ROpenSci Unconference** Seattle, WA  
 2018 **Introduction to Structured Decision Making** NCTC  
