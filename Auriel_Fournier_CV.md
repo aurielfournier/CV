@@ -114,29 +114,23 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 
 ## Grants
 
-**Co-PI and Writer** 2018 $3000 Mississippi State University CFR/FWRC Undergraduate Research Scholars Program [supporting an undergraduate mentee]
-
-*PI* (declined) **National Science Foundation East Asia Pacific Summer Institute Program** 2016 
-
-*Co-Investigator and Writer* **Missouri Department of Conservation Research Grant** 2015 $62,000 
-
-**The Frances M. Peacock Scholarship for Native Bird Habitat** 2015 $4000 
-
-**Arkansas Audubon Society Trust** 2014 $1200   
-
-**Ecosystem Science Center Undergraduate Research Grant** 2011 $750 
-
-**Ecosystem Science Center Undergraduate Research Grant** 2010 $750
-
+**Co-PI and Writer** 2018 $3000 Mississippi State University CFR/FWRC Undergraduate Research Scholars Program [supporting an undergraduate mentee]  
+*PI* (declined) **National Science Foundation East Asia Pacific Summer Institute Program** 2016  
+*Co-Investigator and Writer* **Missouri Department of Conservation Research Grant** 2015 $62,000   
+**The Frances M. Peacock Scholarship for Native Bird Habitat** 2015 $4000   
+**Arkansas Audubon Society Trust** 2014 $1200     
+**Ecosystem Science Center Undergraduate Research Grant** 2011 $750   
+**Ecosystem Science Center Undergraduate Research Grant** 2010 $750  
 **Summer Undergraduate Research Fellowship** 2011 & 2009 $3000 
 
 ## Invited Presentations
 
 2018   
+**Seminar** University of Florida  
 **Keynote** Oklahoma Ornithological Society Spring Meeting  
 **Seminar** Wayne State University  
 **Symposium Talk** American Ornithological Society  
-**Seminar** Louisiana State University
+**Seminar** Louisiana State University  
 **Seminar** Mississippi State University  
 **Seminar** University of Southern Mississippi  
 **Seminar** University of Delaware  
@@ -146,7 +140,6 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 2017   
 **Seminar** University of Montreal  
 **Seminar** Grand Bay National Estuarine Research Reserve  
-**Symposium Talk** American Ornithological Society/Society of Canadian Ornithologists      
 **Seminar** Royal Society for the Protection of Birds, Centre for Conservation Science, UK Headquarters     
 **Symposium Talk** International Association of Great Lake Researchers   
 **Seminar** Bird Studies Canada     
