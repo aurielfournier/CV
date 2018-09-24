@@ -91,7 +91,7 @@ In Review
 
 **Fournier, AMV**, Eulinger, K, McDaniel, T, Calvert, G.  *Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)*
 
-**Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. *Addressing uncertainty in wetland bird community response to early autumn wetland inundation*
+**Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. *Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundationn*
 
 **Fournier, AMV**, White, ER, Heard, SB. *Site-selection bias can drive apparent population declines in long-term studies*
 
