@@ -101,6 +101,26 @@ Butler, CJ, **Fournier, AMV**, Wilson, JK. *Varying levels of migratory connecti
 
 Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mortality in island rodent eradication operations*
 
+## Datasets
+
+2018   
+
+**Fournier AMV,** Mengel DC, Krementz DG Data from: Sora (Porzana carolina) autumn migration habitat use. Dryad Digital Repository. doi: 10.5061/dryad.5n7t4 
+
+2017
+
+**Fournier AMV,** Drake KL, Tozer DC Data from: Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds. Dryad Digital Repository. doi: 10.5061/dryad.nb115
+
+2016
+
+**Fournier AMV,** Sullivan AR, Bump JK, Perkins M, Shieldcastle MC, King SL Data from: Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail. Dryad Digital Repository. doi: 10.5061/dryad.r4847
+
+## Software 
+
+2018 
+
+**Fournier AMV,** Stevens FR, Boone ME, Bruna E. refnet: Clarivate Web of Knowledge / Web of Science and ISI Reference Data Tools. R package version 0.6. github.com/embruna/refnet
+
 ## Honors 
 
 2018 **Elective Member** - American Ornithological Society   
@@ -122,6 +142,8 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 **Ecosystem Science Center Undergraduate Research Grant** 2011 $750   
 **Ecosystem Science Center Undergraduate Research Grant** 2010 $750  
 **Summer Undergraduate Research Fellowship** 2011 & 2009 $3000 
+
+\newpage
 
 ## Invited Presentations
 
@@ -347,8 +369,6 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2011 **Outdoor Educator** W. U.P. Center for Science, Math and Envi. Education   
 2011 **Owl Survey Volunteer** Michigan Bird Conservation Initiative  
 2009 **Presentation** Kirtland Bird Club - Cleveland, OH  
-2011 **North American Breeding Bird Surveyor** U.S. Geological Survey  
-
 
 ## Work Experience
 **Freelance Ecologist** October 2016-January 2017  
