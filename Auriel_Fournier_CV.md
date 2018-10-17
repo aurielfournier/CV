@@ -351,7 +351,7 @@ Lead field trips, gave guest lecture, gave field quizzes.
 
 ## Outreach  
 
-2016-17 **#SkypeWithAScientist** 8 Classrooms across the US  
+2016-18 **#SkypeWithAScientist** 14 Classrooms across the US  
 2013-17 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
 2013-17 **Science Fair Judge** (7) Regional/Local Science Fairs NW Arkansas  
