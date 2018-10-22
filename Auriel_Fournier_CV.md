@@ -85,6 +85,8 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 
 In Review 
 
+**Fournier, A.M.V.,** Lyons, J.E., Wilson, R.R., Gleason, J.S., Adams, E.M., Brush, J.M., Cooper, R.J., DeMaso, S.J., Driscoll, M.J.L., Frederick, P.C., Jodice, P.G.R., Reeves, D.B., Seymour, M.A., Sharuga, S.M., Tirpak, J.M., Vermillion, W.G., Zenzal Jr. T.J., Woodrey, M.S. *The Gulf of Mexico Avian Monitoring Network: Application of structured decision making for coordinated, integrated monitoring*
+
 **Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. *Unpaid work and access to science professions*
 
 **Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. *Testing the island habitat-selection hypothesis in a long-distance migratory songbird* 
