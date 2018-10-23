@@ -183,6 +183,8 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 
 2018     
 
+Jodice, PGR, Woodrey, MS, **Fournier, AMV,** Movement Ecology of Seabirds: Multi-scale and Multi-taxa Approaches to Addressing Conservation Needs in the Gulf of Mexico *Southeastern Association of Fish and Wildlife Agencies* Mobile, LA
+
 **Fournier, AMV,** Lyons, JE, Adams, EA, Brush, J, Cooper, RJ, DeMaso, S, Driscoll, M, Frederick, P, Gleason, J, Wilson, RR, Tirpak, J, Woodrey, MS.  Guiding coordinated bird monitoring decisions through structured decision making *National Conference on Ecological Restoration* New Orleans, LA 
 
 **Fournier, AMV,** Lyons, J, Cooper, RJ, Woodrey, MS. Prioritization of conservation actions through structured decision making *Ecological Society of America* New Orleans, LA
