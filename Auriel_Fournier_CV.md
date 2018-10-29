@@ -38,9 +38,10 @@ Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
 11 papers [all first author], 5 peer reviewed reports [2 first author]. 8 in review. 
 
+
 2018
 
-**Fournier, AMV**, Krementz, DG. [*Confirmation of diving and swimming behavior in the Sora (*Porzana carolina*)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20and%20Krementz%202018%20-%20Wilson%20Journal%20of%20Ornithology.pdf) **Wilson Journal of Ornithology**  130(3) doi: 10.1676/17-046.1
+**Fournier, AMV**, Krementz, DG. [*Confirmation of diving and swimming behavior in the Sora (*Porzana carolina*)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_Krementz_2018_WJO.pdf) **Wilson Journal of Ornithology**  130:778-780 doi: 10.1676/17-046.1
 
 **Fournier, AMV**, Mengel, DC, Krementz, DG. [*Sora (Porzana carolina) autumn migration habitat use.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2018_sora_habitat.pdf) **Royal Society Open Science**. 5: 171664. doi: 10.1098/rsos.171664
 
