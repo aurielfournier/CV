@@ -36,7 +36,7 @@ Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
 ## Peer-Reviewed Publications  
 
-11 papers [all first author], 5 peer reviewed reports [2 first author]. 8 in review. 
+11 papers [all first author], 5 peer reviewed reports [2 first author]. 9 in review [6 first author]. 
 
 
 2018
