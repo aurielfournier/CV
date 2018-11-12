@@ -31,6 +31,8 @@ Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
 **Associate Editor** The Ibis - 2017-Present  
 
+**Subject Editor** Rethinking Ecology - 2018-Present
+
 **Research Committee Co-Chair** Black Swamp Bird Observatory  - 2016-Present   
 
 
@@ -124,6 +126,24 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 
 **Fournier AMV,** Stevens FR, Boone ME, Bruna E. refnet: Clarivate Web of Knowledge / Web of Science and ISI Reference Data Tools. R package version 0.6. github.com/embruna/refnet
 
+
+
+## Grants
+
+**PI** (Submitted) 2018 - NOAA RESTORE SCIENCE $7.3 million  
+**Co-PI** (Submitted) 2018 - NOAA RESTORE SCIENCE $5.2 million   
+**Co-PI** (Submitted) 2018 - Mississippi Department of Wildlife, Fisheries and parks $21k   
+**Co-PI and Writer** 2018 - Mississippi State University CFR/FWRC Undergraduate Research Scholars Program $3k [supporting an undergraduate mentee]    
+**PI** (declined) 2016 - National Science Foundation East Asia Pacific Summer Institute Program  
+**Co-PI and Writer** 2015 - Missouri Department of Conservation Research Grant $62k   
+**Writer** 2015 - The Frances M. Peacock Scholarship for Native Bird Habitat $4k   
+**Writer** 2014 - Arkansas Audubon Society Trust** $1200     
+**Writer** 2011 - Summer Undergraduate Research Fellowship $3k   
+**Writer** 2011 - Ecosystem Science Center Undergraduate Research Grant $750   
+**Writer** 2010 - Ecosystem Science Center Undergraduate Research Grant $750  
+**Writer** 2011 - Summer Undergraduate Research Fellowship $3000   
+**Writer** 2009 - Summer Undergraduate Research Fellowship $3k
+
 ## Honors 
 
 2018 **Elective Member** - American Ornithological Society   
@@ -134,19 +154,6 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 2010    **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
 2009    **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological University
 
-
-## Grants
-
-**Co-PI and Writer** 2018 $3000 Mississippi State University CFR/FWRC Undergraduate Research Scholars Program [supporting an undergraduate mentee]  
-*PI* (declined) **National Science Foundation East Asia Pacific Summer Institute Program** 2016  
-*Co-Investigator and Writer* **Missouri Department of Conservation Research Grant** 2015 $62,000   
-**The Frances M. Peacock Scholarship for Native Bird Habitat** 2015 $4000   
-**Arkansas Audubon Society Trust** 2014 $1200     
-**Ecosystem Science Center Undergraduate Research Grant** 2011 $750   
-**Ecosystem Science Center Undergraduate Research Grant** 2010 $750  
-**Summer Undergraduate Research Fellowship** 2011 & 2009 $3000 
-
-\newpage
 
 ## Invited Presentations
 
