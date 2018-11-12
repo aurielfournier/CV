@@ -305,7 +305,8 @@ von Hardenberg A et al. Editors: Francois Michonneau and Auriel Fournier. 2017. 
 _Advanced R Programming and Graphing Workshop_   
 Day long workshop on programming, graphing, data management in R. [Link to Materials](https://github.com/aurielfournier/AOSSCO17)    
 
->    American Ornithological Society Conference - April 2018    
+>    Gulf Estuarine Research Society Conference - November 2018    
+American Ornithological Society Conference - April 2018    
     American Ornithological Society/Society of Canadian Ornithologists - August 2017  
     North American Ornithological Conference - August 2016      
     American Ornithologists Union Conference - July 2015    
