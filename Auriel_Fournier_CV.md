@@ -212,7 +212,7 @@ Adams, EM, **Fournier, AMV,** Lyons, JE, Woodrey, MS. Using a structured decisio
 Ray, JD, Fraser, KC, **Fournier, AMV,** Shave, A. Selection of island habitat by a Texas population of purple martin during the non-breeding season. *54rd Texas Chapter Wildlife Society* Dallas, TX.   
 
 2017   
-**Fournier, AMV,** Woodrey, MS, Lyons, JE, Cooper, RJ, Evans, KE. Application OF Structured Decision Making to Marshbird Monitoring in the Gulf of Mexico *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
+**Fournier, AMV,** Woodrey, MS, Lyons, JE, Cooper, RJ, Evans, KE. Application of Structured Decision Making to Marshbird Monitoring in the Gulf of Mexico *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
 
 Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. Why most studied populations should decline. *Canadian Society for Ecology and Evolution*
 
