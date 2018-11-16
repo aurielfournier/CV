@@ -304,10 +304,11 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. Why most studied populations 
 
 **Lesson Development**
 
-von Hardenberg A et al. Editors: Francois Michonneau and Auriel Fournier. 2017. Data Carpentry: R for data analysis and visualization of Ecological Data. doi: 10.5281/zenodo.569338
+von Hardenberg A et al. Editors: Francois Michonneau and **Auriel Fournier**. 2017. Data Carpentry: R for data analysis and visualization of Ecological Data. doi: 10.5281/zenodo.569338
 
 **As Instructor**
 
+[_Foundations of Functional Programming with purrr_](https://www.datacamp.com/courses/foundations-of-functional-programming-with-purrr) DataCamp - Developed Curriculum, Recorded Videos, Wrote Interactive Lessons
 
 _Advanced R Programming and Graphing Workshop_   
 Day long workshop on programming, graphing, data management in R. [Link to Materials](https://github.com/aurielfournier/AOSSCO17)    
