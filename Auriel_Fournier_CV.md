@@ -124,7 +124,7 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 
 2018 
 
-**Fournier AMV,** Stevens FR, Boone ME, Bruna E. refnet: Clarivate Web of Knowledge / Web of Science and ISI Reference Data Tools. R package version 0.6. github.com/embruna/refnet
+**Fournier AMV,** Boone ME, Stevens FR, Bruna E. refnet: Clarivate Web of Knowledge / Web of Science and ISI Reference Data Tools. R package version 0.6. github.com/embruna/refnet
 
 
 
