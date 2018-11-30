@@ -343,8 +343,6 @@ Two-day workshops on reproducible research in R,  Unix Shell, and Git.
 Quality Writing Center - University of Arkansas - January 2014 - March 2017 
 Tutoring undergraduate and graduate students on scientific writing 8 hours a week. Editing thesis, dissertations, lab reports and other writing. Working extensively with English as a Second Language students. 
 
-\newpage
-
 **As Mentor**
 
 **Undergraduate Mentor** Summer-Fall 2018  
