@@ -241,6 +241,14 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. Why most studied populations 
 
 ## Posters
 
+`#` undergraduate mentees
+
+2018 
+
+Holiman, H.#, Kitaif, C.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Can automated recordingn units be used to count individual marsh birds? *Bays and Bayous Conference, Alabama.* 
+
+Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migratory timing of rails in Jackson County, MS *Bays and Bayous Conference, Alabama.* 
+
 2017    
 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. Comparison of Arrival Dates of Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA *International Association of Great Lakes Researchers Conference* - MI [pdf](https://figshare.com/articles/Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes/4726315)
 
@@ -308,7 +316,8 @@ von Hardenberg A et al. Editors: Francois Michonneau and **Auriel Fournier**. 20
 
 **As Instructor**
 
-[_Foundations of Functional Programming with purrr_](https://www.datacamp.com/courses/foundations-of-functional-programming-with-purrr) DataCamp - Developed Curriculum, Recorded Videos, Wrote Interactive Lessons
+[_Foundations of Functional Programming with purrr_](https://www.datacamp.com/courses/foundations-of-functional-programming-with-purrr)   
+DataCamp - Developed Curriculum, Recorded Videos, Wrote Interactive Lessons
 
 _Advanced R Programming and Graphing Workshop_   
 Day long workshop on programming, graphing, data management in R. [Link to Materials](https://github.com/aurielfournier/AOSSCO17)    
@@ -322,10 +331,10 @@ American Ornithological Society Conference - April 2018
 _Data and Software Carpentry Workshop_  
 Two-day workshops on reproducible research in R,  Unix Shell, and Git.   
 
->    Grand Valley State University, MI, Dec 2017  
+>    Grand Valley State University, MI, December 2017  
     USDA, New Orleans, LA June 2016   
     Federal Reserve Board, Washington D.C. June 2016  
-    University of Connecticut, March 2016 
+    University of Connecticut, March 2016   
     Iowa State University, November 2015
 
 **As Tutor**
@@ -334,10 +343,12 @@ Two-day workshops on reproducible research in R,  Unix Shell, and Git.
 Quality Writing Center - University of Arkansas - January 2014 - March 2017 
 Tutoring undergraduate and graduate students on scientific writing 8 hours a week. Editing thesis, dissertations, lab reports and other writing. Working extensively with English as a Second Language students. 
 
+\newpage
+
 **As Mentor**
 
 **Undergraduate Mentor** Summer-Fall 2018  
-I am currently mentoring two undergraduates through independent research projects. I was awarded competitive funding to cover their salaries and housing. Throughout the summer I taught them field, and quantitative skills. Throughout the Fall Semester I am mentoring them through their data analysis and first paper. In Spring 2019 they will begin writing their first papers under my direction. 
+I am currently mentoring two undergraduates through independent research projects. I was awarded competitive funding to cover their salaries and housing. Throughout the summer I taught them field, and quantitative skills. Throughout the Fall Semester I am mentoring them through their data analysis and first poster. In Spring 2019 they will begin writing their first papers under my direction. 
 
 
 **As Teaching Assistant**
@@ -384,6 +395,8 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2011 **Owl Survey Volunteer** Michigan Bird Conservation Initiative  
 2009 **Presentation** Kirtland Bird Club - Cleveland, OH  
 
+\newpage
+
 ## Work Experience
 **Freelance Ecologist** October 2016-January 2017  
 Bird Studies Canada  
@@ -409,20 +422,3 @@ Black Swamp Bird Observatory - Mark & Julie Shieldcastle - Spring and Fall 2004-
 **CPR/First Aid** American Red Cross (12/2015)    
 **Instructor Training** [Software Carpentry & Data Carpentry](https://software-carpentry.org/index.html) - (5/2015)    
 **ATV Rider Certification** ATV Safety Institute (6/2012)
-   
-
-
-<!---
-## Licenses/Certs
-**NSC Defensive Driving II** National Safety Council (10/2016)  
-## Memberships 
-(since)  
-2008 **The Wildlife Society**  
-2012 **American Ornithological Society**   
-2012 **Association of Field Ornithologists**    
-2012 **The Waterbirds Society**  
-2015 **Wilson Ornithological Society**  
-2016 **Ecological Society of America**  
-2017 **International Assocation of Great Lakes Researchers**  
-2017 **British Ornithologists Union**
--->
