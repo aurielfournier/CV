@@ -188,10 +188,15 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 
 ## Presentations
 
+<!---
+2019
+Dryon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tiger sharks eat terrestrial songbirds: exploring the prevalence of a unique cross-system pulsed subsidy *Southeastern Division American Fisheries Society*
+
+--->
 
 2018     
 
-Jodice, PGR, Woodrey, MS, **Fournier, AMV,** Movement Ecology of Seabirds: Multi-scale and Multi-taxa Approaches to Addressing Conservation Needs in the Gulf of Mexico *Southeastern Association of Fish and Wildlife Agencies* Mobile, LA
+Jodice, PGR, Woodrey, MS, **Fournier, AMV** Movement Ecology of Seabirds: Multi-scale and Multi-taxa Approaches to Addressing Conservation Needs in the Gulf of Mexico *Southeastern Association of Fish and Wildlife Agencies* Mobile, AL
 
 **Fournier, AMV,** Lyons, JE, Adams, EA, Brush, J, Cooper, RJ, DeMaso, S, Driscoll, M, Frederick, P, Gleason, J, Wilson, RR, Tirpak, J, Woodrey, MS.  Guiding coordinated bird monitoring decisions through structured decision making *National Conference on Ecological Restoration* New Orleans, LA 
 
