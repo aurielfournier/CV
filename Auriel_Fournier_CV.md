@@ -130,9 +130,11 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 
 ## Grants
 
-**PI** (Submitted) 2018 - NOAA RESTORE SCIENCE $7.3 million  
-**Co-PI** (Submitted) 2018 - NOAA RESTORE SCIENCE $5.2 million   
-**Co-PI** (Submitted) 2018 - Mississippi Department of Wildlife, Fisheries and parks $21k   
+**PI** (Submitted) 2018 - NOAA RESTORE SCIENCE  
+**Co-PI** (Submitted) 2018 - NOAA RESTORE SCIENCE   
+**Co-PI** (Submitted) 2018 - NOAA NERRS Science Collaborative  
+**Co-PI** (Recommended for Funding) 2018 - Mississippi Department of Wildlife, Fisheries and parks $21k   
+**Co-PI** 2018 - U.S. Fish and Wildlife Service $27k   
 **Co-PI and Writer** 2018 - Mississippi State University CFR/FWRC Undergraduate Research Scholars Program $3k [supporting an undergraduate mentee]    
 **PI** (declined) 2016 - National Science Foundation East Asia Pacific Summer Institute Program  
 **Co-PI and Writer** 2015 - Missouri Department of Conservation Research Grant $62k   
