@@ -148,16 +148,27 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 
 ## Honors 
 
-2018 **Elective Member** - American Ornithological Society   
+<!---
+2010    **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
 2012-16 **Distinguished Doctoral Fellowship** - University of Arkansas  
+--->
+
+
+2018 **Elective Member** - American Ornithological Society   
 2016    **Distinguished Student Service Award** - The Wildlife Society U of Arkansas Student Chapter  
 2015 [**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society   
 2011    **Outstanding Senior in Wildlife Ecology and Management** - Michigan Technological University   
-2010    **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
 2009    **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological University
 
 
 ## Invited Presentations
+
+<!---
+2019
+**Seminar** Clemson University
+**Seminar** East Carolina University 
+--->
+
 
 2018   
 **Seminar** University of Florida  
@@ -191,10 +202,13 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 ## Presentations
 
 <!---
-2019
-Dryon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tiger sharks eat terrestrial songbirds: exploring the prevalence of a unique cross-system pulsed subsidy *Southeastern Division American Fisheries Society*
+
 
 --->
+
+2019
+
+Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tiger sharks eat terrestrial songbirds: exploring the prevalence of a unique cross-system pulsed subsidy *Southeastern Division American Fisheries Society*
 
 2018     
 
@@ -245,6 +259,7 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. Why most studied populations 
 2013   
 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
 
+\newpage
 
 ## Posters
 
@@ -275,6 +290,13 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 
 ## Service 
 
+<!---
+ 2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
+2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI  
+2015 **Volunteer** American Ornithologists Union Meeting  
+2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA 
+--->
+
 2018-Present Co-Chair **Student/Early Professional Committee** Wilson Ornithological Society   
 2018-Present Co-Chair **Early Professional Development Committee** American Ornithological Society     
 2017-Present **Committee Member** Erin Lehnert, MS Student, U of Central Oklahoma  
@@ -293,10 +315,6 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 2014-15 Treasurer **Student Working Group** The Wildlife Society    
 2013-14 Vice President **Biology Graduate Student Assocation** University of Arkansas  
 2013-14 Treasurer **Student Chapter - University of Arkansas** The Wildlife Society  
-2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
-2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI  
-2015 **Volunteer** American Ornithologists Union Meeting  
-2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA    
 2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
@@ -400,9 +418,18 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2011 **Owl Survey Volunteer** Michigan Bird Conservation Initiative  
 2009 **Presentation** Kirtland Bird Club - Cleveland, OH  
 
-\newpage
+
+## Professional Licenses and Certifications
+
+**Master Bander License Holder. Previously sub permitted in US and Canada for 13 years** 14 years experience, 7000+ birds  
+**Wilderness First Aid** Wilderness Medicine Institute/NOLS (2/2016)   
+**CPR/First Aid** American Red Cross (12/2015)    
+**Instructor Training** [Software Carpentry & Data Carpentry](https://software-carpentry.org/index.html) - (5/2015)    
+**ATV Rider Certification** ATV Safety Institute (6/2012)
 
 ## Work Experience
+**Lead Scientist** November 2017-Present  
+Prozana Solutions LLC   
 **Freelance Ecologist** October 2016-January 2017  
 Bird Studies Canada  
 **Environmental Education Internship**  
@@ -420,10 +447,3 @@ Michigan Technological University - Dr. Amber Roth  March - June 2010
 **Bird Bander**  
 Black Swamp Bird Observatory - Mark & Julie Shieldcastle - Spring and Fall 2004-2008
 
-## Professional Licenses and Certifications
-
-**Master Bander License Holder. Previously sub permitted in US and Canada for 13 years** 14 years experience, 7000+ birds  
-**Wilderness First Aid** Wilderness Medicine Institute/NOLS (2/2016)   
-**CPR/First Aid** American Red Cross (12/2015)    
-**Instructor Training** [Software Carpentry & Data Carpentry](https://software-carpentry.org/index.html) - (5/2015)    
-**ATV Rider Certification** ATV Safety Institute (6/2012)
