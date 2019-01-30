@@ -98,7 +98,7 @@ In Review
 
 **Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. *Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundationn*
 
-**Fournier, AMV**, White, ER, Heard, SB. *Site-selection bias can drive apparent population declines in long-term studies*
+**Fournier, AMV**, White, ER, Heard, SB. *Site-selection bias can drive apparent population declines in long-term studies* [Preprint: peerj.com/preprints/27507/](https://peerj.com/preprints/27507/)
 
 Wilson, R.R., **Fournier, AMV,** Lyons, JE, Gleason, J, Adams, E, Barnhill, L, Brush, J, Cooper, RJ, DeMaso, S, Driscoll, M, Eaton, M, Frederick, P, Just, M, Seymour, M, Tirpak, J, Woodrey, MS *Structured Decision Making and Optimal Bird Monitoring in the Northern Gulf of Mexico*
 
