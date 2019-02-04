@@ -38,7 +38,7 @@ Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
 ## Peer-Reviewed Publications  
 
-11 papers [all first author], 5 peer reviewed reports [2 first author]. 9 in review [6 first author]. 
+11 papers [all first author], 5 peer reviewed reports [2 first author]. 10 in review [6 first author]. 
 
 
 2018
@@ -88,6 +88,8 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 
 In Review 
 
+**Fournier, AMV**, White, ER, Heard, SB. *Site-selection bias can drive apparent population declines in long-term studies* [Preprint: peerj.com/preprints/27507/](https://peerj.com/preprints/27507/)
+
 **Fournier, A.M.V.,** Lyons, J.E., Wilson, R.R., Gleason, J.S., Adams, E.M., Brush, J.M., Cooper, R.J., DeMaso, S.J., Driscoll, M.J.L., Frederick, P.C., Jodice, P.G.R., Reeves, D.B., Seymour, M.A., Sharuga, S.M., Tirpak, J.M., Vermillion, W.G., Zenzal Jr. T.J., Woodrey, M.S. *The Gulf of Mexico Avian Monitoring Network: Application of structured decision making for coordinated, integrated monitoring*
 
 **Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. *Unpaid work and access to science professions*
@@ -98,13 +100,13 @@ In Review
 
 **Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. *Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundationn*
 
-**Fournier, AMV**, White, ER, Heard, SB. *Site-selection bias can drive apparent population declines in long-term studies* [Preprint: peerj.com/preprints/27507/](https://peerj.com/preprints/27507/)
-
 Wilson, R.R., **Fournier, AMV,** Lyons, JE, Gleason, J, Adams, E, Barnhill, L, Brush, J, Cooper, RJ, DeMaso, S, Driscoll, M, Eaton, M, Frederick, P, Just, M, Seymour, M, Tirpak, J, Woodrey, MS *Structured Decision Making and Optimal Bird Monitoring in the Northern Gulf of Mexico*
 
 Butler, CJ, **Fournier, AMV**, Wilson, JK. *Varying levels of migratory connectivity among four mesic prairie bird species of North America*
 
 Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mortality in island rodent eradication operations*
+
+Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S *Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky*
 
 ## Datasets
 
@@ -146,14 +148,12 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 **Writer** 2011 - Summer Undergraduate Research Fellowship $3000   
 **Writer** 2009 - Summer Undergraduate Research Fellowship $3k
 
+\newpage
+
 ## Honors 
 
-<!---
 2010    **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
 2012-16 **Distinguished Doctoral Fellowship** - University of Arkansas  
---->
-
-
 2018 **Elective Member** - American Ornithological Society   
 2016    **Distinguished Student Service Award** - The Wildlife Society U of Arkansas Student Chapter  
 2015 [**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society   
@@ -253,13 +253,13 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. Why most studied populations 
 
 **Fournier, AMV,** Mengel, DC, Krementz DG. Timing of Autumn Migration in the Mississippi Flyway by Rails. *Association of Field Ornithologists Meeting*  - NS [pdf link](http://doi.org/5ks)
 
+\newpage
+
 2014   
 **Fournier, AMV,** Krementz, DG. 2014  The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*- AR
 
 2013   
 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
-
-\newpage
 
 ## Posters
 
@@ -361,6 +361,8 @@ Two-day workshops on reproducible research in R,  Unix Shell, and Git.
     Federal Reserve Board, Washington D.C. June 2016  
     University of Connecticut, March 2016   
     Iowa State University, November 2015
+
+\newpage
 
 **As Tutor**
 
