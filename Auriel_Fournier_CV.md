@@ -363,7 +363,8 @@ American Ornithological Society Conference - April 2018
 _Data and Software Carpentry Workshop_  
 Two-day workshops on reproducible research in R,  Unix Shell, and Git.   
 
->    Grand Valley State University, MI, December 2017  
+>   Grand Bay National Estuarine Research Reserve, February 2019  
+    Grand Valley State University, MI, December 2017  
     USDA, New Orleans, LA June 2016   
     Federal Reserve Board, Washington D.C. June 2016  
     University of Connecticut, March 2016   
