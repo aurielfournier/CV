@@ -38,8 +38,11 @@ Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
 ## Peer-Reviewed Publications  
 
-11 papers [all first author], 5 peer reviewed reports [2 first author]. 10 in review [6 first author]. 
+12 papers [all first author], 5 peer reviewed reports [2 first author]. 9 in review [5 first author]. 
 
+
+2019   
+**Fournier, AMV**, Eulinger, K, McDaniel, T, Calvert, G.  *Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)* **Herpetological Review** (In Press)
 
 2018
 
@@ -96,8 +99,6 @@ In Review
 
 **Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. *Testing the island habitat-selection hypothesis in a long-distance migratory songbird* 
 
-**Fournier, AMV**, Eulinger, K, McDaniel, T, Calvert, G.  *Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)*
-
 **Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. *Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundationn*
 
 Wilson, R.R., **Fournier, AMV,** Lyons, JE, Gleason, J, Adams, E, Barnhill, L, Brush, J, Cooper, RJ, DeMaso, S, Driscoll, M, Eaton, M, Frederick, P, Just, M, Seymour, M, Tirpak, J, Woodrey, MS *Structured Decision Making and Optimal Bird Monitoring in the Northern Gulf of Mexico*
@@ -147,7 +148,7 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 **PI** (declined) 2016 - National Science Foundation East Asia Pacific Summer Institute Program  
 **Co-PI and Writer** 2015 - Missouri Department of Conservation Research Grant $62k   
 **Writer** 2015 - The Frances M. Peacock Scholarship for Native Bird Habitat $4k   
-**Writer** 2014 - Arkansas Audubon Society Trust** $1200     
+**Writer** 2014 - Arkansas Audubon Society Trust $1200     
 **Writer** 2011 - Summer Undergraduate Research Fellowship $3k   
 **Writer** 2011 - Ecosystem Science Center Undergraduate Research Grant $750   
 **Writer** 2010 - Ecosystem Science Center Undergraduate Research Grant $750  
