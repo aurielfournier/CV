@@ -13,7 +13,7 @@ Postdoctoral Research Associate - Mississippi State University, Biloxi, MS
 **Postdoctoral Researcher** - Mississippi State University - April 2017-Present  
 Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
-> Structured Decision Making To Faciliate Coordinated Avian Monitoring in the Gulf of Mexico   
+> Structured Decision Making To Facilitate Coordinated Avian Monitoring in the Gulf of Mexico   
 Building Decision Support Tools  
 Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
