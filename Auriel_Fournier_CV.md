@@ -433,10 +433,10 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 ## Professional Licenses and Certifications
 
 **Master Bander License Holder. Previously sub permitted in US and Canada for 13 years** 14 years experience, 7000+ birds  
-**Wilderness First Aid** Wilderness Medicine Institute/NOLS (2/2016)   
-**CPR/First Aid** American Red Cross (12/2015)    
-**Instructor Training** [Software Carpentry & Data Carpentry](https://software-carpentry.org/index.html) - (5/2015)    
-**ATV Rider Certification** ATV Safety Institute (6/2012)
+**Wilderness First Aid** Wilderness Medicine Institute/NOLS (2/2019)   
+**CPR/First Aid** American Red Cross (2/2019)    
+**Instructor Training** [Software Carpentry & Data Carpentry](https://software-carpentry.org/index.html)   
+**ATV Rider Certification** ATV Safety Institute 
 
 ## Work Experience
 **Lead Scientist** November 2017-Present  
