@@ -38,7 +38,7 @@ Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
 ## Peer-Reviewed Publications  
 
-12 papers [all first author], 5 peer reviewed reports [2 first author]. 10 in review [5 first author]. 
+12 papers [all first author], 5 peer reviewed reports [2 first author]. 10 papers in review [5 first author]. 4 reports in review [1 first author]. 
 
 
 2019   
@@ -114,32 +114,19 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 
 Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S *Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky*
 
+Wilson, RR, Woodrey, MS, **Fournier, AMV,** Gleason, JS, Lyons, JE *Chapter 1: Why a Strategic Avian Monitoring Plan for the Gulf of Mexico* **Gulf of Mexico Strategic Avian Monitoring Plan**   
+
+**Fournier, AMV,** Woodrey, MS, Wilson, RR, Sharuga, S, Reeves, D. *Chapter 2: Challenges, Opportunities and Stakeholder Values* **Gulf of Mexico Strategic Avian Monitoring Plan**
+
+Woodrey, MS, **Fournier, AMV,** Cooper, RJ. *Chapter 4: Marshbirds*  **Gulf of Mexico Strategic Avian Monitoring Plan**
+
+Adams, EM, **Fournier, AMV,** Woodrey MS. *Chapter 11: Collaboration, and Integration Across the Gulf of Mexico* **Gulf of Mexico Strategic Avian Monitoring Plan**
+
+
 
 ## Popular Press  
 
 Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, Stack Whitney, K 2019 *Open Science Isn't Always Open To All Scientists* The American Scientist. 
-
-
-
-## Datasets
-
-2018   
-
-**Fournier AMV,** Mengel DC, Krementz DG Data from: Sora (Porzana carolina) autumn migration habitat use. Dryad Digital Repository. doi: 10.5061/dryad.5n7t4 
-
-2017
-
-**Fournier AMV,** Drake KL, Tozer DC Data from: Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds. Dryad Digital Repository. doi: 10.5061/dryad.nb115
-
-2016
-
-**Fournier AMV,** Sullivan AR, Bump JK, Perkins M, Shieldcastle MC, King SL Data from: Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail. Dryad Digital Repository. doi: 10.5061/dryad.r4847
-
-## Software 
-
-2018 
-
-**Fournier AMV,** Boone ME, Stevens FR, Bruna E. refsplitr: Clarivate Web of Knowledge / Web of Science and ISI Reference Data Tools. R package version 0.6. github.com/embruna/refsplitr
 
 
 
@@ -160,6 +147,31 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 **Writer** 2010 - Ecosystem Science Center Undergraduate Research Grant $750  
 **Writer** 2011 - Summer Undergraduate Research Fellowship $3000   
 **Writer** 2009 - Summer Undergraduate Research Fellowship $3k
+
+
+
+## Software 
+
+2018 
+
+**Fournier AMV,** Boone ME, Stevens FR, Bruna E. refsplitr: Clarivate Web of Knowledge / Web of Science and ISI Reference Data Tools. R package version 0.6. github.com/embruna/refsplitr
+
+
+
+## Datasets
+
+2018   
+
+**Fournier AMV,** Mengel DC, Krementz DG Data from: Sora (Porzana carolina) autumn migration habitat use. Dryad Digital Repository. doi: 10.5061/dryad.5n7t4 
+
+2017
+
+**Fournier AMV,** Drake KL, Tozer DC Data from: Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds. Dryad Digital Repository. doi: 10.5061/dryad.nb115
+
+2016
+
+**Fournier AMV,** Sullivan AR, Bump JK, Perkins M, Shieldcastle MC, King SL Data from: Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail. Dryad Digital Repository. doi: 10.5061/dryad.r4847
+
 
 ## Honors 
 
@@ -226,8 +238,6 @@ Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tige
 2019
 
 Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tiger sharks eat terrestrial songbirds: exploring the prevalence of a unique cross-system pulsed subsidy *Southeastern Division American Fisheries Society*
-
-\newpage
 
 2018     
 
@@ -415,6 +425,15 @@ Ornithology - 2011
 Lead field trips, gave guest lecture, gave field quizzes. 
 
 
+
+## Professional Licenses and Certifications
+
+**Master Bander License Holder. Previously sub permitted in US and Canada for 13 years** 14 years experience, 7000+ birds  
+**Wilderness First Aid** Wilderness Medicine Institute/NOLS (2/2019)   
+**CPR/First Aid** American Red Cross (2/2019)    
+**Instructor Training** [Software Carpentry & Data Carpentry](https://software-carpentry.org/index.html)   
+**ATV Rider Certification** ATV Safety Institute 
+
 ## Outreach  
 
 2016-18 **#SkypeWithAScientist** 14 Classrooms across the US  
@@ -437,13 +456,6 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 2009 **Presentation** Kirtland Bird Club - Cleveland, OH  
 
 
-## Professional Licenses and Certifications
-
-**Master Bander License Holder. Previously sub permitted in US and Canada for 13 years** 14 years experience, 7000+ birds  
-**Wilderness First Aid** Wilderness Medicine Institute/NOLS (2/2019)   
-**CPR/First Aid** American Red Cross (2/2019)    
-**Instructor Training** [Software Carpentry & Data Carpentry](https://software-carpentry.org/index.html)   
-**ATV Rider Certification** ATV Safety Institute 
 
 ## Work Experience
 **Lead Scientist** November 2017-Present  
