@@ -38,11 +38,13 @@ Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
 ## Peer-Reviewed Publications  
 
-12 papers [all first author], 5 peer reviewed reports [2 first author]. 10 papers in review [5 first author]. 4 reports in review [1 first author]. 
+13 papers [12 first author], 5 peer reviewed reports [2 first author]. 9 papers in review [5 first author]. 4 reports in review [1 first author]. 
 
 
 2019   
 **Fournier, AMV**, Eulinger, K, McDaniel, T, Calvert, G.  *Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)* **Herpetological Review** (In Press)
+
+Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S *Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky* **Ecology** (In Press)
 
 2018
 
@@ -111,8 +113,6 @@ Wilson, R.R., **Fournier, AMV,** Lyons, JE, Gleason, J, Adams, E, Barnhill, L, B
 Butler, CJ, **Fournier, AMV**, Wilson, JK. *Varying levels of migratory connectivity among four mesic prairie bird species of North America*
 
 Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mortality in island rodent eradication operations*
-
-Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S *Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky*
 
 Wilson, RR, Woodrey, MS, **Fournier, AMV,** Gleason, JS, Lyons, JE *Chapter 1: Why a Strategic Avian Monitoring Plan for the Gulf of Mexico* **Gulf of Mexico Strategic Avian Monitoring Plan**   
 
