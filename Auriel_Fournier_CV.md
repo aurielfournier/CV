@@ -38,13 +38,25 @@ Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
 ## Peer-Reviewed Publications  
 
-13 papers [12 first author], 5 peer reviewed reports [2 first author]. 9 papers in review [5 first author]. 4 reports in review [1 first author]. 
+13 papers [12 first author], 6 peer reviewed reports [2 first author]. 4 peer reviewed chapters [1 first author]. 8 papers in review [5 first author]. 
 
 
 2019   
 **Fournier, AMV**, Eulinger, K, McDaniel, T, Calvert, G.  *Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)* **Herpetological Review** (In Press)
 
 Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S *Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky* **Ecology** (In Press)
+
+Woodrey, MS, **Fournier, AMV.,** Gleason, JS, Lyons, JE, and Wilson RR. [Editors]. Gulf of Mexico Strategic Avian Monitoring Plan. Mississippi Agricultural and Forestry Experiment Station Bulletin (In Press). Mississippi State University, Starkville, Mississippi.
+
+Wilson, RR, Woodrey, MS, **Fournier, AMV,** Gleason, JS, Lyons, JE *Chapter 1: Why a Strategic Avian Monitoring Plan for the Gulf of Mexico* **Gulf of Mexico Strategic Avian Monitoring Plan** Mississippi Agricultural and Forestry Experiment Station Bulletin (In Press). Mississippi State University, Starkville, Mississippi.  
+
+**Fournier, AMV,** Woodrey, MS, Wilson, RR, Sharuga, S, Reeves, D. *Chapter 2: Challenges, Opportunities and Stakeholder Values* **Gulf of Mexico Strategic Avian Monitoring Plan** Mississippi Agricultural and Forestry Experiment Station Bulletin (In Press). Mississippi State University, Starkville, Mississippi.  
+
+Woodrey, MS, **Fournier, AMV,** Cooper, RJ. *Chapter 4: Marshbirds*  **Gulf of Mexico Strategic Avian Monitoring Plan** Mississippi Agricultural and Forestry Experiment Station Bulletin (In Press). Mississippi State University, Starkville, Mississippi.  
+
+Adams, EM, **Fournier, AMV,** Woodrey MS. *Chapter 11: Collaboration, and Integration Across the Gulf of Mexico* **Gulf of Mexico Strategic Avian Monitoring Plan** Mississippi Agricultural and Forestry Experiment Station Bulletin (In Press). Mississippi State University, Starkville, Mississippi.  
+
+Wilson, R.R., **Fournier, AMV,** Lyons, JE, Gleason, J, Adams, E, Barnhill, L, Brush, J, Cooper, RJ, DeMaso, S, Driscoll, M, Eaton, M, Frederick, P, Just, M, Seymour, M, Tirpak, J, Woodrey, MS *Structured Decision Making and Optimal Bird Monitoring in the Northern Gulf of Mexico* (In Press) USGS Open File Report
 
 2018
 
@@ -105,30 +117,11 @@ In Review
 
 **Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. *Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundationn*
 
-
 Weitzel, SL`#`, Cooper, RJ, Walker, J, Rush, SA, **Fournier, AMV,** Woodrey, MS *Habitat use of five wintering salt marsh birds in the Northern Gulf of Mexico*   
-
-Wilson, R.R., **Fournier, AMV,** Lyons, JE, Gleason, J, Adams, E, Barnhill, L, Brush, J, Cooper, RJ, DeMaso, S, Driscoll, M, Eaton, M, Frederick, P, Just, M, Seymour, M, Tirpak, J, Woodrey, MS *Structured Decision Making and Optimal Bird Monitoring in the Northern Gulf of Mexico*
 
 Butler, CJ, **Fournier, AMV**, Wilson, JK. *Varying levels of migratory connectivity among four mesic prairie bird species of North America*
 
 Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mortality in island rodent eradication operations*
-
-Wilson, RR, Woodrey, MS, **Fournier, AMV,** Gleason, JS, Lyons, JE *Chapter 1: Why a Strategic Avian Monitoring Plan for the Gulf of Mexico* **Gulf of Mexico Strategic Avian Monitoring Plan**   
-
-**Fournier, AMV,** Woodrey, MS, Wilson, RR, Sharuga, S, Reeves, D. *Chapter 2: Challenges, Opportunities and Stakeholder Values* **Gulf of Mexico Strategic Avian Monitoring Plan**
-
-Woodrey, MS, **Fournier, AMV,** Cooper, RJ. *Chapter 4: Marshbirds*  **Gulf of Mexico Strategic Avian Monitoring Plan**
-
-Adams, EM, **Fournier, AMV,** Woodrey MS. *Chapter 11: Collaboration, and Integration Across the Gulf of Mexico* **Gulf of Mexico Strategic Avian Monitoring Plan**
-
-
-
-## Popular Press  
-
-Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, Stack Whitney, K 2019 *Open Science Isn't Always Open To All Scientists* The American Scientist. 
-
-
 
 ## Grants
 
@@ -148,6 +141,10 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 **Writer** 2011 - Summer Undergraduate Research Fellowship $3000   
 **Writer** 2009 - Summer Undergraduate Research Fellowship $3k
 
+
+## Popular Press  
+
+Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, Stack Whitney, K 2019 *Open Science Isn't Always Open To All Scientists* The American Scientist. https://www.americanscientist.org/article/open-science-isnt-always-open-to-all-scientists
 
 
 ## Software 
@@ -406,24 +403,19 @@ I am currently mentoring two undergraduates through independent research project
 
 University of Arkansas  
 Biometry - 2016    
-Developed materials, scripts and documentation to move all labs from SYSTAT to R. [Link to Materials](https://github.com/aurielfournier/Biometry_Materials)
+Developed materials, moved labs from SYSTAT to R. [Link to Materials](https://github.com/aurielfournier/Biometry_Materials)
 
 University of Arkansas    
 Wetlands Ecology and Management - 2015  
-Taught weekly labs on taxonomy and wetland field methods. Gave lectures, graded materials.   
 
 Michigan Technological University   
 Field Techniques - 2010 and 2011  
-Taught weekly field labs on forestry and wildlife ecology skills. 
 
 Michigan Technological University   
 Creating Your Success - 2010 and 2011  
-Oriented new students to campus resources, taught study skills. 
 
 Michigan Technological University  
 Ornithology - 2011  
-Lead field trips, gave guest lecture, gave field quizzes. 
-
 
 
 ## Professional Licenses and Certifications
