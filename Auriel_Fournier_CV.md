@@ -38,13 +38,15 @@ Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
 ## Peer-Reviewed Publications  
 
-13 papers [12 first author], 6 peer reviewed reports [2 first author]. 4 peer reviewed chapters [1 first author]. 8 papers in review [5 first author]. 
+14 papers [13 first author], 6 peer reviewed reports [2 first author]. 4 peer reviewed chapters [1 first author]. 7 papers in review [4 first author]. 
 
 
 2019   
 **Fournier, AMV**, Eulinger, K, McDaniel, T, Calvert, G.  *Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)* **Herpetological Review** (In Press)
 
 Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S *Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky* **Ecology** (In Press)
+
+**Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. *Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundationn* **Waterbirds** (In Press)
 
 Woodrey, MS, **Fournier, AMV.,** Gleason, JS, Lyons, JE, and Wilson RR. [Editors]. Gulf of Mexico Strategic Avian Monitoring Plan. Mississippi Agricultural and Forestry Experiment Station Bulletin (In Press). Mississippi State University, Starkville, Mississippi.
 
@@ -115,7 +117,6 @@ In Review
 
 **Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. *Testing the island habitat-selection hypothesis in a long-distance migratory songbird* 
 
-**Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. *Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundationn*
 
 Weitzel, SL`#`, Cooper, RJ, Walker, J, Rush, SA, **Fournier, AMV,** Woodrey, MS *Habitat use of five wintering salt marsh birds in the Northern Gulf of Mexico*   
 
