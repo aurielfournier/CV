@@ -344,7 +344,8 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
 ## Professional Development  
-2018 **Decision Analysis Certification Program** Apprentice Level  
+2018-9 **Decision Analysis Certification Program** Apprentice Level  
+2019 **Decision Analysis: Elicitation and Facilitation** NCTC    
 2018 **Grant Writing Workshop** Starkville, MS  
 2018 **ROpenSci Unconference** Seattle, WA  
 2018 **Introduction to Structured Decision Making** NCTC  
