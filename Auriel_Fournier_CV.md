@@ -367,9 +367,6 @@ von Hardenberg A et al. Editors: Francois Michonneau and **Auriel Fournier**. 20
 
 **As Instructor**
 
-[_Foundations of Functional Programming with purrr_](https://www.datacamp.com/courses/foundations-of-functional-programming-with-purrr)   
-DataCamp - Developed Curriculum, Recorded Videos, Wrote Interactive Lessons
-
 _Advanced R Programming and Graphing Workshop_   
 Day long workshop on programming, graphing, data management in R. [Link to Materials](https://github.com/aurielfournier/AOSSCO17)    
 
