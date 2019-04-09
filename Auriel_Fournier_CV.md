@@ -38,7 +38,7 @@ Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
 ## Peer-Reviewed Publications  
 
-14 papers [13 first author], 6 peer reviewed reports [2 first author]. 4 peer reviewed chapters [1 first author]. 7 papers in review [4 first author]. 
+15 papers [14 first author], 6 peer reviewed reports [2 first author]. 4 peer reviewed chapters [1 first author]. 6 papers in review [3 first author]. 
 
 
 2019   
@@ -47,6 +47,8 @@ Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S *Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky* **Ecology** (In Press)
 
 **Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. *Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundationn* **Waterbirds** (In Press)
+
+**Fournier, AMV**, White, ER, Heard, SB. *Site-selection bias can drive apparent population declines in long-term studies* [Preprint: peerj.com/preprints/27507/](https://peerj.com/preprints/27507/) **Conservation Biology** (Accepted In Revision)
 
 Woodrey, MS, **Fournier, AMV.,** Gleason, JS, Lyons, JE, and Wilson RR. [Editors]. Gulf of Mexico Strategic Avian Monitoring Plan. Mississippi Agricultural and Forestry Experiment Station Bulletin (In Press). Mississippi State University, Starkville, Mississippi.
 
@@ -109,7 +111,6 @@ In Review
 
 `#` graduate student mentee
 
-**Fournier, AMV**, White, ER, Heard, SB. *Site-selection bias can drive apparent population declines in long-term studies* [Preprint: peerj.com/preprints/27507/](https://peerj.com/preprints/27507/)
 
 **Fournier, A.M.V.,** Lyons, J.E., Wilson, R.R., Gleason, J.S., Adams, E.M., Brush, J.M., Cooper, R.J., DeMaso, S.J., Driscoll, M.J.L., Frederick, P.C., Jodice, P.G.R., Reeves, D.B., Seymour, M.A., Sharuga, S.M., Tirpak, J.M., Vermillion, W.G., Zenzal Jr. T.J., Woodrey, M.S. *The Gulf of Mexico Avian Monitoring Network: Application of structured decision making for coordinated, integrated monitoring*
 
