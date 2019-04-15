@@ -341,7 +341,8 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
 ## Professional Development  
-2018-9 **Decision Analysis Certification Program** Apprentice Level  
+2018-9 **Decision Analysis Certification Program** Apprentice Level    
+2019 **Decision Analysis: Tools** NCTC   
 2019 **Decision Analysis: Elicitation and Facilitation** NCTC    
 2018 **Grant Writing Workshop** Starkville, MS  
 2018 **ROpenSci Unconference** Seattle, WA  
@@ -355,6 +356,8 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 2014 **Applied Hierarchical Modeling Workshop** Patuxent Wildlife Research Center/Royle & Kery       
 2013 **'Adehabitat' R Package Workshop** The Wildlife Society National Con/James Sheppard      
 2013 **Occupancy Modeling Short Course** Darryl MacKenzie    
+
+\newpage
 
 ## Teaching
 
