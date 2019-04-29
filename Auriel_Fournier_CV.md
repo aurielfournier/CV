@@ -339,8 +339,8 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 
 2018-Present Co-Chair **Student/Early Professional Committee** Wilson Ornithological Society   
 2018-Present Co-Chair **Early Professional Development Committee** American Ornithological Society     
-2017-Present **Committee Member** Erin Lehnert, MS Student, U of Central Oklahoma  
-2013-Present **Peer Reviewer** 13 journals     
+2013-Present **Peer Reviewer** 13 journals  
+2017-2019 **Committee Member** Erin Lehnert, MS Student, U of Central Oklahoma   
 2018 **Presentation Judge** American Ornithological Society Meeting  
 2018 **Local Organizing Committee** Assoc. of Field Ornith. & Wilson Ornith. Soc. Meeting   
 2018 **Presentation Judge** Assoc. of Field Ornith. & Wilson Ornith. Soc. Meeting  
