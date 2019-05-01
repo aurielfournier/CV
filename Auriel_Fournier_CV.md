@@ -10,17 +10,23 @@ Postdoctoral Research Associate - Mississippi State University, Biloxi, MS
 
 ## Professional Appointments & Education
 
-**Postdoctoral Researcher** - Mississippi State University - April 2017-Present  
+
+
+**Director** [Forbes Biological Station](https://www.inhs.illinois.edu/fieldstations/forbes/) Illinois Natural History Survey - June 2019-Present  
+**Assistant Research Scientist, Waterfowl/Wetland Bird Ecologist**   University of Illinois  
+
+
+
+**Postdoctoral Researcher** - Mississippi State University - April 2017-May 2019  
 Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
-> Structured Decision Making To Facilitate Coordinated Avian Monitoring in the Gulf of Mexico   
-Building Decision Support Tools  
+Structured Decision Making To Facilitate Coordinated Avian Monitoring in the Gulf of Mexico   
 Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
 **Ph.D. in Biological Sciences**  - Arkansas Cooperative Fish & Wildlife Research Unit   
 2017 **University of Arkansas** - Dr. David G. Krementz, Adviser 
 
-> [*Phenology, Habitat Use, and the Impacts of Wetland Management on Autumn Migrating Rails in Missouri*](http://pqdtopen.proquest.com/doc/1879756773.html?FMT=ABS) 
+[Phenology, Habitat Use, and the Impacts of Wetland Management on Autumn Migrating Rails in Missouri](http://pqdtopen.proquest.com/doc/1879756773.html?FMT=ABS) 
 
 **Bachelor of Science in Wildlife Ecology and Management** - Minor *Remote Sensing*  
 2011 **Michigan Technological University** Houghton, MI - Magna Cum Laude
@@ -31,7 +37,9 @@ Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
 **Associate Editor** The Ibis - 2017-Present  
 
-**Subject Editor** Rethinking Ecology - 2018-Present
+**Subject Editor** Rethinking Ecology - 2018-Present  
+
+**Subject Editor** Illinois Natural History Survey Bulletin 2019-Present
 
 **Research Committee Co-Chair** Black Swamp Bird Observatory  - 2016-Present   
 
@@ -55,7 +63,10 @@ Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A,
 **Fournier, AMV**, Krementz, DG. [*Confirmation of diving and swimming behavior in the Sora (*Porzana carolina*)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_Krementz_2018_WJO.pdf) **Wilson Journal of Ornithology**  130:778-780 doi: 10.1676/17-046.1
 
 **Fournier, AMV**, Mengel, DC, Krementz, DG. [*Sora (Porzana carolina) autumn migration habitat use.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2018_sora_habitat.pdf) **Royal Society Open Science**. 5: 171664. doi: 10.1098/rsos.171664
-
+  
+\newpage
+      
+      
 2017 
 
 **Fournier, AMV**, Mengel, DC, Gbur, EE, Krementz, DG. [*The timing of autumn Sora (Porzana carolina) migration in Missouri* **Wilson Journal of Ornithology**](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2017_Wilson.pdf) 129:675-770 doi: 10.1676/16-108.1
@@ -143,11 +154,9 @@ Adams, EM, **Fournier, AMV,** Woodrey MS. *Chapter 11: Collaboration, and Integr
 
 **PI** (Submitted) 2018 - NOAA RESTORE SCIENCE  
 **Co-PI** (Submitted) 2018 - NOAA RESTORE SCIENCE   
-**Co-PI** (Submitted) 2018 - NOAA NERRS Science Collaborative  
-**Co-PI** (Recommended for Funding) 2018 - Mississippi Department of Wildlife, Fisheries and parks $21k   
-**Co-PI** 2018 - U.S. Fish and Wildlife Service $27k   
-**Co-PI and Writer** 2018 - Mississippi State University CFR/FWRC Undergraduate Research Scholars Program $3k [supporting an undergraduate mentee]    
-**PI** (declined) 2016 - National Science Foundation East Asia Pacific Summer Institute Program  
+**Co-PI** 2018 - Mississippi Department of Wildlife, Fisheries and parks   
+**Co-PI** 2018 - U.S. Fish and Wildlife Service   
+**Co-PI and Writer** 2018 - Mississippi State University CFR/FWRC Undergraduate Research Scholars Program   
 **Co-PI and Writer** 2015 - Missouri Department of Conservation Research Grant $62k   
 **Writer** 2015 - The Frances M. Peacock Scholarship for Native Bird Habitat $4k   
 **Writer** 2014 - Arkansas Audubon Society Trust $1200     
@@ -336,7 +345,7 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 2015 **Volunteer** American Ornithologists Union Meeting  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA 
 --->
-
+2019-Present **North American Ornithological Conference 2020 Diversity and Inclusion Super Committee**  
 2018-Present Co-Chair **Student/Early Professional Committee** Wilson Ornithological Society   
 2018-Present Co-Chair **Early Professional Development Committee** American Ornithological Society     
 2013-Present **Peer Reviewer** 13 journals  
@@ -358,6 +367,9 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
+\newpage
+
+
 ## Professional Development  
 2018-9 **Decision Analysis Certification Program** Apprentice Level    
 2019 **Decision Analysis: Tools** NCTC   
@@ -375,7 +387,6 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 2013 **'Adehabitat' R Package Workshop** The Wildlife Society National Con/James Sheppard      
 2013 **Occupancy Modeling Short Course** Darryl MacKenzie    
 
-\newpage
 
 ## Teaching
 
