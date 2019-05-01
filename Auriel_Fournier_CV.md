@@ -197,11 +197,12 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 ## Honors 
 
-2010    **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
+2019 **The Wildlife Society Leadership Institute Class of 2019**  
 2012-16 **Distinguished Doctoral Fellowship** - University of Arkansas  
 2018 **Elective Member** - American Ornithological Society   
 2016    **Distinguished Student Service Award** - The Wildlife Society U of Arkansas Student Chapter  
-2015 [**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society   
+2015 [**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society    
+2010    **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
 2011    **Outstanding Senior in Wildlife Ecology and Management** - Michigan Technological University   
 2009    **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological University
 
