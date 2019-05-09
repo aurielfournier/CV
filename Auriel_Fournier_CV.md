@@ -155,16 +155,16 @@ Adams, EM, **Fournier, AMV,** Woodrey MS. *Chapter 11: Collaboration, and Integr
 **PI** (Submitted) 2018 - NOAA RESTORE SCIENCE  
 **Co-PI** (Submitted) 2018 - NOAA RESTORE SCIENCE   
 **Co-PI** 2018 - Mississippi Department of Wildlife, Fisheries and parks   
-**Co-PI** 2018 - U.S. Fish and Wildlife Service   
-**Co-PI and Writer** 2018 - Mississippi State University CFR/FWRC Undergraduate Research Scholars Program   
-**Co-PI and Writer** 2015 - Missouri Department of Conservation Research Grant $62k   
-**Writer** 2015 - The Frances M. Peacock Scholarship for Native Bird Habitat $4k   
-**Writer** 2014 - Arkansas Audubon Society Trust $1200     
-**Writer** 2011 - Summer Undergraduate Research Fellowship $3k   
-**Writer** 2011 - Ecosystem Science Center Undergraduate Research Grant $750   
-**Writer** 2010 - Ecosystem Science Center Undergraduate Research Grant $750  
-**Writer** 2011 - Summer Undergraduate Research Fellowship $3000   
-**Writer** 2009 - Summer Undergraduate Research Fellowship $3k
+**Co-PI** 2018 - U.S. Fish and Wildlife Service     
+**Co-PI and Writer** 2018 - Mississippi State Uni Undergraduate Research Scholars Program     
+**Co-PI and Writer** 2015 - Missouri Department of Conservation Research Grant    
+**Writer** 2015 - The Frances M. Peacock Scholarship for Native Bird Habitat      
+**Writer** 2014 - Arkansas Audubon Society Trust   
+**Writer** 2011 - Summer Undergraduate Research Fellowship   
+**Writer** 2011 - Ecosystem Science Center Undergraduate Research Grant      
+**Writer** 2010 - Ecosystem Science Center Undergraduate Research Grant    
+**Writer** 2011 - Summer Undergraduate Research Fellowship   
+**Writer** 2009 - Summer Undergraduate Research Fellowship 
 
 
 ## Popular Press  
