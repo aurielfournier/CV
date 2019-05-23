@@ -52,9 +52,10 @@ Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
 **Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. *Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundation* **Waterbirds** 42:168-178
 
-**Fournier, AMV**, Eulinger, K, McDaniel, T, Calvert, G.  *Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)* **Herpetological Review** (In Press)
+Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A, Powers S [*Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Drymon_et_al_Fournier_2019_Ecology.pdf) **Ecology** 10.1002/ecy.2728
 
-Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A, Powers S *Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky* **Ecology** (In Press) 10.1002/ecy.2728
+
+**Fournier, AMV**, Eulinger, K, McDaniel, T, Calvert, G.  *Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)* **Herpetological Review** (In Press)
 
 **Fournier, AMV**, White, ER, Heard, SB. *Site-selection bias can drive apparent population declines in long-term studies* [Preprint: peerj.com/preprints/27507/](https://peerj.com/preprints/27507/) **Conservation Biology** (In Press)
 
@@ -153,7 +154,6 @@ Adams, EM, **Fournier, AMV,** Woodrey MS. *Chapter 11: Collaboration, and Integr
 ## Grants
 
 **PI** (Submitted) 2018 - NOAA RESTORE SCIENCE  
-**Co-PI** (Submitted) 2018 - NOAA RESTORE SCIENCE   
 **Co-PI** 2018 - Mississippi Department of Wildlife, Fisheries and parks   
 **Co-PI** 2018 - U.S. Fish and Wildlife Service     
 **Co-PI and Writer** 2018 - Mississippi State Uni Undergraduate Research Scholars Program     
