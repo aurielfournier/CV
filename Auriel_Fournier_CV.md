@@ -54,6 +54,7 @@ Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
 Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A, Powers S [*Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Drymon_et_al_Fournier_2019_Ecology.pdf) **Ecology** 10.1002/ecy.2728
 
+Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mortality in island rodent eradication operations* **Biological Invasions** (In Press)
 
 **Fournier, AMV**, Eulinger, K, McDaniel, T, Calvert, G.  *Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)* **Herpetological Review** (In Press)
 
@@ -61,6 +62,7 @@ Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A,
 
 **Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. *Unpaid work and access to science professions* **PlosOne** (In Press)
 
+\newpage
 
 2018
 
@@ -112,7 +114,6 @@ Weitzel, SL`#`, Cooper, RJ, Walker, J, Rush, SA, **Fournier, AMV,** Woodrey, MS 
 
 Butler, CJ, **Fournier, AMV**, Wilson, JK. *Varying levels of migratory connectivity among four mesic prairie bird species of North America*
 
-Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mortality in island rodent eradication operations*
 
 
 ### Reports 
@@ -151,6 +152,20 @@ Woodrey, MS, **Fournier, AMV,** Cooper, RJ. *Chapter 4: Marshbirds*  **Gulf of M
 Adams, EM, **Fournier, AMV,** Woodrey MS. *Chapter 11: Collaboration, and Integration Across the Gulf of Mexico* **Gulf of Mexico Strategic Avian Monitoring Plan** Mississippi Agricultural and Forestry Experiment Station Bulletin (In Press). Mississippi State University, Starkville, Mississippi.  
 
 
+## Popular Press  
+
+Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, Stack Whitney, K 2019 *Open Science Isn't Always Open To All Scientists* The American Scientist. https://www.americanscientist.org/article/open-science-isnt-always-open-to-all-scientists
+
+
+## Software 
+
+2018 
+
+**Fournier AMV,** Boone ME, Stevens FR, Bruna E. refsplitr: Clarivate Web of Knowledge / Web of Science and ISI Reference Data Tools. R package version 0.6. github.com/embruna/refsplitr
+
+
+
+
 ## Grants
 
 **PI** (Submitted) 2018 - NOAA RESTORE SCIENCE  
@@ -165,18 +180,6 @@ Adams, EM, **Fournier, AMV,** Woodrey MS. *Chapter 11: Collaboration, and Integr
 **Writer** 2010 - Ecosystem Science Center Undergraduate Research Grant    
 **Writer** 2011 - Summer Undergraduate Research Fellowship   
 **Writer** 2009 - Summer Undergraduate Research Fellowship 
-
-
-## Popular Press  
-
-Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, Stack Whitney, K 2019 *Open Science Isn't Always Open To All Scientists* The American Scientist. https://www.americanscientist.org/article/open-science-isnt-always-open-to-all-scientists
-
-
-## Software 
-
-2018 
-
-**Fournier AMV,** Boone ME, Stevens FR, Bruna E. refsplitr: Clarivate Web of Knowledge / Web of Science and ISI Reference Data Tools. R package version 0.6. github.com/embruna/refsplitr
 
 
 
