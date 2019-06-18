@@ -54,15 +54,14 @@ Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
 Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A, Powers S [*Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Drymon_et_al_Fournier_2019_Ecology.pdf) **Ecology** 10.1002/ecy.2728
 
-Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mortality in island rodent eradication operations* **Biological Invasions** (In Press)
+**Fournier, AMV**, Eulinger, K, McDaniel, T, Calvert, G.  [*Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2019_Herpetological_Review.pdf) **Herpetological Review** 50:338
 
-**Fournier, AMV**, Eulinger, K, McDaniel, T, Calvert, G.  *Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)* **Herpetological Review** (In Press)
-
-**Fournier, AMV**, White, ER, Heard, SB. *Site-selection bias can drive apparent population declines in long-term studies* [Preprint: peerj.com/preprints/27507/](https://peerj.com/preprints/27507/) **Conservation Biology** (In Press)
+**Fournier, AMV**, White, ER, Heard, SB. [*Site-selection bias can drive apparent population declines in long-term studies* ](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2019-Conservation_Biology.pdf) [Preprint: peerj.com/preprints/27507/](https://peerj.com/preprints/27507/) **Conservation Biology** 10.1111/cobi.13371
 
 **Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. *Unpaid work and access to science professions* **PlosOne** (In Press)
 
-\newpage
+Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mortality in island rodent eradication operations* **Biological Invasions** (In Press)
+
 
 2018
 
@@ -371,7 +370,6 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
-\newpage
 
 
 ## Professional Development  
