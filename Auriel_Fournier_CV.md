@@ -249,16 +249,16 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 ## Presentations
 
 <!---
+Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky. *American Elasmobranch Society*
+--->
+
+2019
+
 Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tiger sharks eat passerines: exploring the prevalence of a unique cross-system subsidy. *American Ornithological Society*
 
 **Fournier, AMV**, Lyons, JE, Wilson, RR, Gleason, JS, Adams, EM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Frederick, PC, Jodice, PGR, Reeves, DB, Seymour, MA, Sharuga, SM, Tirpak, JM,  Vermillion, WG, Zenzal, TJ, Woodrey, MS A strategic plan for monitoring birds in the gulf of mexico: translating stakeholder values into priorities. *American Ornithological Society*
 
 Adams, EM, **Fournier, AMV**, Lyons, JE, Wilson, RR, Gleason, JS, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Frederick, PC, Jodice, PGR, Reeves, DB, Seymour, MA, Sharuga, SM, Tirpak, JM,  Vermillion, WG, Zenzal, TJ, Woodrey, MS Using Structured Decision Making to Connect Bird Monitoring to Restoration Decision-making. *American Ornithological Society*
-
-Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky. *American Elasmobranch Society*
---->
-
-2019
 
 Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tiger sharks eat terrestrial songbirds: exploring the prevalence of a unique cross-system pulsed subsidy *Southeastern Division American Fisheries Society*
 
@@ -399,7 +399,8 @@ von Hardenberg A et al. Editors: Francois Michonneau and **Auriel Fournier**. 20
 _Advanced R Programming and Graphing Workshop_   
 Day long workshop on programming, graphing, data management in R. [Link to Materials](https://github.com/aurielfournier/AOSSCO17)    
 
->    Gulf Estuarine Research Society Conference - November 2018    
+>    American Ornithological Society Conference - June 2019  
+Gulf Estuarine Research Society Conference - November 2018    
 American Ornithological Society Conference - April 2018    
     American Ornithological Society/Society of Canadian Ornithologists - August 2017  
     North American Ornithological Conference - August 2016      
