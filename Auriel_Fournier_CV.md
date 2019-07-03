@@ -1,5 +1,6 @@
 ---
 output:
+  pdf_document: default
   html_document:
     df_print: paged
 urlcolor: blue
