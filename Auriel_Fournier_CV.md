@@ -1,5 +1,7 @@
 ---
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 urlcolor: blue
 ---
 Auriel M.V. Fournier
@@ -10,12 +12,8 @@ Postdoctoral Research Associate - Mississippi State University, Biloxi, MS
 
 ## Professional Appointments & Education
 
-
-
 **Director** [Forbes Biological Station](https://www.inhs.illinois.edu/fieldstations/forbes/) Illinois Natural History Survey - June 2019-Present  
 **Assistant Research Scientist, Waterfowl/Wetland Bird Ecologist**   University of Illinois  
-
-
 
 **Postdoctoral Researcher** - Mississippi State University - April 2017-May 2019  
 Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
@@ -50,19 +48,21 @@ Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
 2019   
 
-**Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. *Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundation* **Waterbirds** 42:168-178
+**Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. [*Unpaid work and access to science professions*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2019_PlosOne.pdf) **PLoS ONE** 14(6): e0217032.
+10.1371/journal.pone.0217032
 
 Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A, Powers S [*Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Drymon_et_al_Fournier_2019_Ecology.pdf) **Ecology** 10.1002/ecy.2728
 
 **Fournier, AMV**, Eulinger, K, McDaniel, T, Calvert, G.  [*Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2019_Herpetological_Review.pdf) **Herpetological Review** 50:338
 
-**Fournier, AMV**, White, ER, Heard, SB. *Site-selection bias can drive apparent population declines in long-term studies* [Preprint: peerj.com/preprints/27507/](https://peerj.com/preprints/27507/) **Conservation Biology** (In Press)
+**Fournier, AMV**, White, ER, Heard, SB. [*Site-selection bias can drive apparent population declines in long-term studies* ](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2019-Conservation_Biology.pdf) [Preprint: peerj.com/preprints/27507/](https://peerj.com/preprints/27507/) **Conservation Biology** 10.1111/cobi.13371
 
-**Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. *Unpaid work and access to science professions* **PlosOne** (In Press)
+**Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. [*Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundation*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2019_Waterbirds.pdf) **Waterbirds** 42:168-178
 
-Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mortality in island rodent eradication operations* **Biological Invasions** (In Press)
+Ward, S, **Fournier, AMV,** Bond, AL. [*Assessing gaps in reporting non-target mortality in island rodent eradication operations*](https://link.springer.com/article/10.1007%2Fs10530-019-02032-7) **Biological Invasions** 10.1007/s10530-019-02032-7
 
-\newpage
+**Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. *Testing the island habitat-selection hypothesis in a long-distance migratory songbird* **Journal of Field Ornithology** (In Press)
+
 
 2018
 
@@ -70,8 +70,6 @@ Ward, S, **Fournier, AMV,** Bond, AL. *Assessing gaps in reporting non-target mo
 
 **Fournier, AMV**, Mengel, DC, Krementz, DG. [*Sora (Porzana carolina) autumn migration habitat use.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2018_sora_habitat.pdf) **Royal Society Open Science**. 5: 171664. doi: 10.1098/rsos.171664
   
-      
-      
 2017 
 
 **Fournier, AMV**, Mengel, DC, Gbur, EE, Krementz, DG. [*The timing of autumn Sora (Porzana carolina) migration in Missouri* **Wilson Journal of Ornithology**](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2017_Wilson.pdf) 129:675-770 doi: 10.1676/16-108.1
@@ -108,13 +106,9 @@ In Review
 
 **Fournier, A.M.V.,** Lyons, J.E., Wilson, R.R., Gleason, J.S., Adams, E.M., Brush, J.M., Cooper, R.J., DeMaso, S.J., Driscoll, M.J.L., Frederick, P.C., Jodice, P.G.R., Reeves, D.B., Seymour, M.A., Sharuga, S.M., Tirpak, J.M., Vermillion, W.G., Zenzal Jr. T.J., Woodrey, M.S. *The Gulf of Mexico Avian Monitoring Network: Application of structured decision making for coordinated, integrated monitoring*
 
-**Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. *Testing the island habitat-selection hypothesis in a long-distance migratory songbird* 
-
 Weitzel, SL`#`, Cooper, RJ, Walker, J, Rush, SA, **Fournier, AMV,** Woodrey, MS *Habitat use of five wintering salt marsh birds in the Northern Gulf of Mexico*   
 
 Butler, CJ, **Fournier, AMV**, Wilson, JK. *Varying levels of migratory connectivity among four mesic prairie bird species of North America*
-
-
 
 ### Reports 
 
@@ -252,16 +246,16 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 ## Presentations
 
 <!---
+Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky. *American Elasmobranch Society*
+--->
+
+2019
+
 Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tiger sharks eat passerines: exploring the prevalence of a unique cross-system subsidy. *American Ornithological Society*
 
 **Fournier, AMV**, Lyons, JE, Wilson, RR, Gleason, JS, Adams, EM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Frederick, PC, Jodice, PGR, Reeves, DB, Seymour, MA, Sharuga, SM, Tirpak, JM,  Vermillion, WG, Zenzal, TJ, Woodrey, MS A strategic plan for monitoring birds in the gulf of mexico: translating stakeholder values into priorities. *American Ornithological Society*
 
 Adams, EM, **Fournier, AMV**, Lyons, JE, Wilson, RR, Gleason, JS, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Frederick, PC, Jodice, PGR, Reeves, DB, Seymour, MA, Sharuga, SM, Tirpak, JM,  Vermillion, WG, Zenzal, TJ, Woodrey, MS Using Structured Decision Making to Connect Bird Monitoring to Restoration Decision-making. *American Ornithological Society*
-
-Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky. *American Elasmobranch Society*
---->
-
-2019
 
 Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tiger sharks eat terrestrial songbirds: exploring the prevalence of a unique cross-system pulsed subsidy *Southeastern Division American Fisheries Society*
 
@@ -371,7 +365,6 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
 
-\newpage
 
 
 ## Professional Development  
@@ -403,7 +396,8 @@ von Hardenberg A et al. Editors: Francois Michonneau and **Auriel Fournier**. 20
 _Advanced R Programming and Graphing Workshop_   
 Day long workshop on programming, graphing, data management in R. [Link to Materials](https://github.com/aurielfournier/AOSSCO17)    
 
->    Gulf Estuarine Research Society Conference - November 2018    
+>    American Ornithological Society Conference - June 2019  
+Gulf Estuarine Research Society Conference - November 2018    
 American Ornithological Society Conference - April 2018    
     American Ornithological Society/Society of Canadian Ornithologists - August 2017  
     North American Ornithological Conference - August 2016      
