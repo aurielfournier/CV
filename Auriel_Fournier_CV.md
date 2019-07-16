@@ -7,8 +7,8 @@ urlcolor: blue
 ---
 Auriel M.V. Fournier
 =============================
-Postdoctoral Research Associate - Mississippi State University, Biloxi, MS   
-1815 Popps Ferry Rd, Biloxi, MS 39532 - aurielfournier@gmail.com - 419.307.6261  
+Director, Forbes Biological Station, Illinois Natural History Survey, University of Illinois    
+20003 N CR 1770E, Havana, IL 6264 - auriel@illinois.edu - 419.307.6261  
 [aurielfournier.github.io](http://aurielfournier.github.io/) - [Twitter \@RallidaeRule](https://twitter.com/RallidaeRule)  
 
 ## Professional Appointments & Education
