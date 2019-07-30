@@ -252,6 +252,8 @@ Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tige
 
 2019
 
+Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tiger sharks eat passerines: exploring the prevalence of a unique cross-system subsidy. *American Elasmobrach Society*
+
 Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tiger sharks eat passerines: exploring the prevalence of a unique cross-system subsidy. *American Ornithological Society*
 
 **Fournier, AMV**, Lyons, JE, Wilson, RR, Gleason, JS, Adams, EM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Frederick, PC, Jodice, PGR, Reeves, DB, Seymour, MA, Sharuga, SM, Tirpak, JM,  Vermillion, WG, Zenzal, TJ, Woodrey, MS A strategic plan for monitoring birds in the gulf of mexico: translating stakeholder values into priorities. *American Ornithological Society*
@@ -262,25 +264,25 @@ Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tige
 
 2018     
 
-Jodice, PGR, Woodrey, MS, **Fournier, AMV** Movement Ecology of Seabirds: Multi-scale and Multi-taxa Approaches to Addressing Conservation Needs in the Gulf of Mexico *Southeastern Association of Fish and Wildlife Agencies* Mobile, AL
+Jodice, PGR, Woodrey, MS, **Fournier, AMV** Movement Ecology of Seabirds: Multi-scale and Multi-taxa Approaches to Addressing Conservation Needs in the Gulf of Mexico *Southeastern Association of Fish and Wildlife Agencies* 
 
-**Fournier, AMV,** Lyons, JE, Adams, EA, Brush, J, Cooper, RJ, DeMaso, S, Driscoll, M, Frederick, P, Gleason, J, Wilson, RR, Tirpak, J, Woodrey, MS.  Guiding coordinated bird monitoring decisions through structured decision making *National Conference on Ecological Restoration* New Orleans, LA 
+**Fournier, AMV,** Lyons, JE, Adams, EA, Brush, J, Cooper, RJ, DeMaso, S, Driscoll, M, Frederick, P, Gleason, J, Wilson, RR, Tirpak, J, Woodrey, MS.  Guiding coordinated bird monitoring decisions through structured decision making *National Conference on Ecological Restoration*  
 
-**Fournier, AMV,** Lyons, J, Cooper, RJ, Woodrey, MS. Prioritization of conservation actions through structured decision making *Ecological Society of America* New Orleans, LA
+**Fournier, AMV,** Lyons, J, Cooper, RJ, Woodrey, MS. Prioritization of conservation actions through structured decision making *Ecological Society of America* 
 
-**Fournier, AMV,** Woodrey, MS, Wilson, RR, Gleason, J, Lyons, JE, Cooper, RJ, Tirpak, J. Coordinated Bird Monitoring With Decision Science *SESYNC Boundary Spanning Symposium* Annapolis, MD
+**Fournier, AMV,** Woodrey, MS, Wilson, RR, Gleason, J, Lyons, JE, Cooper, RJ, Tirpak, J. Coordinated Bird Monitoring With Decision Science *SESYNC Boundary Spanning Symposium* 
 
-[presenter] Woodrey, MS, **Fournier, AMV,** Wilson, RR, Gleason, J, Lyons, JE, Cooper, RJ, Tirpak, J. Application of structured decision making in the development of a Gulf of Mexico-wide avian monitoring program *Assoc of Field Ornithologists/Wilson Ornithological Soc * Chattanooga, TN  
+[presenter] Woodrey, MS, **Fournier, AMV,** Wilson, RR, Gleason, J, Lyons, JE, Cooper, RJ, Tirpak, J. Application of structured decision making in the development of a Gulf of Mexico-wide avian monitoring program *Assoc of Field Ornithologists/Wilson Ornithological Soc *   
 
-[presenter] Ward, S, **Fournier, AMV,** Bond, AL. Rodent eradications on islands and their effect on rails (Rallidae) as non-target species *Assoc of Field Ornith/Wilson Ornith Soc* Chattanooga, TN
+[presenter] Ward, S, **Fournier, AMV,** Bond, AL. Rodent eradications on islands and their effect on rails (Rallidae) as non-target species *Assoc of Field Ornith/Wilson Ornith Soc* 
   
-**Fournier, AMV,** Lyons, JE, Adams, EM, Brush, J, Cooper, RJ, DeMaso, S, Driscoll, M,  Frederick, P, Gleason, J, Wilson, R, Woodrey, MS, Guiding Coordinated Bird Monitoring Decisions Through Structured Decision Making. *American Ornithological Society Meeting* Tucson, AZ
+**Fournier, AMV,** Lyons, JE, Adams, EM, Brush, J, Cooper, RJ, DeMaso, S, Driscoll, M,  Frederick, P, Gleason, J, Wilson, R, Woodrey, MS, Guiding Coordinated Bird Monitoring Decisions Through Structured Decision Making. *American Ornithological Society Meeting* 
 
-Woodrey, MS, Cooper, RJ, Evans, KO, Iglay, R, Rush, SA, **Fournier, AMV,** Strange, T. Application of monitoring Best Management Practices to marsh restoration priorities to reduce uncertainty of marsh birds response *American Ornithological Society Meeting* Tucson, AZ
+Woodrey, MS, Cooper, RJ, Evans, KO, Iglay, R, Rush, SA, **Fournier, AMV,** Strange, T. Application of monitoring Best Management Practices to marsh restoration priorities to reduce uncertainty of marsh birds response *American Ornithological Society Meeting* 
  
-Adams, EM, **Fournier, AMV,** Lyons, JE, Woodrey, MS. Using a structured decision making framework to support large-scale inference. *American Ornithological Society Meeting* Tucson, AZ
+Adams, EM, **Fournier, AMV,** Lyons, JE, Woodrey, MS. Using a structured decision making framework to support large-scale inference. *American Ornithological Society Meeting* 
 
-Ray, JD, Fraser, KC, **Fournier, AMV,** Shave, A. Selection of island habitat by a Texas population of purple martin during the non-breeding season. *54rd Texas Chapter Wildlife Society* Dallas, TX.   
+Ray, JD, Fraser, KC, **Fournier, AMV,** Shave, A. Selection of island habitat by a Texas population of purple martin during the non-breeding season. *54rd Texas Chapter Wildlife Society*  
 
 2017   
 **Fournier, AMV,** Woodrey, MS, Lyons, JE, Cooper, RJ, Evans, KE. Application of Structured Decision Making to Marshbird Monitoring in the Gulf of Mexico *American Ornithological Society/Society of Canadian Ornithologists Meeting, East Lansing, MI*
@@ -292,19 +294,19 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. Why most studied populations 
 2016   
 **Fournier, AMV,** Drake, KL, Tozer, DC, Krementz, DG. Migratory Connectivity of Sora, Virginia Rail and Yellow Rail. *North American Ornithological Conference, Washington D.C.* [pdf link](https://figshare.com/articles/Migratory_Connectivity_of_Sora_Virginia_and_Yellow_Rails/3565578) [recording](https://www.periscope.tv/w/1rmGPDyEAnyGN)
 
-**Fournier, AMV.** Building Collaboration and Community in Science Through Twitter. North American Ornithological Conference, Twitter for Scientists Workshop, Washington D.C. 
+**Fournier, AMV.** Building Collaboration and Community in Science Through Twitter. North American Ornithological Conference, Twitter for Scientists Workshop 
 
-**Fournier, AMV,** Mengel, DC, Krementz, DG. Habitat Use by Autumn Migrating Sora in the Mississippi Flyway *Society of Wetland Scientists* - TX [pdf link](https://figshare.com/articles/Habitat_Use_of_Autumn_Migrating_Sora_in_the_Mississippi_Flyway/3398683)
+**Fournier, AMV,** Mengel, DC, Krementz, DG. Habitat Use by Autumn Migrating Sora in the Mississippi Flyway *Society of Wetland Scientists*  [pdf link](https://figshare.com/articles/Habitat_Use_of_Autumn_Migrating_Sora_in_the_Mississippi_Flyway/3398683)
 
 2015   
-**Fournier, AMV,** Drake, KL. Active Capture of Rails During the Breeding Season and Fall Migration. *Inland Bird Banders Association Meeting* - MS [pdf link](http://figshare.com/articles/Active_Capture_Methods_for_Rails_During_the_Breeding_Season_and_Fall_MIgration/1598135)
+**Fournier, AMV,** Drake, KL. Active Capture of Rails During the Breeding Season and Fall Migration. *Inland Bird Banders Association Meeting*  [pdf link](http://figshare.com/articles/Active_Capture_Methods_for_Rails_During_the_Breeding_Season_and_Fall_MIgration/1598135)
 
-**Fournier, AMV,** Sullivan, AR, Bump, JK, Perkins M, Shieldcastle, MC, King, SL. Combining Citizen Science Derived Species Distribution Models and Stable Isotope Analysis Reveals Migratory Connectivity in a Secretive Species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting* - OK [pdf link](http://doi.org/5m5)
+**Fournier, AMV,** Sullivan, AR, Bump, JK, Perkins M, Shieldcastle, MC, King, SL. Combining Citizen Science Derived Species Distribution Models and Stable Isotope Analysis Reveals Migratory Connectivity in a Secretive Species, the Virginia Rail (_Rallus limicola_). *American Ornithologists Union/Cooper Ornithologial Society Meeting*  [pdf link](http://doi.org/5m5)
 
-**Fournier, AMV,** Mengel, DC, Krementz DG. Timing of Autumn Migration in the Mississippi Flyway by Rails. *Association of Field Ornithologists Meeting*  - NS [pdf link](http://doi.org/5ks)
+**Fournier, AMV,** Mengel, DC, Krementz DG. Timing of Autumn Migration in the Mississippi Flyway by Rails. *Association of Field Ornithologists Meeting* [pdf link](http://doi.org/5ks)
 
 2014   
-**Fournier, AMV,** Krementz, DG. 2014  The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*- AR
+**Fournier, AMV,** Krementz, DG. 2014  The Response of Fall Migrating Sora to Wetland Management. *Arkansas State Chapter of the Wildlife Society Spring Meeting*
 
 2013   
 **Fournier, A.M.V.,** Krementz, D.G., Mengel, D.C., Raedeke, A.H. Phenology, Habitat Use and Co-Occurrence of Fall Migrating Yellow Rails in Missouri. *Yellow Rail Virtual Symposium* USFWS
