@@ -315,6 +315,11 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. Why most studied populations 
 
 `#` undergraduate mentees
 
+2019
+
+Shaw, A.A.#, Lancaster, J.D., Yetter, A.P., Hine, C.N., **Fournier, A.M.V.** Waterbird nesting ecology following hydrological manipulation of a historic Illinois River floodplain. *NGRREC Symposium*
+
+
 2018 
 
 Holiman, H.#, Kitaif, C.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Can automated recordingn units be used to count individual marsh birds? *Bays and Bayous Conference, Alabama.* 
