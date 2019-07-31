@@ -62,7 +62,7 @@ Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A,
 
 Ward, S, **Fournier, AMV,** Bond, AL. [*Assessing gaps in reporting non-target mortality in island rodent eradication operations*](https://link.springer.com/article/10.1007%2Fs10530-019-02032-7) **Biological Invasions** 10.1007/s10530-019-02032-7
 
-**Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. *Testing the island habitat-selection hypothesis in a long-distance migratory songbird* **Journal of Field Ornithology** (In Press)
+**Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. [*Testing the island habitat-selection hypothesis in a long-distance migratory songbird*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2019-Journal_of_Field_Ornithology.pdf) **Journal of Field Ornithology** (In Press)
 
 
 2018
