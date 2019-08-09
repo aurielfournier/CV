@@ -64,6 +64,7 @@ Ward, S, **Fournier, AMV,** Bond, AL. [*Assessing gaps in reporting non-target m
 
 **Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. [*Testing the island habitat-selection hypothesis in a long-distance migratory songbird*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2019-Journal_of_Field_Ornithology.pdf) **Journal of Field Ornithology** (In Press)
 
+Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A, Powers S *Tiger sharks eat songbirds: Reply* **Ecology** (Accepted)
 
 2018
 
@@ -351,7 +352,7 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 2015 **Volunteer** American Ornithologists Union Meeting  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA 
 --->
-2019-Present **North American Ornithological Conference 2020 Diversity and Inclusion Super Committee**  
+2019-Present **North American Ornithological Conference 2020 Diversity and Inclusion Comm**  
 2018-Present Co-Chair **Student/Early Professional Committee** Wilson Ornithological Society   
 2018-Present Co-Chair **Early Professional Development Committee** American Ornithological Society     
 2013-Present **Peer Reviewer** 13 journals  
