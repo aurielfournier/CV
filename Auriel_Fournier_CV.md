@@ -34,11 +34,13 @@ Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
 **Elected Councilor** Wilson Ornithological Society - 2017-2020  
 
-**Associate Editor** The Ibis - 2017-Present  
+**Subject Editor** Avian Conservation & Ecology - 2019-Present
+
+**Subject Editor** Illinois Natural History Survey Bulletin 2019-Present
 
 **Subject Editor** Rethinking Ecology - 2018-Present  
 
-**Subject Editor** Illinois Natural History Survey Bulletin 2019-Present
+**Associate Editor** The Ibis - 2017-Present  
 
 **Research Committee Co-Chair** Black Swamp Bird Observatory  - 2016-Present   
 
