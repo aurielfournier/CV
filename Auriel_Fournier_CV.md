@@ -56,6 +56,8 @@ Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
 Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A, Powers S [*Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Drymon_et_al_Fournier_2019_Ecology.pdf) **Ecology** 10.1002/ecy.2728
 
+Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A, Powers S [*Tiger sharks eat songbirds: Reply*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Drymon_et_al_Fournier-2019-Ecology_Reply.pdf) **Ecology** 10.1002/ecy.2870
+
 **Fournier, AMV**, Eulinger, K, McDaniel, T, Calvert, G.  [*Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2019_Herpetological_Review.pdf) **Herpetological Review** 50:338
 
 **Fournier, AMV**, White, ER, Heard, SB. [*Site-selection bias can drive apparent population declines in long-term studies* ](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/FOurnier_et_al_2019_Con_Bio.pdf) [Preprint: peerj.com/preprints/27507/](https://peerj.com/preprints/27507/) **Conservation Biology** 10.1111/cobi.13371
@@ -66,7 +68,7 @@ Ward, S, **Fournier, AMV,** Bond, AL. [*Assessing gaps in reporting non-target m
 
 **Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. [*Testing the island habitat-selection hypothesis in a long-distance migratory songbird*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2019-Journal_of_Field_Ornithology.pdf) **Journal of Field Ornithology** (In Press)
 
-Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A, Powers S *Tiger sharks eat songbirds: Reply* **Ecology** (Accepted)
+
 
 2018
 
@@ -249,11 +251,12 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 ## Presentations
 
-<!---
-Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky. *American Elasmobranch Society*
---->
 
 2019
+
+**Fournier, AMV,** Bradshaw, TM, Blake-Bradshaw, AG, Jacques CN, Lancaster, JD, Hagy, HM. Does wetland management for waterfowl increase marsh bird occupancy? *North American Duck Symposium*
+
+Yetter AP, Hine, CS, Lancaster, JD, Gilbert, AD, Klimas, ST, Beach, CR, Osborn, JM, **Fournier, AMV,** Hagy, HM. Spring Migration Ecology of Green-winged Teal and Gadwall in Illinois *North American Duck Symposium*
 
 Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tiger sharks eat passerines: exploring the prevalence of a unique cross-system subsidy. *American Elasmobrach Society*
 
@@ -358,7 +361,8 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 2018-Present Co-Chair **Student/Early Professional Committee** Wilson Ornithological Society   
 2018-Present Co-Chair **Early Professional Development Committee** American Ornithological Society     
 2013-Present **Peer Reviewer** 13 journals  
-2017-2019 **Committee Member** Erin Lehnert, MS Student, U of Central Oklahoma   
+2017-2019 **Committee Member** Erin Lehnert, MS Student, U of Central Oklahoma    
+2019 **Mentor/Mentee Panel Member** North American Duck Symposium  
 2018 **Presentation Judge** American Ornithological Society Meeting  
 2018 **Local Organizing Committee** Assoc. of Field Ornith. & Wilson Ornith. Soc. Meeting   
 2018 **Presentation Judge** Assoc. of Field Ornith. & Wilson Ornith. Soc. Meeting  
