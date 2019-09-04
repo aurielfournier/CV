@@ -169,7 +169,7 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 ## Grants
 
 **PI** (Submitted) 2018 - NOAA RESTORE SCIENCE  
-**Co-PI** 2018 - Mississippi Department of Wildlife, Fisheries and parks   
+**Co-PI** 2018 - Mississippi Department of Wildlife, Fisheries and Parks   
 **Co-PI** 2018 - U.S. Fish and Wildlife Service     
 **Co-PI and Writer** 2018 - Mississippi State Uni Undergraduate Research Scholars Program     
 **Co-PI and Writer** 2015 - Missouri Department of Conservation Research Grant    
