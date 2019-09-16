@@ -7,30 +7,29 @@ urlcolor: blue
 ---
 Auriel M.V. Fournier
 =============================
-Director, Forbes Biological Station, Illinois Natural History Survey, University of Illinois    
-20003 N CR 1770E, Havana, IL 6264 - auriel@illinois.edu - 419.307.6261  
-[aurielfournier.github.io](http://aurielfournier.github.io/) - [Twitter \@RallidaeRule](https://twitter.com/RallidaeRule)  
+20003 N CR 1770E, Havana, IL 62644 - auriel@illinois.edu - 419.307.6261 - [aurielfournier.github.io](http://aurielfournier.github.io/) 
 
-## Professional Appointments & Education
+## __Professional Appointments & Education__
 
-**Director** [Forbes Biological Station](https://www.inhs.illinois.edu/fieldstations/forbes/) Illinois Natural History Survey - June 2019-Present  
-**Assistant Research Scientist, Waterfowl/Wetland Bird Ecologist**   University of Illinois  
+**Director** [Forbes Biological Station](https://www.inhs.illinois.edu/fieldstations/forbes/) & **Assistant Research Scientist, Wetland Bird Ecologist**   
+Illinois Natural History Survey - University of Illinois Urbana-Champaign - June 2019-Present  
+    
 
 **Postdoctoral Researcher** - Mississippi State University - April 2017-May 2019  
 Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
-Structured Decision Making To Facilitate Coordinated Avian Monitoring in the Gulf of Mexico   
-Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
+> Structured Decision Making To Facilitate Coordinated Avian Monitoring in the Gulf of Mexico   
+> Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 
 **Ph.D. in Biological Sciences**  - Arkansas Cooperative Fish & Wildlife Research Unit   
 2017 **University of Arkansas** - Dr. David G. Krementz, Adviser 
 
-[Phenology, Habitat Use, and the Impacts of Wetland Management on Autumn Migrating Rails in Missouri](http://pqdtopen.proquest.com/doc/1879756773.html?FMT=ABS) 
+> [Phenology, Habitat Use, and the Impacts of Wetland Management on Autumn Migrating Rails](http://pqdtopen.proquest.com/doc/1879756773.html?FMT=ABS) 
 
 **Bachelor of Science in Wildlife Ecology and Management** - Minor *Remote Sensing*  
 2011 **Michigan Technological University** Houghton, MI - Magna Cum Laude
 
-## Professional Leadership 
+## __Professional Leadership__
 
 **Elected Councilor** Wilson Ornithological Society - 2017-2020  
 
@@ -45,14 +44,13 @@ Coordination of [The Gulf of Mexico Avian Monitoring Network](gomamn.org)
 **Research Committee Co-Chair** Black Swamp Bird Observatory  - 2016-Present   
 
 
-## Peer-Reviewed Publications  
+## __Peer-Reviewed Publications__  
 
 ### Papers
 
 2019   
 
-**Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. [*Unpaid work and access to science professions*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2019_PlosOne.pdf) **PLoS ONE** 14(6): e0217032.
-10.1371/journal.pone.0217032
+**Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. [*Unpaid work and access to science professions*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2019_PlosOne.pdf) **PLoS ONE** 14(6): e0217032. 10.1371/journal.pone.0217032
 
 Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A, Powers S [*Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Drymon_et_al_Fournier_2019_Ecology.pdf) **Ecology** 10.1002/ecy.2728
 
@@ -60,52 +58,54 @@ Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A,
 
 **Fournier, AMV**, Eulinger, K, McDaniel, T, Calvert, G.  [*Juvenile King Rail (Rallus elegans) in stomach of American Bullfrog (Lithobates catesbeianus)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2019_Herpetological_Review.pdf) **Herpetological Review** 50:338
 
-**Fournier, AMV**, White, ER, Heard, SB. [*Site-selection bias can drive apparent population declines in long-term studies* ](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/FOurnier_et_al_2019_Con_Bio.pdf) [Preprint: peerj.com/preprints/27507/](https://peerj.com/preprints/27507/) **Conservation Biology** 10.1111/cobi.13371
+**Fournier, AMV**, White, ER, Heard, SB. [*Site-selection bias can drive apparent population declines in long-term studies* ](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/FOurnier_et_al_2019_Con_Bio.pdf) **Conservation Biology** 10.1111/cobi.13371
 
-**Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. [*Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundation*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2019_Waterbirds.pdf) **Waterbirds** 42:168-178
+**Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. [*Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundation*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2019_Waterbirds.pdf) **Waterbirds** 42:168-178 10.1675/063.042.0203
 
-Ward, S, **Fournier, AMV,** Bond, AL. [*Assessing gaps in reporting non-target mortality in island rodent eradication operations*](https://link.springer.com/article/10.1007%2Fs10530-019-02032-7) **Biological Invasions** 10.1007/s10530-019-02032-7
+Ward, S, **Fournier, AMV,** Bond, AL. [*Assessing gaps in reporting non-target mortality in island rodent eradication operations*](https://link.springer.com/article/10.1007%2Fs10530-019-02032-7) **Biological Invasions** 21:3101-3108  10.1007/s10530-019-02032-7
 
-**Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. [*Testing the island habitat-selection hypothesis in a long-distance migratory songbird*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2019-Journal_of_Field_Ornithology.pdf) **Journal of Field Ornithology** (In Press)
+**Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. [*Precise direct tracking and remote sensing reveal the use of forest islands as roost sites by Purple Martins during migration*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2019-Journal_of_Field_Ornithology.pdf) **Journal of Field Ornithology** (In Press) 10.1111/jofo.12298
 
 
 
 2018
 
-**Fournier, AMV**, Krementz, DG. [*Confirmation of diving and swimming behavior in the Sora (*Porzana carolina*)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_Krementz_2018_WJO.pdf) **Wilson Journal of Ornithology**  130:778-780 doi: 10.1676/17-046.1
+**Fournier, AMV**, Krementz, DG. [*Confirmation of diving and swimming behavior in the Sora (*Porzana carolina*)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_Krementz_2018_WJO.pdf) **Wilson Journal of Ornithology**  130:778-780   10.1676/17-046.1
 
-**Fournier, AMV**, Mengel, DC, Krementz, DG. [*Sora (Porzana carolina) autumn migration habitat use.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2018_sora_habitat.pdf) **Royal Society Open Science**. 5: 171664. doi: 10.1098/rsos.171664
+**Fournier, AMV**, Mengel, DC, Krementz, DG. [*Sora (Porzana carolina) autumn migration habitat use.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2018_sora_habitat.pdf) **Royal Society Open Science**. 5: 171664. 10.1098/rsos.171664
   
 2017 
 
-**Fournier, AMV**, Mengel, DC, Gbur, EE, Krementz, DG. [*The timing of autumn Sora (Porzana carolina) migration in Missouri* **Wilson Journal of Ornithology**](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2017_Wilson.pdf) 129:675-770 doi: 10.1676/16-108.1
+**Fournier, AMV**, Mengel, DC, Gbur, EE, Krementz, DG. [*The timing of autumn Sora (Porzana carolina) migration in Missouri*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2017_Wilson.pdf) **Wilson Journal of Ornithology** 129:675-770  10.1676/16-108.1
 
 
-**Fournier, AMV**, Mengel, DC, Krementz, DG. [*Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets*](https://www.degruyter.com/downloadpdf/j/ami.2017.4.issue-1/ami-2017-0003/ami-2017-0003.pdf) **Animal Migration** 4:15-22 doi: 10.1515/ami-2017-0003 
+**Fournier, AMV**, Mengel, DC, Krementz, DG. [*Virginia and Yellow Rail autumn migration ecology: synthesis using multiple data sets*](https://www.degruyter.com/downloadpdf/j/ami.2017.4.issue-1/ami-2017-0003/ami-2017-0003.pdf) **Animal Migration** 4:15-22  10.1515/ami-2017-0003 
 
-**Fournier, AMV**, Drake, KL, Tozer, DC. [*Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20Drake%20Tozer%202017%20Journal%20of%20Avian%20Biology.pdf)  **Journal of Avian Biology** 48: 1556-1562 doi:10.1111/jav.01273 
+**Fournier, AMV**, Drake, KL, Tozer, DC. [*Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20Drake%20Tozer%202017%20Journal%20of%20Avian%20Biology.pdf)  **Journal of Avian Biology** 48: 1556-1562 10.1111/jav.01273 
 
-**Fournier, AMV**, Krementz, DG. [*Nocturnal distance sampling all-terrain vehicle surveys for non-breeding rails*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2017-Wildlife_Society_Bulletin.pdf) **The Wildlife Society Bulletin** 41:151-156 doi:10.1002/wsb.745 
+**Fournier, AMV**, Krementz, DG. [*Nocturnal distance sampling all-terrain vehicle surveys for non-breeding rails*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2017-Wildlife_Society_Bulletin.pdf) **The Wildlife Society Bulletin** 41:151-156 10.1002/wsb.745 
 
-**Fournier, AMV**, Sullivan, A, Bump, J, Perkins, M, Shieldcastle, MC, King, S. [*Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf) **Journal of Applied Ecology** 54:618-627 doi:10.1111/1365-2664.12723   
+**Fournier, AMV**, Sullivan, A, Bump, J, Perkins, M, Shieldcastle, MC, King, S. [*Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf) **Journal of Applied Ecology** 54:618-627 10.1111/1365-2664.12723   
 
 
 2016 
 
-**Fournier, AMV**, Welsh, KJ, Polito, M, Emslie, S, Brasso, R. [*Levels of mercury in feathers of Clapper Rails over 45 Years in coastal salt marshes of New Hanover county, North Carolina*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Bulletin%20of%20Environmental%20Contamination%20and%20Toxicology.pdf) **Bulletin of Environmental Contamination & Toxicology** 97:469-473 doi:10.1007/s00128-016-1870-z 
+**Fournier, AMV**, Welsh, KJ, Polito, M, Emslie, S, Brasso, R. [*Levels of mercury in feathers of Clapper Rails over 45 Years in coastal salt marshes of New Hanover county, North Carolina*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Bulletin%20of%20Environmental%20Contamination%20and%20Toxicology.pdf) **Bulletin of Environmental Contamination & Toxicology** 97:469-473   10.1007/s00128-016-1870-z 
 
 
 2015
 
-**Fournier, AMV**, Shieldcastle, MC, Kashmer, T, Mylecraine, KA.  [*Comparison of arrival dates of spring rail migration in the southwest Lake Erie Marshes, Ohio, USA.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202015%20-%20Waterbirds.pdf) **Waterbirds** 38: 312-314 doi:10.1675/063.038.0313  
+**Fournier, AMV**, Shieldcastle, MC, Kashmer, T, Mylecraine, KA.  [*Comparison of arrival dates of spring rail migration in the southwest Lake Erie Marshes, Ohio, USA.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202015%20-%20Waterbirds.pdf) **Waterbirds** 38: 312-314 10.1675/063.038.0313  
 
-**Fournier, AMV**, Bond, AL. [*Volunteer field staff are bad for wildlife ecology*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%2C%20Bond%20-%202015%20-%20Wildlife%20Society%20Bulletin.pdf)  **The Wildlife Society Bulletin** 39: 819-821 doi:10.1002/wsb.603 
+**Fournier, AMV**, Bond, AL. [*Volunteer field staff are bad for wildlife ecology*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%2C%20Bond%20-%202015%20-%20Wildlife%20Society%20Bulletin.pdf)  **The Wildlife Society Bulletin** 39: 819-821 10.1002/wsb.603 
 
 
 2013 
 
-**Fournier, AMV**, Shieldcastle, MC, Fries, AC, and Bump, JK.  [*A morphometric model to predict the sex of virginia rails*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al._2013_Wildlife%20Society%20Bulletin_A%20Morphometric%20Model%20to%20Predict%20the%20Sex%20of%20Virginia%20Rails%20(Rallus%20limicola).pdf)  **The Wildlife Society Bulletin** 27: 881-886 doi:10.1002/wsb.323 
+**Fournier, AMV**, Shieldcastle, MC, Fries, AC, and Bump, JK.  [*A morphometric model to predict the sex of virginia rails*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al._2013_Wildlife%20Society%20Bulletin_A%20Morphometric%20Model%20to%20Predict%20the%20Sex%20of%20Virginia%20Rails%20(Rallus%20limicola).pdf)  **The Wildlife Society Bulletin** 27: 881-886 10.1002/wsb.323 
 
+
+<!---
 In Review 
 
 `#` graduate student mentee
@@ -115,6 +115,9 @@ In Review
 Weitzel, SL`#`, Cooper, RJ, Walker, J, Rush, SA, **Fournier, AMV,** Woodrey, MS *Habitat use of five wintering salt marsh birds in the Northern Gulf of Mexico*   
 
 Butler, CJ, **Fournier, AMV**, Wilson, JK. *Varying levels of migratory connectivity among four mesic prairie bird species of North America*
+--->
+
+\newpage 
 
 ### Reports 
 
@@ -124,17 +127,16 @@ Wilson, R.R., **Fournier, AMV,** Lyons, JE, Gleason, J, Adams, E, Barnhill, L, B
 
 2016  
 
-**Fournier, AMV.** Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails on Intensively-Managed Wetland Complexes in Missouri : *Final Report USFWS Division of Migratory Birds* [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/EffectsofWetlandMgtStrategiesOnHabitatUseOfFallMigratingRails.pdf)
+**Fournier, AMV.** Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails on Intensively-Managed Wetland Complexes in Missouri : *Final Report USFWS* [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/EffectsofWetlandMgtStrategiesOnHabitatUseOfFallMigratingRails.pdf)
 
 2015
 
-Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, Nelson's Sparrows and Sedge Wrens. *Final Report to U.S. FWS* 
+Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, Nelson's Sparrows and Sedge Wrens. *Final Report to USFWS* 
 
-Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, and Sedge Wrens. *Final Report to U.S. Forest Service*
+Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, and Sedge Wrens. *Final Report to USFS*
 
 
-**Fournier, A.M.V.,** K. Willard. King Rail Nesting and Brood Rearing Ecology in Managed Wetlands: *Final Report USFWS Division of Migratory Birds Webless Program* [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/KingRailNesting&BroodRearingEcologyInManagedWetlands_FinalReport.pdf)
-
+**Fournier, A.M.V.,** K. Willard. King Rail Nesting and Brood Rearing Ecology in Managed Wetlands: *Final Report USFWS* [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/KingRailNesting&BroodRearingEcologyInManagedWetlands_FinalReport.pdf)
 
 
 ### Chapters 
@@ -154,7 +156,7 @@ Adams, EM, **Fournier, AMV,** Woodrey MS. *Chapter 11: Collaboration, and Integr
 
 ## Popular Press  
 
-Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, Stack Whitney, K 2019 *Open Science Isn't Always Open To All Scientists* The American Scientist. https://www.americanscientist.org/article/open-science-isnt-always-open-to-all-scientists
+Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, Stack Whitney, K 2019 [*Open Science Isn't Always Open To All Scientists*](https://www.americanscientist.org/article/open-science-isnt-always-open-to-all-scientists) The American Scientist. 
 
 
 ## Software 
@@ -207,14 +209,12 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 2015 [**Associate Wildlife Biologist**](http://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society    
 2010    **Member of the Year** - The Wildlife Society Michigan Technological University Student Chapter  
 2011    **Outstanding Senior in Wildlife Ecology and Management** - Michigan Technological University   
-2009    **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological University
+2009    **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological U
 
 
 ## Invited Presentations
 
-<!---
 
---->
 
 2019   
 **Seminar** East Carolina University   
@@ -254,9 +254,12 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 2019
 
-**Fournier, AMV,** Bradshaw, TM, Blake-Bradshaw, AG, Jacques CN, Lancaster, JD, Hagy, HM. Does wetland management for waterfowl increase marsh bird occupancy? *North American Duck Symposium*
 
-Yetter AP, Hine, CS, Lancaster, JD, Gilbert, AD, Klimas, ST, Beach, CR, Osborn, JM, **Fournier, AMV,** Hagy, HM. Spring Migration Ecology of Green-winged Teal and Gadwall in Illinois *North American Duck Symposium*
+Klimas, ST, Osborn, JM, Jacques, CN, Lancaster, JD, Yetter, AP, **Fournier, AMV**, Hagy, HM. 2019. Diet selection by green-winged teal during spring migration in Illinois. *North American Duck Symposium 8*
+
+**Fournier, AMV,** Bradshaw, TM, Blake-Bradshaw, AG, Jacques CN, Lancaster, JD, Hagy, HM. Does wetland management for waterfowl increase marsh bird occupancy? *North American Duck Symposium 8*
+
+Yetter AP, Hine, CS, Lancaster, JD, Gilbert, AD, Klimas, ST, Beach, CR, Osborn, JM, **Fournier, AMV,** Hagy, HM. Ecology of spring-migrating dabbling ducks in the Illinois River Valley *North American Duck Symposium 8*
 
 Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Kroetz, A, Powers S Tiger sharks eat passerines: exploring the prevalence of a unique cross-system subsidy. *American Elasmobrach Society*
 
@@ -325,7 +328,6 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. Why most studied populations 
 
 Shaw, A.A.#, Lancaster, J.D., Yetter, A.P., Hine, C.N., **Fournier, A.M.V.** Waterbird nesting ecology following hydrological manipulation of a historic Illinois River floodplain. *NGRREC Symposium*
 
-
 2018 
 
 Holiman, H.#, Kitaif, C.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Can automated recordingn units be used to count individual marsh birds? *Bays and Bayous Conference, Alabama.* 
@@ -352,7 +354,7 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 ## Service 
 
 <!---
- 2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
+2013 **Volunteer** The Wildlife Society National Conference, Milwaukee, WI  
 2011 **Volunteer** The Wildlife Society National Conference, Big Island, HI  
 2015 **Volunteer** American Ornithologists Union Meeting  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA 
@@ -436,8 +438,8 @@ Tutored undergraduate and graduate students on scientific writing 8 hours a week
 
 **As Mentor**
 
-**Undergraduate Mentor** Summer-Fall 2018  
-I am currently mentoring two undergraduates through independent research projects. I was awarded competitive funding to cover their salaries and housing. Throughout the summer I taught them field, and quantitative skills. Throughout the Fall Semester I am mentoring them through their data analysis and first poster. In Spring 2019 they will begin writing their first papers under my direction. 
+**Undergraduate Mentor** Summer 2018-Present
+Mentored two undergraduates through independent research projects. I was awarded competitive funding to cover their salaries and housing. Throughout the summer I taught them field, and quantitative skills. Throughout the following Fall Semester I mentored them through their data analysis and first poster presentations. They are now both working on peer reviewed papers. 
 
 
 **As Teaching Assistant**
@@ -469,7 +471,7 @@ Ornithology - 2011
 
 ## Outreach  
 
-2016-18 **#SkypeWithAScientist** 14 Classrooms across the US  
+2016-19 **#SkypeWithAScientist** 14 Classrooms across the US  
 2013-17 **Outdoor Education Volunteer** Hobbs State Park, Arkansas  
 Lead monthly spring bird banding demonstrations to groups 40-150 of children and adults       
 2013-17 **Science Fair Judge** (7) Regional/Local Science Fairs NW Arkansas  
