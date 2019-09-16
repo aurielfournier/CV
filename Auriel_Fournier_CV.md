@@ -50,7 +50,10 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 2019   
 
-**Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. [*Unpaid work and access to science professions*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2019_PlosOne.pdf) **PLoS ONE** 14(6): e0217032. 10.1371/journal.pone.0217032
+
+**Fournier, A.M.V.,** Bond, A.L., Holford, A, Leighton, M. [*Unpaid work and access to science professions*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2019_PlosOne.pdf) **PLoS ONE** 14:e0217032.
+10.1371/journal.pone.0217032
+
 
 Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A, Powers S [*Tiger sharks eat songbirds: scavenging a windfall of nutrients from the sky*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Drymon_et_al_Fournier_2019_Ecology.pdf) **Ecology** 10.1002/ecy.2728
 
@@ -62,10 +65,10 @@ Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A,
 
 **Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. [*Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundation*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2019_Waterbirds.pdf) **Waterbirds** 42:168-178 10.1675/063.042.0203
 
-Ward, S, **Fournier, AMV,** Bond, AL. [*Assessing gaps in reporting non-target mortality in island rodent eradication operations*](https://link.springer.com/article/10.1007%2Fs10530-019-02032-7) **Biological Invasions** 21:3101-3108  10.1007/s10530-019-02032-7
 
-**Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. [*Precise direct tracking and remote sensing reveal the use of forest islands as roost sites by Purple Martins during migration*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2019-Journal_of_Field_Ornithology.pdf) **Journal of Field Ornithology** (In Press) 10.1111/jofo.12298
+Ward, S, **Fournier, AMV,** Bond, AL. [*Assessing gaps in reporting non-target mortality in island rodent eradication operations*](https://link.springer.com/article/10.1007%2Fs10530-019-02032-7) **Biological Invasions** 21:3101–3108 10.1007/s10530-019-02032-7
 
+**Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. [*Precise direct tracking and remote sensing reveal the use of forest islands as roost sites by Purple Martins during migration*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2019-Journal_of_Field_Ornithology.pdf) **Journal of Field Ornithology** 10.1111/jofo.12298
 
 
 2018
@@ -171,7 +174,7 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 ## Grants
 
 **PI** (Submitted) 2018 - NOAA RESTORE SCIENCE  
-**Co-PI** 2018 - Mississippi Department of Wildlife, Fisheries and parks   
+**Co-PI** 2018 - Mississippi Department of Wildlife, Fisheries and Parks   
 **Co-PI** 2018 - U.S. Fish and Wildlife Service     
 **Co-PI and Writer** 2018 - Mississippi State Uni Undergraduate Research Scholars Program     
 **Co-PI and Writer** 2015 - Missouri Department of Conservation Research Grant    
