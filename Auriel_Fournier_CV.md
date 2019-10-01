@@ -173,9 +173,10 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 ## Grants
 
-**PI** (Submitted) 2018 - NOAA RESTORE SCIENCE  
-**Co-PI** 2018 - Mississippi Department of Wildlife, Fisheries and Parks   
-**Co-PI** 2018 - U.S. Fish and Wildlife Service     
+**PI** 2019-2024 - NOAA RESTORE SCIENCE    
+**PI** 2019-2022 - U.S. Fish and Wildlife Service  
+**Co-PI** 2019-2020 - Mississippi Department of Wildlife, Fisheries and Parks   
+**Co-PI** 2018-2019 - U.S. Fish and Wildlife Service     
 **Co-PI and Writer** 2018 - Mississippi State Uni Undergraduate Research Scholars Program     
 **Co-PI and Writer** 2015 - Missouri Department of Conservation Research Grant    
 **Writer** 2015 - The Frances M. Peacock Scholarship for Native Bird Habitat      
@@ -258,6 +259,7 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 2019
 
+**Fournier, AMV**, Lyons, JE, Wilson, RR, Gleason, JS, Adams, EM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Frederick, PC, Jodice, PGR, Reeves, DB, Seymour, MA, Sharuga, SM, Tirpak, JM,  Vermillion, WG, Zenzal, TJ, Woodrey, MS A strategic plan for monitoring birds in the gulf of mexico: translating stakeholder values into priorities. *Joint Meeting of the American Fisheries Society and The Wildlife Society*
 
 Klimas, ST, Osborn, JM, Jacques, CN, Lancaster, JD, Yetter, AP, **Fournier, AMV**, Hagy, HM. 2019. Diet selection by green-winged teal during spring migration in Illinois. *North American Duck Symposium 8*
 
