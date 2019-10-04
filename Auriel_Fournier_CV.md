@@ -256,8 +256,12 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 ## Presentations
 
+I am presenter when first author, and when otherwise indicated. 
+
 
 2019
+
+Jodice, PGR, Adams, EM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Fredrick, PC, **Fournier, AMV,** Gleason, JS, Lyons, JE, Wilson, RR, Woodrey, MS The Gulf of Mexico Avian Monitoring Network: Long-term and Large-scale Monitoring to Address Conservation Needs *Joint Meeting of the American Fisheries Society and The Wildlife Society*
 
 **Fournier, AMV**, Lyons, JE, Wilson, RR, Gleason, JS, Adams, EM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Frederick, PC, Jodice, PGR, Reeves, DB, Seymour, MA, Sharuga, SM, Tirpak, JM,  Vermillion, WG, Zenzal, TJ, Woodrey, MS A strategic plan for monitoring birds in the gulf of mexico: translating stakeholder values into priorities. *Joint Meeting of the American Fisheries Society and The Wildlife Society*
 
