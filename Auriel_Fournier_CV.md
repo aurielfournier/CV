@@ -261,6 +261,8 @@ I am presenter when first author, and when otherwise indicated.
 
 2019
 
+**Fournier, AMV** Holford, AJ, Bond, AL, Leighton, MA.  Unpaid work and access to science professions *Assoc of Field Ornithologists/Wilson Ornithological Soc *
+
 Jodice, PGR, Adams, EM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Fredrick, PC, **Fournier, AMV,** Gleason, JS, Lyons, JE, Wilson, RR, Woodrey, MS The Gulf of Mexico Avian Monitoring Network: Long-term and Large-scale Monitoring to Address Conservation Needs *Joint Meeting of the American Fisheries Society and The Wildlife Society*
 
 **Fournier, AMV**, Lyons, JE, Wilson, RR, Gleason, JS, Adams, EM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Frederick, PC, Jodice, PGR, Reeves, DB, Seymour, MA, Sharuga, SM, Tirpak, JM,  Vermillion, WG, Zenzal, TJ, Woodrey, MS A strategic plan for monitoring birds in the gulf of mexico: translating stakeholder values into priorities. *Joint Meeting of the American Fisheries Society and The Wildlife Society*
@@ -373,7 +375,8 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 2018-Present Co-Chair **Student/Early Professional Committee** Wilson Ornithological Society   
 2018-Present Co-Chair **Early Professional Development Committee** American Ornithological Society     
 2013-Present **Peer Reviewer** 13 journals  
-2017-2019 **Committee Member** Erin Lehnert, MS Student, U of Central Oklahoma    
+2017-2019 **Committee Member** Erin Lehnert, MS Student, U of Central Oklahoma   
+2019 **Presentation Judge** Assoc. of Field Ornith. & Wilson Ornith. Soc. Meeting   
 2019 **Mentor/Mentee Panel Member** North American Duck Symposium  
 2018 **Presentation Judge** American Ornithological Society Meeting  
 2018 **Local Organizing Committee** Assoc. of Field Ornith. & Wilson Ornith. Soc. Meeting   
@@ -419,6 +422,12 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 von Hardenberg A et al. Editors: Francois Michonneau and **Auriel Fournier**. 2017. Data Carpentry: R for data analysis and visualization of Ecological Data. doi: 10.5281/zenodo.569338
 
 **As Instructor**
+
+_Social Media for Scientists_   
+Workshop about the use of social media platforms as a scientist.       
+
+> Association of Field Ornithologists/Wilson Ornithological Society Conference - October 2019     
+North American Ornithological Conference - August 2016 
 
 _Advanced R Programming and Graphing Workshop_   
 Day long workshop on programming, graphing, data management in R. [Link to Materials](https://github.com/aurielfournier/AOSSCO17)    
