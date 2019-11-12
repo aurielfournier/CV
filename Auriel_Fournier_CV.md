@@ -261,7 +261,7 @@ I am presenter when first author, and when otherwise indicated.
 
 2019
 
-**Fournier, AMV** Holford, AJ, Bond, AL, Leighton, MA.  Unpaid work and access to science professions *Assoc of Field Ornithologists/Wilson Ornithological Soc *
+**Fournier, AMV** Holford, AJ, Bond, AL, Leighton, MA.  Unpaid work and access to science professions *Assoc of Field Ornithologists/Wilson Ornithological Soc*
 
 Jodice, PGR, Adams, EM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Fredrick, PC, **Fournier, AMV,** Gleason, JS, Lyons, JE, Wilson, RR, Woodrey, MS The Gulf of Mexico Avian Monitoring Network: Long-term and Large-scale Monitoring to Address Conservation Needs *Joint Meeting of the American Fisheries Society and The Wildlife Society*
 
@@ -293,7 +293,7 @@ Jodice, PGR, Woodrey, MS, **Fournier, AMV** Movement Ecology of Seabirds: Multi-
 
 **Fournier, AMV,** Woodrey, MS, Wilson, RR, Gleason, J, Lyons, JE, Cooper, RJ, Tirpak, J. Coordinated Bird Monitoring With Decision Science *SESYNC Boundary Spanning Symposium* 
 
-[presenter] Woodrey, MS, **Fournier, AMV,** Wilson, RR, Gleason, J, Lyons, JE, Cooper, RJ, Tirpak, J. Application of structured decision making in the development of a Gulf of Mexico-wide avian monitoring program *Assoc of Field Ornithologists/Wilson Ornithological Soc *   
+[presenter] Woodrey, MS, **Fournier, AMV,** Wilson, RR, Gleason, J, Lyons, JE, Cooper, RJ, Tirpak, J. Application of structured decision making in the development of a Gulf of Mexico-wide avian monitoring program *Assoc of Field Ornithologists/Wilson Ornithological Soc*   
 
 [presenter] Ward, S, **Fournier, AMV,** Bond, AL. Rodent eradications on islands and their effect on rails (Rallidae) as non-target species *Assoc of Field Ornith/Wilson Ornith Soc* 
   
