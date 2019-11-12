@@ -11,8 +11,9 @@ Auriel M.V. Fournier
 
 ## __Professional Appointments & Education__
 
-**Director** [Forbes Biological Station](https://www.inhs.illinois.edu/fieldstations/forbes/) & **Assistant Research Scientist, Wetland Bird Ecologist**   
-Illinois Natural History Survey - University of Illinois Urbana-Champaign - June 2019-Present  
+**Director** [Forbes Biological Station](https://www.inhs.illinois.edu/fieldstations/forbes/)     
+**Assistant Research Scientist**  Illinois Natural History Survey   
+University of Illinois Urbana-Champaign - June 2019-Present  
     
 
 **Postdoctoral Researcher** - Mississippi State University - April 2017-May 2019  
