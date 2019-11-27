@@ -67,7 +67,7 @@ Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A,
 **Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. [*Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundation*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2019_Waterbirds.pdf) **Waterbirds** 42:168-178 10.1675/063.042.0203
 
 
-Ward, S, **Fournier, AMV,** Bond, AL. [*Assessing gaps in reporting non-target mortality in island rodent eradication operations*](https://link.springer.com/article/10.1007%2Fs10530-019-02032-7) **Biological Invasions** 21:3101–3108 10.1007/s10530-019-02032-7
+Ward, S, **Fournier, AMV,** Bond, AL. [*Assessing gaps in reporting non-target mortality in island rodent eradication operations*](https://link.springer.com/article/10.1007%2Fs10530-019-02032-7) **Biological Invasions** 21:3101-3108 10.1007/s10530-019-02032-7
 
 **Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. [*Precise direct tracking and remote sensing reveal the use of forest islands as roost sites by Purple Martins during migration*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2019-Journal_of_Field_Ornithology.pdf) **Journal of Field Ornithology** 90:258-265  10.1111/jofo.12298
 
@@ -161,6 +161,11 @@ Adams, EM, **Fournier, AMV,** Woodrey MS. *Chapter 11: Collaboration, and Integr
 ## Popular Press  
 
 Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, Stack Whitney, K 2019 [*Open Science Isn't Always Open To All Scientists*](https://www.americanscientist.org/article/open-science-isnt-always-open-to-all-scientists) The American Scientist. 
+
+## Book Review
+
+2019
+**Fournier, AMV** A Season on the Wind: Inside the World of Spring Migration *Journal of Field Ornithology* 10.1111/jofo.12317 (In Press)
 
 
 ## Software 
