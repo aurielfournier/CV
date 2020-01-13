@@ -170,10 +170,9 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 ## Software 
 
-2018 
+2020
 
-**Fournier AMV,** Boone ME, Stevens FR, Bruna E. refsplitr: Clarivate Web of Knowledge / Web of Science and ISI Reference Data Tools. R package version 0.6. github.com/embruna/refsplitr
-
+**Fournier, AMV**, Boone, ME, Stevens, FR and Bruna, EM. refsplitr: Author  name disambiguation, author georeferencing, and mapping of coauthorship networks with Web of Science data.  version 1.0.0. https://github.com/ropensci/refsplitr 
 
 
 
