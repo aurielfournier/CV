@@ -49,6 +49,10 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 ### Papers
 
+2020  
+
+**Fournier, AMV**, Boone, ME, Stevens, F, Bruna, EM. refsplitr: Author name disambiguation, author georeferencing, and mapping of coauthorship networks with Web of Science data. Journal of Open Source Software, 5(45), 2028, 10.21105/joss.02028
+
 2019   
 
 
@@ -376,9 +380,13 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 2015 **Volunteer** American Ornithologists Union Meeting  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA 
 --->
+2020-Presnt **Illinois Important Bird Areas Technical Committee**  
+2019-Present **Waterfowl Committee** Upper Miss/Great Lakes Joint Venture    
+2019-Present **Waterbirds Committee** Upper Miss/Great Lakes Joint Venture    
 2019-Present **North American Ornithological Conference 2020 Diversity and Inclusion Comm**  
 2018-Present Co-Chair **Student/Early Professional Committee** Wilson Ornithological Society   
-2018-Present Co-Chair **Early Professional Development Committee** American Ornithological Society     
+2018-Present Co-Chair **Early Professional Development Committee** American Ornithological Society    
+2017-Present **Gulf of Mexico Avian Monitoring Network (GoMAMN) Coordination Committee**
 2013-Present **Peer Reviewer** 13 journals  
 2017-2019 **Committee Member** Erin Lehnert, MS Student, U of Central Oklahoma   
 2019 **Presentation Judge** Assoc. of Field Ornith. & Wilson Ornith. Soc. Meeting   
