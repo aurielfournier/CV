@@ -49,9 +49,16 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 ### Papers
 
+
+`#` graduate student mentee
+
 2020  
 
-**Fournier, AMV**, Boone, ME, Stevens, F, Bruna, EM. refsplitr: Author name disambiguation, author georeferencing, and mapping of coauthorship networks with Web of Science data. Journal of Open Source Software, 5(45), 2028, 10.21105/joss.02028
+**Fournier, AMV**, Boone, ME, Stevens, F, Bruna, EM. refsplitr: [Author name disambiguation, author georeferencing, and mapping of coauthorship networks with Web of Science data.](https://joss.theoj.org/papers/10.21105/joss.02028) **Journal of Open Source Software** 5(45): 2028, 10.21105/joss.02028  
+
+Bradshaw, TM `#`, Blake-Bradshaw, AG, **Fournier, AMV,** Lancaster, JD, O'Connell, J, Jacques, CN, Eicholtz, MW, Hagy, HM. [Marsh bird occupancy of wetlands managed for waterfowl in the Midwestern USA](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228980) **PLoS ONE** 15(2): e0228980, 10.1371/journal.pone.0228980
+
+\newpage
 
 2019   
 
@@ -125,7 +132,6 @@ Weitzel, SL`#`, Cooper, RJ, Walker, J, Rush, SA, **Fournier, AMV,** Woodrey, MS 
 Butler, CJ, **Fournier, AMV**, Wilson, JK. *Varying levels of migratory connectivity among four mesic prairie bird species of North America*
 --->
 
-\newpage 
 
 ### Reports 
 
@@ -151,15 +157,15 @@ Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate
 
 2019
 
-Woodrey, MS, **Fournier, AMV.,** Gleason, JS, Lyons, JE, and Wilson RR. [Editors]. Gulf of Mexico Strategic Avian Monitoring Plan. Mississippi Agricultural and Forestry Experiment Station Bulletin (In Press). Mississippi State University, Starkville, Mississippi.
+Wilson, RR, **Fournier, AMV,** Gleason, JS, Lyons, JE, Woodrey, MS (Editors). 2019. *Strategic Bird Monitoring Guidelines for the Northern Gulf of Mexico.* Mississippi Agricultural and Forestry Experiment Station Research Bulletin 1228, Mississippi State University, Mississippi State, MS. USA. 324 Pages. [pdf](https://gomamn.org/wp-content/uploads/2020/02/GoMAMN_Report_Final.pdf)
 
-Wilson, RR, Woodrey, MS, **Fournier, AMV,** Gleason, JS, Lyons, JE *Chapter 1: Why a Strategic Avian Monitoring Plan for the Gulf of Mexico* **Gulf of Mexico Strategic Avian Monitoring Plan** Mississippi Agricultural and Forestry Experiment Station Bulletin (In Press). Mississippi State University, Starkville, Mississippi.  
+Wilson, RR, Woodrey, MS, **Fournier, AMV,** Gleason, JS, Lyons, JE. 2019. *Why Strategic Bird Monitoring Guidelines for the Gulf of Mexico?* Pages 1-14 in Wilson, RR, **Fournier, AMV,** Gleason, JS, Lyons, JE, Woodrey, MS (Editors). 2019. *Strategic Bird Monitoring Guidelines for the Northern Gulf of Mexico.* Mississippi Agricultural and Forestry Experiment Station Research Bulletin 1228, Mississippi State University, Mississippi State, MS. USA. 324 Pages. [pdf](https://gomamn.org/wp-content/uploads/2020/02/chapter1.pdf)
 
-**Fournier, AMV,** Woodrey, MS, Wilson, RR, Sharuga, S, Reeves, D. *Chapter 2: Challenges, Opportunities and Stakeholder Values* **Gulf of Mexico Strategic Avian Monitoring Plan** Mississippi Agricultural and Forestry Experiment Station Bulletin (In Press). Mississippi State University, Starkville, Mississippi.  
+**Fournier, AMV**, Woodrey, MS, Wilson, RR, Sharuga, SM, Reeves, DB. 2019. *Challenges, opportunities, and stakeholder values.* Pages 15-24 in Wilson, RR, **Fournier, AMV,** Gleason, JS, Lyons, JE, Woodrey, MS (Editors). 2019. *Strategic Bird Monitoring Guidelines for the Northern Gulf of Mexico.* Mississippi Agricultural and Forestry Experiment Station Research Bulletin 1228, Mississippi State University, Mississippi State, MS. USA. 324 Pages. [pdf](https://gomamn.org/wp-content/uploads/2020/02/chapter2.pdf)
 
-Woodrey, MS, **Fournier, AMV,** Cooper, RJ. *Chapter 4: Marshbirds*  **Gulf of Mexico Strategic Avian Monitoring Plan** Mississippi Agricultural and Forestry Experiment Station Bulletin (In Press). Mississippi State University, Starkville, Mississippi.  
+Woodrey, MS, **Fournier, AMV,** Cooper, RJ. 2019. *GoMAMN Strategic Bird Monitoring Guidelines: Marsh Birds* Pages 71-96 in Wilson, RR, **Fournier, AMV,** Gleason, JS, Lyons, JE, Woodrey, MS (Editors). 2019. *Strategic Bird Monitoring Guidelines for the Northern Gulf of Mexico.* Mississippi Agricultural and Forestry Experiment Station Research Bulletin 1228, Mississippi State University, Mississippi State, MS. USA. 324 Pages. [pdf](https://gomamn.org/wp-content/uploads/2020/02/chapter4.pdf)  
 
-Adams, EM, **Fournier, AMV,** Woodrey MS. *Chapter 11: Collaboration, and Integration Across the Gulf of Mexico* **Gulf of Mexico Strategic Avian Monitoring Plan** Mississippi Agricultural and Forestry Experiment Station Bulletin (In Press). Mississippi State University, Starkville, Mississippi.  
+Adams, EM, **Fournier, AMV**, Woodrey, MS. 2019. *Integration and collaboration across the Gulf of Mexico* Pages 297-306 in Wilson, RR, **Fournier, AMV,** Gleason, JS, Lyons, JE, Woodrey, MS (Editors). 2019. *Strategic Bird Monitoring Guidelines for the Northern Gulf of Mexico.* Mississippi Agricultural and Forestry Experiment Station Research Bulletin 1228, Mississippi State University, Mississippi State, MS. USA. 324 Pages. [pdf](https://gomamn.org/wp-content/uploads/2020/02/chapter11.pdf)
 
 
 ## Popular Press  
@@ -227,7 +233,8 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 ## Invited Presentations
 
-
+2020  
+**Seminar** Bradley University
 
 2019   
 **Seminar** East Carolina University   
@@ -267,6 +274,19 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 I am presenter when first author, and when otherwise indicated. 
 
+`#` graduate student mentee
+
+2020
+
+**Fournier, AMV**, Lancaster, JD, Yetter, A, Shaw, A, Greider, M, Wu, D, Beckerman, T, Gio, A, Wolter, K, Figge, J, Laureur, M, Wood, M, Johnson, C, Jen, D, O'Neal, B, Hagy, H. Wetland bird nest success, and nest site selection in a restored wetland system. Midwest Fish and Wildlife Conference 
+
+Yetter, AP, Hine, CS, Lancaster, JD, Gilbert, AD, Klimas, ST, Beach, CR, Osborn, JM, **Fournier, AMV,** Hagy, HM. Ecology of spring-migrating dabbling ducks in the Illinois River Valley. Midwest Fish and Wildlife Conference. 
+
+Yetter, AP, Hine, CS, Gilbert, AD, Osborn, JM, **Fournier, AMV,** Beach, CR, Klimas, ST. Ducks, Geese, and Coots - A quarter century summary of the Illinois River Valley. Midwest Fish and Wildlife Conference. 
+
+Gilbert, AD, **Fournier, AMV,** Yetter, AP, Hine, CS, Osborn, JM, Lancaster, JD, Klimas, ST, Beach, CR. Postbreeding ecology of wood ducks in the Illinois River Valley. Midwest Fish and Wildlife Conference
+
+Klimas, ST `#`, Osborn, JM, Osborne, DC, Lancaster, JD, Jacques, CN, Yetter, AP, **Fournier, AMV,** Hagy, HM. Body condition of spring-migrating green-winged teal. Annual Midwest Fish and Wildlife Conference
 
 2019
 
@@ -380,7 +400,7 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 2015 **Volunteer** American Ornithologists Union Meeting  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA 
 --->
-2020-Presnt **Illinois Important Bird Areas Technical Committee**  
+2020-Present **Illinois Important Bird Areas Technical Committee**  
 2019-Present **Waterfowl Committee** Upper Miss/Great Lakes Joint Venture    
 2019-Present **Waterbirds Committee** Upper Miss/Great Lakes Joint Venture    
 2019-Present **North American Ornithological Conference 2020 Diversity and Inclusion Comm**  
@@ -445,7 +465,8 @@ North American Ornithological Conference - August 2016
 _Advanced R Programming and Graphing Workshop_   
 Day long workshop on programming, graphing, data management in R. [Link to Materials](https://github.com/aurielfournier/AOSSCO17)    
 
->    American Ornithological Society Conference - June 2019  
+> Midwest Fish and Wildlife Conference - January 2020  
+American Ornithological Society Conference - June 2019  
 Gulf Estuarine Research Society Conference - November 2018    
 American Ornithological Society Conference - April 2018    
     American Ornithological Society/Society of Canadian Ornithologists - August 2017  
