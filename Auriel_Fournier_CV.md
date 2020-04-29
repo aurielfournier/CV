@@ -3,7 +3,7 @@ output:
   pdf_document: default
   html_document:
     df_print: paged
-urlcolor: blue
+urlcolor: purple
 ---
 Auriel M.V. Fournier
 =============================
@@ -54,9 +54,9 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 2020  
 
-**Fournier, AMV**, Boone, ME, Stevens, F, Bruna, EM. refsplitr: [Author name disambiguation, author georeferencing, and mapping of coauthorship networks with Web of Science data.](https://joss.theoj.org/papers/10.21105/joss.02028) **Journal of Open Source Software** 5(45): 2028, 10.21105/joss.02028  
+**Fournier, AMV**, Boone, ME, Stevens, F, Bruna, EM. refsplitr: [*Author name disambiguation, author georeferencing, and mapping of coauthorship networks with Web of Science data.*](https://joss.theoj.org/papers/10.21105/joss.02028) **Journal of Open Source Software** 5(45): 2028, 10.21105/joss.02028  
 
-Bradshaw, TM `#`, Blake-Bradshaw, AG, **Fournier, AMV,** Lancaster, JD, O'Connell, J, Jacques, CN, Eicholtz, MW, Hagy, HM. [Marsh bird occupancy of wetlands managed for waterfowl in the Midwestern USA](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228980) **PLoS ONE** 15(2): e0228980, 10.1371/journal.pone.0228980
+Bradshaw, TM `#`, Blake-Bradshaw, AG, **Fournier, AMV,** Lancaster, JD, O'Connell, J, Jacques, CN, Eicholtz, MW, Hagy, HM. [*Marsh bird occupancy of wetlands managed for waterfowl in the Midwestern USA*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228980) **PLoS ONE** 15(2): e0228980, 10.1371/journal.pone.0228980
 
 \newpage
 
@@ -175,7 +175,7 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 ## Book Review
 
 2019
-**Fournier, AMV** [*A Season on the Wind: Inside the World of Spring Migration *Journal of Field Ornithology*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_2019_Book_Review.pdf) **Journal of Field Ornithology** 90:391-392 10.1111/jofo.12317 
+**Fournier, AMV** [*A Season on the Wind: Inside the World of Spring Migration*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_2019_Book_Review.pdf) **Journal of Field Ornithology** 90:391-392 10.1111/jofo.12317 
 
 
 ## Software 
@@ -189,7 +189,8 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 ## Grants
 
 **PI** 2019-2024 - NOAA RESTORE SCIENCE    
-**PI** 2019-2022 - U.S. Fish and Wildlife Service  
+**PI** 2019-2022 - U.S. Fish and Wildlife Service    
+**Co-PI** 2020-2021 - U.S. Fish and Wildlife Service  
 **Co-PI** 2019-2020 - Mississippi Department of Wildlife, Fisheries and Parks   
 **Co-PI** 2018-2019 - U.S. Fish and Wildlife Service     
 **Co-PI and Writer** 2018 - Mississippi State Uni Undergraduate Research Scholars Program     
@@ -202,7 +203,7 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 **Writer** 2011 - Summer Undergraduate Research Fellowship   
 **Writer** 2009 - Summer Undergraduate Research Fellowship 
 
-
+\newpage
 
 ## Datasets
 
@@ -221,6 +222,7 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 ## Honors 
 
+2020 [**BioOne Ambassador Award**](http://www.bioonepublishing.org/BioOneAmbassadorAward/2020/AMVF.html)  
 2019 **The Wildlife Society Leadership Institute Class of 2019**  
 2012-16 **Distinguished Doctoral Fellowship** - University of Arkansas  
 2018 **Elective Member** - American Ornithological Society   
