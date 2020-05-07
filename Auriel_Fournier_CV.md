@@ -235,7 +235,9 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 ## Invited Presentations
 
-2020  
+2020   
+**Seminar** Dept of Interior Decision Science Webinar Series    
+**2 Seminars** canceled because of COVID-19  
 **Seminar** Bradley University
 
 2019   
@@ -467,7 +469,8 @@ North American Ornithological Conference - August 2016
 _Advanced R Programming and Graphing Workshop_   
 Day long workshop on programming, graphing, data management in R. [Link to Materials](https://github.com/aurielfournier/AOSSCO17)    
 
-> Midwest Fish and Wildlife Conference - January 2020  
+>  Illinois Natural History Survey - May 2020     
+Midwest Fish and Wildlife Conference - January 2020  
 American Ornithological Society Conference - June 2019  
 Gulf Estuarine Research Society Conference - November 2018    
 American Ornithological Society Conference - April 2018    
