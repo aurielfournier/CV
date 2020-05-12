@@ -125,9 +125,11 @@ In Review
 
 `#` graduate student mentee
 
-**Fournier, A.M.V.,** Lyons, J.E., Wilson, R.R., Gleason, J.S., Adams, E.M., Brush, J.M., Cooper, R.J., DeMaso, S.J., Driscoll, M.J.L., Frederick, P.C., Jodice, P.G.R., Reeves, D.B., Seymour, M.A., Sharuga, S.M., Tirpak, J.M., Vermillion, W.G., Zenzal Jr. T.J., Woodrey, M.S. *The Gulf of Mexico Avian Monitoring Network: Application of structured decision making for coordinated, integrated monitoring*
+**Fournier, AMV,** Lyons, JE, Wilson, RR, Gleason, JS, Adams, EM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Frederick, PC, Jodice, PGR, Reeves, DB, Seymour, MA, Sharuga, SM, Tirpak, JM, Vermillion, WG, Zenzal, TJ, Woodrey, MS *The Gulf of Mexico Avian Monitoring Network: Application of structured decision making for coordinated, integrated monitoring*
 
 Weitzel, SL`#`, Cooper, RJ, Walker, J, Rush, SA, **Fournier, AMV,** Woodrey, MS *Habitat use of five wintering salt marsh birds in the Northern Gulf of Mexico*   
+
+Saunders, SP, Wu, JX, Adams, E, Bateman, B, Bayard, T, Beilke, S, Dayer, AA, **Fournier, AMV**, Fox, K, Gow, EA, Heglund, P, Lerman, SB, Michel, NL, Paxton, EH, Şekercioğlu, ÇH, Smith, MA, Thogmartin, W, Woodrey, MS, van Riper, C. *Bridging the research-implementation gap in avian conservation with translational ecology*
 
 Butler, CJ, **Fournier, AMV**, Wilson, JK. *Varying levels of migratory connectivity among four mesic prairie bird species of North America*
 --->
@@ -192,6 +194,7 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 **PI** 2019-2022 - U.S. Fish and Wildlife Service    
 **Co-PI** 2020-2021 - U.S. Fish and Wildlife Service  
 **Co-PI** 2019-2020 - Mississippi Department of Wildlife, Fisheries and Parks   
+**PI** 2020 - Illinois Ornithological Society  
 **Co-PI** 2018-2019 - U.S. Fish and Wildlife Service     
 **Co-PI and Writer** 2018 - Mississippi State Uni Undergraduate Research Scholars Program     
 **Co-PI and Writer** 2015 - Missouri Department of Conservation Research Grant    
