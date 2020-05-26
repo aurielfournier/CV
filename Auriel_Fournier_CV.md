@@ -238,7 +238,8 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 ## Invited Presentations
 
-2020   
+2020     
+**Invited Talk** Chicago Audubon Society   
 **Seminar** Dept of Interior Decision Science Webinar Series [Recording Link](https://nctc.fws.gov/topic/online-training/webinars/decision-analysis.html)   
 **2 Seminars** canceled because of COVID-19  
 **Seminar** Bradley University
