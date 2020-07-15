@@ -419,9 +419,10 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 2019-Present **Waterfowl Committee** Upper Miss/Great Lakes Joint Venture    
 2019-Present **Waterbirds Committee** Upper Miss/Great Lakes Joint Venture    
 2018-Present Co-Chair **Student/Early Professional Committee** Wilson Ornithological Society   
-2018-Present Co-Chair **Early Professional Development Committee** American Ornithological Society    
+ 
 2017-Present **Gulf of Mexico Avian Monitoring Network (GoMAMN) Coordination Committee**
 2013-Present **Peer Reviewer** 13 journals  
+2018-2020 Co-Chair **Early Professional Development Committee** American Ornithological Society   
 2019-2020 **North American Ornithological Conference 2020 Diversity and Inclusion Comm**  
 2019 **Presentation Judge** Assoc. of Field Ornith. & Wilson Ornith. Soc. Meeting   
 2019 **Mentor/Mentee Panel Member** North American Duck Symposium  
