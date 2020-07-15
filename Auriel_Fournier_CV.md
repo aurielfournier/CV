@@ -401,6 +401,12 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 2010   
 **Fournier, A.M.V.,** Flaspohler, D.J., 2010 Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
+## Student Committees
+
+2019-Present Dustin Brewer, PhD Student, Central Michigan University  
+2019-Present Gabriel Habgrove, MS student, U of Arkansas Monticello  
+2017-2019 Erin Lehnert, MS Student, U of Central Oklahoma   
+
 ## Service 
 
 <!---
@@ -412,12 +418,11 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 2020-Present **Illinois Important Bird Areas Technical Committee**  
 2019-Present **Waterfowl Committee** Upper Miss/Great Lakes Joint Venture    
 2019-Present **Waterbirds Committee** Upper Miss/Great Lakes Joint Venture    
-2019-Present **North American Ornithological Conference 2020 Diversity and Inclusion Comm**  
 2018-Present Co-Chair **Student/Early Professional Committee** Wilson Ornithological Society   
 2018-Present Co-Chair **Early Professional Development Committee** American Ornithological Society    
 2017-Present **Gulf of Mexico Avian Monitoring Network (GoMAMN) Coordination Committee**
 2013-Present **Peer Reviewer** 13 journals  
-2017-2019 **Committee Member** Erin Lehnert, MS Student, U of Central Oklahoma   
+2019-2020 **North American Ornithological Conference 2020 Diversity and Inclusion Comm**  
 2019 **Presentation Judge** Assoc. of Field Ornith. & Wilson Ornith. Soc. Meeting   
 2019 **Mentor/Mentee Panel Member** North American Duck Symposium  
 2018 **Presentation Judge** American Ornithological Society Meeting  
