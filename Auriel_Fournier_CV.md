@@ -38,9 +38,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 **Subject Editor** Illinois Natural History Survey Bulletin 2019-Present
 
-**Subject Editor** Rethinking Ecology - 2018-Present  
-
-**Associate Editor** The Ibis - 2017-Present  
+**Editorial Board** Waterbirds  2020-Present  
 
 **Research Committee Co-Chair** Black Swamp Bird Observatory  - 2016-Present   
 
@@ -402,7 +400,9 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 **Fournier, A.M.V.,** Flaspohler, D.J., 2010 Habitat Classification and Biological Inventory of Pioneer Scout Reservation *Undergraduate Research Expo* - MI 
 
 ## Student Committees
-
+  
+2020-Present (co-adviser) Stephanie Schmidt, MS Student, University of Illinois Urbana Champaign  
+2020-Present (co-adviser) Matthew Williams, MS Student, Western Illinois University   
 2019-Present Dustin Brewer, PhD Student, Central Michigan University  
 2019-Present Gabriel Habgrove, MS student, U of Arkansas Monticello  
 2017-2019 Erin Lehnert, MS Student, U of Central Oklahoma   
@@ -418,10 +418,10 @@ Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migr
 2020-Present **Illinois Important Bird Areas Technical Committee**  
 2019-Present **Waterfowl Committee** Upper Miss/Great Lakes Joint Venture    
 2019-Present **Waterbirds Committee** Upper Miss/Great Lakes Joint Venture    
-2018-Present Co-Chair **Student/Early Professional Committee** Wilson Ornithological Society   
- 
+2018-Present Co-Chair **Student/Early Professional Committee** Wilson Ornithological Society    
 2017-Present **Gulf of Mexico Avian Monitoring Network (GoMAMN) Coordination Committee**
-2013-Present **Peer Reviewer** 13 journals  
+2013-Present **Peer Reviewer** 13 journals    
+2017-2020 **Associate Editor** The Ibis   
 2018-2020 Co-Chair **Early Professional Development Committee** American Ornithological Society   
 2019-2020 **North American Ornithological Conference 2020 Diversity and Inclusion Comm**  
 2019 **Presentation Judge** Assoc. of Field Ornith. & Wilson Ornith. Soc. Meeting   
