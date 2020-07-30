@@ -185,24 +185,14 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 **Fournier, AMV**, Boone, ME, Stevens, FR and Bruna, EM. refsplitr: Author  name disambiguation, author georeferencing, and mapping of coauthorship networks with Web of Science data.  version 1.0.0. https://github.com/ropensci/refsplitr 
 
 
-
 ## Grants
 
-**PI** 2019-2024 - NOAA RESTORE SCIENCE    
-**PI** 2019-2022 - U.S. Fish and Wildlife Service    
-**Co-PI** 2020-2021 - U.S. Fish and Wildlife Service  
-**Co-PI** 2019-2020 - Mississippi Department of Wildlife, Fisheries and Parks   
-**PI** 2020 - Illinois Ornithological Society  
-**Co-PI** 2018-2019 - U.S. Fish and Wildlife Service     
-**Co-PI and Writer** 2018 - Mississippi State Uni Undergraduate Research Scholars Program     
-**Co-PI and Writer** 2015 - Missouri Department of Conservation Research Grant    
-**Writer** 2015 - The Frances M. Peacock Scholarship for Native Bird Habitat      
-**Writer** 2014 - Arkansas Audubon Society Trust   
-**Writer** 2011 - Summer Undergraduate Research Fellowship   
-**Writer** 2011 - Ecosystem Science Center Undergraduate Research Grant      
-**Writer** 2010 - Ecosystem Science Center Undergraduate Research Grant    
-**Writer** 2011 - Summer Undergraduate Research Fellowship   
-**Writer** 2009 - Summer Undergraduate Research Fellowship 
+**PI** 2019-2024 - "Fire Effects in Gulf of Mexico Tidal Marshes: Historical Perspectives, Management, and Monitoring of Mottled Ducks and Black Rails and Other High Marsh Birds" NOAA RESTORE SCIENCE  
+**PI** 2019-2022 - "True Metabolizable Energy of Targeted and Unfavorable Seed Species in Waterfowl Management" USFWS/IDNR 
+**PI** 2020-2021 - "Illinois Waterfowl Surveys and Investigations (FY21)" USFWS/IDNR
+**Co-PI** 2020-2021 - "Ecology of non-breeding waterfowl in the Wabash River region" USFWS/IDNR
+**Co-PI** 2020-2021 - "Wetland Bird Conservation Assessment" USFWS/IDNR
+
 
 \newpage
 
