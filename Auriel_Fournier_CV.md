@@ -187,14 +187,12 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 ## Grants
 
-**PI** 2019-2024 - "Fire Effects in Gulf of Mexico Tidal Marshes: Historical Perspectives, Management, and Monitoring of Mottled Ducks and Black Rails and Other High Marsh Birds" NOAA RESTORE SCIENCE  
-**PI** 2019-2022 - "True Metabolizable Energy of Targeted and Unfavorable Seed Species in Waterfowl Management" USFWS/IDNR 
-**PI** 2020-2021 - "Illinois Waterfowl Surveys and Investigations (FY21)" USFWS/IDNR
-**Co-PI** 2020-2021 - "Ecology of non-breeding waterfowl in the Wabash River region" USFWS/IDNR
+**PI** 2019-2024 - "Fire Effects in Gulf of Mexico Tidal Marshes: Historical Perspectives, Management, and Monitoring of Mottled Ducks and Black Rails and Other High Marsh Birds" NOAA RESTORE SCIENCE    
+**PI** 2019-2022 - "True Metabolizable Energy of Targeted and Unfavorable Seed Species in Waterfowl Management" USFWS/IDNR   
+**PI** 2020-2021 - "Illinois Waterfowl Surveys and Investigations (FY21)" USFWS/IDNR  
+**Co-PI** 2020-2021 - "Ecology of non-breeding waterfowl in the Wabash River region" USFWS/IDNR  
 **Co-PI** 2020-2021 - "Wetland Bird Conservation Assessment" USFWS/IDNR
 
-
-\newpage
 
 ## Datasets
 
@@ -229,8 +227,7 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 2020     
 **Seminar** [Bios2 Fellows Program](http://bios2.usherbrooke.ca/)   
 **Invited Talk** Chicago Audubon Society   
-**Seminar** Dept of Interior Decision Science Webinar Series [Recording Link](https://nctc.fws.gov/topic/online-training/webinars/decision-analysis.html)   
-**2 Seminars** canceled because of COVID-19  
+**Seminar** Dept of Interior Decision Science Webinar Series [Recording Link](https://nctc.fws.gov/topic/online-training/webinars/decision-analysis.html)     
 **Seminar** Bradley University
 
 2019   
@@ -266,6 +263,8 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 2014   
 **Seminar** Arkansas Tech University
 
+
+\newpage
 
 ## Presentations
 
@@ -552,7 +551,7 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 
 
 ## Work Experience
-**Lead Scientist** November 2017-Present  
+**Lead Scientist** November 2017-2019  
 Prozana Solutions LLC   
 **Freelance Ecologist** October 2016-January 2017  
 Bird Studies Canada  
