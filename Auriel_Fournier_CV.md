@@ -224,7 +224,8 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 ## Invited Presentations
 
-2020    
+2020      
+**Symposium Talk** The Wildlife Society Leadership Symposium
 **Seminar** Southern Illinois University - Carbondale   
 **Seminar** [Bios2 Fellows Program](http://bios2.usherbrooke.ca/)   
 **Invited Talk** Chicago Audubon Society   
@@ -274,6 +275,8 @@ I am presenter when first author, and when otherwise indicated.
 `#` graduate student mentee
 
 2020
+
+Beach, CR `#`, Cole, RA, Lancaster, JD, Yetter, AP, **Fournier, AMV,** Hagy, HM, Jacques, CN Evaluating the Physiological Response of Sub-Lethal Infections of Trematodes in Captive Lesser Scaup. The Wildlife Society. 
 
 **Fournier, AMV**, Lancaster, JD, Yetter, A, Shaw, A, Greider, M, Wu, D, Beckerman, T, Gio, A, Wolter, K, Figge, J, Laureur, M, Wood, M, Johnson, C, Jen, D, O'Neal, B, Hagy, H. Wetland bird nest success, and nest site selection in a restored wetland system. Midwest Fish and Wildlife Conference 
 
@@ -360,17 +363,27 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. Why most studied populations 
 
 ## Posters
 
-`#` undergraduate mentees
+`#` graduate mentees
+`##` undergraduate mentees
+
+2020  
+
+Williams, MR `#`, Hagy, HM, Lancaster, JD, Osborn, JM, Yetter, AP, **Fournier, AMV**, Jacques, CN True Metabolizable Energy of Targeted and Unfavorable Seed Species in Waterfowl Management. The WIldlife Society. 
+
+**Fournier, AMV**, Butler, C, Conway, W, Cooper, R, Cox, J, Enwright, N, Evans, K, Johnson, E, Lyons, J, Nyman, JA, Rohli, R, Woodrey, M. The effects of presecribed fire in Gulf of Mexico Marshes: on Mottled Ducks and Black and Yellow Rails. The Wildlife Society
+
+**Fournier, AMV**, Shieldcastle MC The timing and abundance of hawk migration along the southern shore of Lake Erie over 15 years. The Wildlife Society.  
+
 
 2019
 
-Shaw, A.A.#, Lancaster, J.D., Yetter, A.P., Hine, C.N., **Fournier, A.M.V.** Waterbird nesting ecology following hydrological manipulation of a historic Illinois River floodplain. *NGRREC Symposium*
+Shaw, A.A. `##`, Lancaster, J.D., Yetter, A.P., Hine, C.N., **Fournier, A.M.V.** Waterbird nesting ecology following hydrological manipulation of a historic Illinois River floodplain. *NGRREC Symposium*
 
 2018 
 
-Holiman, H.#, Kitaif, C.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Can automated recordingn units be used to count individual marsh birds? *Bays and Bayous Conference, Alabama.* 
+Holiman, H. `##`, Kitaif, C. `##`, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Can automated recordingn units be used to count individual marsh birds? *Bays and Bayous Conference, Alabama.* 
 
-Kitaif, C.#, Holiman, H.#, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migratory timing of rails in Jackson County, MS *Bays and Bayous Conference, Alabama.* 
+Kitaif, C. `##`, Holiman, H. `##`, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M.S. Migratory timing of rails in Jackson County, MS *Bays and Bayous Conference, Alabama.* 
 
 2017    
 **Fournier, A.M.V.**, Shieldcastle, M.C., Kashmer, T., Mylecraine, K.A. Comparison of Arrival Dates of Rail Migration in the Southwest Lake Erie Marshes, Ohio, USA *International Association of Great Lakes Researchers Conference* - MI [pdf](https://figshare.com/articles/Comparison_of_Arrival_Dates_of_Rail_Migration_in_the_Southwest_Lake_Erie_Marshes/4726315)
