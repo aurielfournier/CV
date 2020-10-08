@@ -224,8 +224,9 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 ## Invited Presentations
 
-2020      
-**Symposium Talk** The Wildlife Society Leadership Symposium
+2020        
+**Invited Talk** Illinois Master Naturalist Conference  
+**Symposium Talk** The Wildlife Society Leadership Symposium  
 **Seminar** Southern Illinois University - Carbondale   
 **Seminar** [Bios2 Fellows Program](http://bios2.usherbrooke.ca/)   
 **Invited Talk** Chicago Audubon Society   
