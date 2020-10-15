@@ -288,7 +288,7 @@ Yetter, AP, Hine, CS, Gilbert, AD, Osborn, JM, **Fournier, AMV,** Beach, CR, Kli
 
 Gilbert, AD, **Fournier, AMV,** Yetter, AP, Hine, CS, Osborn, JM, Lancaster, JD, Klimas, ST, Beach, CR. Postbreeding ecology of wood ducks in the Illinois River Valley. Midwest Fish and Wildlife Conference
 
-Klimas, ST `#`, Osborn, JM, Osborne, DC, Lancaster, JD, Jacques, CN, Yetter, AP, **Fournier, AMV,** Hagy, HM. Body condition of spring-migrating green-winged teal. Annual Midwest Fish and Wildlife Conference
+Klimas, ST, Osborn, JM, Osborne, DC, Lancaster, JD, Jacques, CN, Yetter, AP, **Fournier, AMV,** Hagy, HM. Body condition of spring-migrating green-winged teal. Annual Midwest Fish and Wildlife Conference
 
 2019
 
