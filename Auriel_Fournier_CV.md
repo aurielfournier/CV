@@ -237,7 +237,7 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 2019   
 **Seminar** East Carolina University   
 **Seminar** Clemson University    
-**2 Talks** Whiting Forest Birding Festival
+**Invited Talk** Whiting Forest Birding Festival
 
 2018   
 **Seminar** University of Florida  
