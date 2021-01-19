@@ -50,13 +50,17 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 `#` graduate student mentee
 
+2021
+
+
+**Fournier, AMV,** Lancaster, JD, Yetter, AP, Hine, CS, Beckerman, T, Figge, J, Gioe, A, Greider, M, Jen, D, Johnson, C, Larreur, M, Shaw, A, Wolter, K, Wood, M, Wu, D, O'Neal, B, Hagy, HM. *Nest success and nest-site selection of wetland birds in a restored wetland system* **Avian Conservation and Ecology** Accepted
+
+
 2020  
 
-**Fournier, AMV**, Boone, ME, Stevens, F, Bruna, EM. refsplitr: [*Author name disambiguation, author georeferencing, and mapping of coauthorship networks with Web of Science data.*](https://joss.theoj.org/papers/10.21105/joss.02028) **Journal of Open Source Software** 5(45): 2028, 10.21105/joss.02028  
 
 Bradshaw, TM `#`, Blake-Bradshaw, AG, **Fournier, AMV,** Lancaster, JD, O'Connell, J, Jacques, CN, Eicholtz, MW, Hagy, HM. [*Marsh bird occupancy of wetlands managed for waterfowl in the Midwestern USA*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228980) **PLoS ONE** 15(2): e0228980, 10.1371/journal.pone.0228980
 
-\newpage
 
 2019   
 
@@ -224,7 +228,8 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 ## Invited Presentations
 
-2020          
+2020    
+**Seminar** Southern Illinois University - Edwardsville  
 **Seminar** Northern Illinois University   
 **Invited Talk** Illinois Master Naturalist Conference  
 **Symposium Talk** The Wildlife Society Leadership Symposium  
