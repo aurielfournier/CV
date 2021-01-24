@@ -7,7 +7,7 @@ urlcolor: purple
 ---
 Auriel M.V. Fournier
 =============================
-20003 N CR 1770E, Havana, IL 62644 - auriel@illinois.edu - 419.307.6261 - [aurielfournier.github.io](http://aurielfournier.github.io/) 
+20003 N CR 1770E, Havana, IL 62644 - auriel@illinois.edu -  [aurielfournier.github.io](http://aurielfournier.github.io/) 
 
 ## __Professional Appointments & Education__
 
