@@ -414,7 +414,6 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, A.M.V.,** Iglay, R.B., Woodrey, M
 2020-Present (Adviser) Cheyenne Beach, MS Student, Western Illinois University  
 2020-Present (Adviser) Lauren Larson, MS Student, Western Illinois University  
 2020-Present (Co-Adviser) Stephanie Schmidt, MS Student, University of Illinois Urbana Champaign    
-2020-Present (Adviser) Matthew Williams, MS Student, Western Illinois University     
 2019-Present Dustin Brewer, PhD Student, Central Michigan University  
 2019-Present Gabriel Habgrove, MS student, U of Arkansas Monticello  
 2017-2019 Erin Lehnert, MS Student, U of Central Oklahoma   
