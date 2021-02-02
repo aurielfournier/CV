@@ -40,6 +40,8 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 **Editorial Board** Waterbirds  2020-Present  
 
+**Chair** Gulf of Mexico Avian Monitoring Network 2021-Present
+
 **Research Committee Co-Chair** Black Swamp Bird Observatory  - 2016-Present   
 
 
