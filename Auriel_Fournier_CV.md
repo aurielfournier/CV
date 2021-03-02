@@ -55,7 +55,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 2021
 
 
-**Fournier, AMV,** Lancaster, JD, Yetter, AP, Hine, CS, Beckerman, T, Figge, J, Gioe, A, Greider, M, Jen, D, Johnson, C, Larreur, M, Shaw, A, Wolter, K, Wood, M, Wu, D, O'Neal, B, Hagy, HM. *Nest success and nest-site selection of wetland birds in a restored wetland system* **Avian Conservation and Ecology** Accepted
+**Fournier, AMV,** Lancaster, JD, Yetter, AP, Hine, CS, Beckerman, T, Figge, J, Gioe, A, Greider, M, Jen, D, Johnson, C, Larreur, M, Shaw, A, Wolter, K, Wood, M, Wu, D, O'Neal, B, Hagy, HM. [*Nest success and nest-site selection of wetland birds in a restored wetland system*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2021_ACEECO.pdf) **Avian Conservation and Ecology** 16:6. 10.5751/ACE-01782-160106
 
 
 2020  
