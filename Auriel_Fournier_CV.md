@@ -261,6 +261,26 @@ I am presenter when first author, and when otherwise indicated.
 
 `#` graduate student mentee
 
+**Fournier, AMV,** Unpaid work in STEM, barriers and examples of improvement. Northeast Natural History Conference/Wilson Ornithological Society Annual Meeting
+
+**Fournier, AMV,** Unpaid work in STEM, barriers and examples of improvement. Illinois Chapter of The Wildlife Society Annual Meeting
+
+Larson, LD `#`, Anteau, MJ, Hagy, HM, Lancaster, JD, Yetter, AP, Jacques, CN, **Fournier, AMV.** 2021 True metabolizable energy for lesser scaup. Illinois Chapter of The Wildlife Society Annual Meeting
+
+Schmidt, SM `#`, Benson, TJ, **Fournier, AMV,** Osborn, JM. 2021. The effects of water drawdowns on marsh bird nest survival at Emiquon Preserve. Illinois Chapter of The Wildlife Society Annual Meeting
+
+Larson, LD `#`, Anteau, MJ, Hagy, HM, Lancaster, JD, Yetter, AP, Jacques, CN, **Fournier, AMV.** 2021 Evaluating Dynamics of Food Availability for Lesser Scaup at Pools 13 and 19 of the Mississippi River. Midwest Fish and Wildlife Conference
+
+**Fournier, AMV,** Bradshaw, T, Hagy, HM, Shirkey, B. 2021. Evaluating Assumptions of the North American Marsh Bird Monitoring Protocol. Midwest Fish and Wildlife Conference
+
+Beach, CR `#`, Cole, RA, Lancaster, JD, Yetter, AP, Hagy, HM, Jacques, CN, **Fournier, AMV**. 2021. Evaluating the Physiological Response of Sub-lethal Infections of Sphaeridiotrema spp. and Cyathocotyle bushiensis trematodes in Captive Lesser Scaup (Aythya affinis). Midwest Fish and Wildlife Conference 
+
+Gilbert, AD, **Fournier, AMV,** Yetter, AP, Hine, CS, Osborn, JC, Lancaster, JD, Beach, CR. 2021. Postbreeding Ecology of Wood Ducks in the Illinois River Valley. Midwest Fish and Wildlife Conference
+
+Kross, CS, Beach, CR, Gilbert, AD, Osborn, JC, Williams, MR, Yetter, AP, **Fournier, AMV**. 2021. Using Climate Data to Understand Shifts in the Autumn Migration Phenology of Dabbling and Diving Ducks in the Illinois River Valley. Midwest Fish and Wildlife Conference
+
+**Fournier, AMV,** Williams, MR, Hagy, HM, Lancaster, JD, Osborn, JM, Yetter, AP. 2021 True Metabolizable Energy of Southern Aquatic Waterfowl Foods. Florida Research Symposium
+
 Beach, CR `#`, Cole, RA, Lancaster, JD, Yetter, AP, **Fournier, AMV,** Hagy, HM, Jacques, CN. 2020 Evaluating the Physiological Response of Sub-Lethal Infections of Trematodes in Captive Lesser Scaup. The Wildlife Society. 
 
 **Fournier, AMV**, Lancaster, JD, Yetter, A, Shaw, A, Greider, M, Wu, D, Beckerman, T, Gio, A, Wolter, K, Figge, J, Laureur, M, Wood, M, Johnson, C, Jen, D, O'Neal, B, Hagy, H. 2020 Wetland bird nest success, and nest site selection in a restored wetland system. Midwest Fish and Wildlife Conference 
