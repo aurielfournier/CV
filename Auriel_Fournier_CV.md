@@ -387,7 +387,7 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 
 # Student Committees
   
-2020-Present (Adviser) Lauren Larson, MS Student, Western Illinois University  
+2020-Present (Co-Adviser) Lauren Larson, MS Student, Western Illinois University  
 2020-Present (Co-Adviser) Stephanie Schmidt, MS Student, University of Illinois Urbana Champaign  
 2021-Present (Co-Adviser) Cheyenne Beach, PhD student, Northern Illinois University  
 2021-Present (Co-Adviser) Chad Cremer, MS Student, University of Illinois Urbana Champaign  
@@ -395,7 +395,7 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 2020-Present Susannah Halligan, MS Student, SUNY ESF  
 2019-Present Dustin Brewer, PhD Student, Central Michigan University    
 2019-Present Gabriel Habgrove, MS student, U of Arkansas Monticello    
-2020-2021 (Adviser) Cheyenne Beach, MS Student, Western Illinois University    
+2020-2021 (Co-Adviser) Cheyenne Beach, MS Student, Western Illinois University    
 2017-2019 Erin Lehnert, MS Student, U of Central Oklahoma   
 
 # Service 
