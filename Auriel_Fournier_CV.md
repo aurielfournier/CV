@@ -47,10 +47,13 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-## Papers
-
 
 `#` graduate student mentee
+
+
+
+**Fournier, AMV,** Wilson, RR, Lyons, JE, Gleason, JS, Adams, EM, Barnhill, LM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Eaton, MJ, Frederick, PC, Just, MG, Seymour, MA, Tirpak, JM, and Woodrey, MS, 2021 [*Structured decision making and optimal bird monitoring in the northern Gulf of Mexico*](https://doi.org/10.3133/ofr20201122) U.S. Geological Survey Open-File Report 2020–1122, 62 p., https://doi.org/10.3133/ofr20201122.
+
 
 **Fournier, AMV,** Lancaster, JD, Yetter, AP, Hine, CS, Beckerman, T, Figge, J, Gioe, A, Greider, M, Jen, D, Johnson, C, Larreur, M, Shaw, A, Wolter, K, Wood, M, Wu, D, O'Neal, B, Hagy, HM. 2021 [*Nest success and nest-site selection of wetland birds in a restored wetland system*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2021_ACEECO.pdf) **Avian Conservation and Ecology** 16:6. 10.5751/ACE-01782-160106  
 
@@ -112,10 +115,6 @@ Butler, CJ, **Fournier, AMV**, Wilson, JK. *Varying levels of migratory connecti
 --->
 
 
-## USGS Open-file Peer-reviewed Reports 
-
-
-Wilson, R.R., **Fournier, AMV,** Lyons, JE, Gleason, J, Adams, E, Barnhill, L, Brush, J, Cooper, RJ, DeMaso, S, Driscoll, M, Eaton, M, Frederick, P, Just, M, Seymour, M, Tirpak, J, Woodrey, MS. 2019*Structured Decision Making and Optimal Bird Monitoring in the Northern Gulf of Mexico* (In Press) USGS Open File Report
 
 <!---
 **Fournier, AMV.** Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails on Intensively-Managed Wetland Complexes in Missouri : *Final Report USFWS* [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/EffectsofWetlandMgtStrategiesOnHabitatUseOfFallMigratingRails.pdf)
