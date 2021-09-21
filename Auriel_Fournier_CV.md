@@ -196,6 +196,7 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 # Honors 
 
+2021 [**Certified Wildlife Biologist**](https://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society  
 2021  [**USFWS Regional Director's Honor Award for Conservation Partner**](https://www.fws.gov/southeast/regional-director-honor-awards-2021/)  
 2020 [**BioOne Ambassador Award**](http://www.bioonepublishing.org/BioOneAmbassadorAward/2020/AMVF.html)  
 2019 **The Wildlife Society Leadership Institute Class of 2019**  
