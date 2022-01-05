@@ -50,10 +50,12 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 `#` graduate student mentee
 
-**Fournier, AMV** 2021 [*Vagrancy Occurrences in Sora (Porzana Carolina)*] Waterbirds 44: 98-103
 
-**Fournier, AMV,** Wilson, RR, Lyons, JE, Gleason, JS, Adams, EM, Barnhill, LM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Eaton, MJ, Frederick, PC, Just, MG, Seymour, MA, Tirpak, JM, and Woodrey, MS, 2021 [*Structured decision making and optimal bird monitoring in the northern Gulf of Mexico*](https://doi.org/10.3133/ofr20201122) U.S. Geological Survey Open-File Report 2020–1122, 62 p., https://doi.org/10.3133/ofr20201122.
+Butler, CJ, **Fournier, AMV**, Wilson, JK. 2021 [*Estimates of breeding season location for 4 mesic prairie bird species wintering along the Gulf Coast*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Butler%20Fournier%20Wilson%202021%20Wilson%20Journal%20of%20Ornithology.pdf) Wilson Journal of Ornithology 133:177-189 10.1676/19-00151
 
+**Fournier, AMV** 2021 *Vagrancy Occurrences in Sora (Porzana Carolina)* Waterbirds 44:1 98-103
+
+**Fournier, AMV,** Wilson, RR, Lyons, JE, Gleason, JS, Adams, EM, Barnhill, LM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Eaton, MJ, Frederick, PC, Just, MG, Seymour, MA, Tirpak, JM, and Woodrey, MS, 2021 [*Structured decision making and optimal bird monitoring in the northern Gulf of Mexico*](https://doi.org/10.3133/ofr20201122) U.S. Geological Survey Open-File Report 2020-1122, 62 p., https://doi.org/10.3133/ofr20201122.
 
 **Fournier, AMV,** Lancaster, JD, Yetter, AP, Hine, CS, Beckerman, T, Figge, J, Gioe, A, Greider, M, Jen, D, Johnson, C, Larreur, M, Shaw, A, Wolter, K, Wood, M, Wu, D, O'Neal, B, Hagy, HM. 2021 [*Nest success and nest-site selection of wetland birds in a restored wetland system*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2021_ACEECO.pdf) **Avian Conservation and Ecology** 16:6. 10.5751/ACE-01782-160106  
 
@@ -111,7 +113,6 @@ In Review
 
 Weitzel, SL`#`, Cooper, RJ, Walker, J, Rush, SA, **Fournier, AMV,** Woodrey, MS *Habitat use of five wintering salt marsh birds in the Northern Gulf of Mexico*   
 
-Butler, CJ, **Fournier, AMV**, Wilson, JK. *Varying levels of migratory connectivity among four mesic prairie bird species of North America*
 --->
 
 
@@ -157,32 +158,32 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 # Grants
 
-2019-2024 – NOAA RESTORE Science, **PI**, "Fire Effects in Gulf of Mexico Tidal Marshes: Historical Perspectives, Management, and Monitoring of Mottled Ducks and Black Rails and Other High Marsh Birds" 3.9 million  
+2019-2024 NOAA RESTORE Science, **PI**, "Fire Effects in Gulf of Mexico Tidal Marshes: Historical Perspectives, Management, and Monitoring of Mottled Ducks and Black Rails and Other High Marsh Birds" 3.9 million  
 
-2019-2023 – The Nature Conservancy, **PI**, “Monitoring of Key Attributes and Indicators of Waterbirds at The Nature Conservancy's Emiquon Preserve” 167k  
+2019-2023 The Nature Conservancy, **PI**, Monitoring of Key Attributes and Indicators of Waterbirds at The Nature Conservancy's Emiquon Preserve 167k  
 
-2018-2021 – US Dept of Agriculture, **PI**, “Condition of Natural Resources Conservation Service Wetland Easements in Illinois” 120k  
+2018-2021 US Dept of Agriculture, **PI**, Condition of Natural Resources Conservation Service Wetland Easements in Illinois 120k  
 
 2021-2021 - The Nature Conservancy **PI** "Marshbird community surveys at Midewin National Tallgrass Prairie" 10k
 
-2020-2021 – USFWS/Illinois DNR, **PI**, "Illinois Waterfowl Surveys and Investigations (FY21)” 540k  
+2020-2021 USFWS/Illinois DNR, **PI**, "Illinois Waterfowl Surveys and Investigations (FY21) 540k  
 
-2020-2022 – Florida Fish and Wildlife Conservation Commission, **PI**, “True Metabolizable Energy of Southern Aquatic Waterfowl Foods” 70k  
+2020-2022 Florida Fish and Wildlife Conservation Commission, **PI**, True Metabolizable Energy of Southern Aquatic Waterfowl Foods 70k  
 
-2019-2022 – USFWS, **PI**, "True Metabolizable Energy of Targeted and Unfavorable Seed Species in Waterfowl Management" 59k  
+2019-2022 USFWS, **PI**, "True Metabolizable Energy of Targeted and Unfavorable Seed Species in Waterfowl Management" 59k  
 
-2020-2022 – USFWS, **PI**, “Energy value of common invasive plant species in managed wetlands on National Wildlife Refuges in the Southeast to waterfowl and potential dispersal of propagules through ingestion and gut passage” 47k  
+2020-2022 USFWS, **PI**, Energy value of common invasive plant species in managed wetlands on National Wildlife Refuges in the Southeast to waterfowl and potential dispersal of propagules through ingestion and gut passage 47k  
 
-2021-2022 – Sea duck Joint Venture/USFWS, **Co-PI**, “Monitoring of Non-Breeding Sea Ducks on the Great Lakes” 44k  
+2021-2022 Sea duck Joint Venture/USFWS, **Co-PI**, Monitoring of Non-Breeding Sea Ducks on the Great Lakes 44k  
 
-2019-2020 – USFWS/Illinois DNR, **Co-PI**, "Illinois Waterfowl Surveys and Investigations (FY20)" 540k  
+2019-2020 USFWS/Illinois DNR, **Co-PI**, "Illinois Waterfowl Surveys and Investigations (FY20)" 540k  
 
-2020-2021 – USFWS/Illinois DNR, **Co-PI**, "Wetland Bird Conservation Assessment" 300k  
+2020-2021 USFWS/Illinois DNR, **Co-PI**, "Wetland Bird Conservation Assessment" 300k  
 
-2020-2021 – USFWS/Illinois DNR, **Co-PI**, "Ecology of non-breeding waterfowl in the Wabash River region." 100k
+2020-2021 USFWS/Illinois DNR, **Co-PI**, "Ecology of non-breeding waterfowl in the Wabash River region." 100k
 <!---
-2021-2023 – Submitted, PI, Arkansas Game and Fish Commission 171k
-2021-2024 – Preproposal Submitted, Co-PI, DoD Envi Security Technology Certification Program 1.9m
+2021-2023 Submitted, PI, Arkansas Game and Fish Commission 171k
+2021-2024 Preproposal Submitted, Co-PI, DoD Envi Security Technology Certification Program 1.9m
 --->
 
 
