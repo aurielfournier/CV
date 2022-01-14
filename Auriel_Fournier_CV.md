@@ -158,15 +158,19 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 # Grants
 
-2019-2024 NOAA RESTORE Science, **PI**, "Fire Effects in Gulf of Mexico Tidal Marshes: Historical Perspectives, Management, and Monitoring of Mottled Ducks and Black Rails and Other High Marsh Birds" 3.9 million  
+## Current
+
+2019-2024 NOAA RESTORE Science, **PI**, Fire Effects in Gulf of Mexico Tidal Marshes: Historical Perspectives, Management, and Monitoring of Mottled Ducks and Black Rails and Other High Marsh Birds 3.9 million  
 
 2019-2023 The Nature Conservancy, **PI**, Monitoring of Key Attributes and Indicators of Waterbirds at The Nature Conservancy's Emiquon Preserve 167k  
 
 2018-2021 US Dept of Agriculture, **PI**, Condition of Natural Resources Conservation Service Wetland Easements in Illinois 120k  
 
-2021-2021 - The Nature Conservancy **PI** "Marshbird community surveys at Midewin National Tallgrass Prairie" 10k
+2020-2021 USFWS/Illinois DNR, **PI**, Illinois Waterfowl Surveys and Investigations (FY22) 560k  
 
-2020-2021 USFWS/Illinois DNR, **PI**, "Illinois Waterfowl Surveys and Investigations (FY21) 540k  
+2021-2023 Arkansas Game and Fish Commission, **PI**, King Rail Ecology 171k
+
+2022-2024 Colorado Parks and Wildlife, **PI**, Black Rail Ecology in Colorado 160k
 
 2020-2022 Florida Fish and Wildlife Conservation Commission, **PI**, True Metabolizable Energy of Southern Aquatic Waterfowl Foods 70k  
 
@@ -176,13 +180,18 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 2021-2022 Sea duck Joint Venture/USFWS, **Co-PI**, Monitoring of Non-Breeding Sea Ducks on the Great Lakes 44k  
 
+## Completed
+
+2021-2021 - The Nature Conservancy **PI** "Marshbird community surveys at Midewin National Tallgrass Prairie" 10k
+
+2020-2021 USFWS/Illinois DNR, **PI**, "Illinois Waterfowl Surveys and Investigations (FY21) 540k  
+
 2019-2020 USFWS/Illinois DNR, **Co-PI**, "Illinois Waterfowl Surveys and Investigations (FY20)" 540k  
 
 2020-2021 USFWS/Illinois DNR, **Co-PI**, "Wetland Bird Conservation Assessment" 300k  
 
 2020-2021 USFWS/Illinois DNR, **Co-PI**, "Ecology of non-breeding waterfowl in the Wabash River region." 100k
 <!---
-2021-2023 Submitted, PI, Arkansas Game and Fish Commission 171k
 2021-2024 Preproposal Submitted, Co-PI, DoD Envi Security Technology Certification Program 1.9m
 --->
 
@@ -210,6 +219,10 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 2009    **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological U
 
 # Invited Presentations
+
+2021  
+**Seminar** NRES UIUC  
+**Invited Panelist** Society for Literature, Science and the Arts 
 
 2020    
 **Seminar** Southern Illinois University - Edwardsville  
@@ -255,7 +268,6 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 2014   
 **Seminar** Arkansas Tech University
 
-\newpage
 
 # Presentations
 
@@ -263,23 +275,41 @@ I am presenter when first author, and when otherwise indicated.
 
 `#` graduate student mentee
 
-**Fournier, AMV,** Unpaid work in STEM, barriers and examples of improvement. Northeast Natural History Conference/Wilson Ornithological Society Annual Meeting
 
-**Fournier, AMV,** Unpaid work in STEM, barriers and examples of improvement. Illinois Chapter of The Wildlife Society Annual Meeting
+**Fournier, AMV,** Bradshaw, T, Hagy, HM, Shirkey, B. 2021. Evaluating assumptions of the North American Marsh Bird Monitoring Protocol. Midwest Fish and Wildlife Conference. 
 
-Larson, LD `#`, Anteau, MJ, Hagy, HM, Lancaster, JD, Yetter, AP, Jacques, CN, **Fournier, AMV.** 2021 True metabolizable energy for lesser scaup. Illinois Chapter of The Wildlife Society Annual Meeting
+**Fournier, AMV,** Williams, MR, Hagy, HM, Lancaster, JD, Osborn, JM, Yetter, AP. 2021. True Metabolizable Energy of Southern Aquatic Waterfowl Foods. Florida Fish and Wildlife Commission Research Symposium. 
 
-Schmidt, SM `#`, Benson, TJ, **Fournier, AMV,** Osborn, JM. 2021. The effects of water drawdowns on marsh bird nest survival at Emiquon Preserve. Illinois Chapter of The Wildlife Society Annual Meeting
+**Fournier, AMV** Motus: automated radio tracking of bird movements. The Emiquon Symposium. 
 
-Larson, LD `#`, Anteau, MJ, Hagy, HM, Lancaster, JD, Yetter, AP, Jacques, CN, **Fournier, AMV.** 2021 Evaluating Dynamics of Food Availability for Lesser Scaup at Pools 13 and 19 of the Mississippi River. Midwest Fish and Wildlife Conference
+**Fournier, AMV**, Holford, AJ, Bond, AL, Leighton, MA. 2021. Unpaid Work In STEM, Barriers and Examples of Improvement. Illinois Chapter of The WIldlife Society. 
 
-**Fournier, AMV,** Bradshaw, T, Hagy, HM, Shirkey, B. 2021. Evaluating Assumptions of the North American Marsh Bird Monitoring Protocol. Midwest Fish and Wildlife Conference
+**Fournier, AMV**, Holford, AJ, Bond, AL, Leighton, MA. 2021. Unpaid Work In STEM, Barriers and Examples of Improvement. Northeast Natural History Conference.
 
-Beach, CR `#`, Cole, RA, Lancaster, JD, Yetter, AP, Hagy, HM, Jacques, CN, **Fournier, AMV**. 2021. Evaluating the Physiological Response of Sub-lethal Infections of Sphaeridiotrema spp. and Cyathocotyle bushiensis trematodes in Captive Lesser Scaup (Aythya affinis). Midwest Fish and Wildlife Conference 
 
-Gilbert, AD, **Fournier, AMV,** Yetter, AP, Hine, CS, Osborn, JC, Lancaster, JD, Beach, CR. 2021. Postbreeding Ecology of Wood Ducks in the Illinois River Valley. Midwest Fish and Wildlife Conference
+Schmidt, SM `#`, Benson, TJ, **Fournier, AMV**, Osborn, JM 2021. Water Drawdowns and Survival of Marsh Bird Nests at Emiquon Preserve, IL. Wetland Science Conference.
 
-Kross, CS, Beach, CR, Gilbert, AD, Osborn, JC, Williams, MR, Yetter, AP, **Fournier, AMV**. 2021. Using Climate Data to Understand Shifts in the Autumn Migration Phenology of Dabbling and Diving Ducks in the Illinois River Valley. Midwest Fish and Wildlife Conference
+Schmidt, SM `#`, Benson, TJ, **Fournier, AMV**, Osborn, JM 2021. Least Bittern Juvenile Movements and Habitat Use at Emiquon Preserve. Midwest Fish and Wildlife Conference 
+
+Schmidt, SM `#`, Benson, TJ, **Fournier, AMV**, Osborn, JM 2021. Water Drawdowns and Survival of Marsh Bird Nests at Emiquon Preserve. Midwest Fish and Wildlife Conference.
+
+Schmidt, SM `#`, Benson, TJ, **Fournier, AMV**, Osborn, JM 2021. Predation Risk at Marsh Bird Nests as a Result of Wetland Management at Emiquon Preserve. DuPage Birding Club 
+
+Larson, LD `#`, Anteau, MJ, Hagy, HM, Lancaster, JD, Yetter, AP, Jacques, CN, **Fournier, AMV.** 2021. True metabolizable energy for lesser scaup. Illinois Chapter of The Wildlife Society. 
+
+Schmidt, SM `#`, Benson, TJ, **Fournier, AMV**, Osborn, JM. 2021. The effects of water drawdowns on marsh bird nest survival at Emiquon Preserve. Illinois Chapter of the Wildlife Society. 
+
+Kross, CS, Moon, J, Johnson, E, Conway, W, Kappes, P, Cox, J, Wilson, J, Woodrey, M, **Fournier, AMV**. 2021. Comparison of call types in Eastern Black Rail response in the Gulf of Mexico. Waterbirds. 
+
+**Fournier, AMV**, Adams, EM, Barron, T, Chimahusky, M, Cox, A, Driscoll, MJL, Dobbs, R, Gleason, JS, Grace, J, Green, C, Havens, H, Kalasz, K, Koczur, L, Lancaster, JD, Lyons, JE, Maness, T, Ottinger, MA, Schulz, J, Soehren, E, Stantial, M, Vermillion, WG, Williams, K, Wilson, RR, Woodrey, MS, Zenzal, TJ. 2021. The Gulf of Mexico Avian Monitoring Network (GoMAMN): a strategic plan for monitoring birds in the Gulf of Mexico and translating stakeholder values into priorities. Waterbirds
+
+Kross, CS, Moon, J, Rohli, RV, *Fournier, AMV,* Woodrey, MS, Nyman, JA. 2021. Have preferred weather conditions for prescribed fire changed over time? The Wildlife Society - Black Rail Symposium 
+
+Stantial, ML, Lawson, AJ, *Fournier, AMV,* Kappes, P, Kross, C, Runge, MC, Woodrey, M, Lyons, JE. Application of qualitative value of information for identifying critical uncertanties regarding teh use of prescribed fire in the Gulf of Mexico. The Wildlife Society - Black Rail Symposium. 
+
+Stantial, ML, Lawson, AJ, *Fournier, AMV,* Kappes, P, Kross, C, Runge, MC, Woodrey, M, Lyons, JE. Application of qualitative value of information for identifying critical uncertanties regarding teh use of prescribed fire in the Gulf of Mexico. AGU 2021
+
+Evans, KO, Enwright, N, Cheney, WC, Thurman, HR, *Fournier, AMV,* Woodrey, M. Mapping U.S. Gulf of Mexico Coastal Estuarine High Marsh SYstems to Support Adaptive Management of Priority Bird Species. AGU 2021
 
 **Fournier, AMV,** Williams, MR, Hagy, HM, Lancaster, JD, Osborn, JM, Yetter, AP. 2021 True Metabolizable Energy of Southern Aquatic Waterfowl Foods. Florida Research Symposium
 
@@ -365,7 +395,10 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. 2017 Why most studied populat
 `#` graduate mentees
 `##` undergraduate mentees
 
-**Fournier, AMV**, Butler, C, Conway, W, Cooper, R, Cox, J, Enwright, N, Evans, K, Johnson, E, Lyons, J, Nyman, JA, Rohli, R, Woodrey, M. 2020 The effects of presecribed fire in Gulf of Mexico Marshes: on Mottled Ducks and Black and Yellow Rails. The Wildlife Society
+
+Cheney, W, Enwright, N, Evans, K, Thurman, H, **Fournier, AMV,** Woodrey, MS. 2021. Mapping High marsh Across the Northern Gulf of Mexico. CERF 2021
+
+**Fournier, AMV**, Butler, C, Conway, W, Cooper, R, Cox, J, Enwright, N, Evans, K, Johnson, E, Lyons, J, Nyman, JA, Rohli, R, Woodrey, M. 2020 The effects of prescribed fire in Gulf of Mexico Marshes: on Mottled Ducks and Black and Yellow Rails. The Wildlife Society
 
 **Fournier, AMV**, Shieldcastle MC. 2020 The timing and abundance of hawk migration along the southern shore of Lake Erie over 15 years. The Wildlife Society.  
 
@@ -389,14 +422,18 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 
 # Student Committees
   
-2020-Present (Co-Adviser) Lauren Larson, MS Student, Western Illinois University  
 2020-Present (Co-Adviser) Stephanie Schmidt, MS Student, University of Illinois Urbana Champaign  
 2021-Present (Co-Adviser) Cheyenne Beach, PhD student, Northern Illinois University  
 2021-Present (Co-Adviser) Chad Cremer, MS Student, University of Illinois Urbana Champaign  
-2021-Present (Co-Adviser) Lauren Monopoli, PhD Student, University of Illinois Urbana Champaign  
+2021-Present (Co-Adviser) Lauren Monopoli, PhD Student, University of Illinois Urbana Champaign     
+2022-Present (Co-Adviser) Nicole Pietrunti, MS Student, University of Illinois Urbana Champaign  
+2022-Present (Co-Adviser) Nora Hargett, MS Student, University of Illinois Urbana Champaign  
+2021-Present Anastasia Rahlin, PhD Student, University of Illinois Urbana Champaign  
+2021-Present Samantha Garcia, MS Student,, University of Illinois Urbana Champaign  
 2020-Present Susannah Halligan, MS Student, SUNY ESF  
 2019-Present Dustin Brewer, PhD Student, Central Michigan University    
-2019-Present Gabriel Habgrove, MS student, U of Arkansas Monticello    
+2019-Present Gabriel Habgrove, MS student, U of Arkansas Monticello      
+2020-2021 (Co-Adviser) Lauren Larson, MS Student, Western Illinois University    
 2020-2021 (Co-Adviser) Cheyenne Beach, MS Student, Western Illinois University    
 2017-2019 Erin Lehnert, MS Student, U of Central Oklahoma   
 
