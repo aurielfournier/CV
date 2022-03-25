@@ -48,8 +48,9 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 # __Peer-Reviewed Publications__  
 
 
-`#` graduate student mentee
+`#` graduate student 
 
+Klimas, ST `#`, Osborn, JM, Yetter, AP, Lancaster, JD, Jacques, CN, **Fournier, AMV,** Hagy, HM. 2022. [*Food selection by spring-migrating green-winged teal*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Klimas%20et%20al%20Fournier%202022%20JFWM.pdf) Journal of Fish and Wildlife Management. 10.3996/JFWM-21-075
 
 Butler, CJ, **Fournier, AMV**, Wilson, JK. 2021 [*Estimates of breeding season location for 4 mesic prairie bird species wintering along the Gulf Coast*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Butler%20Fournier%20Wilson%202021%20Wilson%20Journal%20of%20Ornithology.pdf) Wilson Journal of Ornithology 133:177-189 10.1676/19-00151
 
@@ -172,9 +173,9 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 2022-2024 Colorado Parks and Wildlife, **PI**, Black Rail Ecology in Colorado 160k
 
-2020-2022 Florida Fish and Wildlife Conservation Commission, **PI**, True Metabolizable Energy of Southern Aquatic Waterfowl Foods 70k  
+2020-2023 Florida Fish and Wildlife Conservation Commission, **PI**, True Metabolizable Energy of Southern Aquatic Waterfowl Foods 70k  
 
-2019-2022 USFWS, **PI**, "True Metabolizable Energy of Targeted and Unfavorable Seed Species in Waterfowl Management" 59k  
+2019-2022 USFWS, **PI**, True Metabolizable Energy of Targeted and Unfavorable Seed Species in Waterfowl Management 59k  
 
 2020-2022 USFWS, **PI**, Energy value of common invasive plant species in managed wetlands on National Wildlife Refuges in the Southeast to waterfowl and potential dispersal of propagules through ingestion and gut passage 47k  
 
@@ -182,18 +183,16 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 ## Completed
 
-2021-2021 - The Nature Conservancy **PI** "Marshbird community surveys at Midewin National Tallgrass Prairie" 10k
+2021-2021 - The Nature Conservancy **PI** Marshbird community surveys at Midewin National Tallgrass Prairie 10k
 
-2020-2021 USFWS/Illinois DNR, **PI**, "Illinois Waterfowl Surveys and Investigations (FY21) 540k  
+2020-2021 USFWS/Illinois DNR, **PI**, Illinois Waterfowl Surveys and Investigations (FY21) 540k  
 
-2019-2020 USFWS/Illinois DNR, **Co-PI**, "Illinois Waterfowl Surveys and Investigations (FY20)" 540k  
+2019-2020 USFWS/Illinois DNR, **Co-PI**, Illinois Waterfowl Surveys and Investigations (FY20) 540k  
 
-2020-2021 USFWS/Illinois DNR, **Co-PI**, "Wetland Bird Conservation Assessment" 300k  
+2020-2021 USFWS/Illinois DNR, **Co-PI**, Wetland Bird Conservation Assessment 300k  
 
-2020-2021 USFWS/Illinois DNR, **Co-PI**, "Ecology of non-breeding waterfowl in the Wabash River region." 100k
-<!---
-2021-2024 Preproposal Submitted, Co-PI, DoD Envi Security Technology Certification Program 1.9m
---->
+2020-2021 USFWS/Illinois DNR, **Co-PI**, Ecology of non-breeding waterfowl in the Wabash River region 100k
+
 
 
 # Datasets
@@ -396,11 +395,11 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. 2017 Why most studied populat
 `##` undergraduate mentees
 
 
-Cheney, W, Enwright, N, Evans, K, Thurman, H, **Fournier, AMV,** Woodrey, MS. 2021. Mapping High marsh Across the Northern Gulf of Mexico. CERF 2021
+Cheney, W, Enwright, N, Evans, K, Thurman, H, **Fournier, AMV,** Woodrey, MS. 2021. Mapping High marsh Across the Northern Gulf of Mexico. *CERF*
 
-**Fournier, AMV**, Butler, C, Conway, W, Cooper, R, Cox, J, Enwright, N, Evans, K, Johnson, E, Lyons, J, Nyman, JA, Rohli, R, Woodrey, M. 2020 The effects of prescribed fire in Gulf of Mexico Marshes: on Mottled Ducks and Black and Yellow Rails. The Wildlife Society
+**Fournier, AMV**, Butler, C, Conway, W, Cooper, R, Cox, J, Enwright, N, Evans, K, Johnson, E, Lyons, J, Nyman, JA, Rohli, R, Woodrey, M. 2020 The effects of prescribed fire in Gulf of Mexico Marshes: on Mottled Ducks and Black and Yellow Rails. *The Wildlife Society*
 
-**Fournier, AMV**, Shieldcastle MC. 2020 The timing and abundance of hawk migration along the southern shore of Lake Erie over 15 years. The Wildlife Society.  
+**Fournier, AMV**, Shieldcastle MC. 2020 The timing and abundance of hawk migration along the southern shore of Lake Erie over 15 years. *The Wildlife Society*  
 
 Shaw, AA, `##`, Lancaster, JD, Yetter, AP, Hine, CN, **Fournier, AMV** 2019 Waterbird nesting ecology following hydrological manipulation of a historic Illinois River floodplain. *NGRREC Symposium*
 
@@ -422,20 +421,21 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 
 # Student Committees
   
-2020-Present (Co-Adviser) Stephanie Schmidt, MS Student, University of Illinois Urbana Champaign  
 2021-Present (Co-Adviser) Cheyenne Beach, PhD student, Northern Illinois University  
 2021-Present (Co-Adviser) Chad Cremer, MS Student, University of Illinois Urbana Champaign  
 2021-Present (Co-Adviser) Lauren Monopoli, PhD Student, University of Illinois Urbana Champaign     
+2022-Present (Co-Adviser) Nora Hargett, MS Student, University of Illinois Urbana Champaign    
 2022-Present (Co-Adviser) Nicole Pietrunti, MS Student, University of Illinois Urbana Champaign  
-2022-Present (Co-Adviser) Nora Hargett, MS Student, University of Illinois Urbana Champaign  
+2022-Present (Co-Adviser) Jessica Schmit, MS Student, University of Arkansas Fayetteville  
 2021-Present Anastasia Rahlin, PhD Student, University of Illinois Urbana Champaign  
 2021-Present Samantha Garcia, MS Student,, University of Illinois Urbana Champaign  
 2020-Present Susannah Halligan, MS Student, SUNY ESF  
 2019-Present Dustin Brewer, PhD Student, Central Michigan University    
-2019-Present Gabriel Habgrove, MS student, U of Arkansas Monticello      
+2019-Present Gabriel Habgrove, MS student, University of Arkansas Monticello      
+2020-2022 (Co-Adviser) Stephanie Schmidt, MS Student, University of Illinois Urbana Champaign  
 2020-2021 (Co-Adviser) Lauren Larson, MS Student, Western Illinois University    
 2020-2021 (Co-Adviser) Cheyenne Beach, MS Student, Western Illinois University    
-2017-2019 Erin Lehnert, MS Student, U of Central Oklahoma   
+2017-2019 Erin Lehnert, MS Student, University of Central Oklahoma   
 
 # Service 
 
