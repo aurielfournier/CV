@@ -47,14 +47,13 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
+25 peer reviewed journal articles, 2 student led, 18 first author
 
 `#` graduate student 
 
 Klimas, ST `#`, Osborn, JM, Yetter, AP, Lancaster, JD, Jacques, CN, **Fournier, AMV,** Hagy, HM. 2022. [*Food selection by spring-migrating green-winged teal*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Klimas%20et%20al%20Fournier%202022%20JFWM.pdf) Journal of Fish and Wildlife Management. 10.3996/JFWM-21-075
 
 Butler, CJ, **Fournier, AMV**, Wilson, JK. 2021 [*Estimates of breeding season location for 4 mesic prairie bird species wintering along the Gulf Coast*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Butler%20Fournier%20Wilson%202021%20Wilson%20Journal%20of%20Ornithology.pdf) Wilson Journal of Ornithology 133:177-189 10.1676/19-00151
-
-**Fournier, AMV** 2021 *Vagrancy Occurrences in Sora (Porzana Carolina)* Waterbirds 44:1 98-103
 
 **Fournier, AMV,** Wilson, RR, Lyons, JE, Gleason, JS, Adams, EM, Barnhill, LM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Eaton, MJ, Frederick, PC, Just, MG, Seymour, MA, Tirpak, JM, and Woodrey, MS, 2021 [*Structured decision making and optimal bird monitoring in the northern Gulf of Mexico*](https://doi.org/10.3133/ofr20201122) U.S. Geological Survey Open-File Report 2020-1122, 62 p., https://doi.org/10.3133/ofr20201122.
 
@@ -104,32 +103,6 @@ Ward, S, **Fournier, AMV,** Bond, AL. 2019 [*Assessing gaps in reporting non-tar
 **Fournier, AMV**, Bond, AL. 2015 [*Volunteer field staff are bad for wildlife ecology*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%2C%20Bond%20-%202015%20-%20Wildlife%20Society%20Bulletin.pdf)  **The Wildlife Society Bulletin** 39: 819-821 10.1002/wsb.603 
 
 **Fournier, AMV**, Shieldcastle, MC, Fries, AC, and Bump, JK. 2013 [*A morphometric model to predict the sex of virginia rails*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al._2013_Wildlife%20Society%20Bulletin_A%20Morphometric%20Model%20to%20Predict%20the%20Sex%20of%20Virginia%20Rails%20(Rallus%20limicola).pdf)  **The Wildlife Society Bulletin** 27: 881-886 10.1002/wsb.323 
-
-<!---
-In Review 
-
-`#` graduate student mentee
-
-**Fournier, AMV,** Lyons, JE, Wilson, RR, Gleason, JS, Adams, EM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Frederick, PC, Jodice, PGR, Reeves, DB, Seymour, MA, Sharuga, SM, Tirpak, JM, Vermillion, WG, Zenzal, TJ, Woodrey, MS *The Gulf of Mexico Avian Monitoring Network: Application of structured decision making for coordinated, integrated monitoring*
-
-Weitzel, SL`#`, Cooper, RJ, Walker, J, Rush, SA, **Fournier, AMV,** Woodrey, MS *Habitat use of five wintering salt marsh birds in the Northern Gulf of Mexico*   
-
---->
-
-
-
-<!---
-**Fournier, AMV.** Effects of Wetland Management Strategies on Habitat Use of Fall Migrating Rails on Intensively-Managed Wetland Complexes in Missouri : *Final Report USFWS* [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/EffectsofWetlandMgtStrategiesOnHabitatUseOfFallMigratingRails.pdf)
-
-2015
-
-Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, Nelson's Sparrows and Sedge Wrens. *Final Report to USFWS* 
-
-Butler, C.J., **Fournier, A.M.V.** Using Multiple Stable Isotopes to Investigate Migratory Connectivity in Yellow Rails, Le Conte's Sparrows, and Sedge Wrens. *Final Report to USFS*
-
-
-**Fournier, A.M.V.,** K. Willard. King Rail Nesting and Brood Rearing Ecology in Managed Wetlands: *Final Report USFWS* [pdf](https://www.fws.gov/migratorybirds/pdf/surveys-and-data/Webless%20Migratory%20Game%20Birds/Marsh%20Bird%20pdf%20files/KingRailNesting&BroodRearingEcologyInManagedWetlands_FinalReport.pdf)
---->
 
 
 ## Book Chapters 
