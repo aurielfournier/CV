@@ -34,6 +34,8 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 **Second Vice President** Wilson Ornithological Society 2021-Present
 
+**Technical Committee Member** Upper Mississippi River Great Lakes Joint Venture
+
 **Chair** Gulf of Mexico Avian Monitoring Network 2021-Present
 
 **Subject Editor** Avian Conservation & Ecology - 2019-Present
