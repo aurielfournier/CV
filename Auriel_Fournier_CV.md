@@ -1,8 +1,8 @@
 ---
 output:
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
 ---
 
 Auriel M.V. Fournier
@@ -54,6 +54,8 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 25 peer reviewed journal articles, 2 student led, 18 first author
 
 `#` graduate student 
+
+Stuber, EF, Robinson, O, Bjerre, E, Otto, Mk, Millsap, B, Zimmerman, G, Brasher, MG, Ringelman, KM, **Fournier, AMV,** Yetter, A, Isola, JE, Ruiz-Gutierrez, V. Accepted  *The potential of semi-structured citizen science data as a supplement for conservation decision-making: Validating the performance of eBird against targeted avian monitoring efforts* Biological Conservation
 
 Klimas, ST `#`, Osborn, JM, Yetter, AP, Lancaster, JD, Jacques, CN, **Fournier, AMV,** Hagy, HM. 2022. [*Food selection by spring-migrating green-winged teal*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Klimas%20et%20al%20Fournier%202022%20JFWM.pdf) Journal of Fish and Wildlife Management. 10.3996/JFWM-21-075
 
