@@ -51,17 +51,17 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-25 peer reviewed journal articles, 2 student led, 18 first author
+26 peer reviewed journal articles, 2 student led, 18 first author
 
 `#` graduate student 
 
-Stuber, EF, Robinson, O, Bjerre, E, Otto, Mk, Millsap, B, Zimmerman, G, Brasher, MG, Ringelman, KM, **Fournier, AMV,** Yetter, A, Isola, JE, Ruiz-Gutierrez, V. Accepted  *The potential of semi-structured citizen science data as a supplement for conservation decision-making: Validating the performance of eBird against targeted avian monitoring efforts* Biological Conservation
+Stuber, EF, Robinson, O, Bjerre, E, Otto, Mk, Millsap, B, Zimmerman, G, Brasher, MG, Ringelman, KM, **Fournier, AMV,** Yetter, A, Isola, JE, Ruiz-Gutierrez, V. Accepted  *The potential of semi-structured citizen science data as a supplement for conservation decision-making: Validating the performance of eBird against targeted avian monitoring efforts* **Biological Conservation** 10.1016/j.biocon.2022.109556
 
-Klimas, ST `#`, Osborn, JM, Yetter, AP, Lancaster, JD, Jacques, CN, **Fournier, AMV,** Hagy, HM. 2022. [*Food selection by spring-migrating green-winged teal*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Klimas%20et%20al%20Fournier%202022%20JFWM.pdf) Journal of Fish and Wildlife Management. 10.3996/JFWM-21-075
+Klimas, ST `#`, Osborn, JM, Yetter, AP, Lancaster, JD, Jacques, CN, **Fournier, AMV,** Hagy, HM. 2022. [*Food selection by spring-migrating green-winged teal*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Klimas%20et%20al%20Fournier%202022%20JFWM.pdf) **Journal of Fish and Wildlife Management** 10.3996/JFWM-21-075
 
-Butler, CJ, **Fournier, AMV**, Wilson, JK. 2021 [*Estimates of breeding season location for 4 mesic prairie bird species wintering along the Gulf Coast*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Butler%20Fournier%20Wilson%202021%20Wilson%20Journal%20of%20Ornithology.pdf) Wilson Journal of Ornithology 133:177-189 10.1676/19-00151
+Butler, CJ, **Fournier, AMV**, Wilson, JK. 2021 [*Estimates of breeding season location for 4 mesic prairie bird species wintering along the Gulf Coast*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Butler%20Fournier%20Wilson%202021%20Wilson%20Journal%20of%20Ornithology.pdf) **Wilson Journal of Ornithology** 133:177-189 10.1676/19-00151
 
-**Fournier, AMV,** Wilson, RR, Lyons, JE, Gleason, JS, Adams, EM, Barnhill, LM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Eaton, MJ, Frederick, PC, Just, MG, Seymour, MA, Tirpak, JM, and Woodrey, MS, 2021 [*Structured decision making and optimal bird monitoring in the northern Gulf of Mexico*](https://doi.org/10.3133/ofr20201122) U.S. Geological Survey Open-File Report 2020-1122, 62 p., https://doi.org/10.3133/ofr20201122.
+**Fournier, AMV,** Wilson, RR, Lyons, JE, Gleason, JS, Adams, EM, Barnhill, LM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Eaton, MJ, Frederick, PC, Just, MG, Seymour, MA, Tirpak, JM, and Woodrey, MS, 2021 [*Structured decision making and optimal bird monitoring in the northern Gulf of Mexico*](https://doi.org/10.3133/ofr20201122) **U.S. Geological Survey Open-File Report** 2020-1122, 62 p., https://doi.org/10.3133/ofr20201122.
 
 **Fournier, AMV,** Lancaster, JD, Yetter, AP, Hine, CS, Beckerman, T, Figge, J, Gioe, A, Greider, M, Jen, D, Johnson, C, Larreur, M, Shaw, A, Wolter, K, Wood, M, Wu, D, O'Neal, B, Hagy, HM. 2021 [*Nest success and nest-site selection of wetland birds in a restored wetland system*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2021_ACEECO.pdf) **Avian Conservation and Ecology** 16:6. 10.5751/ACE-01782-160106  
 
