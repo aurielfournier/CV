@@ -15,7 +15,6 @@ auriel@illinois.edu -  [aurielfournier.github.io](http://aurielfournier.github.i
 **Assistant Research Scientist**  Illinois Natural History Survey   
 University of Illinois Urbana-Champaign - June 2019-Present  
     
-
 **Postdoctoral Researcher** - Mississippi State University - April 2017-May 2019  
 Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
@@ -178,7 +177,18 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 **Fournier AMV,** Mengel DC, Krementz DG. 2018 Data from: Sora (Porzana carolina) autumn migration habitat use. Dryad Digital Repository. doi: 10.5061/dryad.5n7t4 
 
-**Fournier AMV,** Drake KL, Tozer DC. 2017 Data from: Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds. Dryad Digital Repository. doi: 10.5061/dryad.nb115
+**Fournier AMV,** Drake KL, Tozer DC. 2017 Data from: Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds. Dryad Digital Repository. doi: 10.5061/dryad.nb11
+2022
+
+Cremer, CA `#`, Avara, M, **Fournier, AMV,** Ward, MP. The Use of Motus Tracking System to Investigate the Migratory Behavior of Rails at a Local and Regional Scales. Midwest F&W
+
+Gee, H, Shaw, M, Wallace, L, Bradsdhaw, TM, **Fournier, AMV,** Yetter, AP, Gilbert, AD, Osborn, JM, Lancaster, JD, Fournier, AMV. Blue-Winged Teal (Spatula discors) True Metabolizable Energy of Southern Wetland Foods. Midwest F&W
+
+Thurman, HR, Enwright, NM, Evans, KO, Cheyney, WC, **Fournier, AMV**, Woodrey, MS. Mapping High Marsh Systems Across the Northern Gulf of Mexico. AAG Meeting
+
+Cremer, CA `#`, Avara, M, **Fournier, AMV,** Ward M. The Use of Motus Tracking System to Investigate the Migratory Behavior of Rails at a Local and Regional Scales. Illinois Chapter of The Wildlife Society Meeting
+
+Pietrunti, NF `#`, **Fournier, AMV,** Mateus-Pinilla, N, Nguyen, TH. Using Genotypic Methods to Assess Antimicrobial Resistance in the Fecal Microbiome of Resident Canada Geese (Branta canadensis). Illinois Chapter of The Wildlife Society Meeting5
 
 **Fournier AMV,** Sullivan AR, Bump JK, Perkins M, Shieldcastle MC, King SL. 2016 Data from: Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail. Dryad Digital Repository. doi: 10.5061/dryad.r4847
 
@@ -257,6 +267,32 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 I am presenter when first author, and when otherwise indicated. 
 
 `#` graduate student mentee
+
+Schmidt, SM`#`, Benson, TJ, Fournier, AMV, Osborn, J. The Effects of Water Drawdowns on Marsh Bird Nest Survival. Midwest F&W Conference. 
+
+Kross, CS, Moon, J, Johnson, E, Conway, W, Kappes, P, Cox, J, Wilson, J, Woodrey, MS, Fournier, AMV. Comparison of Vegetation Metrics and Collection Effort and Call Types in Eastern Black Rail Response to Improve Species Detection. Midwest F&W Conference
+
+Larson, L`#`, Anteau, M, Hagy, H, Lancaster, J, Yetter, A, Jacques, C, Fournier, AMV. Evaluating Dynamics of Food Availability for Lesser Scaup at Pools 13 and 19 of the Mississippi River. Midwest F&W
+
+Bradshaw, TM, Williams, MR, Hagy, HM, Lancaster, JD,, Osborn, JM, Yetter, AP,, Fournier, AMV. True Metabolizable Energy of Targeted and Unfavorable Seed Species in Waterfowl Management. Midwest F&A
+
+Beach, CR`#`, Cole, RA, Lancaster, JD, Yetter, AP, Jacques, CN, Hagy, HM, Fournier, AMV. Evaluation of Selected Physiological Responses to Sub-lethal Cyathocotyle bushiensis and Sphaeridiotrema spp. Experimental Infections in Captive Lesser Scaup (Aythya affinis). Midwest F&W
+
+Bradshaw, TM, Matthew R. Williams, MR, Hagy, HM, Lancaster, JD, Gilbert, AD, Kross, CS, Osborn, JM, Yetter, AP, Fournier, AMV.** True Metabolizable Energy of Targeted and Unfavorable Seed Speciesin Waterfowl Management within the Midwest. Illinois Chapter of The Wildlife Society Conference. 
+
+Beach, CR`#`, Cole, RA, Lancaster, JD, Yetter, AP, Jacques, DN, Hagy, HM, **Fournier, AMV.** Evaluation of Selected Physiological Responses to Sub-lethal Cyathocotyle bushiensisand Sphaeridiotremaspp. Experimental Infections in Captive Lesser Scaup (Aythya affinis). Illinois Chapter of The Wildlife Society Conference. 
+
+Stantial, ML, **Fournier, AMV,** Godar, AJ, Lawson, AJ, Kappes, PJ, Kross, CS, Woodrey, MS, Lyons, JE. Informing the use of prescribed fire in an adaptive mangaement framework for Gulf of Mexico high marshes using an expert-based Bayesian Decision Network. The Gulf of Mexico Conference. 
+
+Kross, CS, Rohli, RV, Moon, JA, **Fournier, AMV,** Woodrey, MS, Nyman, JA. Weather is not a primary driver behind changes in prescribed fire management in coastal wetlands across the Gulf of Mexico. The Gulf of Mexico Conference. 
+
+**Fournier, AMV,** Bauer, A, Brasher, M, Butler, C, Cheney, WC, Cooper, RJ, Conway, W, Cox, J, Enwright, NM, Evans, KO, Hondrick, K, Johnson, E, Kappes, P, Kross, C, Lancaster, J, Levy, H, Lueck, J, Lyons, JE, Monopoli, L, Moon, J, Nyman, JA, Rohli, R, Schwarzer, A, Soehren, E, Stantial, M, Thurman, HR, Vermillion, B, Wilson, J, Woodrey, MS. NOAA Firebird: Fire Effects in Gulf of Mexico Marshes on Mottled Ducks, Black and Yellow Rails. The Gulf of Mexico Conference. 
+
+Enwright, NM, Evans, KO, Cheney, WC, Thurman, HR, **Fournier, AMV,** Woodrey, MS. Mapping High Marsh Systems across the Northern Gulf of Mexico. The Gulf of Mexico Conference
+
+**Fournier, AMV,** Bauer, A, Brasher, M, Butler, C, Cheney, WC, Cooper, RJ, Conway, W, Cox, J, Enwright, NM, Evans, KO, Hondrick, K, Johnson, E, Kappes, P, Kross, C, Lancaster, J, Levy, H, Lueck, J, Lyons, JE, Monopoli, L, Moon, J, Nyman, JA, Rohli, R, Schwarzer, A, Soehren, E, Stantial, M, Thurman, HR, Vermillion, B, Wilson, J, Woodrey, MS. NOAA Firebird: Fire Effects in Gulf of Mexico Marshes on Mottled Ducks, Black and Yellow Rails. Joint Aquatic Sciences Meeting. 
+
+Enwright, NM, Evans, KO, Cheney, WC, Thurman, HR, **Fournier, AMV,** Woodrey, MS. Mapping High Marsh Systems across the Northern Gulf of Mexico. Joint Aquatic Sciences Meeting. 
 
 
 **Fournier, AMV,** Bradshaw, T, Hagy, HM, Shirkey, B. 2021. Evaluating assumptions of the North American Marsh Bird Monitoring Protocol. Midwest Fish and Wildlife Conference. 
@@ -378,6 +414,15 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. 2017 Why most studied populat
 `#` graduate mentees
 `##` undergraduate mentees
 
+Cremer, CA `#`, Avara, M, **Fournier, AMV,** Ward, MP. 2022 The Use of Motus Tracking System to Investigate the Migratory Behavior of Rails at a Local and Regional Scales. Midwest F&W
+
+Gee, H, Shaw, M, Wallace, L, Bradsdhaw, TM, **Fournier, AMV,** Yetter, AP, Gilbert, AD, Osborn, JM, Lancaster, JD, Fournier, AMV. 2022 Blue-Winged Teal (Spatula discors) True Metabolizable Energy of Southern Wetland Foods. Midwest F&W
+
+Thurman, HR, Enwright, NM, Evans, KO, Cheyney, WC, **Fournier, AMV**, Woodrey, MS. 2022 Mapping High Marsh Systems Across the Northern Gulf of Mexico. AAG Meeting
+
+Cremer, CA `#`, Avara, M, **Fournier, AMV,** Ward M. 2022 The Use of Motus Tracking System to Investigate the Migratory Behavior of Rails at a Local and Regional Scales. Illinois Chapter of The Wildlife Society Meeting
+
+Pietrunti, NF `#`, **Fournier, AMV,** Mateus-Pinilla, N, Nguyen, TH. 2022 Using Genotypic Methods to Assess Antimicrobial Resistance in the Fecal Microbiome of Resident Canada Geese (Branta canadensis). Illinois Chapter of The Wildlife Society Meeting
 
 Cheney, W, Enwright, N, Evans, K, Thurman, H, **Fournier, AMV,** Woodrey, MS. 2021. Mapping High marsh Across the Northern Gulf of Mexico. *CERF*
 
@@ -410,9 +455,10 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 2021-Present (Co-Adviser) Lauren Monopoli, PhD Student, University of Illinois Urbana Champaign     
 2022-Present (Co-Adviser) Nora Hargett, MS Student, University of Illinois Urbana Champaign    
 2022-Present (Co-Adviser) Nicole Pietrunti, MS Student, University of Illinois Urbana Champaign  
-2022-Present (Co-Adviser) Jessica Schmit, MS Student, University of Arkansas Fayetteville  
-2021-Present Anastasia Rahlin, PhD Student, University of Illinois Urbana Champaign  
-2021-Present Samantha Garcia, MS Student,, University of Illinois Urbana Champaign  
+2022-Present (Co-Adviser) Jessica Schmit, MS Student, University of Arkansas Fayetteville    
+2022-Present Haley Holiman, MS Student, Tennessee Tech University  
+2022-Present Samantha Garcia, MS Student, University of Illinois Urbana Champaign    
+2021-Present Anastasia Rahlin, PhD Student, University of Illinois Urbana Champaign    
 2020-Present Susannah Halligan, MS Student, SUNY ESF  
 2019-Present Dustin Brewer, PhD Student, Central Michigan University    
 2019-Present Gabriel Habgrove, MS student, University of Arkansas Monticello      
