@@ -175,6 +175,9 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 # Datasets
 
+Enwright, NM, Cheney, WC, Evans, K, Thurman, HR, Woodrey, MS, **Fournier, AMV**, Bauer, A, Cox, J, Goehring, S, Hill, H, Hondrick, K, Kappes, P, Levy, H, Moon, J, Nyman, JA, Pitchford, J, Storey, D, Sukiennik, M, and Wilson, J. 2022 Mapping irregularly flooded wetlands, high marsh, and salt pannes/flats along the northern Gulf of Mexico coast: U.S. Geological Survey data release. doi: 10.5066/P9MLO26U.
+
+
 **Fournier AMV,** Mengel DC, Krementz DG. 2018 Data from: Sora (Porzana carolina) autumn migration habitat use. Dryad Digital Repository. doi: 10.5061/dryad.5n7t4 
 
 **Fournier AMV,** Drake KL, Tozer DC. 2017 Data from: Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds. Dryad Digital Repository. doi: 10.5061/dryad.nb11
