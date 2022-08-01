@@ -58,6 +58,8 @@ Stuber, EF, Robinson, O, Bjerre, E, Otto, Mk, Millsap, B, Zimmerman, G, Brasher,
 
 Klimas, ST `#`, Osborn, JM, Yetter, AP, Lancaster, JD, Jacques, CN, **Fournier, AMV,** Hagy, HM. 2022. [*Food selection by spring-migrating green-winged teal*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Klimas%20et%20al%20Fournier%202022%20JFWM.pdf) **Journal of Fish and Wildlife Management** 13(1):155–16 doi:10.3996/JFWM-21-075
 
+**Fournier, AMV** 2021. [*Vagrancy Occurrences in Sora (Porzana Carolina)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%202021%20Waterbirds.pdf) **Waterbirds** 44:539-543 doi:10.1675/063.044.0414 
+
 Butler, CJ, **Fournier, AMV**, Wilson, JK. 2021 [*Estimates of breeding season location for 4 mesic prairie bird species wintering along the Gulf Coast*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Butler%20Fournier%20Wilson%202021%20Wilson%20Journal%20of%20Ornithology.pdf) **Wilson Journal of Ornithology** 133:177-189 doi:10.1676/19-00151
 
 **Fournier, AMV,** Wilson, RR, Lyons, JE, Gleason, JS, Adams, EM, Barnhill, LM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Eaton, MJ, Frederick, PC, Just, MG, Seymour, MA, Tirpak, JM, and Woodrey, MS, 2021 [*Structured decision making and optimal bird monitoring in the northern Gulf of Mexico*](https://doi.org/10.3133/ofr20201122) **U.S. Geological Survey Open-File Report** 2020-1122, 62 p. doi:10.3133/ofr20201122.
