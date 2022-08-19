@@ -500,12 +500,12 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 2016 **Volunteer & Session Moderator** North American Ornithological Conference   
 2016-17 Vice Chair **Open Science Section** Ecological Society of America  
 2015-17 Treasurer/Secretary **Wetlands Working Group** The Wildlife Society    
-2014-16 Treasurer **Biology Graduate Student Assocation** University of Arkansas  
+2014-16 Treasurer **Biology Graduate Student Association** University of Arkansas  
 2015 **Presentation Judge** Assoc. of Field Ornith., Wilson Ornith. Soc., Soc. of Canadian Ornith. Meeting   
 2015 **Organized/Attended** _Software Carpentry Workshop_ University of Arkansas   
 2014-15 Secretary **Student Chapter - University of Arkansas** The Wildlife Society    
 2014-15 Treasurer **Student Working Group** The Wildlife Society    
-2013-14 Vice President **Biology Graduate Student Assocation** University of Arkansas  
+2013-14 Vice President **Biology Graduate Student Association** University of Arkansas  
 2013-14 Treasurer **Student Chapter - University of Arkansas** The Wildlife Society  
 2011 **Panel Member** Wind Power Meeting - Upper Peninsula Environmental Coalition  
 2010 **Career Panel Member** Ohio Young Birder's Club Conference  
@@ -626,7 +626,7 @@ Lead monthly spring bird banding demonstrations to groups 40-150 of children and
 
 # Work Experience
 **Lead Scientist** November 2017-2019  
-Prozana Solutions LLC   
+Porzana Solutions LLC   
 **Freelance Ecologist** October 2016-January 2017  
 Bird Studies Canada  
 **Environmental Education Internship**  
