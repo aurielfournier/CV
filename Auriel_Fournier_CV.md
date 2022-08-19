@@ -43,9 +43,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 **Subject Editor** Illinois Natural History Survey Bulletin 2019-Present
 
-**Editorial Board** Waterbirds  2020-Present  
 
-**Research Committee Co-Chair** Black Swamp Bird Observatory  - 2016-Present   
 
 
 # __Peer-Reviewed Publications__  
@@ -53,6 +51,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 26 peer reviewed journal articles, 2 student led, 18 first author
 
 `#` graduate student 
+
 
 Stuber, EF, Robinson, O, Bjerre, E, Otto, Mk, Millsap, B, Zimmerman, G, Brasher, MG, Ringelman, KM, **Fournier, AMV,** Yetter, A, Isola, JE, Ruiz-Gutierrez, V. 2022 [*The potential of semi-structured citizen science data as a supplement for conservation decision-making: Validating the performance of eBird against targeted avian monitoring efforts*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Stuber_et_al_Fournier%202022%20Biological%20Conservation.pdf) **Biological Conservation** doi:10.1016/j.biocon.2022.109556
 
@@ -480,12 +479,15 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 2015 **Volunteer** American Ornithologists Union Meeting  
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA 
 --->
-2020-Present **Illinois Important Bird Areas Technical Committee**  
+
+2020-Present **Illinois Important Bird Areas Technical Committee**    
+2020-Present **Editorial Board** Waterbirds  
 2019-Present **Waterfowl Committee** Upper Miss/Great Lakes Joint Venture    
 2019-Present **Waterbirds Committee** Upper Miss/Great Lakes Joint Venture    
-2018-Present Co-Chair **Student/Early Professional Committee** Wilson Ornithological Society    
-2017-Present **Gulf of Mexico Avian Monitoring Network (GoMAMN) Coordination Committee**
-2013-Present **Peer Reviewer** 13 journals    
+2017-Present **Gulf of Mexico Avian Monitoring Network (GoMAMN) Coordination Committee**  
+2016-Present **Research Committee** Black Swamp Bird Observatory      
+2013-Present **Peer Reviewer** 13 journals       
+2018-2021 Co-Chair **Student/Early Professional Committee** Wilson Ornithological Society    
 2017-2020 **Associate Editor** The Ibis   
 2018-2020 Co-Chair **Early Professional Development Committee** American Ornithological Society   
 2019-2020 **North American Ornithological Conference 2020 Diversity and Inclusion Comm**  
