@@ -178,7 +178,6 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 Enwright, NM, Cheney, WC, Evans, K, Thurman, HR, Woodrey, MS, **Fournier, AMV**, Bauer, A, Cox, J, Goehring, S, Hill, H, Hondrick, K, Kappes, P, Levy, H, Moon, J, Nyman, JA, Pitchford, J, Storey, D, Sukiennik, M, and Wilson, J. 2022 Mapping irregularly flooded wetlands, high marsh, and salt pannes/flats along the northern Gulf of Mexico coast: U.S. Geological Survey data release. doi: 10.5066/P9MLO26U.
 
-
 **Fournier AMV,** Mengel DC, Krementz DG. 2018 Data from: Sora (Porzana carolina) autumn migration habitat use. Dryad Digital Repository. doi: 10.5061/dryad.5n7t4 
 
 **Fournier AMV,** Drake KL, Tozer DC. 2017 Data from: Using citizen science monitoring data in species distribution models to inform isotopic assignment of migratory connectivity in wetland birds. Dryad Digital Repository. doi: 10.5061/dryad.nb11
@@ -215,7 +214,8 @@ Pietrunti, NF `#`, **Fournier, AMV,** Mateus-Pinilla, N, Nguyen, TH. Using Genot
 
 2022  
 **Seminar** University of Idaho  
-**Invited Talk** The Biggest Week in American Birding Festival
+**Invited Talk** The Biggest Week in American Birding Festival  
+**Keynote** Inland Bird Banding Association Conference
 
 2021  
 **Seminar** NRES UIUC  
@@ -272,32 +272,57 @@ I am presenter when first author, and when otherwise indicated.
 
 `#` graduate student mentee
 
-Schmidt, SM`#`, Benson, TJ, Fournier, AMV, Osborn, J. The Effects of Water Drawdowns on Marsh Bird Nest Survival. Midwest F&W Conference. 
+Schmidt, SM`#`, Benson, TJ, Fournier, AMV, Osborn, J. 2022. The Effects of Water Drawdowns on Marsh Bird Nest Survival. Midwest F&W Conference. 
 
-Kross, CS, Moon, J, Johnson, E, Conway, W, Kappes, P, Cox, J, Wilson, J, Woodrey, MS, Fournier, AMV. Comparison of Vegetation Metrics and Collection Effort and Call Types in Eastern Black Rail Response to Improve Species Detection. Midwest F&W Conference
+Kross, CS, Moon, J, Johnson, E, Conway, W, Kappes, P, Cox, J, Wilson, J, Woodrey, MS, Fournier, AMV. 2022. Comparison of Vegetation Metrics and Collection Effort and Call Types in Eastern Black Rail Response to Improve Species Detection. Midwest F&W Conference
 
-Larson, L`#`, Anteau, M, Hagy, H, Lancaster, J, Yetter, A, Jacques, C, Fournier, AMV. Evaluating Dynamics of Food Availability for Lesser Scaup at Pools 13 and 19 of the Mississippi River. Midwest F&W
+Larson, L`#`, Anteau, M, Hagy, H, Lancaster, J, Yetter, A, Jacques, C, Fournier, AMV. 2022. Evaluating Dynamics of Food Availability for Lesser Scaup at Pools 13 and 19 of the Mississippi River. Midwest F&W
 
-Bradshaw, TM, Williams, MR, Hagy, HM, Lancaster, JD,, Osborn, JM, Yetter, AP,, Fournier, AMV. True Metabolizable Energy of Targeted and Unfavorable Seed Species in Waterfowl Management. Midwest F&A
+Bradshaw, TM, Williams, MR, Hagy, HM, Lancaster, JD,, Osborn, JM, Yetter, AP,, Fournier, AMV. 2022. True Metabolizable Energy of Targeted and Unfavorable Seed Species in Waterfowl Management. Midwest F&A
 
-Beach, CR`#`, Cole, RA, Lancaster, JD, Yetter, AP, Jacques, CN, Hagy, HM, Fournier, AMV. Evaluation of Selected Physiological Responses to Sub-lethal Cyathocotyle bushiensis and Sphaeridiotrema spp. Experimental Infections in Captive Lesser Scaup (Aythya affinis). Midwest F&W
+Beach, CR`#`, Cole, RA, Lancaster, JD, Yetter, AP, Jacques, CN, Hagy, HM, Fournier, AMV. 2022. Evaluation of Selected Physiological Responses to Sub-lethal Cyathocotyle bushiensis and Sphaeridiotrema spp. Experimental Infections in Captive Lesser Scaup (Aythya affinis). Midwest F&W
 
-Bradshaw, TM, Matthew R. Williams, MR, Hagy, HM, Lancaster, JD, Gilbert, AD, Kross, CS, Osborn, JM, Yetter, AP, Fournier, AMV.** True Metabolizable Energy of Targeted and Unfavorable Seed Speciesin Waterfowl Management within the Midwest. Illinois Chapter of The Wildlife Society Conference. 
+Bradshaw, TM, Matthew R. Williams, MR, Hagy, HM, Lancaster, JD, Gilbert, AD, Kross, CS, Osborn, JM, Yetter, AP, Fournier, AMV.** 2022. True Metabolizable Energy of Targeted and Unfavorable Seed Speciesin Waterfowl Management within the Midwest. Illinois Chapter of The Wildlife Society Conference. 
 
-Beach, CR`#`, Cole, RA, Lancaster, JD, Yetter, AP, Jacques, DN, Hagy, HM, **Fournier, AMV.** Evaluation of Selected Physiological Responses to Sub-lethal Cyathocotyle bushiensisand Sphaeridiotremaspp. Experimental Infections in Captive Lesser Scaup (Aythya affinis). Illinois Chapter of The Wildlife Society Conference. 
+Beach, CR`#`, Cole, RA, Lancaster, JD, Yetter, AP, Jacques, DN, Hagy, HM, **Fournier, AMV.** 2022. Evaluation of Selected Physiological Responses to Sub-lethal Cyathocotyle bushiensisand Sphaeridiotremaspp. Experimental Infections in Captive Lesser Scaup (Aythya affinis). Illinois Chapter of The Wildlife Society Conference. 
 
-Stantial, ML, **Fournier, AMV,** Godar, AJ, Lawson, AJ, Kappes, PJ, Kross, CS, Woodrey, MS, Lyons, JE. Informing the use of prescribed fire in an adaptive mangaement framework for Gulf of Mexico high marshes using an expert-based Bayesian Decision Network. The Gulf of Mexico Conference. 
+Stantial, ML, **Fournier, AMV,** Godar, AJ, Lawson, AJ, Kappes, PJ, Kross, CS, Woodrey, MS, Lyons, JE. 2022. Informing the use of prescribed fire in an adaptive mangaement framework for Gulf of Mexico high marshes using an expert-based Bayesian Decision Network. The Gulf of Mexico Conference. 
 
-Kross, CS, Rohli, RV, Moon, JA, **Fournier, AMV,** Woodrey, MS, Nyman, JA. Weather is not a primary driver behind changes in prescribed fire management in coastal wetlands across the Gulf of Mexico. The Gulf of Mexico Conference. 
+Kross, CS, Rohli, RV, Moon, JA, **Fournier, AMV,** Woodrey, MS, Nyman, JA. 2022. Weather is not a primary driver behind changes in prescribed fire management in coastal wetlands across the Gulf of Mexico. The Gulf of Mexico Conference. 
 
-**Fournier, AMV,** Bauer, A, Brasher, M, Butler, C, Cheney, WC, Cooper, RJ, Conway, W, Cox, J, Enwright, NM, Evans, KO, Hondrick, K, Johnson, E, Kappes, P, Kross, C, Lancaster, J, Levy, H, Lueck, J, Lyons, JE, Monopoli, L, Moon, J, Nyman, JA, Rohli, R, Schwarzer, A, Soehren, E, Stantial, M, Thurman, HR, Vermillion, B, Wilson, J, Woodrey, MS. NOAA Firebird: Fire Effects in Gulf of Mexico Marshes on Mottled Ducks, Black and Yellow Rails. The Gulf of Mexico Conference. 
+**Fournier, AMV,** Bauer, A, Brasher, M, Butler, C, Cheney, WC, Cooper, RJ, Conway, W, Cox, J, Enwright, NM, Evans, KO, Hondrick, K, Johnson, E, Kappes, P, Kross, C, Lancaster, J, Levy, H, Lueck, J, Lyons, JE, Monopoli, L, Moon, J, Nyman, JA, Rohli, R, Schwarzer, A, Soehren, E, Stantial, M, Thurman, HR, Vermillion, B, Wilson, J, Woodrey, MS. 2022. NOAA Firebird: Fire Effects in Gulf of Mexico Marshes on Mottled Ducks, Black and Yellow Rails. The Gulf of Mexico Conference. 
 
-Enwright, NM, Evans, KO, Cheney, WC, Thurman, HR, **Fournier, AMV,** Woodrey, MS. Mapping High Marsh Systems across the Northern Gulf of Mexico. The Gulf of Mexico Conference
+Enwright, NM, Evans, KO, Cheney, WC, Thurman, HR, **Fournier, AMV,** Woodrey, MS. 2022. Mapping High Marsh Systems across the Northern Gulf of Mexico. The Gulf of Mexico Conference
 
-**Fournier, AMV,** Bauer, A, Brasher, M, Butler, C, Cheney, WC, Cooper, RJ, Conway, W, Cox, J, Enwright, NM, Evans, KO, Hondrick, K, Johnson, E, Kappes, P, Kross, C, Lancaster, J, Levy, H, Lueck, J, Lyons, JE, Monopoli, L, Moon, J, Nyman, JA, Rohli, R, Schwarzer, A, Soehren, E, Stantial, M, Thurman, HR, Vermillion, B, Wilson, J, Woodrey, MS. NOAA Firebird: Fire Effects in Gulf of Mexico Marshes on Mottled Ducks, Black and Yellow Rails. Joint Aquatic Sciences Meeting. 
+**Fournier, AMV,** Bauer, A, Brasher, M, Butler, C, Cheney, WC, Cooper, RJ, Conway, W, Cox, J, Enwright, NM, Evans, KO, Hondrick, K, Johnson, E, Kappes, P, Kross, C, Lancaster, J, Levy, H, Lueck, J, Lyons, JE, Monopoli, L, Moon, J, Nyman, JA, Rohli, R, Schwarzer, A, Soehren, E, Stantial, M, Thurman, HR, Vermillion, B, Wilson, J, Woodrey, MS. 2022. NOAA Firebird: Fire Effects in Gulf of Mexico Marshes on Mottled Ducks, Black and Yellow Rails. Joint Aquatic Sciences Meeting. 
 
-Enwright, NM, Evans, KO, Cheney, WC, Thurman, HR, **Fournier, AMV,** Woodrey, MS. Mapping High Marsh Systems across the Northern Gulf of Mexico. Joint Aquatic Sciences Meeting. 
+Enwright, NM, Evans, KO, Cheney, WC, Thurman, HR, **Fournier, AMV,** Woodrey, MS. 2022. Mapping High Marsh Systems across the Northern Gulf of Mexico. Joint Aquatic Sciences Meeting. 
 
+Cremer, CA `#`, Avara, M, **Fournier, AMV,** Ward M. 2022. The Use of Motus Tracking System to Investigate the Migratory Behavior of Rails at a Local and Regional Scales. Winous Point Great Lakes Graduate Student Symposium 
+
+Hargett, N `#`, Rossi, L, Benson, TJ, **Fournier, AMV,** 2022. Ecology and Abundance of Eastern Black Rail in Southeastern Colorado. Winous Point Great Lakes Graduate Student Symposium
+
+Beach, CR `#`, Koop, JAH, **Fournier, AMV,** 2022. Evaluating the Impacts of Trematodiasis on Lesser Scaup Migration and Breeding Efforts. Winous Point Great Lakes Graduate Student Symposium
+
+Monopoli, L `#`, Benson, TJ, **Fournier, AMV,** 2022. Fire effects on breeding marsh birds in the Gulf of Mexico. Winous Point Great Lakes Graduate Student Symposium
+
+Beach, CR `#`, Cole, RA, Lancaster, JD, Yetter, AP, Jacques, CN, Hagy, HM, **Fournier, AMV.** 2022. Evaluation of Selected Physiological Responses to Sub-lethal Cyathocotyle bushiensis and Sphaeridiotrema spp. Experimental Infections in Captive Lesser Scaup (Aythya affinis). Wilson Ornithological Society Conference
+
+**Fournier, AMV**, Bauer, A, Brasher, M, Butler, C, Cheney, WC, Cooper, RJ, Conway, W, Cox, J, Enwright, NM, Evans, KO, Hondrick, K, Johnson, E, Kappes, P, Kross, C, Lancaster, J, Levy, H, Lueck, J, Lyons, JE, Monopoli, L, Moon, J, Nyman, JA, Rohli, R, Schwarzer, A, Soehren, E, Stantial, M, Thurman, HR, Vermillion, B, Wilson, J, Woodrey, MS. 2022. NOAA Firebird: Fire Effects in Gulf of Mexico Marshes on Mottled Ducks, Black and Yellow Rails. Waterbirds Conference
+
+Hargett, E `#`, Benson, TJ, Rossi, L, **Fournier, AMV**. 2022. Abundance of Eastern Black Rails in southeastern Colorado Waterbirds Conference
+
+Monopoli, L `#`, Kross, C, Woodrey, M, Cox, J, Levy, H, Benson, TJ, **Fournier, AMV**. 2022. Fire effects on breeding marsh birds Waterbirds Conference
+
+Schmit, J `#`, **Fournier, AMV**, Roberts, CP, Rowe, K. 2022. Breeding and migration ecology and distribution and abundance of Arkansas King Rails Waterbirds Conference
+
+Bradshaw, TM, Williams, MR, Hagy, MH, Lancaster, JD, Gilbert, AD, Kross, CS, Osborn, JM, Yetter, AP, **Fournier, AMV**. True metabolizable energy of targeted and unfavorable seed species commonly seen in Tennessee waterfowl management areas. Lower Mississippi Valley Joint Venture Waterfowl Symposium
+
+Gilbert, AD, **Fournier, AMV**, Yetter, AP, Hine, CS, Osborn, JM, Kross, CS, Lancaster, JD. 2022.  Postbreeding ecology of wood ducks in the Illinois River Valley  Lower Mississippi Valley Joint Venture Waterfowl Symposium 
+
+Henson, J, Bethell, J, Osborne, D, Bradshaw, TM, Hagy, H, **Fournier, AMV**. 2022. Development of blood metabolite index for mallards Lower Mississippi Valley Joint Venture Waterfowl Symposium
+
+Robinson, OJ, Brasher, MG, Ringelman, KM, **Fournier, AMV,** Yetter, AP, Isola, JE, Ruiz-Gutierrez, V, Sauer, J, Silverman, E. 2022. Validation and use of citizen-science data for waterfowl management  Lower Mississippi Valley Joint Venture Waterfowl Symposium
 
 **Fournier, AMV,** Bradshaw, T, Hagy, HM, Shirkey, B. 2021. Evaluating assumptions of the North American Marsh Bird Monitoring Protocol. Midwest Fish and Wildlife Conference. 
 
@@ -427,6 +452,16 @@ Thurman, HR, Enwright, NM, Evans, KO, Cheyney, WC, **Fournier, AMV**, Woodrey, M
 Cremer, CA `#`, Avara, M, **Fournier, AMV,** Ward M. 2022 The Use of Motus Tracking System to Investigate the Migratory Behavior of Rails at a Local and Regional Scales. Illinois Chapter of The Wildlife Society Meeting
 
 Pietrunti, NF `#`, **Fournier, AMV,** Mateus-Pinilla, N, Nguyen, TH. 2022 Using Genotypic Methods to Assess Antimicrobial Resistance in the Fecal Microbiome of Resident Canada Geese (Branta canadensis). Illinois Chapter of The Wildlife Society Meeting
+
+Halligan, S, **Fournier, AMV,** Schummer, M, Lavretsky, P, Downes, C. 2022. Comparisons Of Morphology And Feeding Efficiency Between Wild And Game-Farm Mallards. Wilson Ornithological Society Conference. 
+
+Cremer, CA `#`, Avara, M, **Fournier, AMV,** Ward M. 2022. The Use of Motus Tracking System to Investigate the Migratory Behavior of Rails at a Local and Regional Scales. Wilson Ornithological Society Conference. 
+
+**Fournier, AMV,** Bauer, A, Brasher, M, Butler, C, Cheney, WC, Cooper, RJ, Conway, W, Cox, J, Enwright, NM, Evans, KO, Hondrick, K, Johnson, E, Kappes, P, Kross, C, Lancaster, J, Levy, H, Lueck, J, Lyons, JE, Monopoli, L, Moon, J, Nyman, JA, Rohli, R, Schwarzer, A, Soehren, E, Stantial, M, Thurman, HR, Vermillion, B, Wilson, J, Woodrey, MS. 2022. NOAA Firebird: Fire Effects in Gulf of Mexico Marshes on Mottled Ducks, Black and Yellow Rails. Wilson Ornithological Society Conference. 
+
+Hargett, E`#`, Benson, TJ, Rossi, L, **Fournier, AMV,**. 2022. Abundance of Eastern Black Rails in southeastern Colorado. Inland Bird Banding Association Conference. 
+
+**Fournier, AMV,**, Brasher, M, Butler, C, Cheney, W, Cooper, R, Conway, W, Cox, J, Enwright, N,, Evans, K, Hondrick, K, Johnson, E, Kappes, P, Kross, C, Lancaster, J, Levy, H, Lueck, J, Lyons, J, Monopoli, L, Moon, J, Nyman, A, Rohli, B, Schwarzer, A, Soehren, E, Stantial, M, Thurman, H, Vermillion, W, Wilson, J, Woodrey, MS. 2022. NOAA Firebird: fire effects in Gulf of Mexico marshes on mottled ducks, black and yellow rails  Lower Mississippi Valley Joint Venture Waterfowl Symposium
 
 Cheney, W, Enwright, N, Evans, K, Thurman, H, **Fournier, AMV,** Woodrey, MS. 2021. Mapping High marsh Across the Northern Gulf of Mexico. *CERF*
 
