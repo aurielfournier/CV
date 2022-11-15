@@ -48,14 +48,17 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-26 peer reviewed journal articles, 2 student led, 18 first author
+28 peer reviewed journal articles, 3 student led, 19 first author
 
 `#` graduate student 
 
+`##` undergraduate student
+
+Kitaif, JC `##`, Holiman, H `##`, **Fournier, AMV,** Iglay, RB, WOodrey, MS. 2022. [*Trends in Rail Migration Arrival and Departure Times Using Long-Term Citizen Science Data from Mississippi, USA*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Kitaif%20et%20al.%20Fournier%202022%20Waterbirds.pdf) **Waterbirds** 45:108-112 doi: 10.1675/063.045.0113
 
 Stuber, EF, Robinson, O, Bjerre, E, Otto, Mk, Millsap, B, Zimmerman, G, Brasher, MG, Ringelman, KM, **Fournier, AMV,** Yetter, A, Isola, JE, Ruiz-Gutierrez, V. 2022 [*The potential of semi-structured citizen science data as a supplement for conservation decision-making: Validating the performance of eBird against targeted avian monitoring efforts*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Stuber_et_al_Fournier%202022%20Biological%20Conservation.pdf) **Biological Conservation** doi:10.1016/j.biocon.2022.109556
 
-Klimas, ST `#`, Osborn, JM, Yetter, AP, Lancaster, JD, Jacques, CN, **Fournier, AMV,** Hagy, HM. 2022. [*Food selection by spring-migrating green-winged teal*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Klimas%20et%20al%20Fournier%202022%20JFWM.pdf) **Journal of Fish and Wildlife Management** 13(1):155–16 doi:10.3996/JFWM-21-075
+Klimas, ST `#`, Osborn, JM, Yetter, AP, Lancaster, JD, Jacques, CN, **Fournier, AMV,** Hagy, HM. 2022. [*Food selection by spring-migrating green-winged teal*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Klimas%20et%20al%20Fournier%202022%20JFWM.pdf) **Journal of Fish and Wildlife Management** 13(1):155-16 doi:10.3996/JFWM-21-075
 
 **Fournier, AMV** 2021. [*Vagrancy Occurrences in Sora (Porzana Carolina)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%202021%20Waterbirds.pdf) **Waterbirds** 44:539-543 doi:10.1675/063.044.0414 
 
