@@ -48,11 +48,13 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-28 peer reviewed journal articles, 3 student led, 19 first author
+29 peer reviewed journal articles, 4 student led, 19 first author
 
 `#` graduate student 
 
 `##` undergraduate student
+
+Askren, RJ `#`, Eichholz, MW, Sharp, CM, Washburn, BE, Beckerman, SF, Pullins, CK, **Fournier, AMV,** Vonbank, JA, Weegman, MD, Hagy, HM, Ward, MP. 2022. [*Behavioral responses of Canada geese to winter harassment in the context of human-wildlife conflicts*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Askren%20et%20al.%20(Fournier)%202022%20WSB.pdf) **Wildlife Society Bulletin** e1384 doi: 10.1002/wsb.1384
 
 Kitaif, JC `##`, Holiman, H `##`, **Fournier, AMV,** Iglay, RB, WOodrey, MS. 2022. [*Trends in Rail Migration Arrival and Departure Times Using Long-Term Citizen Science Data from Mississippi, USA*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Kitaif%20et%20al.%20Fournier%202022%20Waterbirds.pdf) **Waterbirds** 45:108-112 doi: 10.1675/063.045.0113
 
