@@ -54,13 +54,17 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 `##` undergraduate student
 
-Askren, RJ `#`, Eichholz, MW, Sharp, CM, Washburn, BE, Beckerman, SF, Pullins, CK, **Fournier, AMV,** Vonbank, JA, Weegman, MD, Hagy, HM, Ward, MP. 2022. [*Behavioral responses of Canada geese to winter harassment in the context of human-wildlife conflicts*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Askren%20et%20al.%20(Fournier)%202022%20WSB.pdf) **Wildlife Society Bulletin** e1384 doi: 10.1002/wsb.1384
+
+Askren, RJ, Eichholz, MW, Sharp, CM, Washburn, BE, Beckerman, SF, Pullins, CK, **Fournier, AMV,** Vonbank, JA, Weegman, MD, Hagy, HM, Ward, MP. 2022. [*Behavioral responses of Canada geese to winter harassment in the context of human-wildlife conflicts*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Askren%20et%20al.%20(Fournier)%202022%20WSB.pdf) **Wildlife Society Bulletin** e1384 doi: 10.1002/wsb.1384
+
+Holiman, H `##`, Kitaif, JC `##`, **Fournier, AMV**, Iglay, RB, Woodrey, MS. Using autonomous recording units to detect individual marsh birds in the Northern Gulf of Mexico. **INHS Bulletin** 
 
 Kitaif, JC `##`, Holiman, H `##`, **Fournier, AMV,** Iglay, RB, WOodrey, MS. 2022. [*Trends in Rail Migration Arrival and Departure Times Using Long-Term Citizen Science Data from Mississippi, USA*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Kitaif%20et%20al.%20Fournier%202022%20Waterbirds.pdf) **Waterbirds** 45:108-112 doi: 10.1675/063.045.0113
 
 Stuber, EF, Robinson, O, Bjerre, E, Otto, Mk, Millsap, B, Zimmerman, G, Brasher, MG, Ringelman, KM, **Fournier, AMV,** Yetter, A, Isola, JE, Ruiz-Gutierrez, V. 2022 [*The potential of semi-structured citizen science data as a supplement for conservation decision-making: Validating the performance of eBird against targeted avian monitoring efforts*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Stuber_et_al_Fournier%202022%20Biological%20Conservation.pdf) **Biological Conservation** doi:10.1016/j.biocon.2022.109556
 
-Klimas, ST `#`, Osborn, JM, Yetter, AP, Lancaster, JD, Jacques, CN, **Fournier, AMV,** Hagy, HM. 2022. [*Food selection by spring-migrating green-winged teal*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Klimas%20et%20al%20Fournier%202022%20JFWM.pdf) **Journal of Fish and Wildlife Management** 13(1):155-16 doi:10.3996/JFWM-21-075
+Klimas, ST `#`, Osborn, JM, Yetter, AP, Lancaster, JD, Jacques, CN, **Fournier, AMV,** Hagy, HM. 2022. [*Food selection by spring-migrating green-winged teal*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Klimas%20et%20al%20Fournier%202022%20JFWM.pdf) **Journal of Fish and Wildlife Management** 13(1):155–16 doi:10.3996/JFWM-21-075
+
 
 **Fournier, AMV** 2021. [*Vagrancy Occurrences in Sora (Porzana Carolina)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%202021%20Waterbirds.pdf) **Waterbirds** 44:539-543 doi:10.1675/063.044.0414 
 
@@ -145,27 +149,33 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 ## Current
 
+2022-2027 - USDA NRCS *Condition of Natural Resource Conservation Service Wetland Easements in Illinois* 582k
+
 2019-2024 NOAA RESTORE Science, **PI**, Fire Effects in Gulf of Mexico Tidal Marshes: Historical Perspectives, Management, and Monitoring of Mottled Ducks and Black Rails and Other High Marsh Birds 3.9 million  
 
-2019-2023 The Nature Conservancy, **PI**, Monitoring of Key Attributes and Indicators of Waterbirds at The Nature Conservancy's Emiquon Preserve 167k  
-
-2018-2021 US Dept of Agriculture, **PI**, Condition of Natural Resources Conservation Service Wetland Easements in Illinois 120k  
-
-2020-2021 USFWS/Illinois DNR, **PI**, Illinois Waterfowl Surveys and Investigations (FY22) 560k  
-
-2021-2023 Arkansas Game and Fish Commission, **PI**, King Rail Ecology 171k
+2021-2024 Arkansas Game and Fish Commission, **PI**, King Rail Ecology 171k
 
 2022-2024 Colorado Parks and Wildlife, **PI**, Black Rail Ecology in Colorado 160k
 
+2019-2023 The Nature Conservancy, **PI**, Monitoring of Key Attributes and Indicators of Waterbirds at The Nature Conservancy's Emiquon Preserve 167k  
+
 2020-2023 Florida Fish and Wildlife Conservation Commission, **PI**, True Metabolizable Energy of Southern Aquatic Waterfowl Foods 70k  
 
-2019-2022 USFWS, **PI**, True Metabolizable Energy of Targeted and Unfavorable Seed Species in Waterfowl Management 59k  
+2022-2023 - Illinois Department of Natural Resources *Illinois Waterfowl Investigations FY23* 560k
+
+2022-2023 Illinois Dept Natural Resources *Ecology of non-breeding waterfowl in the Wabash River region* 100k
+
+2019-2022 USFWS, **PI**, True Metabolizable Energy of Targeted and Unfavorable Seed Species in Waterfowl Management 59k 
 
 2020-2022 USFWS, **PI**, Energy value of common invasive plant species in managed wetlands on National Wildlife Refuges in the Southeast to waterfowl and potential dispersal of propagules through ingestion and gut passage 47k  
 
 2021-2022 Sea duck Joint Venture/USFWS, **Co-PI**, Monitoring of Non-Breeding Sea Ducks on the Great Lakes 44k  
 
 ## Completed
+
+2018-2021 US Dept of Agriculture, **PI**, Condition of Natural Resources Conservation Service Wetland Easements in Illinois 120k  
+
+2020-2021 USFWS/Illinois DNR, **PI**, Illinois Waterfowl Surveys and Investigations (FY22) 560k  
 
 2021-2021 - The Nature Conservancy **PI** Marshbird community surveys at Midewin National Tallgrass Prairie 10k
 
@@ -182,6 +192,8 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 # Datasets
 
 Enwright, NM, Cheney, WC, Evans, K, Thurman, HR, Woodrey, MS, **Fournier, AMV**, Bauer, A, Cox, J, Goehring, S, Hill, H, Hondrick, K, Kappes, P, Levy, H, Moon, J, Nyman, JA, Pitchford, J, Storey, D, Sukiennik, M, and Wilson, J. 2022 Mapping irregularly flooded wetlands, high marsh, and salt pannes/flats along the northern Gulf of Mexico coast: U.S. Geological Survey data release. doi: 10.5066/P9MLO26U.
+
+Holiman, H, Kitaif, J.C., **Fournier, A.M.V.** Iglay, R., Woodrey, M.S. 2022. Estimating ability to detect secretive marsh birds over distance using autonomous recording units. University of Illinois at Urbana-Champaign. doi: 10.13012/B2IDB-4450613_V1 
 
 **Fournier AMV,** Mengel DC, Krementz DG. 2018 Data from: Sora (Porzana carolina) autumn migration habitat use. Dryad Digital Repository. doi: 10.5061/dryad.5n7t4 
 
@@ -218,9 +230,11 @@ Pietrunti, NF `#`, **Fournier, AMV,** Mateus-Pinilla, N, Nguyen, TH. Using Genot
 # Invited Presentations
 
 2022  
-**Seminar** University of Idaho  
 **Invited Talk** The Biggest Week in American Birding Festival  
-**Keynote** Inland Bird Banding Association Conference
+**Seminar** University of Idaho  
+**Symposium Talk** Joint Aquatic Sciences Meeting  
+**Keynote** Inland Bird Banders Association Annual Conference  
+**Seminar** Illinois Wesleyan University
 
 2021  
 **Seminar** NRES UIUC  
@@ -501,6 +515,7 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 2022-Present (Co-Adviser) Nicole Pietrunti, MS Student, University of Illinois Urbana Champaign  
 2022-Present (Co-Adviser) Jessica Schmit, MS Student, University of Arkansas Fayetteville    
 2022-Present Haley Holiman, MS Student, Tennessee Tech University  
+2022-Present Keith Andringa, PhD Student, Texas A&M University  
 2022-Present Samantha Garcia, MS Student, University of Illinois Urbana Champaign    
 2021-Present Anastasia Rahlin, PhD Student, University of Illinois Urbana Champaign    
 2020-Present Susannah Halligan, MS Student, SUNY ESF  
@@ -509,7 +524,7 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 2020-2022 (Co-Adviser) Stephanie Schmidt, MS Student, University of Illinois Urbana Champaign  
 2020-2021 (Co-Adviser) Lauren Larson, MS Student, Western Illinois University    
 2020-2021 (Co-Adviser) Cheyenne Beach, MS Student, Western Illinois University    
-2017-2019 Erin Lehnert, MS Student, University of Central Oklahoma   
+2017-2019 Erin Lehnert, MS Student, University of Central Oklahoma      
 
 # Service 
 
