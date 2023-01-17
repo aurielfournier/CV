@@ -55,6 +55,8 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 `##` undergraduate student
 
 
+Enwright, NM, Cheney, WC, Evans, KO, Thurman, HR, Woodrey, MS, **Fournier, AMV,** Gesh, DB, Pitchford, JL, Stoker, JM, Medeiros, SC. [*Elevation-based probabilistic mapping of irregularly flooded wetlands along the northern Gulf of Mexico coast*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Enwright%20et%20al%20Fournier%202023.pdf) **Remote Sensing of Environment** 287:113451 doi: 0.1016/j.rse.2023.113451
+
 Askren, RJ, Eichholz, MW, Sharp, CM, Washburn, BE, Beckerman, SF, Pullins, CK, **Fournier, AMV,** Vonbank, JA, Weegman, MD, Hagy, HM, Ward, MP. 2022. [*Behavioral responses of Canada geese to winter harassment in the context of human-wildlife conflicts*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Askren%20et%20al.%20(Fournier)%202022%20WSB.pdf) **Wildlife Society Bulletin** e1384 doi: 10.1002/wsb.1384
 
 Holiman, H `##`, Kitaif, JC `##`, **Fournier, AMV**, Iglay, RB, Woodrey, MS. [Using autonomous recording units to detect individual marsh birds in the Northern Gulf of Mexico.](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Holiman%20et%20al%20Fournier%202022%20INHS%20Bulletin.pdf) **INHS Bulletin** 43:2022002. DOI: 10.21900/j.inhs.v43.866
