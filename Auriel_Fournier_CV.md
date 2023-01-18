@@ -54,7 +54,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 `##` undergraduate student
 
-**Fournier, AMV,** Wilson, RR, Gleason, JS, Adams, EM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Frederick, PC, Jodice, PGR, Ottinger, MA, Reeves, DB, Seymour, MA, Sharuga, SM, Tirpak, JM, Vermillion, WG, Zenzal, TJ, Lyons, JE, Woodrey, MS. 2023. [*Structured Decision Making To Prioritize Regional Bird MOnitoring Needs*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%202023%20GoMAMN%20Case%20Study%20INFORMS.pdf) **INFORMS Journal on Applied Analytics** doi: 10.1287/inte.2022.1154
+**Fournier, AMV,** Wilson, RR, Gleason, JS, Adams, EM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Frederick, PC, Jodice, PGR, Ottinger, MA, Reeves, DB, Seymour, MA, Sharuga, SM, Tirpak, JM, Vermillion, WG, Zenzal, TJ, Lyons, JE, Woodrey, MS. 2023. [*Structured Decision Making To Prioritize Regional Bird Monitoring Needs*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%202023%20GoMAMN%20Case%20Study%20INFORMS.pdf) **INFORMS Journal on Applied Analytics** doi: 10.1287/inte.2022.1154
 
 Enwright, NM, Cheney, WC, Evans, KO, Thurman, HR, Woodrey, MS, **Fournier, AMV,** Gesh, DB, Pitchford, JL, Stoker, JM, Medeiros, SC. 2023. [*Elevation-based probabilistic mapping of irregularly flooded wetlands along the northern Gulf of Mexico coast*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Enwright%20et%20al%20Fournier%202023.pdf) **Remote Sensing of Environment** 287:113451 doi: 0.1016/j.rse.2023.113451
 
