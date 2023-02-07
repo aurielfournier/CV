@@ -35,7 +35,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 **Technical Committee Member** Upper Mississippi River Great Lakes Joint Venture
 
-**Chair** Gulf of Mexico Avian Monitoring Network 2021-Present
+**Past Chair** Gulf of Mexico Avian Monitoring Network 2023-Present
 
 **Subject Editor** Avian Conservation & Ecology - 2019-Present
 
@@ -546,7 +546,8 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 2019-Present **Waterbirds Committee** Upper Miss/Great Lakes Joint Venture    
 2017-Present **Gulf of Mexico Avian Monitoring Network (GoMAMN) Coordination Committee**  
 2016-Present **Research Committee** Black Swamp Bird Observatory      
-2013-Present **Peer Reviewer** 13 journals       
+2013-Present **Peer Reviewer** 13 journals    
+2021-2023 **Chair** Gulf of Mexico Avian Monitoring Network   
 2018-2021 Co-Chair **Student/Early Professional Committee** Wilson Ornithological Society    
 2017-2020 **Associate Editor** The Ibis   
 2018-2020 Co-Chair **Early Professional Development Committee** American Ornithological Society   
