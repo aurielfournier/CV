@@ -48,11 +48,16 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-29 peer reviewed journal articles, 4 student led, 19 first author
+34 peer reviewed journal articles, 5 student led, 21 first author
 
 `#` graduate student 
 
-`##` undergraduate student
+`##` undergraduate student    
+
+
+Stantial, ML, Lawson, AJ, **Fournier, AMV,** Kappes, PJ, Kross, CS, Runge, MC, Woodrey, MS, Lyons, JE. 2023 [*Qualitative value of information provides a transparent and repeatable method for identifying critical uncertainty*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Stantial%20et%20al%20Fournier%202023%20Ecological%20Applications%20-%202023%20-%20Stantial%20-%20Qualitative%20value%20of%20information%20provides%20a%20transparent%20and%20repeatable%20method.pdf) **Ecological Applications** doi: 10.1002/eap.2824
+
+Kross, CS, Rohli, RV, Moon, JA, **Fournier, AMV,** Woodrey, MS, Nyman, JA. 2023. [*Preferred atmospheric circulations associated with favorable prescribed burns in the Gulf of Mexico coast,USA*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Kross%20et%20al%20Fournier%202023%20Fire%20Ecology.pdf) **Fire Ecology** doi: 10.1186/s42408-023-00169-4
 
 **Fournier, AMV,** Wilson, RR, Gleason, JS, Adams, EM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Frederick, PC, Jodice, PGR, Ottinger, MA, Reeves, DB, Seymour, MA, Sharuga, SM, Tirpak, JM, Vermillion, WG, Zenzal, TJ, Lyons, JE, Woodrey, MS. 2023. [*Structured Decision Making To Prioritize Regional Bird Monitoring Needs*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%202023%20GoMAMN%20Case%20Study%20INFORMS.pdf) **INFORMS Journal on Applied Analytics** doi: 10.1287/inte.2022.1154
 
@@ -60,9 +65,9 @@ Enwright, NM, Cheney, WC, Evans, KO, Thurman, HR, Woodrey, MS, **Fournier, AMV,*
 
 **Fournier, AMV,** Bradshaw, TM, Hagy, HM, Shirkey, B. 2022. [*To improve existing marsh bird survey protocols, we need to evaluate closure assumptions*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%202022%20To%20improve%20existing%20marsh%20bird%20survey%20protocols%20we%20need%20to%20evaluate%20closure%20WSB.pdf) *Wildlife Society Bulletin* e1410 doi: 10.1002/wsb.1410
 
-Askren, RJ, Eichholz, MW, Sharp, CM, Washburn, BE, Beckerman, SF, Pullins, CK, **Fournier, AMV,** Vonbank, JA, Weegman, MD, Hagy, HM, Ward, MP. 2022. [*Behavioral responses of Canada geese to winter harassment in the context of human-wildlife conflicts*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Askren%20et%20al.%20(Fournier)%202022%20WSB.pdf) **Wildlife Society Bulletin** e1384 doi: 10.1002/wsb.1384
+Askren `#`, RJ, Eichholz, MW, Sharp, CM, Washburn, BE, Beckerman, SF, Pullins, CK, **Fournier, AMV,** Vonbank, JA, Weegman, MD, Hagy, HM, Ward, MP. 2022. [*Behavioral responses of Canada geese to winter harassment in the context of human-wildlife conflicts*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Askren%20et%20al.%20(Fournier)%202022%20WSB.pdf) **Wildlife Society Bulletin** e1384 doi: 10.1002/wsb.1384
 
-Holiman, H `##`, Kitaif, JC `##`, **Fournier, AMV**, Iglay, RB, Woodrey, MS. [Using autonomous recording units to detect individual marsh birds in the Northern Gulf of Mexico.](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Holiman%20et%20al%20Fournier%202022%20INHS%20Bulletin.pdf) **INHS Bulletin** 43:2022002. DOI: 10.21900/j.inhs.v43.866
+Holiman, H `##`, Kitaif, JC `##`, **Fournier, AMV**, Iglay, RB, Woodrey, MS. [*Using autonomous recording units to detect individual marsh birds in the Northern Gulf of Mexico.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Holiman%20et%20al%20Fournier%202022%20INHS%20Bulletin.pdf) **INHS Bulletin** 43:2022002. DOI: 10.21900/j.inhs.v43.866
 
 Kitaif, JC `##`, Holiman, H `##`, **Fournier, AMV,** Iglay, RB, WOodrey, MS. 2022. [*Trends in Rail Migration Arrival and Departure Times Using Long-Term Citizen Science Data from Mississippi, USA*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Kitaif%20et%20al.%20Fournier%202022%20Waterbirds.pdf) **Waterbirds** 45:108-112 doi: 10.1675/063.045.0113
 
