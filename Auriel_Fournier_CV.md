@@ -48,12 +48,14 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-35 peer reviewed journal articles, 5 student led, 21 first author
+36 peer reviewed journal articles, 6 student led, 21 first author
 
 `#` graduate student 
 
 `##` undergraduate student    
 
+
+Brewer, DE `#`, Gehring, TM, Garcia, MM, Shirkey, BT, Simpson, BW, **Fournier, AMV** 2023. [King Rail home range and microhabitat characteristics in western Lake Erie coastal marshes](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Brewer%20et%20al%20Fournier%202023%20-%20Ecology%20and%20Evolution%20-%202023%20-%20Brewer%20-%20King%20rail%20Rallus%20elegans%20home%20range%20and%20microhabitat%20characteristics%20in%20western.pdf) Ecology and Evolution 13:310043 doi: 10.1002/ece3.10043
 
 Stantial, ML, Lawson, AJ, **Fournier, AMV,** Kappes, PJ, Kross, CS, Runge, MC, Woodrey, MS, Lyons, JE. 2023 [*Qualitative value of information provides a transparent and repeatable method for identifying critical uncertainty*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Stantial%20et%20al%20Fournier%202023%20Ecological%20Applications%20-%202023%20-%20Stantial%20-%20Qualitative%20value%20of%20information%20provides%20a%20transparent%20and%20repeatable%20method.pdf) **Ecological Applications** doi: 10.1002/eap.2824
 
@@ -175,13 +177,13 @@ Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, 
 
 2022-2023 Illinois Dept Natural Resources *Ecology of non-breeding waterfowl in the Wabash River region* 100k
 
+## Completed
+
 2019-2022 USFWS, **PI**, True Metabolizable Energy of Targeted and Unfavorable Seed Species in Waterfowl Management 59k 
 
 2020-2022 USFWS, **PI**, Energy value of common invasive plant species in managed wetlands on National Wildlife Refuges in the Southeast to waterfowl and potential dispersal of propagules through ingestion and gut passage 47k  
 
 2021-2022 Sea duck Joint Venture/USFWS, **Co-PI**, Monitoring of Non-Breeding Sea Ducks on the Great Lakes 44k  
-
-## Completed
 
 2018-2021 US Dept of Agriculture, **PI**, Condition of Natural Resources Conservation Service Wetland Easements in Illinois 120k  
 
