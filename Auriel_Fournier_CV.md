@@ -520,22 +520,22 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 
 # Student Committees
   
-2021-Present (Co-Adviser) Cheyenne Beach, PhD student, Northern Illinois University  
-2021-Present (Co-Adviser) Chad Cremer, MS Student, University of Illinois Urbana Champaign  
-2021-Present (Co-Adviser) Lauren Monopoli, PhD Student, University of Illinois Urbana Champaign     
 2022-Present (Co-Adviser) Nora Hargett, MS Student, University of Illinois Urbana Champaign    
 2022-Present (Co-Adviser) Nicole Pietrunti, MS Student, University of Illinois Urbana Champaign  
 2022-Present (Co-Adviser) Jessica Schmit, MS Student, University of Arkansas Fayetteville    
+2021-Present (Co-Adviser) Cheyenne Beach, PhD student, Northern Illinois University  
+2021-Present (Co-Adviser) Chad Cremer, MS Student, University of Illinois Urbana Champaign  
+2021-Present (Co-Adviser) Lauren Monopoli, PhD Student, University of Illinois Urbana Champaign     
 2022-Present Haley Holiman, MS Student, Tennessee Tech University  
 2022-Present Keith Andringa, PhD Student, Texas A&M University  
 2022-Present Samantha Garcia, MS Student, University of Illinois Urbana Champaign    
-2021-Present Anastasia Rahlin, PhD Student, University of Illinois Urbana Champaign    
-2020-Present Susannah Halligan, MS Student, SUNY ESF  
-2019-Present Dustin Brewer, PhD Student, Central Michigan University    
-2019-Present Gabriel Habgrove, MS student, University of Arkansas Monticello      
+2021-Present Anastasia Rahlin, PhD Student, University of Illinois Urbana Champaign      
+2019-Present Gabriel Habgrove, MS student, University of Arkansas Monticello          
+2020-2023 Susannah Halligan, MS Student, SUNY ESF   
 2020-2022 (Co-Adviser) Stephanie Schmidt, MS Student, University of Illinois Urbana Champaign  
 2020-2021 (Co-Adviser) Lauren Larson, MS Student, Western Illinois University    
-2020-2021 (Co-Adviser) Cheyenne Beach, MS Student, Western Illinois University    
+2020-2021 (Co-Adviser) Cheyenne Beach, MS Student, Western Illinois University      
+2019-2023 Dustin Brewer, PhD Student, Central Michigan University      
 2017-2019 Erin Lehnert, MS Student, University of Central Oklahoma      
 
 # Service 
