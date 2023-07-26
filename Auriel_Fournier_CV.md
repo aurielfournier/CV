@@ -149,6 +149,8 @@ Adams, EM, **Fournier, AMV**, Woodrey, MS. 2019. *Integration and collaboration 
 
 Bahlai, CA, Bartlett, LJ, Burgio, KR, **Fournier, AMV,** Keiser, CN, Poisot, T, Stack Whitney, K. 2019 [*Open Science Isn't Always Open To All Scientists*](https://www.americanscientist.org/article/open-science-isnt-always-open-to-all-scientists) The American Scientist. 
 
+Yannuzzi, S, Beach, C, Kemink, K, **Fournier, AMV**, Ellis-Felege, S. 2023 [Fowl Women: Often unsung, women have made multifaceted contributions to waterfowl conservation](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Yannuzzi%20et%20al%20Fournier%202023%20The%20Wildlife%20Professional.pdf). The Wildlife Professional 17:4
+
 ## Book Review
 
 **Fournier, AMV** 2019 [*A Season on the Wind: Inside the World of Spring Migration*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_2019_Book_Review.pdf) **Journal of Field Ornithology** 90:391-392 10.1111/jofo.12317 
