@@ -44,8 +44,6 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 **Subject Editor** Illinois Natural History Survey Bulletin 2019-Present
 
 
-
-
 # __Peer-Reviewed Publications__  
 
 36 peer reviewed journal articles, 6 student led, 21 first author
@@ -86,7 +84,10 @@ Butler, CJ, **Fournier, AMV**, Wilson, JK. 2021 [*Estimates of breeding season l
 
 **Fournier, AMV,** Lancaster, JD, Yetter, AP, Hine, CS, Beckerman, T, Figge, J, Gioe, A, Greider, M, Jen, D, Johnson, C, Larreur, M, Shaw, A, Wolter, K, Wood, M, Wu, D, O'Neal, B, Hagy, HM. 2021 [*Nest success and nest-site selection of wetland birds in a restored wetland system*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2021_ACEECO.pdf) **Avian Conservation and Ecology** 16:6. doi:10.5751/ACE-01782-160106  
 
-Saunders, SP, Wu, JX, Adams, E, Bateman, B, Bayard, T, Beilke, S, Dayer, A, **Fournier, AMV,** Fox, K, Gow, EA, Heglund, P, Lerman, SB, Michel, NL, Paxton, E, CekercioAlu, AH, Smith, MA, Thogmartin, W, Woodrey, MS, van Riper, C. 2021  [*Bridging the research-implementation gap in avian conservation with translational ecology.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Saunders%20et%20al%20Fournier%202021%20Ornithological%20Applications.pdf) **Ornithological Applications** (formerly The Condor) doi:10.1093/ornithapp/duab018
+Saunders, SP, Wu, JX, Adams, E, Bateman, B, Bayard, T, Beilke, S, Dayer, A, **Fournier, AMV,** Fox, K, Gow, EA, Heglund, P, Lerman, SB, Michel, NL, Paxton, E, CekercioAlu, AH, Smith, MA, Thogmartin, W, Woodrey, MS, van Riper, C. 2021  [*Bridging the research-implementation gap in avian conservation with translational ecology.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Saunders%20et%20al%20Fournier%202021%20Ornithological%20Applications.pdf) **Ornithological Applications** (formerly The Condor) doi:10.1093/ornithapp/duab018  
+
+> Honorable Mention for American Ornithological Society Harry R. Painton Award
+
 
 Bradshaw, TM `#`, Blake-Bradshaw, AG, **Fournier, AMV,** Lancaster, JD, O'Connell, J, Jacques, CN, Eicholtz, MW, Hagy, HM. 2020 [*Marsh bird occupancy of wetlands managed for waterfowl in the Midwestern USA*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228980) **PLoS ONE** 15(2): e0228980, doi:10.1371/journal.pone.0228980
 
@@ -101,7 +102,10 @@ Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A,
 
 **Fournier, AMV**, White, ER, Heard, SB. 2019 [*Site-selection bias can drive apparent population declines in long-term studies* ](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/FOurnier_et_al_2019_Con_Bio.pdf) **Conservation Biology** 33:1370-1379 doi:10.1111/cobi.13371
 
-**Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. 2019 [*Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundation*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2019_Waterbirds.pdf) **Waterbirds** 42:168-178 doi:10.1675/063.042.0203
+**Fournier, AMV,** Mengel, DC, Gbur, E, Raedeke, A, Krementz, D.G. 2019 [*Evaluating tradeoffs in the response of Sora and waterfowl to the timing of early autumn wetland inundation*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al_2019_Waterbirds.pdf) **Waterbirds** 42:168-178 doi:10.1675/063.042.0203  
+
+
+> Won 2020 BioOne Ambassador Award
 
 
 Ward, S, **Fournier, AMV,** Bond, AL. 2019 [*Assessing gaps in reporting non-target mortality in island rodent eradication operations*](https://link.springer.com/article/10.1007%2Fs10530-019-02032-7) **Biological Invasions** 21:3101-3108 doi:10.1007/s10530-019-02032-7
@@ -163,6 +167,14 @@ Yannuzzi, S, Beach, C, Kemink, K, **Fournier, AMV**, Ellis-Felege, S. 2023 [Fowl
 
 ## Current
 
+2023-2028 - The Nature Conservancy **PI** Monitoring of Key Attributes and Indicators of Waterbirds at The Nature Conservancy's Emiquon Preserve 320k
+
+2023-2024 - Illinois Department of Natural Resources **PI** Illinois Waterfowl Investigations FY24 560k
+
+2023-2026 - Illinois Department of Natural Resources **Co-PI** Evaluating the Impacts of Trematodiasis on Lesser Scaup Migration and Breeding Efforts 248k
+
+2023-2024 Illinois Dept Natural Resources **Co-PI**Ecology of non-breeding waterfowl in the Wabash River region 100k
+
 2022-2027 - USDA NRCS *Condition of Natural Resource Conservation Service Wetland Easements in Illinois* 582k
 
 2019-2024 NOAA RESTORE Science, **PI**, Fire Effects in Gulf of Mexico Tidal Marshes: Historical Perspectives, Management, and Monitoring of Mottled Ducks and Black Rails and Other High Marsh Birds 3.9 million  
@@ -171,15 +183,15 @@ Yannuzzi, S, Beach, C, Kemink, K, **Fournier, AMV**, Ellis-Felege, S. 2023 [Fowl
 
 2022-2024 Colorado Parks and Wildlife, **PI**, Black Rail Ecology in Colorado 160k
 
-2019-2023 The Nature Conservancy, **PI**, Monitoring of Key Attributes and Indicators of Waterbirds at The Nature Conservancy's Emiquon Preserve 167k  
+2020-2024 Florida Fish and Wildlife Conservation Commission, **PI**, True Metabolizable Energy of Southern Aquatic Waterfowl Foods 70k  
 
-2020-2023 Florida Fish and Wildlife Conservation Commission, **PI**, True Metabolizable Energy of Southern Aquatic Waterfowl Foods 70k  
+## Completed
 
 2022-2023 - Illinois Department of Natural Resources *Illinois Waterfowl Investigations FY23* 560k
 
 2022-2023 Illinois Dept Natural Resources *Ecology of non-breeding waterfowl in the Wabash River region* 100k
 
-## Completed
+2019-2023 The Nature Conservancy, **PI**, Monitoring of Key Attributes and Indicators of Waterbirds at The Nature Conservancy's Emiquon Preserve 167k  
 
 2019-2022 USFWS, **PI**, True Metabolizable Energy of Targeted and Unfavorable Seed Species in Waterfowl Management 59k 
 
@@ -303,7 +315,29 @@ Pietrunti, NF `#`, **Fournier, AMV,** Mateus-Pinilla, N, Nguyen, TH. Using Genot
 
 I am presenter when first author, and when otherwise indicated. 
 
-`#` graduate student mentee
+`#` graduate student mentee  
+
+Cremer, CA `#`, Avara, M, **Fournier, AMV,** Ward M. The Use of Motus Tracking System to Investigate the Migratory Behavior of Rails at a Local and Regional Scales. Midwest Fish and Wildlife Conference
+
+**Fournier, AMV,** Bradshaw, TM, Kross, CS, Gilbert, AD, Osborn, JM. Fall Rail Migratory Timing and Stopover Duration in the Illinois River Valley. Midwest Fish and Wildlife Conference
+
+Bradshaw, TM, Williams, MR, Hagy, HM, Lancaster, JD, Gilbert, AD, Kross, CS, Osborn, JM, Yetter, AP, **Fournier, AMV** True Metabolizable Energy of Moist Soil Seed Species in Waterfowl Management within the Midwest. Midwest Fish and Wildlife Conference
+
+Kross, CS, Yetter, AP, Gilbert, AD, Osborn, JM, Hine, CS, Lancaster, JD, Hagy, HM, **Fournier, AMV**  Survival of spring migrating green-winged teal and gadwall in the Illinois River Valley. Midwest Fish and Wildlife Conference
+
+Cremer, CA `#`, Avara, M, **Fournier, AMV,** Ward M. The Use of Motus Tracking System to Investigate the Migratory Behavior of Rails at a Local and Regional Scales. Wilson Ornithological Society Conference 2023
+
+Beach, CR `#`, Koop, JAH, **Fournier, AMV,** Evaluating the Impacts of Trematodiasis on Lesser Scaup Migration and Breeding Efforts. Wilson Ornithological Society Conference 2023
+
+Pietrunti, NF `#`, **Fournier, AMV,** Mateus-Pinilla, N, Nguyen, TH. 2022 Using Genotypic Methods to Assess Antimicrobial Resistance in the Fecal Microbiome of Resident Canada Geese (Branta canadensis).  Wilson Ornithological Society Conference 2023
+
+**Fournier, AMV,** Bauer, A, Brasher, M, Butler, C, Cheney, WC, Cooper, RJ, Conway, W, Cox, J, Enwright, NM, Evans, KO, Hondrick, K, Johnson, E, Kappes, P, Kross, C, Lancaster, J, Levy, H, Lueck, J, Lyons, JE, Monopoli, L, Moon, J, Nyman, JA, Rohli, R, Schwarzer, A, Soehren, E, Stantial, M, Thurman, HR, Vermillion, B, Wilson, J, Woodrey, MS. NOAA Firebird: Fire Effects in Gulf of Mexico Marshes on Mottled Ducks, Black and Yellow Rails.  Wilson Ornithological Society Conference 2023
+
+Kross, CS, Rohli, RV, Moon, JA, **Fournier, AMV,** Woodrey, MS, Nyman, JA. Preferred Atmospheric Circulations Associated with Favorable Prescribed Burns in the Gulf of Mexico Coast, U.S.A. Society of Wetland Scientists Conference. 
+
+Cremer, CA `#`, Avara, M, **Fournier, AMV,** Ward M. Investigating spring migration timing and stopover duration of Sora and Virginia Rail using automated telmetry. AOS SCO-SOC Joint Conference 2023
+
+Ward, M, Souza-Cole, I, Avara, M, Cremer, C, **Fournier, AMV,** Suckow, N, Vega-Reyes, F, Chapa-Vargas, L, Celis-Murillo, A, Stewart, S, Wotumslo. G. Activity patterns of birds as determined by automated radio telemetry: when, where and why birds become active. AOS SCO-SOC Joint Conference 2023
 
 Schmidt, SM`#`, Benson, TJ, Fournier, AMV, Osborn, J. 2022. The Effects of Water Drawdowns on Marsh Bird Nest Survival. Midwest F&W Conference. 
 
@@ -476,6 +510,15 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. 2017 Why most studied populat
 `#` graduate mentees
 `##` undergraduate mentees
 
+
+Pietrunti, NF `#`, **Fournier, AMV,** Mateus-Pinilla, N, Nguyen, TH. 2022 Using Genotypic Methods to Assess Antimicrobial Resistance in the Fecal Microbiome of Resident Canada Geese (Branta canadensis). Illinois Chapter of The Wildlife Society Meeting
+
+Pietrunti, NF `#`, **Fournier, AMV,** Mateus-Pinilla, N, Nguyen, TH. 2022 Using Genotypic Methods to Assess Antimicrobial Resistance in the Fecal Microbiome of Resident Canada Geese (Branta canadensis). Midwest Fish and Wildlife Conference. 
+
+Hargett, E `#`, Benson, TJ, Rossi, L, **Fournier, AMV**. Abundance of Eastern Black Rails in southeastern Colorado. Wilson Ornithological Society Conference 2023
+
+Schmit, J `#`, **Fournier, AMV**, Roberts, CP, Rowe, K. Breeding and migration ecology and distribution and abundance of Arkansas King Rails. Wilson Ornithological Society Conference 2023
+
 Cremer, CA `#`, Avara, M, **Fournier, AMV,** Ward, MP. 2022 The Use of Motus Tracking System to Investigate the Migratory Behavior of Rails at a Local and Regional Scales. Midwest F&W
 
 Gee, H, Shaw, M, Wallace, L, Bradsdhaw, TM, **Fournier, AMV,** Yetter, AP, Gilbert, AD, Osborn, JM, Lancaster, JD, Fournier, AMV. 2022 Blue-Winged Teal (Spatula discors) True Metabolizable Energy of Southern Wetland Foods. Midwest F&W
@@ -522,23 +565,23 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 
 # Student Committees
   
-2022-Present (Co-Adviser) Nora Hargett, MS Student, University of Illinois Urbana Champaign    
-2022-Present (Co-Adviser) Nicole Pietrunti, MS Student, University of Illinois Urbana Champaign  
-2022-Present (Co-Adviser) Jessica Schmit, MS Student, University of Arkansas Fayetteville    
 2021-Present (Co-Adviser) Cheyenne Beach, PhD student, Northern Illinois University  
 2021-Present (Co-Adviser) Chad Cremer, MS Student, University of Illinois Urbana Champaign  
 2021-Present (Co-Adviser) Lauren Monopoli, PhD Student, University of Illinois Urbana Champaign     
+2022-Present (Co-Adviser) Nora Hargett, MS Student, University of Illinois Urbana Champaign    
+2022-Present (Co-Adviser) Nicole Pietrunti, MS Student, University of Illinois Urbana Champaign  
+2022-Present (Co-Adviser) Jessica Schmit, MS Student, University of Arkansas Fayetteville    
 2022-Present Haley Holiman, MS Student, Tennessee Tech University  
-2022-Present Keith Andringa, PhD Student, Texas A&M University  
-2022-Present Samantha Garcia, MS Student, University of Illinois Urbana Champaign    
-2021-Present Anastasia Rahlin, PhD Student, University of Illinois Urbana Champaign      
-2019-Present Gabriel Habgrove, MS student, University of Arkansas Monticello          
-2020-2023 Susannah Halligan, MS Student, SUNY ESF   
+2022-Present Keith Andringa, PhD Student, Texas A&M University    
+2021-Present Anastasia Rahlin, PhD Student, University of Illinois Urbana Champaign  
+2021-2023 Samantha Garcia, MS Student, University of Illinois Urbana Champaign     
+2020-2023 Susannah Halligan, MS Student, SUNY ESF  
+2019-2023 Dustin Brewer, PhD Student, Central Michigan University   
 2020-2022 (Co-Adviser) Stephanie Schmidt, MS Student, University of Illinois Urbana Champaign  
 2020-2021 (Co-Adviser) Lauren Larson, MS Student, Western Illinois University    
-2020-2021 (Co-Adviser) Cheyenne Beach, MS Student, Western Illinois University      
-2019-2023 Dustin Brewer, PhD Student, Central Michigan University      
-2017-2019 Erin Lehnert, MS Student, University of Central Oklahoma      
+2020-2021 (Co-Adviser) Cheyenne Beach, MS Student, Western Illinois University    
+2017-2019 Erin Lehnert, MS Student, University of Central Oklahoma     
+   
 
 # Service 
 
@@ -549,6 +592,8 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA 
 --->
 
+
+2021-2023 **Second Vice President** Wilson Ornithological Society   
 2020-Present **Illinois Important Bird Areas Technical Committee**    
 2020-Present **Editorial Board** Waterbirds  
 2019-Present **Waterfowl Committee** Upper Miss/Great Lakes Joint Venture    
