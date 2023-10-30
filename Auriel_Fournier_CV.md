@@ -570,10 +570,10 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 2021-Present (Co-Adviser) Lauren Monopoli, PhD Student, University of Illinois Urbana Champaign     
 2022-Present (Co-Adviser) Nora Hargett, MS Student, University of Illinois Urbana Champaign    
 2022-Present (Co-Adviser) Nicole Pietrunti, MS Student, University of Illinois Urbana Champaign  
-2022-Present (Co-Adviser) Jessica Schmit, MS Student, University of Arkansas Fayetteville    
-2022-Present Haley Holiman, MS Student, Tennessee Tech University  
+2022-Present (Co-Adviser) Jessica Schmit, MS Student, University of Arkansas Fayetteville      
 2022-Present Keith Andringa, PhD Student, Texas A&M University    
-2021-Present Anastasia Rahlin, PhD Student, University of Illinois Urbana Champaign  
+2021-Present Anastasia Rahlin, PhD Student, University of Illinois Urbana Champaign    
+2022-2023 Haley Holiman, MS Student, Tennessee Tech University  
 2021-2023 Samantha Garcia, MS Student, University of Illinois Urbana Champaign     
 2020-2023 Susannah Halligan, MS Student, SUNY ESF  
 2019-2023 Dustin Brewer, PhD Student, Central Michigan University   
