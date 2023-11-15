@@ -46,12 +46,13 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-36 peer reviewed journal articles, 6 student led, 21 first author
+37 peer reviewed journal articles, 6 student led, 21 first author
 
 `#` graduate student 
 
 `##` undergraduate student    
 
+Enwright, NM, Cheyney, WC, Evans, KO, Thurman, HR, Woodrey, MS, **Fournier, AMV,** Moon, JA, Levy, H, Cox, J, Kappes, PJ, Nyman, AJ, Pitchford, JL. In Press *Mapping high marsh and salt pannes/flats along the northern Gulf of Mexico coast* **Geocarto International**
 
 Brewer, DE `#`, Gehring, TM, Garcia, MM, Shirkey, BT, Simpson, BW, **Fournier, AMV** 2023. [King Rail home range and microhabitat characteristics in western Lake Erie coastal marshes](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Brewer%20et%20al%20Fournier%202023%20-%20Ecology%20and%20Evolution%20-%202023%20-%20Brewer%20-%20King%20rail%20Rallus%20elegans%20home%20range%20and%20microhabitat%20characteristics%20in%20western.pdf) Ecology and Evolution 13:310043 doi: 10.1002/ece3.10043
 
