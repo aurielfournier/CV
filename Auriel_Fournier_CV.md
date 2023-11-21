@@ -645,8 +645,7 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA 
 --->
 
-
-2021-2023 **Second Vice President** Wilson Ornithological Society   
+2023-Present **Scientific Program Committee** North American Duck Symposium 9 
 2020-Present **Illinois Important Bird Areas Technical Committee**    
 2020-Present **Editorial Board** Waterbirds  
 2019-Present **Waterfowl Committee** Upper Miss/Great Lakes Joint Venture    
@@ -681,7 +680,10 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 
 
 
-# Professional Development  
+# Professional Development    
+
+2023 **Understanding Conflict and Planning for Successful Collaboration** – Udall Foundation  
+2023 **Women in STEM Leadership Program** – Alan Alda Center for Communicating Science    
 2018-9 **Decision Analysis Certification Program** Apprentice Level    
 2019 **Decision Analysis: Tools** NCTC   
 2019 **Decision Analysis: Elicitation and Facilitation** NCTC    
