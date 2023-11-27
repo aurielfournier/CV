@@ -45,7 +45,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-37 peer reviewed journal articles, 6 student led, 21 first author
+38 peer reviewed journal articles, 7 student led, 21 first author
 
 `#` graduate student 
 
@@ -53,13 +53,15 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 2023
 
-Enwright, NM, Cheyney, WC, Evans, KO, Thurman, HR, Woodrey, MS, **Fournier, AMV,** Moon, JA, Levy, H, Cox, J, Kappes, PJ, Nyman, AJ, Pitchford, JL. 2023 [*Mapping high marsh and salt pannes/flats along the northern Gulf of Mexico coast*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Enwright%20et%20al%20Fournier%202023%20Geocarto%20International.pdf) Geocarto International doi: 10.1080/10106049.2023.2285354
+Schmidt, SM `#`, **Fournier, AMV**, Osborn, JM, Benson, TJ. Accepted *Water Depth Influences Survival and Predator-Specific Patterns of Nest Loss in Three Secretive Marsh Bird Species* **Ecology and Evolution**
 
-Brewer, DE `#`, Gehring, TM, Garcia, MM, Shirkey, BT, Simpson, BW, **Fournier, AMV** 2023. [King Rail home range and microhabitat characteristics in western Lake Erie coastal marshes](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Brewer%20et%20al%20Fournier%202023%20-%20Ecology%20and%20Evolution%20-%202023%20-%20Brewer%20-%20King%20rail%20Rallus%20elegans%20home%20range%20and%20microhabitat%20characteristics%20in%20western.pdf) Ecology and Evolution 13:310043 doi: 10.1002/ece3.10043
+Enwright, NM, Cheyney, WC, Evans, KO, Thurman, HR, Woodrey, MS, **Fournier, AMV,** Moon, JA, Levy, H, Cox, J, Kappes, PJ, Nyman, AJ, Pitchford, JL. 2023 [*Mapping high marsh and salt pannes/flats along the northern Gulf of Mexico coast*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Enwright%20et%20al%20Fournier%202023%20Geocarto%20International.pdf) **Geocarto International** doi: 10.1080/10106049.2023.2285354
 
 Stantial, ML, Lawson, AJ, **Fournier, AMV,** Kappes, PJ, Kross, CS, Runge, MC, Woodrey, MS, Lyons, JE. 2023 [*Qualitative value of information provides a transparent and repeatable method for identifying critical uncertainty*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Stantial%20et%20al%20Fournier%202023%20Ecological%20Applications%20-%202023%20-%20Stantial%20-%20Qualitative%20value%20of%20information%20provides%20a%20transparent%20and%20repeatable%20method.pdf) **Ecological Applications** doi: 10.1002/eap.2824
 
 Kross, CS, Rohli, RV, Moon, JA, **Fournier, AMV,** Woodrey, MS, Nyman, JA. 2023. [*Preferred atmospheric circulations associated with favorable prescribed burns in the Gulf of Mexico coast,USA*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Kross%20et%20al%20Fournier%202023%20Fire%20Ecology.pdf) **Fire Ecology** doi: 10.1186/s42408-023-00169-4
+
+Brewer, DE `#`, Gehring, TM, Garcia, MM, Shirkey, BT, Simpson, BW, **Fournier, AMV** 2023. [King Rail home range and microhabitat characteristics in western Lake Erie coastal marshes](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Brewer%20et%20al%20Fournier%202023%20-%20Ecology%20and%20Evolution%20-%202023%20-%20Brewer%20-%20King%20rail%20Rallus%20elegans%20home%20range%20and%20microhabitat%20characteristics%20in%20western.pdf) **Ecology and Evolution** 13:310043 doi: 10.1002/ece3.10043
 
 **Fournier, AMV,** Wilson, RR, Gleason, JS, Adams, EM, Brush, JM, Cooper, RJ, DeMaso, SJ, Driscoll, MJL, Frederick, PC, Jodice, PGR, Ottinger, MA, Reeves, DB, Seymour, MA, Sharuga, SM, Tirpak, JM, Vermillion, WG, Zenzal, TJ, Lyons, JE, Woodrey, MS. 2023. [*Structured Decision Making To Prioritize Regional Bird Monitoring Needs*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%202023%20GoMAMN%20Case%20Study%20INFORMS.pdf) **INFORMS Journal on Applied Analytics** doi: 10.1287/inte.2022.1154
 
