@@ -53,7 +53,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 2023
 
-Schmidt, SM `#`, **Fournier, AMV**, Osborn, JM, Benson, TJ. Accepted *Water Depth Influences Survival and Predator-Specific Patterns of Nest Loss in Three Secretive Marsh Bird Species* **Ecology and Evolution**
+Schmidt, SM `#`, **Fournier, AMV**, Osborn, JM, Benson, TJ. 2023 [*Water Depth Influences Survival and Predator-Specific Patterns of Nest Loss in Three Secretive Marsh Bird Species*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Schmidt%20et%20al.%20Fournier%202023%20Ecology%20and%20Evolution.pdf) **Ecology and Evolution** 13:e10823.
 
 Enwright, NM, Cheyney, WC, Evans, KO, Thurman, HR, Woodrey, MS, **Fournier, AMV,** Moon, JA, Levy, H, Cox, J, Kappes, PJ, Nyman, AJ, Pitchford, JL. 2023 [*Mapping high marsh and salt pannes/flats along the northern Gulf of Mexico coast*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Enwright%20et%20al%20Fournier%202023%20Geocarto%20International.pdf) **Geocarto International** doi: 10.1080/10106049.2023.2285354
 
