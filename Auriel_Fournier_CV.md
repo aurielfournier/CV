@@ -33,15 +33,8 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 **First Vice President** Wilson Ornithological Society 2023-Present
 
-**Technical Committee Member** Upper Mississippi River Great Lakes Joint Venture
+**Technical Committee Co-Chair** Upper Mississippi River Great Lakes Joint Venture
 
-**Past Chair** Gulf of Mexico Avian Monitoring Network 2023-Present
-
-**Subject Editor** Avian Conservation & Ecology - 2019-Present
-
-**Associate Editor** Wilson Journal of Ornithology - 2021-Present
-
-**Subject Editor** Illinois Natural History Survey Bulletin 2019-Present
 
 # __Peer-Reviewed Publications__  
 
@@ -623,11 +616,11 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
   
 2021-Present (Co-Adviser) Cheyenne Beach, PhD student, Northern Illinois University  
 2021-Present (Co-Adviser) Chad Cremer, MS Student, University of Illinois Urbana Champaign  
-2021-Present (Co-Adviser) Lauren Monopoli, PhD Student, University of Illinois Urbana Champaign     
+2021-Present (Co-Adviser) Lauren Monopoli, PhD Candidate, University of Illinois Urbana Champaign     
 2022-Present (Co-Adviser) Nora Hargett, MS Student, University of Illinois Urbana Champaign    
 2022-Present (Co-Adviser) Nicole Pietrunti, MS Student, University of Illinois Urbana Champaign  
 2022-Present (Co-Adviser) Jessica Schmit, MS Student, University of Arkansas Fayetteville      
-2021-Present Anastasia Rahlin, PhD Student, University of Illinois Urbana Champaign    
+2021-Present Anastasia Rahlin, PhD Candidate, University of Illinois Urbana Champaign    
 2022-2023 Haley Holiman, MS Student, Tennessee Tech University  
 2021-2023 Samantha Garcia, MS Student, University of Illinois Urbana Champaign     
 2020-2023 Susannah Halligan, MS Student, SUNY ESF  
@@ -647,14 +640,17 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA 
 --->
 
-2023-Present **Scientific Program Committee** North American Duck Symposium 9 
-2020-Present **Illinois Important Bird Areas Technical Committee**    
-2020-Present **Editorial Board** Waterbirds  
-2019-Present **Waterfowl Committee** Upper Miss/Great Lakes Joint Venture    
-2019-Present **Waterbirds Committee** Upper Miss/Great Lakes Joint Venture    
-2017-Present **Gulf of Mexico Avian Monitoring Network (GoMAMN) Coordination Committee**  
-2016-Present **Research Committee** Black Swamp Bird Observatory      
-2013-Present **Peer Reviewer** 13 journals   
+
+2023-Present **Past Chair** Gulf of Mexico Avian Monitoring Network  
+2019-Present **Subject Editor** Avian Conservation & Ecology  
+2019-Present **Waterfowl Committee** Upper Miss/Great Lakes Joint Venture      
+2019-Present **Waterbirds Committee** Upper Miss/Great Lakes Joint Venture      
+2017-Present **Gulf of Mexico Avian Monitoring Network (GoMAMN) Coordination Committee**    
+2016-Present **Research Committee** Black Swamp Bird Observatory        
+2013-Present **Peer Reviewer** 13 journals       
+2023-2024 **Scientific Program Committee** North American Duck Symposium 9  
+2021-2024 **Associate Editor** Wilson Journal of Ornithology  
+2019-2024 **Subject Editor** Illinois Natural History Survey Bulletin  
 2021-2023 **Second Vice President** Wilson Ornithological Society  
 2021-2023 **Chair** Gulf of Mexico Avian Monitoring Network   
 2018-2021 Co-Chair **Student/Early Professional Committee** Wilson Ornithological Society    
