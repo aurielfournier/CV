@@ -11,9 +11,10 @@ auriel@illinois.edu -  [aurielfournier.github.io](http://aurielfournier.github.i
 
 # __Professional Appointments & Education__
 
-**Director** [Forbes Biological Station](https://www.inhs.illinois.edu/fieldstations/forbes/)     
-**Assistant Research Scientist**  Illinois Natural History Survey   
-University of Illinois Urbana-Champaign - June 2019-Present  
+**Director** [Forbes Biological Station](https://www.inhs.illinois.edu/fieldstations/forbes/) June 2019-Present   
+**Associate Research Scientist**  Feb 2024-Present  
+**Assistant Research Scientist**  June 2019-Feb 2024      
+Illinois Natural History Survey, University of Illinois Urbana-Champaign 
     
 **Postdoctoral Researcher** - Mississippi State University - April 2017-May 2019  
 Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
