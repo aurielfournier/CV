@@ -317,6 +317,30 @@ Holiman, H, Kitaif, J.C., **Fournier, A.M.V.** Iglay, R., Woodrey, M.S. 2022. Es
 
 `#` graduate student mentee  
 
+2024  
+
+**Fournier, AMV,** Bauer, A, Brasher, M, Butler, C, Cheney, WC, Cooper, RJ, Conway, W, Cox, J, Enwright, NM, Evans, KO, Hondrick, K, Johnson, E,  Kross, C, Lancaster, J, Levy, H, Lueck, J, Lyons, JE, Monopoli, L, Moon, J, Nyman, JA, Rohli, R, Schwarzer, A, Soehren, E, Stantial, M, Thurman, HR, Vermillion, B, Wilson, J, Woodrey, MS. 2024 NOAA Firebird: Fire Effects in Gulf of Mexico Marshes on Mottled Ducks, Black and Yellow Rails. 9th North American Duck Symposium 
+
+Kross, CS, Rohli, RV, Moon, JA, **Fournier, AMV,** Woodrey, MS, Nyman, JA. 2024 Preferred Atmospheric Circulations Associated with Favorable Prescribed Burns in the Gulf of Mexico Coast, U.S.A. 9th North American Duck Symposium
+
+Halligan, S, Schummer, M, Lavretsky, P, **Fournier, AMV,** Davis, B, Downs, C. 2024. Morphology and food intake rate of wild and game farm Mallards. 9th North American Duck Symposium. 
+
+Bradshaw, TM, Williams, MR, Hagy, HM, Lancaster, JD, Gilbert, AD, Kross, CS, Osborn, JM, Yetter, AP, **Fournier, AMV.** 2024 True Metabolizable Energy of Moist Soil Seed Species in Waterfowl Management within the Midwest. 9th North American Duck Symposium. 
+
+Henson, JR, Guerrero, AS, Osborne, DC, Bradshaw, TM, Hagy, HM, **Fournier, AMV.** 2024. Development of Blood Metabolite Index for Mallards. 9th North American Duck Symposium. 
+
+Beach, C, Koop, J, **Fournier, AMV.** Effects of Surgically-Implanted GPS/GSM Transmitters on Captive Lesser Scaup (Aythya Affinis) Behavior and Breeding. 9th North American Duck Symposium. 
+
+Gilbert, AD, **Fournier, AMV,** Yetter, AP, Hine, CS, Osborn, JM, Kross, CS, Lancaster, JD. 2022. Postbreeding ecology of wood ducks in the Illinois River Valley. 9th North American Duck Symposium. 
+
+Dunham, K, Robinson, O, **Fournier, AMV,** Ringelman, R, Brasher, M. 2024. Application of eBird Data to Enhance Monitoring and Planning for Migratory Waterfowl 9th North American Duck Symposium. 
+
+**Fournier, AMV,** Bauer, A, Brasher, M, Butler, C, Cheney, WC, Cooper, RJ, Conway, W, Cox, J, Enwright, NM, Evans, KO, Hondrick, K, Johnson, E, Kross, C, Lancaster, J, Levy, H, Lueck, J, Lyons, JE, Monopoli, L, Moon, J, Nyman, JA, Rohli, R, Schwarzer, A, Soehren, E, Stantial, M, Thurman, HR, Vermillion, B, Wilson, J, Woodrey, MS. 2024 NOAA Firebird: Fire Effects in Gulf of Mexico Marshes on Mottled Ducks, Black and Yellow Rails. 2024 Gulf of Mexico Conference
+
+Evans, KO, Enwright, NM, Cheney, WC, Thurman, HR, **Fournier, AMV,** Woodrey, MS. 2024. 	Mapping High Marsh Systems across the Northern Gulf of Mexico. 2024 Gulf of Mexico Conference. 
+
+Stantial, M, Lawson, A, **Fournier, AMV,** Godar, A, Kross, C, Woodrey, MS, Lyons, J. 2024. Co-production of an Adaptive Management Framework for Prescribed Fire to Benefit Wildlife in Marsh Ecosystems of the Gulf of Mexico. 2024 Gulf of Mexico Conference. 
+
 2023
 
 Cremer, CA `#`, Avara, M, **Fournier, AMV,** Ward M. 2023 The Use of Motus Tracking System to Investigate the Migratory Behavior of Rails at a Local and Regional Scales. Midwest Fish and Wildlife Conference
@@ -613,6 +637,15 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 
 **Fournier, AMV,** Flaspohler, DJ, 2010 Habitat Classification and Biological Inventory of Pioneer Scout Reservation Undergraduate Research Expo 
 
+# Symposia Organized
+
+2024
+
+**Co-Organizer** "Managing a team with mental health in mind: clinical insights, current examples, and a community discussion of best paths forward." 9th North American Duck Symposium
+
+**Co-Organizer** "Coastal Bird Science Co-production: Management, Rehabilitation, and Resilience of Waterbird Rookery Islands and Beach Nesting Birds" 2024 Gulf of Mexico Conference
+
+
 # Student Committees
   
 2021-Present (Co-Adviser) Cheyenne Beach, PhD student, Northern Illinois University  
@@ -649,7 +682,9 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 2017-Present **Gulf of Mexico Avian Monitoring Network (GoMAMN) Coordination Committee**    
 2016-Present **Research Committee** Black Swamp Bird Observatory        
 2013-Present **Peer Reviewer** 13 journals       
-2023-2024 **Scientific Program Committee** North American Duck Symposium 9  
+2024 - **Student Travel Award Chair** 9th North American Duck Symposium
+2024 - **Student Presentation Judge Chair** 9th North American Duck Symposium
+2023-2024 **Scientific Program Committee** 9th North American Duck Symposium  
 2021-2024 **Associate Editor** Wilson Journal of Ornithology  
 2019-2024 **Subject Editor** Illinois Natural History Survey Bulletin  
 2021-2023 **Second Vice President** Wilson Ornithological Society  
