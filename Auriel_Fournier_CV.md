@@ -39,11 +39,16 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-38 peer reviewed journal articles, 7 student led, 21 first author
+39 peer reviewed journal articles, 8 student led, 21 first author
 
 `#` graduate student 
 
 `##` undergraduate student    
+
+2024
+
+
+Beach, CR `#`, Jacques, CN, Lancaster, JD, Osborne, DC, Yetter, AP, Cole, RA, Hagy, HM, **Fournier, AMV.** 2024. [Lessons learned from using wild-caught and captive-reared lesser scaup (Aythya affinis) in captive experiments](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Beach%20et%20al%20Fournier%202024%20Translational%20Animal%20Science.pdf) Translational Animal Science. 10.1093/tas/txae076
 
 2023
 
@@ -61,7 +66,7 @@ Brewer, DE `#`, Gehring, TM, Garcia, MM, Shirkey, BT, Simpson, BW, **Fournier, A
 
 Enwright, NM, Cheney, WC, Evans, KO, Thurman, HR, Woodrey, MS, **Fournier, AMV,** Gesh, DB, Pitchford, JL, Stoker, JM, Medeiros, SC. 2023. [*Elevation-based probabilistic mapping of irregularly flooded wetlands along the northern Gulf of Mexico coast*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Enwright%20et%20al%20Fournier%202023.pdf) **Remote Sensing of Environment** 287:113451 doi: 0.1016/j.rse.2023.113451
 
-**Fournier, AMV,** Bradshaw, TM, Hagy, HM, Shirkey, B. 2023. [*To improve existing marsh bird survey protocols, we need to evaluate closure assumptions*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%202022%20To%20improve%20existing%20marsh%20bird%20survey%20protocols%20we%20need%20to%20evaluate%20closure%20WSB.pdf) *Wildlife Society Bulletin* 43:e1410 doi: 10.1002/wsb.1410
+**Fournier, AMV,** Bradshaw, TM, Hagy, HM, Shirkey, B. 2023. [*To improve existing marsh bird survey protocols, we need to evaluate closure assumptions*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%202022%20To%20improve%20existing%20marsh%20bird%20survey%20protocols%20we%20need%20to%20evaluate%20closure%20WSB.pdf) **Wildlife Society Bulletin** 43:e1410 doi: 10.1002/wsb.1410
 
 2022
 
@@ -185,19 +190,20 @@ Yannuzzi, S, Beach, C, Kemink, K, **Fournier, AMV**, Ellis-Felege, S. 2023 [Fowl
 
 2023-2026 - Illinois Department of Natural Resources **Co-PI** Evaluating the Impacts of Trematodiasis on Lesser Scaup Migration and Breeding Efforts 248k
 
-2023-2024 Illinois Dept Natural Resources **Co-PI**Ecology of non-breeding waterfowl in the Wabash River region 100k
-
 2022-2027 - USDA NRCS *Condition of Natural Resource Conservation Service Wetland Easements in Illinois* 582k
 
-2019-2024 NOAA RESTORE Science, **PI**, Fire Effects in Gulf of Mexico Tidal Marshes: Historical Perspectives, Management, and Monitoring of Mottled Ducks and Black Rails and Other High Marsh Birds 3.9 million  
+2019-2025 NOAA RESTORE Science, **PI**, Fire Effects in Gulf of Mexico Tidal Marshes: Historical Perspectives, Management, and Monitoring of Mottled Ducks and Black Rails and Other High Marsh Birds 3.9 million  
+
+## Completed
+
+
+2023-2024 Illinois Dept Natural Resources **Co-PI**Ecology of non-breeding waterfowl in the Wabash River region 100k
 
 2021-2024 Arkansas Game and Fish Commission, **PI**, King Rail Ecology 171k
 
 2022-2024 Colorado Parks and Wildlife, **PI**, Black Rail Ecology in Colorado 160k
 
 2020-2024 Florida Fish and Wildlife Conservation Commission, **PI**, True Metabolizable Energy of Southern Aquatic Waterfowl Foods 70k  
-
-## Completed
 
 2022-2023 - Illinois Department of Natural Resources **PI** Illinois Waterfowl Investigations FY23 560k
 
