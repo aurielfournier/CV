@@ -47,8 +47,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 2024
 
-
-Beach, CR `#`, Jacques, CN, Lancaster, JD, Osborne, DC, Yetter, AP, Cole, RA, Hagy, HM, **Fournier, AMV.** 2024. [Lessons learned from using wild-caught and captive-reared lesser scaup (Aythya affinis) in captive experiments](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Beach%20et%20al%20Fournier%202024%20Translational%20Animal%20Science.pdf) Translational Animal Science. 10.1093/tas/txae076
+Beach, CR `#`, Jacques, CN, Lancaster, JD, Osborne, DC, Yetter, AP, Cole, RA, Hagy, HM, **Fournier, AMV.** 2024. [*Lessons learned from using wild-caught and captive-reared lesser scaup (Aythya affinis) in captive experiments*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Beach%20et%20al%20Fournier%202024%20Translational%20Animal%20Science.pdf) **Translational Animal Science** 10.1093/tas/txae076
 
 2023
 
@@ -654,13 +653,12 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 
 # Student Committees
   
-2021-Present (Co-Adviser) Cheyenne Beach, PhD student, Northern Illinois University  
-2021-Present (Co-Adviser) Chad Cremer, MS Student, University of Illinois Urbana Champaign  
 2021-Present (Co-Adviser) Lauren Monopoli, PhD Candidate, University of Illinois Urbana Champaign     
-2022-Present (Co-Adviser) Nora Hargett, MS Student, University of Illinois Urbana Champaign    
 2022-Present (Co-Adviser) Nicole Pietrunti, MS Student, University of Illinois Urbana Champaign  
-2022-Present (Co-Adviser) Jessica Schmit, MS Student, University of Arkansas Fayetteville      
-2021-Present Anastasia Rahlin, PhD Candidate, University of Illinois Urbana Champaign    
+2021-Present Anastasia Rahlin, PhD Candidate, University of Illinois Urbana Champaign      
+2022-2024 (Co-Adviser) Nora Hargett, MS Student, University of Illinois Urbana Champaign     
+2022-2024 (Co-Adviser) Jessica Schmit, MS Student, University of Arkansas Fayetteville  
+2021-2024 (Co-Adviser) Chad Cremer, MS Student, University of Illinois Urbana Champaign      
 2022-2023 Haley Holiman, MS Student, Tennessee Tech University  
 2021-2023 Samantha Garcia, MS Student, University of Illinois Urbana Champaign     
 2020-2023 Susannah Halligan, MS Student, SUNY ESF  
