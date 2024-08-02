@@ -326,6 +326,14 @@ Holiman, H, Kitaif, J.C., **Fournier, A.M.V.** Iglay, R., Woodrey, M.S. 2022. Es
 
 2024  
 
+**Fournier, AMV** 130 years of Forbes Biological Station. 2024 Joint Meeting of the Association of Field Ornithologists, Society of Canadian Ornithologists and Wilson Ornithological Society.   
+
+Osborn, JM, **Fournier, AMV,** Yetter, AP, Gilbert, A. Trends in Waterfowl and Habitat Restoration in the Illinois River Valley. 2024 Joint Meeting of the Association of Field Ornithologists, Society of Canadian Ornithologists and Wilson Ornithological Society.   
+
+Schmit, JM`#`, **Fournier, AMV,** Roberts, CP, Rowe, KR. Migration and Breeding Ecology of King Rails in Arkansas. 2024 Joint Meeting of the Association of Field Ornithologists, Society of Canadian Ornithologists and Wilson Ornithological Society.   
+
+Monopoli, L`#`, Benson, TJ, **Fournier, AMV,** Johnson, E, Kross, C, Lueck, J. Fire Effects on Breeding Marsh Bird Success with Implications for Eastern Black Rail. 2024 Joint Meeting of the Association of Field Ornithologists, Society of Canadian Ornithologists and Wilson Ornithological Society.   
+
 **Fournier, AMV,** Bauer, A, Brasher, M, Butler, C, Cheney, WC, Cooper, RJ, Conway, W, Cox, J, Enwright, NM, Evans, KO, Hondrick, K, Johnson, E,  Kross, C, Lancaster, J, Levy, H, Lueck, J, Lyons, JE, Monopoli, L, Moon, J, Nyman, JA, Rohli, R, Schwarzer, A, Soehren, E, Stantial, M, Thurman, HR, Vermillion, B, Wilson, J, Woodrey, MS. 2024 NOAA Firebird: Fire Effects in Gulf of Mexico Marshes on Mottled Ducks, Black and Yellow Rails. 9th North American Duck Symposium 
 
 Kross, CS, Rohli, RV, Moon, JA, **Fournier, AMV,** Woodrey, MS, Nyman, JA. 2024 Preferred Atmospheric Circulations Associated with Favorable Prescribed Burns in the Gulf of Mexico Coast, U.S.A. 9th North American Duck Symposium
@@ -336,7 +344,7 @@ Bradshaw, TM, Williams, MR, Hagy, HM, Lancaster, JD, Gilbert, AD, Kross, CS, Osb
 
 Henson, JR, Guerrero, AS, Osborne, DC, Bradshaw, TM, Hagy, HM, **Fournier, AMV.** 2024. Development of Blood Metabolite Index for Mallards. 9th North American Duck Symposium. 
 
-Beach, C, Koop, J, **Fournier, AMV.** Effects of Surgically-Implanted GPS/GSM Transmitters on Captive Lesser Scaup (Aythya Affinis) Behavior and Breeding. 9th North American Duck Symposium. 
+Beach, C`#`, Koop, J, **Fournier, AMV.** Effects of Surgically-Implanted GPS/GSM Transmitters on Captive Lesser Scaup (Aythya Affinis) Behavior and Breeding. 9th North American Duck Symposium. 
 
 Gilbert, AD, **Fournier, AMV,** Yetter, AP, Hine, CS, Osborn, JM, Kross, CS, Lancaster, JD. 2022. Postbreeding ecology of wood ducks in the Illinois River Valley. 9th North American Duck Symposium. 
 
@@ -569,6 +577,17 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. 2017 Why most studied populat
 
 `#` graduate mentees
 `##` undergraduate mentees
+
+2024
+
+Cremer, CA`#`, **Fournier, AMV,** Ward, M, Avara, M. Investigating Spring Migration Timing and Stopover Duration of Sora and Virginia Rail in Central Illinois using the Motus Tracking Network. 2024 Illinois Chapter of the Wildlife Society. 
+Cremer, CA`#`, **Fournier, AMV,** Ward, M, Avara, M. Investigating Spring Migration Timing and Stopover Duration of Sora and Virginia Rail in Central Illinois using the Motus Tracking Network. 2024 Joint meeting of the Association of Field Ornithologists, Society of Canadian Ornithologists and Wilson Ornithological Society. 
+
+Blake-Bradshaw, AG, Bradshaw, TM, Gilbert, AD, Osborn, JM, Beilke, EA, Kross, CS, **Fournier, AMV.** Influence of hunting pressure on dabbling duck behavior and departure from an autumn stopover. 2024 Joint meeting of the Association of Field Ornithologists, Society of Canadian Ornithologists and Wilson Ornithological Society. 
+
+Bradshaw, TM, Blake-Bradshaw, AG, Beilke, EA, Gilbert, AD, Kross, CS, Osborn, JM, **Fournier, AMV.** Testing the limits of Autonomous Recording Units (ARUs): A case study detecting waterfowl hunter shotgun shots in the Illinois River Valley. 2024 Joint meeting of the Association of Field Ornithologists, Society of Canadian Ornithologists and Wilson Ornithological Society. 
+
+Gilbert, AD, Yetter, AP, Hine, CS, Osborn, JM, Kross, CS, Lancaster, JD, **Fournier, AMV.** Postbreeding Ecology of Wood Ducks in the Illinois River Valley. 2024 Joint meeting of the Association of Field Ornithologists, Society of Canadian Ornithologists and Wilson Ornithological Society. 
 
 2023
 
