@@ -55,6 +55,8 @@ Schmidt, SM `#`,  Osborn, JM, Benson, TJ, **Fournier, AMV**. 2024. Post-Fledglin
 
 Monopoli, LF `#`, Johnson, E, Lueck, J, **Fournier, AMV,** Benson, TJ, Woodrey, MS. 2024. First documented evidence of Eastern Black Rail Breeding in Louisiana, USA. **Waterbirds** In Press
 
+Gilbert, AD, Yetter, AP, Hine, CS, Lancaster, JD, Osborn, JM, Kross, CC, **Fournier, AMV.** 2024.  Postbreeding ecology of wood ducks in the Illinois River Valley **Journal of Wildlife Management** In Press 
+
 2023
 
 Schmidt, SM `#`, **Fournier, AMV**, Osborn, JM, Benson, TJ. 2023 [*Water Depth Influences Survival and Predator-Specific Patterns of Nest Loss in Three Secretive Marsh Bird Species*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Schmidt%20et%20al.%20Fournier%202023%20Ecology%20and%20Evolution.pdf) **Ecology and Evolution** 13:e10823.
