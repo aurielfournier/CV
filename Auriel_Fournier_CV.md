@@ -39,7 +39,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-39 peer reviewed journal articles, 8 student led, 21 first author
+42 peer reviewed journal articles, 11 student led, 21 first author
 
 `#` graduate student 
 
