@@ -684,6 +684,7 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
   
 2021-Present (Co-Adviser) Lauren Monopoli, PhD Candidate, University of Illinois Urbana Champaign     
 2022-Present (Co-Adviser) Nicole Pietrunti, MS Student, University of Illinois Urbana Champaign  
+2024-Present (Co-Adviser) Scott Herman, MS Student, Northern Illinois University  
 2021-Present Anastasia Rahlin, PhD Candidate, University of Illinois Urbana Champaign      
 2022-2024 (Co-Adviser) Nora Hargett, MS Student, University of Illinois Urbana Champaign     
 2022-2024 (Co-Adviser) Jessica Schmit, MS Student, University of Arkansas Fayetteville  
