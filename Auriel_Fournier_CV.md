@@ -39,7 +39,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-44 peer reviewed journal articles, 12 student led, 21 first author
+45 peer reviewed journal articles, 12 student led, 21 first author
 
 `#` graduate student 
 
@@ -58,6 +58,9 @@ Monopoli, LF `#`, Johnson, E, Lueck, J, **Fournier, AMV,** Benson, TJ, Woodrey, 
 Gilbert, AD, Yetter, AP, Hine, CS, Lancaster, JD, Osborn, JM, Kross, CC, **Fournier, AMV.** 2024.  Postbreeding ecology of wood ducks in the Illinois River Valley **Journal of Wildlife Management** In Press 
 
 Larson, LD `#`, Jacques, CN, Lancaster, JD, Hagy, HM, Antea, MJ, **Fournier, AMV** 2024.  True metabolizable energy of foods consumed by lesser scaup (*Aythya affinis*) **Wildlife Society Bulletin** In Press
+
+Stantial, ML, **Fournier, AMV,** Lawson, AJ, Marcot, BG, Woodrey, MS, Lyons, JE. 2024. RE-ARMing Salt Marshes: A Resilience-Experimentalist Approach to Prescribed Fire and Bird Conservation in High Marshes of the Gulf of Mexico **Frontiers in Conservation Science** In Press
+
 
 2023
 
