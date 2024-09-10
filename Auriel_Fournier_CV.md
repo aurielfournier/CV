@@ -51,11 +51,11 @@ Beach, CR `#`, Jacques, CN, Lancaster, JD, Osborne, DC, Yetter, AP, Cole, RA, Ha
 
 Davis, O `#`, Molano-Flores, B, Li, YW,   Allen, ML, Mengelkoch, JM, Parkos, JJ, Porreca, AP, **Fournier, AMV,** Stodola, AP, Tiemann, J, Breid, J, Marcum, PB, Carroll-Cunningman, CJ, Janssen, ED, Ulaszek, EF, McIntyre, SM, Jog, S, Price, EPF, Nieset, J, Beveroth, T, Di Giovanni, A, Askren, RJ, Malanchuk, LJ, Duquette, JF, Dreslik, MJ, McElrath, TC, Taft, JB, Stodola, K, Malcom, J, Carter, A, Evansen, M, Gerber, L. 2024. [*Tracking Species Recovery Status to Improve Endangered Species Act Decisions*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Davis%20et%20al%20Fournier%202024%20Conservat%20Sci%20and%20Prac%20-%202024%20-%20Davis%20-%20Tracking%20species%20recovery%20status%20to%20improve%20U%20S%20endangered%20species%20act%20decisions.pdf) **Conservation Science and Practice**  10.111/csp2.13159  
 
+Gilbert, AD, Yetter, AP, Hine, CS, Lancaster, JD, Osborn, JM, Kross, CC, **Fournier, AMV.** 2024.  [*Postbreeding ecology of wood ducks in the Illinois River Valley*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Gilbert%20et%20al%20Fournier%202024%20J%20Wildl%20Manag%20-%202024%20-%20Gilbert%20-%20Postbreeding%20ecology%20of%20wood%20ducks%20in%20the%20Illinois%20River%20Valley.pdf) **Journal of Wildlife Management** doi:10.1002/jwmg.22670 
+
 Schmidt, SM `#`,  Osborn, JM, Benson, TJ, **Fournier, AMV**. 2024. Post-Fledgling survival and habitat use of juvenile Least Bitterns. **Wilson Journal of Ornithology** In Press
 
 Monopoli, LF `#`, Johnson, E, Lueck, J, **Fournier, AMV,** Benson, TJ, Woodrey, MS. 2024. First documented evidence of Eastern Black Rail Breeding in Louisiana, USA. **Waterbirds** In Press
-
-Gilbert, AD, Yetter, AP, Hine, CS, Lancaster, JD, Osborn, JM, Kross, CC, **Fournier, AMV.** 2024.  Postbreeding ecology of wood ducks in the Illinois River Valley **Journal of Wildlife Management** In Press 
 
 Larson, LD `#`, Jacques, CN, Lancaster, JD, Hagy, HM, Antea, MJ, **Fournier, AMV** 2024.  True metabolizable energy of foods consumed by lesser scaup (*Aythya affinis*) **Wildlife Society Bulletin** In Press
 
