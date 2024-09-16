@@ -53,13 +53,15 @@ Davis, O `#`, Molano-Flores, B, Li, YW,   Allen, ML, Mengelkoch, JM, Parkos, JJ,
 
 Gilbert, AD, Yetter, AP, Hine, CS, Lancaster, JD, Osborn, JM, Kross, CC, **Fournier, AMV.** 2024.  [*Postbreeding ecology of wood ducks in the Illinois River Valley*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Gilbert%20et%20al%20Fournier%202024%20J%20Wildl%20Manag%20-%202024%20-%20Gilbert%20-%20Postbreeding%20ecology%20of%20wood%20ducks%20in%20the%20Illinois%20River%20Valley.pdf) **Journal of Wildlife Management** doi:10.1002/jwmg.22670 
 
+Stantial, ML, **Fournier, AMV,** Lawson, AJ, Marcot, BG, Woodrey, MS, Lyons, JE. 2024. [*RE-ARMing Salt Marshes: A Resilience-Experimentalist Approach to Prescribed Fire and Bird Conservation in High Marshes of the Gulf of Mexico*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Stantial%20et%20al%20Fournier%202024%20Frontiers%20Conservation%20Science.pdf) **Frontiers in Conservation Science** 5 DOI:  10.3389/fcosc.2024.1426646 
+
+
 Schmidt, SM `#`,  Osborn, JM, Benson, TJ, **Fournier, AMV**. 2024. Post-Fledgling survival and habitat use of juvenile Least Bitterns. **Wilson Journal of Ornithology** In Press
 
 Monopoli, LF `#`, Johnson, E, Lueck, J, **Fournier, AMV,** Benson, TJ, Woodrey, MS. 2024. First documented evidence of Eastern Black Rail Breeding in Louisiana, USA. **Waterbirds** In Press
 
 Larson, LD `#`, Jacques, CN, Lancaster, JD, Hagy, HM, Antea, MJ, **Fournier, AMV** 2024.  True metabolizable energy of foods consumed by lesser scaup (*Aythya affinis*) **Wildlife Society Bulletin** In Press
 
-Stantial, ML, **Fournier, AMV,** Lawson, AJ, Marcot, BG, Woodrey, MS, Lyons, JE. 2024. RE-ARMing Salt Marshes: A Resilience-Experimentalist Approach to Prescribed Fire and Bird Conservation in High Marshes of the Gulf of Mexico **Frontiers in Conservation Science** In Press
 
 
 2023
