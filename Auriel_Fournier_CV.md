@@ -337,6 +337,14 @@ Holiman, H, Kitaif, J.C., **Fournier, A.M.V.** Iglay, R., Woodrey, M.S. 2022. Es
 
 2024  
 
+Halligan, S, Schummer, M, **Fournier, AMV,** Lavretsky, P, Davis, B. Morphology and Food Intake Rate of Wild and Game-farm Mallards. The Wildlife Society 2024. 
+
+Hargett, N, Benson, TJ, Rossi, L, **Fournier, AMV,** Abundance estimates of Eastern Black Rails in Southeastern Colorado. The Wildlife Society 2024. 
+
+**Fournier, AMV,** Michel, N, Adams, E, Darrah, A, Gleason, J, Grace, J, Johnson, E, Maness, T, Ottinger, M, Saunders, S, Zenzal, TJ. Co-Production of Key Information Gaps Around Beach-Nesting Bird Stewardship for In The Gulf of Mexico. The Wildlife Society 2024. 
+
+Lyons, JE, Stantial, M, Lawson, A, **Fournier, AMV,** Runge, MC, Woodrey, MS. Constructed Value of Information in the Context of Adaptive Management: Reducing Uncertainty About Prescribed Fire and Birds in Salt Marshes of the Gulf of Mexico. The Wildlife Society 2024. 
+
 **Fournier, AMV** 130 years of Forbes Biological Station. 2024 Joint Meeting of the Association of Field Ornithologists, Society of Canadian Ornithologists and Wilson Ornithological Society.   
 
 Osborn, JM, **Fournier, AMV,** Yetter, AP, Gilbert, A. Trends in Waterfowl and Habitat Restoration in the Illinois River Valley. 2024 Joint Meeting of the Association of Field Ornithologists, Society of Canadian Ornithologists and Wilson Ornithological Society.   
@@ -718,9 +726,10 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 2019-Present **Waterbirds Committee** Upper Miss/Great Lakes Joint Venture      
 2017-Present **Gulf of Mexico Avian Monitoring Network (GoMAMN) Coordination Committee**    
 2016-Present **Research Committee** Black Swamp Bird Observatory        
-2013-Present **Peer Reviewer** 13 journals       
-2024 - **Student Travel Award Chair** 9th North American Duck Symposium
-2024 - **Student Presentation Judge Chair** 9th North American Duck Symposium
+2024 - **Leadership Institute Mentor** The Wildlife Society  
+2024 - **Ask a Decision Analalyst Session Coach** The Wildlife Society    
+2024 - **Student Travel Award Chair** 9th North American Duck Symposium  
+2024 - **Student Presentation Judge Chair** 9th North American Duck Symposium  
 2023-2024 **Scientific Program Committee** 9th North American Duck Symposium  
 2021-2024 **Associate Editor** Wilson Journal of Ornithology  
 2019-2024 **Subject Editor** Illinois Natural History Survey Bulletin  
