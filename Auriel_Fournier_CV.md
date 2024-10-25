@@ -59,8 +59,7 @@ Larson, LD `#`, Jacques, CN, Lancaster, JD, Hagy, HM, Antea, MJ, **Fournier, AMV
 
 Schmidt, SM `#`,  Osborn, JM, Benson, TJ, **Fournier, AMV**. 2024. [*Post-Fledgling survival and habitat use of juvenile Least Bitterns.*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Schmidt%20et%20al%20Fournier%202024%20Wilson%20Journal%20of%20Ornithology.pdf) **Wilson Journal of Ornithology** DOI: 10.1676/23-00106
 
-Monopoli, LF `#`, Johnson, E, Lueck, J, **Fournier, AMV,** Benson, TJ, Woodrey, MS. 2024. First documented evidence of Eastern Black Rail Breeding in Louisiana, USA. **Waterbirds** In Press
-
+Monopoli, LF`#`, Johnson, E, Lueck, J, **Fournier, AMV,** Benson, TJ, Woodrey, MS. 2024. [First documented evidence of Eastern Black Rail Breeding in Louisiana, USA.](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Monopoli%20et%20al%20Fournier%202024%20Waterbirds.pdf) **Waterbirds** 47:1-5 doi:10.1675/063.047.0204
 
 2023
 
