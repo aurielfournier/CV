@@ -339,6 +339,14 @@ Holiman, H, Kitaif, J.C., **Fournier, A.M.V.** Iglay, R., Woodrey, M.S. 2022. Es
 
 `#` graduate student mentee  
 
+2025
+
+Monfils, M, Pierce, R, Barnes, K, Bielke, S, **Fournier, AMV,** Giese, E, Gorby, D, Hinickle, A, Malone, K, Rush, K, Shirkey, B, Williams, B. A framework to facilitate habitat conservation for marsh birds in the Midwest and Great Lakes regions. Midwest Fish and Wildlife Conference 2025. 
+
+**Fournier, AMV,** Cremer, C, Pietrunti, N, Avara, M, Bradshaw, T, Kross, C, Gilbert, A, Osborn, J, Ward, M. Sora and Virginia Rail Migratory Timing and Stopover Duration in the Illinois River Valley. Midwest Fish and Wildlife Conference 2025. 
+
+Blake-Bradshaw, A, Bradshaw, T, Gilbert, A, Osborn, J, Beilke, E, Kross, C, **Fournier, AMV.** Inter-specific differences in waterfowl response to hunting pressure and environmental conditions at an autumn stopover site. Midwest Fish and Wildlife Conference 2025. 
+
 2024  
 
 Halligan, S, Schummer, M, **Fournier, AMV,** Lavretsky, P, Davis, B. Morphology and Food Intake Rate of Wild and Game-farm Mallards. The Wildlife Society 2024. 
