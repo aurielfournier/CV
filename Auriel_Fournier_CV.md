@@ -50,7 +50,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 Halligan, SL `#`, Schummer, ML, **Fournier, AMV,** Lavretsky, PLA, Davis, JB, Downs, CJ, Musni, V. 2025. [*Morphological differences between wild and game-farm Mallard Ducks in North America*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Halligan%20et%20al.%20Fournier%202025%20Ibis%20-%20Morphological%20differences%20between%20wild%20and%20game%E2%80%90farm%20Mallards%20Anas%20platyrhynchos%20in%20North.pdf) **Ibis** 10.1111/ibi.13391
 
-Fuller, JF, Michel, NL, Adams, EM, Darrah, A, **Fournier, AMV,** Grace, J, Koczur, L, Kraft, BAC, Maness, TJ, Saunders, S, Taylor, C, Valentine, KL, Zenzal, TJ. In Press *Effectiveness of stewardship and management strategies to conserve coastal bird populations in the northern Gulf of Mexico: a literature review*
+Fuller, JF, Michel, NL, Adams, EM, Darrah, A, **Fournier, AMV,** Grace, J, Koczur, L, Kraft, BAC, Maness, TJ, Saunders, S, Taylor, C, Valentine, KL, Zenzal, TJ. 2025 [*Effectiveness of stewardship and management strategies to conserve coastal bird populations in the northern Gulf of Mexico: a literature review*](https://journal.afonet.org/vol96/iss1/art7/) 96: 10.5751/JFO-00612-960107
 
 2024
 
