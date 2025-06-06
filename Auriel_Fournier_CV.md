@@ -52,13 +52,15 @@ Halligan, SL `#`, Schummer, ML, **Fournier, AMV,** Lavretsky, PLA, Davis, JB, Do
 
 Fuller, JF, Michel, NL, Adams, EM, Darrah, A, **Fournier, AMV,** Grace, J, Koczur, L, Kraft, BAC, Maness, TJ, Saunders, S, Taylor, C, Valentine, KL, Zenzal, TJ. 2025 [*Effectiveness of stewardship and management strategies to conserve coastal bird populations in the northern Gulf of Mexico: a literature review*](https://journal.afonet.org/vol96/iss1/art7/) Journal of Field Ornithology 96: 10.5751/JFO-00612-960107
 
+Gilbert, AD, Yetter, AP, Hine, CS, Lancaster, JD, Osborn, JM, Kross, CC, **Fournier, AMV.** 2025.  [*Postbreeding ecology of wood ducks in the Illinois River Valley*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Gilbert%20et%20al%20Fournier%202024%20J%20Wildl%20Manag%20-%202024%20-%20Gilbert%20-%20Postbreeding%20ecology%20of%20wood%20ducks%20in%20the%20Illinois%20River%20Valley.pdf) **Journal of Wildlife Management** doi:10.1002/jwmg.22670 
+
+
 2024
 
 Beach, CR `#`, Jacques, CN, Lancaster, JD, Osborne, DC, Yetter, AP, Cole, RA, Hagy, HM, **Fournier, AMV.** 2024. [*Lessons learned from using wild-caught and captive-reared lesser scaup (Aythya affinis) in captive experiments*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Beach%20et%20al%20Fournier%202024%20Translational%20Animal%20Science.pdf) **Translational Animal Science** 10.1093/tas/txae076
 
 Davis, O `#`, Molano-Flores, B, Li, YW,   Allen, ML, Mengelkoch, JM, Parkos, JJ, Porreca, AP, **Fournier, AMV,** Stodola, AP, Tiemann, J, Breid, J, Marcum, PB, Carroll-Cunningman, CJ, Janssen, ED, Ulaszek, EF, McIntyre, SM, Jog, S, Price, EPF, Nieset, J, Beveroth, T, Di Giovanni, A, Askren, RJ, Malanchuk, LJ, Duquette, JF, Dreslik, MJ, McElrath, TC, Taft, JB, Stodola, K, Malcom, J, Carter, A, Evansen, M, Gerber, L. 2024. [*Tracking Species Recovery Status to Improve Endangered Species Act Decisions*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Davis%20et%20al%20Fournier%202024%20Conservat%20Sci%20and%20Prac%20-%202024%20-%20Davis%20-%20Tracking%20species%20recovery%20status%20to%20improve%20U%20S%20endangered%20species%20act%20decisions.pdf) **Conservation Science and Practice**  10.111/csp2.13159  
 
-Gilbert, AD, Yetter, AP, Hine, CS, Lancaster, JD, Osborn, JM, Kross, CC, **Fournier, AMV.** 2024.  [*Postbreeding ecology of wood ducks in the Illinois River Valley*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Gilbert%20et%20al%20Fournier%202024%20J%20Wildl%20Manag%20-%202024%20-%20Gilbert%20-%20Postbreeding%20ecology%20of%20wood%20ducks%20in%20the%20Illinois%20River%20Valley.pdf) **Journal of Wildlife Management** doi:10.1002/jwmg.22670 
 
 Stantial, ML, **Fournier, AMV,** Lawson, AJ, Marcot, BG, Woodrey, MS, Lyons, JE. 2024. [*RE-ARMing Salt Marshes: A Resilience-Experimentalist Approach to Prescribed Fire and Bird Conservation in High Marshes of the Gulf of Mexico*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Stantial%20et%20al%20Fournier%202024%20Frontiers%20Conservation%20Science.pdf) **Frontiers in Conservation Science** 5 DOI:  10.3389/fcosc.2024.1426646 
 
