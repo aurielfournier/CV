@@ -32,14 +32,14 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Professional Leadership__
 
-**First Vice President** Wilson Ornithological Society 2023-Present
+**President** Wilson Ornithological Society 2025-Present
 
 **Technical Committee Co-Chair** Upper Mississippi River Great Lakes Joint Venture
 
 
 # __Peer-Reviewed Publications__  
 
-47 peer reviewed journal articles, 13 student led, 21 first author
+48 peer reviewed journal articles, 14 student led, 21 first author
 
 `#` graduate student 
 
@@ -47,6 +47,8 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 
 2025 
+
+Beach, CR `#`, Koop, JAH, **Fournier, AMV** 2025 [Effects of surgically implanted intra-abdominal transmitters with external antennae on egg laying and behavior of captive-reared Lesser Scaup (*Aythya affinis*)](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Beach%20et%20al%20Fournier%202025%20Transmitter%20Effect%20WJO.pdf) **Wilson Journal of Ornithology** 10.1080/15594491.2025.2538257
 
 Halligan, SL `#`, Schummer, ML, **Fournier, AMV,** Lavretsky, PLA, Davis, JB, Downs, CJ, Musni, V. 2025. [*Morphological differences between wild and game-farm Mallard Ducks in North America*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Halligan%20et%20al.%20Fournier%202025%20Ibis%20-%20Morphological%20differences%20between%20wild%20and%20game%E2%80%90farm%20Mallards%20Anas%20platyrhynchos%20in%20North.pdf) **Ibis** 10.1111/ibi.13391
 
@@ -344,6 +346,8 @@ Holiman, H, Kitaif, J.C., **Fournier, A.M.V.** Iglay, R., Woodrey, M.S. 2022. Es
 `#` graduate student mentee  
 
 2025
+
+Monopoli, LF, Benson, TJ, **Fournier, AMV**, Johnson, E, Lueck, J. The Early Bird’s Edge: How Fire Frequency Shapes Nest Survival Across the Breeding Season. Wilson Ornithological Society Conference 2025
 
 Monfils, M, Pierce, R, Barnes, K, Bielke, S, **Fournier, AMV,** Giese, E, Gorby, D, Hinickle, A, Malone, K, Rush, K, Shirkey, B, Williams, B. A framework to facilitate habitat conservation for marsh birds in the Midwest and Great Lakes regions. Midwest Fish and Wildlife Conference 2025. 
 
@@ -741,7 +745,8 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 2019-Present **Waterfowl Committee** Upper Miss/Great Lakes Joint Venture      
 2019-Present **Waterbirds Committee** Upper Miss/Great Lakes Joint Venture      
 2017-Present **Gulf of Mexico Avian Monitoring Network (GoMAMN) Coordination Committee**    
-2016-Present **Research Committee** Black Swamp Bird Observatory        
+2016-Present **Research Committee** Black Swamp Bird Observatory          
+2023-2025 **First Vice President** Wilson Ornithological Society 
 2024 - **Leadership Institute Mentor** The Wildlife Society  
 2024 - **Ask a Decision Analalyst Session Coach** The Wildlife Society    
 2024 - **Student Travel Award Chair** 9th North American Duck Symposium  
