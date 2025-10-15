@@ -39,7 +39,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-48 peer reviewed journal articles, 14 student led, 21 first author
+49 peer reviewed journal articles, 15 student led, 21 first author
 
 `#` graduate student 
 
@@ -48,11 +48,13 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 2025 
 
+Beach, CR `#`, Jacques, CN, Lancaster, JD, Cole, RA, Hagy, HM, **Fournier, AMV** 2025 [*Selenium levels in lesser scaup (Aythya affinis) experimentally infected with Cyathocotyle bushiensis and Sphaeridiotrema spp *](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Beach%20et%20al%20Fournier%202025%20ACE%20ECO%20Scaup%20Heavy%20Metals.pdf) **Avian Conservation and Ecology** 20:9 doi:10.5751/ACE-02939-200209
+
 Beach, CR `#`, Koop, JAH, **Fournier, AMV** 2025 [Effects of surgically implanted intra-abdominal transmitters with external antennae on egg laying and behavior of captive-reared Lesser Scaup (*Aythya affinis*)](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Beach%20et%20al%20Fournier%202025%20Transmitter%20Effect%20WJO.pdf) **Wilson Journal of Ornithology** 10.1080/15594491.2025.2538257
 
 Halligan, SL `#`, Schummer, ML, **Fournier, AMV,** Lavretsky, PLA, Davis, JB, Downs, CJ, Musni, V. 2025. [*Morphological differences between wild and game-farm Mallard Ducks in North America*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Halligan%20et%20al.%20Fournier%202025%20Ibis%20-%20Morphological%20differences%20between%20wild%20and%20game%E2%80%90farm%20Mallards%20Anas%20platyrhynchos%20in%20North.pdf) **Ibis** 10.1111/ibi.13391
 
-Fuller, JF, Michel, NL, Adams, EM, Darrah, A, **Fournier, AMV,** Grace, J, Koczur, L, Kraft, BAC, Maness, TJ, Saunders, S, Taylor, C, Valentine, KL, Zenzal, TJ. 2025 [*Effectiveness of stewardship and management strategies to conserve coastal bird populations in the northern Gulf of Mexico: a literature review*](https://journal.afonet.org/vol96/iss1/art7/) Journal of Field Ornithology 96: 10.5751/JFO-00612-960107
+Fuller, JF, Michel, NL, Adams, EM, Darrah, A, **Fournier, AMV,** Grace, J, Koczur, L, Kraft, BAC, Maness, TJ, Saunders, S, Taylor, C, Valentine, KL, Zenzal, TJ. 2025 [*Effectiveness of stewardship and management strategies to conserve coastal bird populations in the northern Gulf of Mexico: a literature review*](https://journal.afonet.org/vol96/iss1/art7/) **Journal of Field Ornithology** 96: 10.5751/JFO-00612-960107
 
 Gilbert, AD, Yetter, AP, Hine, CS, Lancaster, JD, Osborn, JM, Kross, CC, **Fournier, AMV.** 2025.  [*Postbreeding ecology of wood ducks in the Illinois River Valley*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Gilbert%20et%20al%20Fournier%202024%20J%20Wildl%20Manag%20-%202024%20-%20Gilbert%20-%20Postbreeding%20ecology%20of%20wood%20ducks%20in%20the%20Illinois%20River%20Valley.pdf) **Journal of Wildlife Management** doi:10.1002/jwmg.22670 
 
@@ -715,7 +717,8 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
   
 2021-Present (Co-Adviser) Lauren Monopoli, PhD Candidate, University of Illinois Urbana Champaign     
 2024-Present (Co-Adviser) Scott Herman, PhD Student, Northern Illinois University    
-2025-Present (Co-Adviser) Anne Puchalsky, MS Student, University of Arkansas    
+2025-Present (Co-Adviser) Anne Puchalsky, MS Student, University of Arkansas  
+2025-Present Jasmine Weber-Pierson, PhD Student, Southern Illinois University    
 2021-Present Anastasia Rahlin, PhD Candidate, University of Illinois Urbana Champaign      
 2022-2024 (Co-Adviser) Nora Hargett, MS Student, University of Illinois Urbana Champaign     
 2022-2024 (Co-Adviser) Jessica Schmit, MS Student, University of Arkansas Fayetteville  
@@ -740,15 +743,15 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 --->
 
 
-2023-Present **Past Chair** Gulf of Mexico Avian Monitoring Network  
 2019-Present **Subject Editor** Avian Conservation & Ecology  
 2019-Present **Waterfowl Committee** Upper Miss/Great Lakes Joint Venture      
 2019-Present **Waterbirds Committee** Upper Miss/Great Lakes Joint Venture      
 2017-Present **Gulf of Mexico Avian Monitoring Network (GoMAMN) Coordination Committee**    
-2016-Present **Research Committee** Black Swamp Bird Observatory          
-2023-2025 **First Vice President** Wilson Ornithological Society 
+2016-Present **Research Committee** Black Swamp Bird Observatory            
+2023-2025 **Past Chair** Gulf of Mexico Avian Monitoring Network      
+2023-2025 **First Vice President** Wilson Ornithological Society   
 2024 - **Leadership Institute Mentor** The Wildlife Society  
-2024 - **Ask a Decision Analalyst Session Coach** The Wildlife Society    
+2024 - **Ask a Decision Analyst Session Coach** The Wildlife Society    
 2024 - **Student Travel Award Chair** 9th North American Duck Symposium  
 2024 - **Student Presentation Judge Chair** 9th North American Duck Symposium  
 2023-2024 **Scientific Program Committee** 9th North American Duck Symposium  
