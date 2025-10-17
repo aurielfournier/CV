@@ -39,7 +39,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-49 peer reviewed journal articles, 15 student led, 21 first author
+50 peer reviewed journal articles, 15 student led, 21 first author
 
 `#` graduate student 
 
@@ -47,6 +47,8 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 
 2025 
+
+Roberts, C.P., J. Novobilsky, P. Akpejeluh, L.L. Berry, M.J. Budd, M.C. Ferrara, L.A.P. LaBrie, L. Luther, V. Karki, D. Krementz, K. Rowe, M. Shaw, K. Wilson, and **A.M.V. Fournier.** 2025. [*Rallus elegans (king Rail) occupancy is stable, but habitat is in short supply in the Arkansas Delta*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Roberts%20et%20al.%20Fournier%202025%20Ornithological%20Applications.pdf) **Ornithological Applications** duaf061.
 
 Beach, CR `#`, Jacques, CN, Lancaster, JD, Cole, RA, Hagy, HM, **Fournier, AMV** 2025 [*Selenium levels in lesser scaup (Aythya affinis) experimentally infected with Cyathocotyle bushiensis and Sphaeridiotrema spp *](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Beach%20et%20al%20Fournier%202025%20ACE%20ECO%20Scaup%20Heavy%20Metals.pdf) **Avian Conservation and Ecology** 20:9 doi:10.5751/ACE-02939-200209
 
