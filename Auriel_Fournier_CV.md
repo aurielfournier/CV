@@ -39,7 +39,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-50 peer reviewed journal articles, 15 student led, 21 first author
+51 peer reviewed journal articles, 15 student led, 21 first author
 
 `#` graduate student 
 
@@ -47,6 +47,8 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 
 2025 
+
+Lamb, BD, Levy, HE, Beilke, EA, Kross, CS, Kappes, PJ, Sukkienik, MJ, Cox, JA, Wilson, JK, Woodrow, JO, Butler, MJ, Zenzal, TJ, **Fournier, AMV,** Woodrey, MS. In Review [*Variation in Detection Distance of Eastern Black Rail (Laterallus jamaicensis jamaicensis) Vocalizations by Autonomous Recording Units*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Lamb%20et%20al%20Fournier%202025%20Waterbirds.pdf) **Waterbirds** 48:1-13
 
 Roberts, C.P., J. Novobilsky, P. Akpejeluh, L.L. Berry, M.J. Budd, M.C. Ferrara, L.A.P. LaBrie, L. Luther, V. Karki, D. Krementz, K. Rowe, M. Shaw, K. Wilson, and **A.M.V. Fournier.** 2025. [*Rallus elegans (king Rail) occupancy is stable, but habitat is in short supply in the Arkansas Delta*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Roberts%20et%20al.%20Fournier%202025%20Ornithological%20Applications.pdf) **Ornithological Applications** duaf061.
 
@@ -788,7 +790,9 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 
 # Professional Development    
 
-2023 **Understanding Conflict and Planning for Successful Collaboration** – Udall Foundation  
+2025-6 **National Conservation Leadership Institute Fellow** Cohort 19  
+2024 **Leading EDGE** Parkland College   
+2023 **Understanding Conflict and Planning for Successful Collaboration** – Udall Foundation    
 2023 **Women in STEM Leadership Program** – Alan Alda Center for Communicating Science    
 2018-9 **Decision Analysis Certification Program** Apprentice Level    
 2019 **Decision Analysis: Tools** NCTC   
