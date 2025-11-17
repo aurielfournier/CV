@@ -11,10 +11,12 @@ auriel@illinois.edu -  [aurielfournier.github.io](http://aurielfournier.github.i
 
 # __Professional Appointments & Education__
 
-**Director** [Forbes Biological Station](https://www.inhs.illinois.edu/fieldstations/forbes/) June 2019-Present   
-**Associate Research Scientist**  Feb 2024-Present  
-**Assistant Research Scientist**  June 2019-Feb 2024      
-Illinois Natural History Survey, University of Illinois Urbana-Champaign 
+**Director** [Forbes Biological Station](https://www.inhs.illinois.edu/fieldstations/forbes/) June 2019-Present     
+
+> Illinois Natural History Survey, University of Illinois Urbana-Champaign   
+>**Associate Research Scientist**  Feb 2024-Present    
+>**Assistant Research Scientist**  June 2019-Feb 2024      
+
     
 **Postdoctoral Researcher** - Mississippi State University - April 2017-May 2019  
 Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
@@ -122,6 +124,8 @@ Saunders, SP, Wu, JX, Adams, E, Bateman, B, Bayard, T, Beilke, S, Dayer, A, **Fo
 
 > Honorable Mention for American Ornithological Society Harry R. Painton Award
 
+\newpage
+
 2020 
 
 Bradshaw, TM `#`, Blake-Bradshaw, AG, **Fournier, AMV,** Lancaster, JD, O'Connell, J, Jacques, CN, Eicholtz, MW, Hagy, HM. 2020 [*Marsh bird occupancy of wetlands managed for waterfowl in the Midwestern USA*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228980) **PLoS ONE** 15(2): e0228980, doi:10.1371/journal.pone.0228980
@@ -164,6 +168,8 @@ Ward, S, **Fournier, AMV,** Bond, AL. 2019 [*Assessing gaps in reporting non-tar
 **Fournier, AMV**, Krementz, DG. 2017 [*Nocturnal distance sampling all-terrain vehicle surveys for non-breeding rails*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2017-Wildlife_Society_Bulletin.pdf) **The Wildlife Society Bulletin** 41:151-156 doi:10.1002/wsb.745 
 
 **Fournier, AMV**, Sullivan, A, Bump, J, Perkins, M, Shieldcastle, MC, King, S. 2017 [*Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf) **Journal of Applied Ecology** 54:618-627 doi:10.1111/1365-2664.12723   
+
+\newpage
 
 2016
 
@@ -210,22 +216,31 @@ Yannuzzi, S, Beach, C, Kemink, K, **Fournier, AMV**, Ellis-Felege, S. 2023 [Fowl
 
 ## Current
 
+2025-2026 - Illinois Department of Natural Resources **PI** Illinois Waterfowl Investigations FY26 860k 
+
+2025-2026 Illinois Dept Natural Resources **Co-PI** Ecology of non-breeding waterfowl in the Wabash River region 100k  
+
 2023-2028 - NOAA RESTORE Science **Co-PI** Evaluating efficacy of stewardship actions for vulnerable Gulf of Mexico coastal birds through co-production between scientists and resource managers 60k
 
-2023-2026 - The Nature Conservancy **PI** Monitoring of Key Attributes and Indicators of Waterbirds at The Nature Conservancy's Emiquon Preserve 320k
+2023-2027 - Mississippi Flyway Council **PI** Pool 19 Scaup banding 85k
 
-2023-2024 - Illinois Department of Natural Resources **PI** Illinois Waterfowl Investigations FY24 560k
+2023-2026 - The Nature Conservancy **PI** Monitoring of Key Attributes and Indicators of Waterbirds at The Nature Conservancy's Emiquon Preserve 320k
 
 2023-2026 - Illinois Department of Natural Resources **Co-PI** Evaluating the Impacts of Trematodiasis on Lesser Scaup Migration and Breeding Efforts 248k
 
 2022-2027 - USDA NRCS *Condition of Natural Resource Conservation Service Wetland Easements in Illinois* 582k
 
-2019-2025 NOAA RESTORE Science, **PI**, Fire Effects in Gulf of Mexico Tidal Marshes: Historical Perspectives, Management, and Monitoring of Mottled Ducks and Black Rails and Other High Marsh Birds 3.9 million  
+2019-2026 NOAA RESTORE Science, **PI**, Fire Effects in Gulf of Mexico Tidal Marshes: Historical Perspectives, Management, and Monitoring of Mottled Ducks and Black Rails and Other High Marsh Birds 3.9 million  
 
 ## Completed
 
+2024-2025 - Illinois Department of Natural Resources **PI** Illinois Waterfowl Investigations FY25 560k 
 
-2023-2024 Illinois Dept Natural Resources **Co-PI**Ecology of non-breeding waterfowl in the Wabash River region 100k
+2024-2025 Illinois Dept Natural Resources **Co-PI** Ecology of non-breeding waterfowl in the Wabash River region 100k
+
+2023-2024 - Illinois Department of Natural Resources **PI** Illinois Waterfowl Investigations FY24 560k 
+
+2023-2024 Illinois Dept Natural Resources **Co-PI** Ecology of non-breeding waterfowl in the Wabash River region 100k
 
 2021-2024 Arkansas Game and Fish Commission, **PI**, King Rail Ecology 171k
 
@@ -286,7 +301,11 @@ Holiman, H, Kitaif, J.C., **Fournier, A.M.V.** Iglay, R., Woodrey, M.S. 2022. Es
 2009    **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological U
 
 # Invited Presentations
-
+  
+2024  
+**Invited Talk** Havana Spark Museum Exhibit  
+**Invited Talk** The Wetlands Initiative Board Meeting
+  
 2023   
 **Seminar** Illinois Natural History Survey  
 **Seminar** Western Illinois University
@@ -353,7 +372,19 @@ Holiman, H, Kitaif, J.C., **Fournier, A.M.V.** Iglay, R., Woodrey, M.S. 2022. Es
 
 2025
 
-Monopoli, LF, Benson, TJ, **Fournier, AMV**, Johnson, E, Lueck, J. The Early Bird’s Edge: How Fire Frequency Shapes Nest Survival Across the Breeding Season. Wilson Ornithological Society Conference 2025
+Beilke, E., Adams, P., Butler, M., Conway, W., Cox, J., Johnson, E., Levy, H., Lueck, J., Moon, J., Woodrey, M., **Fournier, AMV**. 2025. Vegetation structure predicts breeding Black Rail occupancy in coastal high marshes. Waterbird Society Conference 2025. 
+
+**Fournier, AMV.,** Novobilsky, J., Puchalsky, A., McCallie, J., Rowe, K., Roberts, C. 2025.  Working together to understand the King Rails of southeastern Arkansas: migration status and nesting ecology. Waterbird Society Conference 2025.   
+
+Stantial, M., Lawson, A., **Fournier, AMV.,** Kross, C., Woodrey, M., Lyons, J. 2025. Co-Production of an Adaptive Management Framework for Prescribed Fire to Benefit Wildlife in Marsh Ecosystems of the Gulf of Mexico. Waterbirds Society Conference 2025.   
+
+Blake-Bradshaw, A., Hargett, N., Benson, TJ., Rossi, L., Beilke, L., Levy, H., Cox, J., Wilson, J., Woodrow, J., Johnson, E., Lueck, J., Woodrey, M., **Fournier, AMV.** 2025. Using Autonomous Recording Units to monitor Eastern Black Rails (Laterallus jamaicensis jamaicensis). Waterbird Society Conference 2025.   
+
+Beilke, E., Adams, P., Butler, M., Conway, W., Cox, J., Johnson, E., Levy, H., Lueck, J., Moon, J., Woodrey, M., **Fournier, AMV**. 2025. Vegetation structure predicts breeding Black Rail occupancy in coastal high marshes.  American Ornithological Society Conference 2025.   
+
+Lamb, B., Levy, H., Beilke, E., Kross, C., Kappes, P., Sukiennik, M., Cox, J., Wilson, J., Woodrow, J., Butler, M., Zenzal, TJ., **Fournier, AMV., Woodrey, M. 2025. Variation in detection distance of eastern black rail (Laterallus jamaicensis jamaicensis) vocalizations by autonomous recording units. American Ornithological Society Conference 2025.   
+
+Monopoli, LF`#`, Benson, TJ, **Fournier, AMV**, Johnson, E, Lueck, J. The Early Bird’s Edge: How Fire Frequency Shapes Nest Survival Across the Breeding Season. Wilson Ornithological Society Conference 2025
 
 Monfils, M, Pierce, R, Barnes, K, Bielke, S, **Fournier, AMV,** Giese, E, Gorby, D, Hinickle, A, Malone, K, Rush, K, Shirkey, B, Williams, B. A framework to facilitate habitat conservation for marsh birds in the Midwest and Great Lakes regions. Midwest Fish and Wildlife Conference 2025. 
 
@@ -622,6 +653,12 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. 2017 Why most studied populat
 
 `#` graduate mentees
 `##` undergraduate mentees
+
+2025
+
+**Fournier, AMV.,** Cremer, C., Pietrunti, N., Avara, M., Bradshaw, T., Kross, C., Gilbert, A., Osborn, J., Ward, M. 2025. Use of MOTUS-tagged birds and stable isotopes to examine migration ecology of Sora and Virginia Rail. American Ornithological Society 2025. 
+
+Puchalsky, A.`#`, Roberts, C., **Fournier, AMV.,** 2025. Nest success and juvenile dispersal of King rail (Rallus elegans) in Southeastern Arkansas. Waterbird Society Conference 2025. 
 
 2024
 
