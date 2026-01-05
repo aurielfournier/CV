@@ -41,16 +41,20 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-51 peer reviewed journal articles, 15 student led, 21 first author
+52 peer reviewed journal articles, 16 student led, 21 first author
 
 `#` graduate student 
 
 `##` undergraduate student    
 
+2026
+
+Beach, CR `#`, **Fournier, AMV,** Lancaster, JD, Cole, RA, Hagy, HM, Jacques, CN. 2026. [*Physiological Impacts of Sublethal Cyathocotyle Bushiensis and Sphaeridiotrema Pseudoglobulus Infections in Captive Lesser Scaup*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Beach%20et%20al.%20Fournier%202026%20WJO.pdf) **Wilson Journal of Ornithology** 10.1080/15594491.2025.2597098
+
 
 2025 
 
-Lamb, BD, Levy, HE, Beilke, EA, Kross, CS, Kappes, PJ, Sukkienik, MJ, Cox, JA, Wilson, JK, Woodrow, JO, Butler, MJ, Zenzal, TJ, **Fournier, AMV,** Woodrey, MS. In Review [*Variation in Detection Distance of Eastern Black Rail (Laterallus jamaicensis jamaicensis) Vocalizations by Autonomous Recording Units*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Lamb%20et%20al%20Fournier%202025%20Waterbirds.pdf) **Waterbirds** 48:1-13
+Lamb, BD, Levy, HE, Beilke, EA, Kross, CS, Kappes, PJ, Sukkienik, MJ, Cox, JA, Wilson, JK, Woodrow, JO, Butler, MJ, Zenzal, TJ, **Fournier, AMV,** Woodrey, MS. 2025 [*Variation in Detection Distance of Eastern Black Rail (Laterallus jamaicensis jamaicensis) Vocalizations by Autonomous Recording Units*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Lamb%20et%20al%20Fournier%202025%20Waterbirds.pdf) **Waterbirds** 48:1-13
 
 Roberts, C.P., J. Novobilsky, P. Akpejeluh, L.L. Berry, M.J. Budd, M.C. Ferrara, L.A.P. LaBrie, L. Luther, V. Karki, D. Krementz, K. Rowe, M. Shaw, K. Wilson, and **A.M.V. Fournier.** 2025. [*Rallus elegans (king Rail) occupancy is stable, but habitat is in short supply in the Arkansas Delta*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Roberts%20et%20al.%20Fournier%202025%20Ornithological%20Applications.pdf) **Ornithological Applications** duaf061.
 
@@ -124,8 +128,6 @@ Saunders, SP, Wu, JX, Adams, E, Bateman, B, Bayard, T, Beilke, S, Dayer, A, **Fo
 
 > Honorable Mention for American Ornithological Society Harry R. Painton Award
 
-\newpage
-
 2020 
 
 Bradshaw, TM `#`, Blake-Bradshaw, AG, **Fournier, AMV,** Lancaster, JD, O'Connell, J, Jacques, CN, Eicholtz, MW, Hagy, HM. 2020 [*Marsh bird occupancy of wetlands managed for waterfowl in the Midwestern USA*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228980) **PLoS ONE** 15(2): e0228980, doi:10.1371/journal.pone.0228980
@@ -168,8 +170,6 @@ Ward, S, **Fournier, AMV,** Bond, AL. 2019 [*Assessing gaps in reporting non-tar
 **Fournier, AMV**, Krementz, DG. 2017 [*Nocturnal distance sampling all-terrain vehicle surveys for non-breeding rails*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2017-Wildlife_Society_Bulletin.pdf) **The Wildlife Society Bulletin** 41:151-156 doi:10.1002/wsb.745 
 
 **Fournier, AMV**, Sullivan, A, Bump, J, Perkins, M, Shieldcastle, MC, King, S. 2017 [*Combining citizen science species distribution models and stable isotopes reveals migratory connectivity in the secretive Virginia rail*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%20et%20al.%20-%202016%20-%20Journal%20of%20Applied%20Ecology.pdf) **Journal of Applied Ecology** 54:618-627 doi:10.1111/1365-2664.12723   
-
-\newpage
 
 2016
 
