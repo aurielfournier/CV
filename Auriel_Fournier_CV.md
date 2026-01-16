@@ -41,7 +41,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-52 peer reviewed journal articles, 16 student led, 21 first author
+54 peer reviewed publications, 17 student led, 21 first author
 
 `#` graduate student 
 
@@ -49,7 +49,10 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 2026
 
-Beach, CR `#`, **Fournier, AMV,** Lancaster, JD, Cole, RA, Hagy, HM, Jacques, CN. 2026. [*Physiological Impacts of Sublethal Cyathocotyle Bushiensis and Sphaeridiotrema Pseudoglobulus Infections in Captive Lesser Scaup*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Beach%20et%20al.%20Fournier%202026%20WJO.pdf) **Wilson Journal of Ornithology** 10.1080/15594491.2025.2597098
+Beach, CR `#`, **Fournier, AMV,** Lancaster, JD, Cole, RA, Hagy, HM, Jacques, CN. 2026. [*Physiological Impacts of Sublethal Cyathocotyle Bushiensis and Sphaeridiotrema Pseudoglobulus Infections in Captive Lesser Scaup*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Beach%20et%20al.%20Fournier%202026%20WJO.pdf) **Wilson Journal of Ornithology** 10.1080/15594491.2025.2597098  
+
+Hargett, EM `#`, Benson, TJ, Rossi, L, **Fournier, AMV** 2026 [*Abundance estimates of Eastern Black Rails in Southeastern Colorado*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Hargett%20et%20al.%20Fournier%202026%20CO%20Black%20Rail%20Abundance.pdf) **Wildlife Society Bulletin** 10.1002/wsb.70021
+
 
 
 2025 
@@ -66,7 +69,9 @@ Halligan, SL `#`, Schummer, ML, **Fournier, AMV,** Lavretsky, PLA, Davis, JB, Do
 
 Fuller, JF, Michel, NL, Adams, EM, Darrah, A, **Fournier, AMV,** Grace, J, Koczur, L, Kraft, BAC, Maness, TJ, Saunders, S, Taylor, C, Valentine, KL, Zenzal, TJ. 2025 [*Effectiveness of stewardship and management strategies to conserve coastal bird populations in the northern Gulf of Mexico: a literature review*](https://journal.afonet.org/vol96/iss1/art7/) **Journal of Field Ornithology** 96: 10.5751/JFO-00612-960107
 
-Gilbert, AD, Yetter, AP, Hine, CS, Lancaster, JD, Osborn, JM, Kross, CC, **Fournier, AMV.** 2025.  [*Postbreeding ecology of wood ducks in the Illinois River Valley*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Gilbert%20et%20al%20Fournier%202024%20J%20Wildl%20Manag%20-%202024%20-%20Gilbert%20-%20Postbreeding%20ecology%20of%20wood%20ducks%20in%20the%20Illinois%20River%20Valley.pdf) **Journal of Wildlife Management** doi:10.1002/jwmg.22670 
+Gilbert, AD, Yetter, AP, Hine, CS, Lancaster, JD, Osborn, JM, Kross, CC, **Fournier, AMV.** 2025.  [*Postbreeding ecology of wood ducks in the Illinois River Valley*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Gilbert%20et%20al%20Fournier%202024%20J%20Wildl%20Manag%20-%202024%20-%20Gilbert%20-%20Postbreeding%20ecology%20of%20wood%20ducks%20in%20the%20Illinois%20River%20Valley.pdf) **Journal of Wildlife Management** doi:10.1002/jwmg.22670   
+
+Cox, JA, Beilke, EA, **Fournier, AMV**, Johnson, EI, Kalasz, KS, Kross, CS, Lamb, BD, Lancaster, JD, Levy, HE, Monopoli, LF, Nyman, JA, Wilson, JK, Woodrey, MS. 2025. *Burning For Birds: A Manual for the Application of Prescribed Fire in High Marshes of the Northern Gulf Coast.* **INHS Special Publication** 33. https://www.ideals.illinois.edu/items/137934
 
 
 2024
@@ -301,6 +306,14 @@ Holiman, H, Kitaif, J.C., **Fournier, A.M.V.** Iglay, R., Woodrey, M.S. 2022. Es
 2009    **Woman of Promise** - School of Forest Resources and Envi. Science - Michigan Technological U
 
 # Invited Presentations
+
+
+2025  
+
+**Invited Talk** Kellogg Bird Sanctuary  
+**Seminar** University of Wisconsin Stevens Point  
+**Invited Talk** The Biggest Week in American Birding Festival  
+
   
 2024  
 **Invited Talk** Havana Spark Museum Exhibit  
