@@ -49,9 +49,9 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 2026
 
-Beach, CR `#`, **Fournier, AMV,** Lancaster, JD, Cole, RA, Hagy, HM, Jacques, CN. 2026. [*Physiological Impacts of Sublethal Cyathocotyle Bushiensis and Sphaeridiotrema Pseudoglobulus Infections in Captive Lesser Scaup*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Beach%20et%20al.%20Fournier%202026%20WJO.pdf) **Wilson Journal of Ornithology** 10.1080/15594491.2025.2597098  
+Beach, CR `#`, **Fournier, AMV,** Lancaster, JD, Cole, RA, Hagy, HM, Jacques, CN. 2026. [*Physiological Impacts of Sublethal Cyathocotyle Bushiensis and Sphaeridiotrema Pseudoglobulus Infections in Captive Lesser Scaup*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Beach%20et%20al.%20Fournier%202026%20WJO.pdf) **Wilson Journal of Ornithology** doi:10.1080/15594491.2025.2597098  
 
-Hargett, EM `#`, Benson, TJ, Rossi, L, **Fournier, AMV** 2026 [*Abundance estimates of Eastern Black Rails in Southeastern Colorado*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Hargett%20et%20al.%20Fournier%202026%20CO%20Black%20Rail%20Abundance.pdf) **Wildlife Society Bulletin** 10.1002/wsb.70021
+Hargett, EM `#`, Benson, TJ, Rossi, L, **Fournier, AMV** 2026 [*Abundance estimates of Eastern Black Rails in Southeastern Colorado*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Hargett%20et%20al.%20Fournier%202026%20CO%20Black%20Rail%20Abundance.pdf) **Wildlife Society Bulletin** 50:e70021 doi:10.1002/wsb.70021
 
 
 
