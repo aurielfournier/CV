@@ -41,13 +41,15 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-54 peer reviewed publications, 17 student led, 21 first author
+55 peer reviewed publications, 17 student led, 21 first author
 
 `#` graduate student 
 
 `##` undergraduate student    
 
 2026
+
+Brewer, DE, Webb, EB, McCallie, J, Novobilsky, J, **Fournier, AMV,** Roberts, CP, Mini, AE, McKnight, SK. 2026 [*Locations and management strategies for prioritizing King Rail conservation efforts in the Mississippi Alluvial Valley*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Brewer%20et%20al%20Fournier%202026.%20Ecol%20Sol%20and%20Evidence%20-%202026%20-%20Brewer%20-%20Locations%20and%20management%20strategies%20for%20prioritizing%20King%20Rail%20conservation%20efforts.pdf) **Ecological Solutions and Evidence** 7:e70233 doi:10.1002/2688-8319.70233
 
 Beach, CR `#`, **Fournier, AMV,** Lancaster, JD, Cole, RA, Hagy, HM, Jacques, CN. 2026. [*Physiological Impacts of Sublethal Cyathocotyle Bushiensis and Sphaeridiotrema Pseudoglobulus Infections in Captive Lesser Scaup*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Beach%20et%20al.%20Fournier%202026%20WJO.pdf) **Wilson Journal of Ornithology** doi:10.1080/15594491.2025.2597098  
 
