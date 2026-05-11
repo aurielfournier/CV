@@ -385,6 +385,23 @@ Holiman, H, Kitaif, J.C., **Fournier, A.M.V.** Iglay, R., Woodrey, M.S. 2022. Es
 
 `#` graduate student mentee  
 
+2026
+
+Adams, EM, **Fournier, AMV,** Manness, T. 2026. GoMAMN: Research and monitoring prioritization for Gulf birds through co-production. Gulf Conference 2026
+
+Michel, N., Grimm, K., Dayer, AA., Adams, EM., **Fournier, AMV,** Saunders, S., Zenzalk TJ. 2026. Optimizing coastal bird conservation and management on the Gulf Coast through co-produced research and structured decision making (SDM). Gulf Conference 2026. 
+
+Beilke, EA, Blake-Bradshaw, AG, Lamb, BD, Levy, HE, Kross, CE, Kappes, PJ, Sukiennik, MJ, Cox, JA, Wilson, JK, Woodrowy, JO, Butler, MJ, Zenzal, TJ, Johnson, EI, Lueck, JT, Hargett, N, Benson, TJ, Rossi, L, Correll, M, Loring, P, Faulhaber, C, Woodrey, MS, **Fournier, AMV** 2026. Using Autonomous Recording Units to monitor Eastern Black Rails (Laterallus jamaicensis jamaicensis): Lessons learned and future directions. Gulf Conference 2026. 
+
+Woodrey, MS, Cox, JA, Beilke, EA, **Fournier, AMV**, Johnson, EI, Kalasz, KS, Kross, CS, Lamb, BD, Lancaster, JD, Levy, HE, Monopoli, LF, Nyman, JA, Wilson, JK. 2026. *Burning For Birds: A Manual for the Application of Prescribed Fire in High Marshes of the Northern Gulf Coast.* Gulf Conference 2026. 
+
+**Fournier, AMV,** Beilke, EA, Butler, C, Cheney, W, Cooper, RJ, Conway, W, Cox, JA, Deichmann, P, Dobbs, R, Enloe, C, Enwright, N, Evans, K, Faulhaber, C, Johnson, EI, Kross, CS, Lamb, B, Lancaster, J, LEvy, H, Lueck, J, Lyons, JE, Monopoli, L, Moon, J, Nyman, JA, Plsynski, J, Richardson, K, Rohli, RV, Schwarzer, A, Soehern, E, Stantial, M, Thurman, H, Vermillion, W, Wilson, J, Woodrey, MS. 2026. Firebird: Co-Production of Prescribed Fire Science in High Marsh, Lessons Learned and Next Directions. Gulf Conference. 
+
+Henson, S, `#` Koop, J, **Fournier, AMV,** Sedinger, B. 2026. The Sub-lethal Effects of Invasive Parasites on the Migratory Behavior of Lesser Scaup (Aythya affinis). Illinois Chapter of the Wildlife Society. 
+
+**Fournier, AMV,** Novobilsky, J, Puchalsky, A, McCallie, J, Rowe, K, Roberts, CP. 2026. Co-producing King Rail Science – Working together across geographies and projects. Illinois Chapter of The Wildlife Society 
+
+
 2025
 
 Beilke, E., Adams, P., Butler, M., Conway, W., Cox, J., Johnson, E., Levy, H., Lueck, J., Moon, J., Woodrey, M., **Fournier, AMV**. 2025. Vegetation structure predicts breeding Black Rail occupancy in coastal high marshes. Waterbird Society Conference 2025. 
@@ -668,6 +685,12 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. 2017 Why most studied populat
 
 `#` graduate mentees
 `##` undergraduate mentees
+
+2026
+
+Beilke, EA, Askren, R, Sharp, C, Ward, M, Blake-Bradshaw, A, Bradshaw, T, Gilbert, A, Osborn, J, **Fournier, AMV.** 2026. Impacts of nest removal and failure on Canada Goose molt migration and mortality. Illinois Chapter of the Wildlife Society. 
+
+Gilbert, AD, Osborn, JM, Hine, CS, **Fournier, AMV.** Nesting Ecology of Secretive Marshbirds at Emiquon Preserve. Illinois Chapter of the Wildlife Society. 
 
 2025
 
