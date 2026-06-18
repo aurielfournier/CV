@@ -41,7 +41,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-55 peer reviewed publications, 17 student led, 21 first author
+56 peer reviewed publications, 17 student led, 21 first author
 
 `#` graduate student 
 
@@ -54,6 +54,8 @@ Brewer, DE, Webb, EB, McCallie, J, Novobilsky, J, **Fournier, AMV,** Roberts, CP
 Beach, CR `#`, **Fournier, AMV,** Lancaster, JD, Cole, RA, Hagy, HM, Jacques, CN. 2026. [*Physiological Impacts of Sublethal Cyathocotyle Bushiensis and Sphaeridiotrema Pseudoglobulus Infections in Captive Lesser Scaup*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Beach%20et%20al.%20Fournier%202026%20WJO.pdf) **Wilson Journal of Ornithology** doi:10.1080/15594491.2025.2597098  
 
 Hargett, EM `#`, Benson, TJ, Rossi, L, **Fournier, AMV** 2026 [*Abundance estimates of Eastern Black Rails in Southeastern Colorado*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Hargett%20et%20al.%20Fournier%202026%20CO%20Black%20Rail%20Abundance.pdf) **Wildlife Society Bulletin** 50:e70021 doi:10.1002/wsb.70021
+
+Raudabaugh, DB, Villazan Perez-Girones S, Rivera, NA, Latif, T, London, EW, Pietrunti, NF, Brown, WM, Mateus-Pinilla, NE, **Fournier, AMV.** 2026 [*Variation in cloacal microbiota of Canada goose (Branta canadensis) across rural and urban areas in Illinois, USA*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Raudabaugh%20et%20al.%20Fournier%202026%20Frontiers%20in%20Microbiomes.pdf) **Frontiers in Microbiomes** doi:10.3389/frmbi.2026.1820309
 
 
 
