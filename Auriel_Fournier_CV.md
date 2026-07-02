@@ -410,7 +410,7 @@ Woodrey, MS, Cox, JA, Beilke, EA, **Fournier, AMV**, Johnson, EI, Kalasz, KS, Kr
 
 **Fournier, AMV,** Beilke, EA, Butler, C, Cheney, W, Cooper, RJ, Conway, W, Cox, JA, Deichmann, P, Dobbs, R, Enloe, C, Enwright, N, Evans, K, Faulhaber, C, Johnson, EI, Kross, CS, Lamb, B, Lancaster, J, LEvy, H, Lueck, J, Lyons, JE, Monopoli, L, Moon, J, Nyman, JA, Plsynski, J, Richardson, K, Rohli, RV, Schwarzer, A, Soehern, E, Stantial, M, Thurman, H, Vermillion, W, Wilson, J, Woodrey, MS. 2026. Firebird: Co-Production of Prescribed Fire Science in High Marsh, Lessons Learned and Next Directions. Gulf Conference. 
 
-Henson, S, `#` Koop, J, **Fournier, AMV,** Sedinger, B. 2026. The Sub-lethal Effects of Invasive Parasites on the Migratory Behavior of Lesser Scaup (Aythya affinis). Illinois Chapter of the Wildlife Society. 
+Herman, S, `#` Koop, J, **Fournier, AMV,** Sedinger, B. 2026. The Sub-lethal Effects of Invasive Parasites on the Migratory Behavior of Lesser Scaup (Aythya affinis). Illinois Chapter of the Wildlife Society. 
 
 **Fournier, AMV,** Novobilsky, J, Puchalsky, A, McCallie, J, Rowe, K, Roberts, CP. 2026. Co-producing King Rail Science – Working together across geographies and projects. Illinois Chapter of The Wildlife Society 
 
