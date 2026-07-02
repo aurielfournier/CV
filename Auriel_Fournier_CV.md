@@ -58,6 +58,7 @@ Hargett, EM `#`, Benson, TJ, Rossi, L, **Fournier, AMV** 2026 [*Abundance estima
 Raudabaugh, DB, Villazan Perez-Girones S, Rivera, NA, Latif, T, London, EW, Pietrunti, NF, Brown, WM, Mateus-Pinilla, NE, **Fournier, AMV.** 2026 [*Variation in cloacal microbiota of Canada goose (Branta canadensis) across rural and urban areas in Illinois, USA*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Raudabaugh%20et%20al.%20Fournier%202026%20Frontiers%20in%20Microbiomes.pdf) **Frontiers in Microbiomes** doi:10.3389/frmbi.2026.1820309
 
 
+\newpage 
 
 2025 
 
@@ -123,6 +124,8 @@ Stuber, EF, Robinson, O, Bjerre, E, Otto, Mk, Millsap, B, Zimmerman, G, Brasher,
 
 Klimas, ST `#`, Osborn, JM, Yetter, AP, Lancaster, JD, Jacques, CN, **Fournier, AMV,** Hagy, HM. 2022. [*Food selection by spring-migrating green-winged teal*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Klimas%20et%20al%20Fournier%202022%20JFWM.pdf) **Journal of Fish and Wildlife Management** 13(1):155–16 doi:10.3996/JFWM-21-075  
 
+\newpage
+
 2021
 
 **Fournier, AMV** 2021. [*Vagrancy Occurrences in Sora (Porzana Carolina)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier%202021%20Waterbirds.pdf) **Waterbirds** 44:539-543 doi:10.1675/063.044.0414 
@@ -161,6 +164,8 @@ Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A,
 Ward, S, **Fournier, AMV,** Bond, AL. 2019 [*Assessing gaps in reporting non-target mortality in island rodent eradication operations*](https://link.springer.com/article/10.1007%2Fs10530-019-02032-7) **Biological Invasions** 21:3101-3108 doi:10.1007/s10530-019-02032-7
 
 **Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. 2019 [*Precise direct tracking and remote sensing reveal the use of forest islands as roost sites by Purple Martins during migration*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2019-Journal_of_Field_Ornithology.pdf) **Journal of Field Ornithology** 90:258-265  doi:10.1111/jofo.12298
+
+\newpage
 
 2018
 
@@ -225,9 +230,11 @@ Yannuzzi, S, Beach, C, Kemink, K, **Fournier, AMV**, Ellis-Felege, S. 2023 [Fowl
 
 ## Current
 
-2025-2026 - Illinois Department of Natural Resources **PI** Illinois Waterfowl Investigations FY26 860k 
+2026-2029 - Carver Charitable Trust, **PI** Linking invasive snail population density to parasite infection risk for Lesser Scaup 138k
 
-2025-2026 Illinois Dept Natural Resources **Co-PI** Ecology of non-breeding waterfowl in the Wabash River region 100k  
+2026-2031 NOAA RESTORE Science, **PI**, Fire Effects in Coastal High Marshes: Microtopography, Management, and Monitoring of Mottled Ducks and Black Rails 5 million  
+
+2026-2027 - Illinois Department of Natural Resources **PI** Illinois Waterfowl Investigations FY27 860k 
 
 2023-2028 - NOAA RESTORE Science **Co-PI** Evaluating efficacy of stewardship actions for vulnerable Gulf of Mexico coastal birds through co-production between scientists and resource managers 60k
 
@@ -235,13 +242,17 @@ Yannuzzi, S, Beach, C, Kemink, K, **Fournier, AMV**, Ellis-Felege, S. 2023 [Fowl
 
 2023-2026 - The Nature Conservancy **PI** Monitoring of Key Attributes and Indicators of Waterbirds at The Nature Conservancy's Emiquon Preserve 320k
 
-2023-2026 - Illinois Department of Natural Resources **Co-PI** Evaluating the Impacts of Trematodiasis on Lesser Scaup Migration and Breeding Efforts 248k
+2023-2027 - Illinois Department of Natural Resources **Co-PI** Evaluating the Impacts of Trematodiasis on Lesser Scaup Migration and Breeding Efforts 248k
 
-2022-2027 - USDA NRCS *Condition of Natural Resource Conservation Service Wetland Easements in Illinois* 582k
+2022-2027 - USDA NRCS **PI** Condition of Natural Resource Conservation Service Wetland Easements in Illinois 582k
 
 2019-2026 NOAA RESTORE Science, **PI**, Fire Effects in Gulf of Mexico Tidal Marshes: Historical Perspectives, Management, and Monitoring of Mottled Ducks and Black Rails and Other High Marsh Birds 3.9 million  
 
 ## Completed
+
+2025-2026 - Illinois Department of Natural Resources **PI** Illinois Waterfowl Investigations FY26 860k 
+
+2025-2026 Illinois Dept Natural Resources **Co-PI** Ecology of non-breeding waterfowl in the Wabash River region 100k  
 
 2024-2025 - Illinois Department of Natural Resources **PI** Illinois Waterfowl Investigations FY25 560k 
 
@@ -425,6 +436,8 @@ Monfils, M, Pierce, R, Barnes, K, Bielke, S, **Fournier, AMV,** Giese, E, Gorby,
 **Fournier, AMV,** Cremer, C, Pietrunti, N, Avara, M, Bradshaw, T, Kross, C, Gilbert, A, Osborn, J, Ward, M. Sora and Virginia Rail Migratory Timing and Stopover Duration in the Illinois River Valley. Midwest Fish and Wildlife Conference 2025. 
 
 Blake-Bradshaw, A, Bradshaw, T, Gilbert, A, Osborn, J, Beilke, E, Kross, C, **Fournier, AMV.** Inter-specific differences in waterfowl response to hunting pressure and environmental conditions at an autumn stopover site. Midwest Fish and Wildlife Conference 2025. 
+
+\newpage
 
 2024  
 
@@ -752,6 +765,8 @@ Cheney, W, Enwright, N, Evans, K, Thurman, H, **Fournier, AMV,** Woodrey, MS. 20
 **Fournier, AMV**, Butler, C, Conway, W, Cooper, R, Cox, J, Enwright, N, Evans, K, Johnson, E, Lyons, J, Nyman, JA, Rohli, R, Woodrey, M. 2020 The effects of prescribed fire in Gulf of Mexico Marshes: on Mottled Ducks and Black and Yellow Rails. The Wildlife Society
 
 **Fournier, AMV**, Shieldcastle MC. 2020 The timing and abundance of hawk migration along the southern shore of Lake Erie over 15 years. The Wildlife Society  
+
+\newpage
 
 2019
 
