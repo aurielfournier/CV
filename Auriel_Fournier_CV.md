@@ -57,8 +57,7 @@ Hargett, EM `#`, Benson, TJ, Rossi, L, **Fournier, AMV** 2026 [*Abundance estima
 
 Raudabaugh, DB, Villazan Perez-Girones S, Rivera, NA, Latif, T, London, EW, Pietrunti, NF, Brown, WM, Mateus-Pinilla, NE, **Fournier, AMV.** 2026 [*Variation in cloacal microbiota of Canada goose (Branta canadensis) across rural and urban areas in Illinois, USA*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Raudabaugh%20et%20al.%20Fournier%202026%20Frontiers%20in%20Microbiomes.pdf) **Frontiers in Microbiomes** doi:10.3389/frmbi.2026.1820309
 
-
-\newpage 
+Fuller, JL, Michel, NL, Grimm, KE, Dayer, AA, Adams, EM, Darrah, AJ, **Fournier, AMV,** Gleason, JS, Grace, JK, Johnson, EI, Maness, TJ, Ottinger, MA, Saunders, SP, Taylor, CM, Zenzal Jr, TJ. 2026 [*Co-Producing Coastal Bird Research on the Gulf Coast through Structured Decision Making (SDM) and Constructed Value of Information (CVoI)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fuller_et_al%20Fournier-2026-Estuaries_and_Coasts.pdf) Estuaries and Coasts 49: 10.1007/s12237-026-01785-4
 
 2025 
 
@@ -123,8 +122,6 @@ Kitaif, JC `##`, Holiman, H `##`, **Fournier, AMV,** Iglay, RB, WOodrey, MS. 202
 Stuber, EF, Robinson, O, Bjerre, E, Otto, Mk, Millsap, B, Zimmerman, G, Brasher, MG, Ringelman, KM, **Fournier, AMV,** Yetter, A, Isola, JE, Ruiz-Gutierrez, V. 2022 [*The potential of semi-structured citizen science data as a supplement for conservation decision-making: Validating the performance of eBird against targeted avian monitoring efforts*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Stuber_et_al_Fournier%202022%20Biological%20Conservation.pdf) **Biological Conservation** doi:10.1016/j.biocon.2022.109556
 
 Klimas, ST `#`, Osborn, JM, Yetter, AP, Lancaster, JD, Jacques, CN, **Fournier, AMV,** Hagy, HM. 2022. [*Food selection by spring-migrating green-winged teal*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Klimas%20et%20al%20Fournier%202022%20JFWM.pdf) **Journal of Fish and Wildlife Management** 13(1):155–16 doi:10.3996/JFWM-21-075  
-
-\newpage
 
 2021
 
@@ -436,8 +433,6 @@ Monfils, M, Pierce, R, Barnes, K, Bielke, S, **Fournier, AMV,** Giese, E, Gorby,
 **Fournier, AMV,** Cremer, C, Pietrunti, N, Avara, M, Bradshaw, T, Kross, C, Gilbert, A, Osborn, J, Ward, M. Sora and Virginia Rail Migratory Timing and Stopover Duration in the Illinois River Valley. Midwest Fish and Wildlife Conference 2025. 
 
 Blake-Bradshaw, A, Bradshaw, T, Gilbert, A, Osborn, J, Beilke, E, Kross, C, **Fournier, AMV.** Inter-specific differences in waterfowl response to hunting pressure and environmental conditions at an autumn stopover site. Midwest Fish and Wildlife Conference 2025. 
-
-\newpage
 
 2024  
 
@@ -765,8 +760,6 @@ Cheney, W, Enwright, N, Evans, K, Thurman, H, **Fournier, AMV,** Woodrey, MS. 20
 **Fournier, AMV**, Butler, C, Conway, W, Cooper, R, Cox, J, Enwright, N, Evans, K, Johnson, E, Lyons, J, Nyman, JA, Rohli, R, Woodrey, M. 2020 The effects of prescribed fire in Gulf of Mexico Marshes: on Mottled Ducks and Black and Yellow Rails. The Wildlife Society
 
 **Fournier, AMV**, Shieldcastle MC. 2020 The timing and abundance of hawk migration along the southern shore of Lake Erie over 15 years. The Wildlife Society  
-
-\newpage
 
 2019
 
