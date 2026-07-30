@@ -41,7 +41,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-56 peer reviewed publications, 17 student led, 21 first author
+59 peer reviewed publications, 18 student led, 21 first author
 
 `#` graduate student 
 
@@ -58,6 +58,10 @@ Hargett, EM `#`, Benson, TJ, Rossi, L, **Fournier, AMV** 2026 [*Abundance estima
 Raudabaugh, DB, Villazan Perez-Girones S, Rivera, NA, Latif, T, London, EW, Pietrunti, NF, Brown, WM, Mateus-Pinilla, NE, **Fournier, AMV.** 2026 [*Variation in cloacal microbiota of Canada goose (Branta canadensis) across rural and urban areas in Illinois, USA*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Raudabaugh%20et%20al.%20Fournier%202026%20Frontiers%20in%20Microbiomes.pdf) **Frontiers in Microbiomes** doi:10.3389/frmbi.2026.1820309
 
 Fuller, JL, Michel, NL, Grimm, KE, Dayer, AA, Adams, EM, Darrah, AJ, **Fournier, AMV,** Gleason, JS, Grace, JK, Johnson, EI, Maness, TJ, Ottinger, MA, Saunders, SP, Taylor, CM, Zenzal Jr, TJ. 2026 [*Co-Producing Coastal Bird Research on the Gulf Coast through Structured Decision Making (SDM) and Constructed Value of Information (CVoI)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fuller_et_al%20Fournier-2026-Estuaries_and_Coasts.pdf) Estuaries and Coasts 49: 10.1007/s12237-026-01785-4
+
+Novobilsky, J `#`, Roberts, CP, McCallie, J, Rowe, K, **Fournier, AMV** Accepted *Migratory behavior of King Rails in southeast Arkansas* Avian Conservation and Ecology
+
+Bradshaw, TM, Beilke, EA, Blake-Bradshaw, AG, Osborn, JM, Hagy, HM, Lancaster, JD, Williams, M, **Fournier, AMV** Accepted. *True metabolizable energy of moist-soil seeds varies among dabbling duck species* Wildlife Society Bulletin
 
 2025 
 
@@ -161,8 +165,6 @@ Drymon, JM, Feldheim, K, **Fournier, AMV,** Seubert, E, Jefferson, A, Kroetz, A,
 Ward, S, **Fournier, AMV,** Bond, AL. 2019 [*Assessing gaps in reporting non-target mortality in island rodent eradication operations*](https://link.springer.com/article/10.1007%2Fs10530-019-02032-7) **Biological Invasions** 21:3101-3108 doi:10.1007/s10530-019-02032-7
 
 **Fournier, AMV,** Shave, A, Fischer, J, Siegrist, J, Ray, J, Chesky, T, MacIntosh, M, Fraser, K. 2019 [*Precise direct tracking and remote sensing reveal the use of forest islands as roost sites by Purple Martins during migration*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fournier_et_al-2019-Journal_of_Field_Ornithology.pdf) **Journal of Field Ornithology** 90:258-265  doi:10.1111/jofo.12298
-
-\newpage
 
 2018
 
@@ -804,22 +806,23 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 
 # Student Committees
   
-2021-Present (Co-Adviser) Lauren Monopoli, PhD Candidate, University of Illinois Urbana Champaign     
-2024-Present (Co-Adviser) Scott Herman, PhD Student, Northern Illinois University    
+2026-Present (Co-Adviser) Scott Herman, PhD Student, Northern Illinois University    
 2025-Present (Co-Adviser) Anne Puchalsky, MS Student, University of Arkansas  
 2025-Present Jasmine Weber-Pierson, PhD Student, Southern Illinois University    
-2021-Present Anastasia Rahlin, PhD Candidate, University of Illinois Urbana Champaign      
-2022-2024 (Co-Adviser) Nora Hargett, MS Student, University of Illinois Urbana Champaign     
-2022-2024 (Co-Adviser) Jessica Schmit, MS Student, University of Arkansas Fayetteville  
-2021-2024 (Co-Adviser) Chad Cremer, MS Student, University of Illinois Urbana Champaign      
-2022-2023 Haley Holiman, MS Student, Tennessee Tech University  
-2021-2023 Samantha Garcia, MS Student, University of Illinois Urbana Champaign     
-2020-2023 Susannah Halligan, MS Student, SUNY ESF  
-2019-2023 Dustin Brewer, PhD Student, Central Michigan University   
-2020-2022 (Co-Adviser) Stephanie Schmidt, MS Student, University of Illinois Urbana Champaign  
-2020-2021 (Co-Adviser) Lauren Larson, MS Student, Western Illinois University    
-2020-2021 (Co-Adviser) Cheyenne Beach, MS Student, Western Illinois University    
-2017-2019 Erin Lehnert, MS Student, University of Central Oklahoma     
+2021-Present Anastasia Rahlin, PhD Candidate, University of Illinois Urbana Champaign        
+2021-2026 (Co-Adviser) Lauren Monopoli, PhD, University of Illinois Urbana Champaign    
+2024-2026 (Co-Adviser) Scott Herman, MS, Northern Illinois University  
+2022-2024 (Co-Adviser) Nora Hargett, MS, University of Illinois Urbana Champaign     
+2022-2024 (Co-Adviser) Jessica Schmit, MS, University of Arkansas Fayetteville  
+2021-2024 (Co-Adviser) Chad Cremer, MS, University of Illinois Urbana Champaign      
+2022-2023 Haley Holiman, MS, Tennessee Tech University  
+2021-2023 Samantha Garcia, MS, University of Illinois Urbana Champaign     
+2020-2023 Susannah Halligan, MS, SUNY ESF  
+2019-2023 Dustin Brewer, PhD, Central Michigan University   
+2020-2022 (Co-Adviser) Stephanie Schmidt, MS, University of Illinois Urbana Champaign  
+2020-2021 (Co-Adviser) Lauren Larson, MS, Western Illinois University    
+2020-2021 (Co-Adviser) Cheyenne Beach, MS, Western Illinois University    
+2017-2019 Erin Lehnert, MS, University of Central Oklahoma     
    
 
 # Service 
