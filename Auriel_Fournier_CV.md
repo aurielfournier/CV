@@ -36,7 +36,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 **President** Wilson Ornithological Society 2025-Present
 
-**Technical Committee Co-Chair** Upper Mississippi River Great Lakes Joint Venture
+**Science Team Co-Chair** Upper Mississippi River Great Lakes Joint Venture
 
 
 # __Peer-Reviewed Publications__  
@@ -306,6 +306,7 @@ Holiman, H, Kitaif, J.C., **Fournier, A.M.V.** Iglay, R., Woodrey, M.S. 2022. Es
 
 # Honors 
 
+2026 **Fellow** American Ornithological Society   
 2022 **Early Career Investigator Award** Prairie Research Institute, U Illinois Urbana Champaign   
 2021 [**Certified Wildlife Biologist**](https://wildlife.org/learn/professional-development-certification/certification-programs/) The Wildlife Society  
 2021  [**USFWS Regional Director's Honor Award for Conservation Partner**](https://www.fws.gov/southeast/regional-director-honor-awards-2021/)  
@@ -321,6 +322,9 @@ Holiman, H, Kitaif, J.C., **Fournier, A.M.V.** Iglay, R., Woodrey, M.S. 2022. Es
 
 # Invited Presentations
 
+2026
+
+**Invited Talk** The Biggest Week in American Birding Festival  
 
 2025  
 
@@ -328,7 +332,6 @@ Holiman, H, Kitaif, J.C., **Fournier, A.M.V.** Iglay, R., Woodrey, M.S. 2022. Es
 **Seminar** University of Wisconsin Stevens Point  
 **Invited Talk** The Biggest Week in American Birding Festival  
 
-  
 2024  
 **Invited Talk** Havana Spark Museum Exhibit  
 **Invited Talk** The Wetlands Initiative Board Meeting
@@ -834,15 +837,13 @@ Kitaif, C. `##`, Holiman, H. `##`, **Fournier, AMV,** Iglay, RB, Woodrey, MS. 20
 2014 **Volunteer** The Wildlife Society National Conference, Pittsburgh, PA 
 --->
 
-
-2019-Present **Subject Editor** Avian Conservation & Ecology  
-2019-Present **Waterfowl Committee** Upper Miss/Great Lakes Joint Venture      
-2019-Present **Waterbirds Committee** Upper Miss/Great Lakes Joint Venture      
-2017-Present **Gulf of Mexico Avian Monitoring Network (GoMAMN) Coordination Committee**    
-2016-Present **Research Committee** Black Swamp Bird Observatory            
-2023-2025 **Past Chair** Gulf of Mexico Avian Monitoring Network      
-2023-2025 **First Vice President** Wilson Ornithological Society   
-2024 - **Leadership Institute Mentor** The Wildlife Society  
+2025-Present **Co-Chair** Webless Committee - Mississippi Flyway Game Bird Technical Section  
+2025-Present **Co-Chair** Research Committee - Mississippi Flyway Game Bird Technical Section  
+2019-Present **Subject Editor** Avian Conservation & Ecology    
+2017-Present **Gulf of Mexico Avian Monitoring Network (GoMAMN) Coordination Committee**      
+2023-2025 **Past Chair** Gulf of Mexico Avian Monitoring Network        
+2023-2025 **First Vice President** Wilson Ornithological Society     
+2024 - **Leadership Institute Mentor** The Wildlife Society    
 2024 - **Ask a Decision Analyst Session Coach** The Wildlife Society    
 2024 - **Student Travel Award Chair** 9th North American Duck Symposium  
 2024 - **Student Presentation Judge Chair** 9th North American Duck Symposium  
