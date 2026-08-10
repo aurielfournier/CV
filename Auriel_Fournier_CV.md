@@ -41,7 +41,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-59 peer reviewed publications, 18 student led, 21 first author
+60 peer reviewed publications, 18 student led, 21 first author
 
 `#` graduate student 
 
@@ -61,7 +61,9 @@ Fuller, JL, Michel, NL, Grimm, KE, Dayer, AA, Adams, EM, Darrah, AJ, **Fournier,
 
 Novobilsky, J `#`, Roberts, CP, McCallie, J, Rowe, K, **Fournier, AMV** Accepted *Migratory behavior of King Rails in southeast Arkansas* Avian Conservation and Ecology
 
-Bradshaw, TM, Beilke, EA, Blake-Bradshaw, AG, Osborn, JM, Hagy, HM, Lancaster, JD, Williams, M, **Fournier, AMV** Accepted. *True metabolizable energy of moist-soil seeds varies among dabbling duck species* Wildlife Society Bulletin
+Bradshaw, TM, Beilke, EA, Blake-Bradshaw, AG, Osborn, JM, Hagy, HM, Lancaster, JD, Williams, M, **Fournier, AMV** Accepted. *True metabolizable energy of moist-soil seeds varies among dabbling duck species* Wildlife Society Bulletin  
+
+Beilke, EA, Adams, P, Butler, MJ, Conway, WC, Cox, JA, Johnson, EI, Levy, HE, Lueck, JT, Moon, JA, Woodrey, MS, **Fournier, AMV.** Accepted. *Vegetation structure, not composition, predicts breeding Black Rail occupancy in coastal marshes* Ornithological Applications
 
 2025 
 
