@@ -59,7 +59,7 @@ Raudabaugh, DB, Villazan Perez-Girones S, Rivera, NA, Latif, T, London, EW, Piet
 
 Fuller, JL, Michel, NL, Grimm, KE, Dayer, AA, Adams, EM, Darrah, AJ, **Fournier, AMV,** Gleason, JS, Grace, JK, Johnson, EI, Maness, TJ, Ottinger, MA, Saunders, SP, Taylor, CM, Zenzal Jr, TJ. 2026 [*Co-Producing Coastal Bird Research on the Gulf Coast through Structured Decision Making (SDM) and Constructed Value of Information (CVoI)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fuller_et_al%20Fournier-2026-Estuaries_and_Coasts.pdf) Estuaries and Coasts 49: 10.1007/s12237-026-01785-4
 
-Novobilsky, J `#`, Roberts, CP, McCallie, J, Rowe, K, **Fournier, AMV** Accepted *Migratory behavior of King Rails in southeast Arkansas* Avian Conservation and Ecology
+Novobilsky, J `#`, Roberts, CP, McCallie, J, Rowe, K, **Fournier, AMV** 2026 [*Migratory behavior of King Rails in southeast Arkansas*](https://ace-eco.org/vol21/iss2/art9/) Avian Conservation and Ecology 21:10.5751/ACE-03134-210209
 
 Bradshaw, TM, Beilke, EA, Blake-Bradshaw, AG, Osborn, JM, Hagy, HM, Lancaster, JD, Williams, M, **Fournier, AMV** Accepted. *True metabolizable energy of moist-soil seeds varies among dabbling duck species* Wildlife Society Bulletin  
 
