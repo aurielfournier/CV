@@ -41,7 +41,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-60 peer reviewed publications, 18 student led, 21 first author
+61 peer reviewed publications, 20 student led, 21 first author
 
 `#` graduate student 
 
@@ -57,13 +57,16 @@ Hargett, EM `#`, Benson, TJ, Rossi, L, **Fournier, AMV** 2026 [*Abundance estima
 
 Raudabaugh, DB, Villazan Perez-Girones S, Rivera, NA, Latif, T, London, EW, Pietrunti, NF, Brown, WM, Mateus-Pinilla, NE, **Fournier, AMV.** 2026 [*Variation in cloacal microbiota of Canada goose (Branta canadensis) across rural and urban areas in Illinois, USA*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Raudabaugh%20et%20al.%20Fournier%202026%20Frontiers%20in%20Microbiomes.pdf) **Frontiers in Microbiomes** doi:10.3389/frmbi.2026.1820309
 
-Fuller, JL, Michel, NL, Grimm, KE, Dayer, AA, Adams, EM, Darrah, AJ, **Fournier, AMV,** Gleason, JS, Grace, JK, Johnson, EI, Maness, TJ, Ottinger, MA, Saunders, SP, Taylor, CM, Zenzal Jr, TJ. 2026 [*Co-Producing Coastal Bird Research on the Gulf Coast through Structured Decision Making (SDM) and Constructed Value of Information (CVoI)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fuller_et_al%20Fournier-2026-Estuaries_and_Coasts.pdf) Estuaries and Coasts 49: 10.1007/s12237-026-01785-4
+Fuller, JL, Michel, NL, Grimm, KE, Dayer, AA, Adams, EM, Darrah, AJ, **Fournier, AMV,** Gleason, JS, Grace, JK, Johnson, EI, Maness, TJ, Ottinger, MA, Saunders, SP, Taylor, CM, Zenzal Jr, TJ. 2026 [*Co-Producing Coastal Bird Research on the Gulf Coast through Structured Decision Making (SDM) and Constructed Value of Information (CVoI)*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Fuller_et_al%20Fournier-2026-Estuaries_and_Coasts.pdf) **Estuaries and Coasts** 49: 10.1007/s12237-026-01785-4
 
-Novobilsky, J `#`, Roberts, CP, McCallie, J, Rowe, K, **Fournier, AMV** 2026 [*Migratory behavior of King Rails in southeast Arkansas*](https://ace-eco.org/vol21/iss2/art9/) Avian Conservation and Ecology 21:10.5751/ACE-03134-210209
+Novobilsky, J `#`, Roberts, CP, McCallie, J, Rowe, K, **Fournier, AMV** 2026 [*Migratory behavior of King Rails in southeast Arkansas*](https://ace-eco.org/vol21/iss2/art9/) **Avian Conservation and Ecology** 21:10.5751/ACE-03134-210209
 
-Bradshaw, TM, Beilke, EA, Blake-Bradshaw, AG, Osborn, JM, Hagy, HM, Lancaster, JD, Williams, M, **Fournier, AMV** Accepted. *True metabolizable energy of moist-soil seeds varies among dabbling duck species* Wildlife Society Bulletin  
+Bradshaw, TM, Beilke, EA, Blake-Bradshaw, AG, Osborn, JM, Hagy, HM, Lancaster, JD, Williams, M, **Fournier, AMV** Accepted. *True metabolizable energy of moist-soil seeds varies among dabbling duck species* **Wildlife Society Bulletin**  
 
-Beilke, EA, Adams, P, Butler, MJ, Conway, WC, Cox, JA, Johnson, EI, Levy, HE, Lueck, JT, Moon, JA, Woodrey, MS, **Fournier, AMV.** Accepted. *Vegetation structure, not composition, predicts breeding Black Rail occupancy in coastal marshes* Ornithological Applications
+Beilke, EA, Adams, P, Butler, MJ, Conway, WC, Cox, JA, Johnson, EI, Levy, HE, Lueck, JT, Moon, JA, Woodrey, MS, **Fournier, AMV.** Accepted. *Vegetation structure, not composition, predicts breeding Black Rail occupancy in coastal marshes* **Ornithological Applications**  
+
+Holiman, H, Keever, A, **Fournier, AMV,** Hanni, J, Cohen, BS. Accepted. *Integrating passive acoustic monitoring and point counts to assess occupancy of secretive marsh birds in Tennessee* **Journal of Wildlife Management**
+
 
 2025 
 
