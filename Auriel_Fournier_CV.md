@@ -61,12 +61,11 @@ Fuller, JL, Michel, NL, Grimm, KE, Dayer, AA, Adams, EM, Darrah, AJ, **Fournier,
 
 Novobilsky, J `#`, Roberts, CP, McCallie, J, Rowe, K, **Fournier, AMV** 2026 [*Migratory behavior of King Rails in southeast Arkansas*](https://ace-eco.org/vol21/iss2/art9/) **Avian Conservation and Ecology** 21:10.5751/ACE-03134-210209
 
+Holiman, H, Keever, A, **Fournier, AMV,** Blake-Bradshaw, AG, Hanni, DJ, Cohen, BS. 2026. [*Integrating passive acoustic monitoring and point counts to assess occupancy of secretive marsh birds in Tennessee*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Holiman%20et%20al.%20Fournier%202026%20J%20Wildl%20Manag%20-%202026%20-%20Holiman%20-%20Integrating%20passive%20acoustic%20monitoring%20and%20point%20counts%20to%20assess%20occupancy%20of%20secretive.pdf) **Journal of Wildlife Management** doi:10.1002/jwmg.70299
+
 Bradshaw, TM, Beilke, EA, Blake-Bradshaw, AG, Osborn, JM, Hagy, HM, Lancaster, JD, Williams, M, **Fournier, AMV** Accepted. *True metabolizable energy of moist-soil seeds varies among dabbling duck species* **Wildlife Society Bulletin**  
 
 Beilke, EA, Adams, P, Butler, MJ, Conway, WC, Cox, JA, Johnson, EI, Levy, HE, Lueck, JT, Moon, JA, Woodrey, MS, **Fournier, AMV.** Accepted. *Vegetation structure, not composition, predicts breeding Black Rail occupancy in coastal marshes* **Ornithological Applications**  
-
-Holiman, H, Keever, A, **Fournier, AMV,** Hanni, J, Cohen, BS. Accepted. *Integrating passive acoustic monitoring and point counts to assess occupancy of secretive marsh birds in Tennessee* **Journal of Wildlife Management**
-
 
 2025 
 
