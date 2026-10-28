@@ -73,6 +73,8 @@ Halligan, SL `#`, Schummer, ML, **Fournier, AMV,** Kraemer, J, Kaminski, M, Davi
 
 Lamb, BD, Levy, HE, Beilke, EA, Kross, CS, Kappes, PJ, Sukkienik, MJ, Cox, JA, Wilson, JK, Woodrow, JO, Butler, MJ, Zenzal, TJ, **Fournier, AMV,** Woodrey, MS. 2025 [*Variation in Detection Distance of Eastern Black Rail (Laterallus jamaicensis jamaicensis) Vocalizations by Autonomous Recording Units*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Lamb%20et%20al%20Fournier%202025%20Waterbirds.pdf) **Waterbirds** 48:1-13
 
+> Louisiana Association of Professional Biologists Best Paper of 2025
+
 Roberts, C.P., J. Novobilsky, P. Akpejeluh, L.L. Berry, M.J. Budd, M.C. Ferrara, L.A.P. LaBrie, L. Luther, V. Karki, D. Krementz, K. Rowe, M. Shaw, K. Wilson, and **A.M.V. Fournier.** 2025. [*Rallus elegans (king Rail) occupancy is stable, but habitat is in short supply in the Arkansas Delta*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Roberts%20et%20al.%20Fournier%202025%20Ornithological%20Applications.pdf) **Ornithological Applications** duaf061.
 
 Beach, CR `#`, Jacques, CN, Lancaster, JD, Cole, RA, Hagy, HM, **Fournier, AMV** 2025 [*Selenium levels in lesser scaup (Aythya affinis) experimentally infected with Cyathocotyle bushiensis and Sphaeridiotrema spp *](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Beach%20et%20al%20Fournier%202025%20ACE%20ECO%20Scaup%20Heavy%20Metals.pdf) **Avian Conservation and Ecology** 20:9 doi:10.5751/ACE-02939-200209
