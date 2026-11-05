@@ -65,8 +65,8 @@ Holiman, H `#`, Keever, A, **Fournier, AMV,** Blake-Bradshaw, AG, Hanni, DJ, Coh
 
 Bradshaw, TM, Beilke, EA, Blake‐Bradshaw, AG, Osborn, JM, Hagy, HM, Lancaster, JD, Williams, M, **Fournier, AMV.** 2026. [*True metabolizable energy of moist‐soil seeds among dabbling duck species*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Bradshaw%20et%20al.%202026%20WSB%20-%20TME.pdf) **Wildlife Society Bulletin** e70072. 10.1002/wsb.70072
   
-  
-Beilke, EA, Adams, P, Butler, MJ, Conway, WC, Cox, JA, Johnson, EI, Levy, HE, Lueck, JT, Moon, JA, Woodrey, MS, **Fournier, AMV.** Accepted. *Vegetation structure, not composition, predicts breeding Black Rail occupancy in coastal marshes* **Ornithological Applications**  
+
+Beilke, EA, Adams, P, Butler, MJ, Conway, WC, Cox, JA, Johnson, EI, Levy, HE, Lueck, JT, Moon, JA, Woodrey, MS, **Fournier, AMV.** 2026. [*Vegetation structure, not composition, predicts breeding Black Rail occupancy in coastal marshes*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Beilke%20et%20al.%202026%20Ornithological%20Apps%20-%20Black%20Rail%20Occupancy.pdf) **Ornithological Applications** duag089 10.1093/ornithapp/duag089
 
 Halligan, SL `#`, Schummer, ML, **Fournier, AMV,** Kraemer, J, Kaminski, M, Davis, JB, Downs, CJ, Lavretsky, P. Accepted. *Comparisons of Food Intake Rate Between Wild and Game-farm Mallards from North America* **Ecology and Evolution**
 
