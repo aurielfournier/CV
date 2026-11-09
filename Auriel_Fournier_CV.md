@@ -41,7 +41,7 @@ Dr. Mark Woodrey and Dr. Jim Lyons, Supervisors
 
 # __Peer-Reviewed Publications__  
 
-62 peer reviewed publications, 20 student led, 21 first author
+63 peer reviewed publications, 21 student led, 21 first author
 
 `#` graduate student 
 
@@ -69,6 +69,8 @@ Bradshaw, TM, Beilke, EA, Blake‐Bradshaw, AG, Osborn, JM, Hagy, HM, Lancaster,
 Beilke, EA, Adams, P, Butler, MJ, Conway, WC, Cox, JA, Johnson, EI, Levy, HE, Lueck, JT, Moon, JA, Woodrey, MS, **Fournier, AMV.** 2026. [*Vegetation structure, not composition, predicts breeding Black Rail occupancy in coastal marshes*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Beilke%20et%20al.%202026%20Ornithological%20Apps%20-%20Black%20Rail%20Occupancy.pdf) **Ornithological Applications** duag089 10.1093/ornithapp/duag089
 
 Halligan, SL `#`, Schummer, ML, **Fournier, AMV,** Kraemer, J, Kaminski, M, Davis, JB, Downs, CJ, Lavretsky, P. Accepted. *Comparisons of Food Intake Rate Between Wild and Game-farm Mallards from North America* **Ecology and Evolution**
+
+Novobilsky, J `#`, Roberts, CP, Rowe, K, **Fournier, AMV.** Accepted. *Vegetation structure characteristics influencing King Rail (Rallus elegans) nest site microhabitat selection in southeastern Arkansas* **Waterbirds**
 
 2025 
 
