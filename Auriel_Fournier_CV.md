@@ -68,7 +68,7 @@ Bradshaw, TM, Beilke, EA, Blake‐Bradshaw, AG, Osborn, JM, Hagy, HM, Lancaster,
 
 Beilke, EA, Adams, P, Butler, MJ, Conway, WC, Cox, JA, Johnson, EI, Levy, HE, Lueck, JT, Moon, JA, Woodrey, MS, **Fournier, AMV.** 2026. [*Structurally complex marshes support breeding Laterallus jamaicensis jamaicensis (Eastern Black Rail) occupancy*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Beilke%20et%20al.%202026%20Ornithological%20Apps%20-%20Black%20Rail%20Occupancy.pdf) **Ornithological Applications** duag089 10.1093/ornithapp/duag089
 
-Halligan, SL `#`, Schummer, ML, **Fournier, AMV,** Kraemer, J, Kaminski, M, Davis, JB, Downs, CJ, Lavretsky, P. Accepted. *Comparisons of Food Intake Rate Between Wild and Game-farm Mallards from North America* **Ecology and Evolution**
+Halligan, SL `#`, Schummer, ML, **Fournier, AMV,** Kraemer, J, Kaminski, M, Davis, JB, Downs, CJ, Lavretsky, P. 2026. [*Comparisons of Food Intake Rate Between Wild and Game-farm Mallards from North America*](https://github.com/aurielfournier/aurielfournier.github.io/blob/master/_pdfs/Halligan%20et%20al%20Fournier%202026%20Ecology%20and%20Evolution%20-%202026%20-%20Halligan%20-%20Comparisons%20of%20Food%20Intake%20Rate%20Between%20Wild%20and%20Game%E2%80%90Farm%20Mallards%20From%20North.pdf) **Ecology and Evolution** 16:e74646 doi: 10.1002/ece3.74646
 
 Novobilsky, J `#`, Roberts, CP, Rowe, K, **Fournier, AMV.** Accepted. *Vegetation structure characteristics influencing King Rail (Rallus elegans) nest site microhabitat selection in southeastern Arkansas* **Waterbirds**
 
@@ -427,6 +427,12 @@ Herman, S, `#` Koop, J, **Fournier, AMV,** Sedinger, B. 2026. The Sub-lethal Eff
 
 **Fournier, AMV,** Novobilsky, J, Puchalsky, A, McCallie, J, Rowe, K, Roberts, CP. 2026. Co-producing King Rail Science – Working together across geographies and projects. Illinois Chapter of The Wildlife Society 
 
+**Fournier, AMV,** Novobilsky, J, Puchalsky, A, McCallie, J, Rowe, K, Roberts, CP. 2026. Co-producing King Rail Science – Working together across geographies and projects. Joint Meeting of the Association of Field Ornithologists and Wilson Ornithological Society
+
+Fournier, AMV, Cox, JA, Beilke, EA, Johnson, EI, Kalasz, KS, Kross, CS, Lamb, BD, Lancaster, JD, Levy, HE, Monopoli, LF, Nyman, JA, Wilson, JK, Woodrey, MS. 2026. Burning For Birds: A Manual for the Application of Prescribed Fire in High Marshes of the Northern Gulf Coast. The Wildlife Society Annual Conference.
+
+Herman, S `#`, Blake-Bradshaw, AG, Osborn, JM, Koop, J, **Fournier, AMV.** 2026. The Sub-lethal Effects of Trematode Parasites on the Migratory Behavior of Lesser Scaup. The Wildlife Society Annual Conference
+
 
 2025
 
@@ -716,7 +722,9 @@ Heard, S, **Fournier, AMV,** Branch, T, Skelly, D. 2017 Why most studied populat
 
 Beilke, EA, Askren, R, Sharp, C, Ward, M, Blake-Bradshaw, A, Bradshaw, T, Gilbert, A, Osborn, J, **Fournier, AMV.** 2026. Impacts of nest removal and failure on Canada Goose molt migration and mortality. Illinois Chapter of the Wildlife Society. 
 
-Gilbert, AD, Osborn, JM, Hine, CS, **Fournier, AMV.** Nesting Ecology of Secretive Marshbirds at Emiquon Preserve. Illinois Chapter of the Wildlife Society. 
+Gilbert, AD, Osborn, JM, Hine, CS, **Fournier, AMV.** Nesting Ecology of Secretive Marshbirds at Emiquon Preserve. Illinois Chapter of the Wildlife Society.    
+
+Puchalsky, A `#`, **Fournier, AMV,** Roberts, C. 2026. Exploring Nest Success and Movement Patterns of King Rail in Southeastern Arkansas.  The Wildlife Society Annual Conference.
 
 2025
 
